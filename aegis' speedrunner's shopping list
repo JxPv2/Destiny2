@@ -7,7 +7,7 @@ description: Based on Aegis' Speedrunner's Shopping List (updated 2024-04-30). h
 
 // Gjallarhorn
 //notes:Aegis: "Purpose: Tracking splash damage, Granting Wolfpack rounds| Usage: Universal
-#N/A
+dimwishlist:item=1363886209&perks=
 
 // Path of Least Resistance
 //notes:Aegis: "Purpose: Avoiding primary swaps, Special single shot add clear, Shooting bricks| Usage: Universal
@@ -15,7 +15,7 @@ description: Based on Aegis' Speedrunner's Shopping List (updated 2024-04-30). h
 
 // The Mountaintop
 //notes:Aegis: "Purpose: Boosting glide height, Dying quickly| Usage: Universal
-#N/A
+dimwishlist:item=3993415705&perks=
 
 // The Supremacy
 //notes:Aegis: "Purpose: Quick ranged hitscan kills, Augmenting boss damage| Usage: Universal
@@ -23,7 +23,7 @@ description: Based on Aegis' Speedrunner's Shopping List (updated 2024-04-30). h
 
 // Anarchy
 //notes:Aegis: "Purpose: Trapping spawns| Usage: VoG, DSC
-#N/A
+dimwishlist:item=2376481550&perks=
 
 // Cold Comfort
 //notes:Aegis: "Purpose: Burst splash damage| Usage: Universal
@@ -103,7 +103,7 @@ dimwishlist:item=1911060537&perks=1840239774,2680121939,3400784728,1771339417#no
 
 // Thunderlord
 //notes:Aegis: "Purpose: Hitscan splash add clear| Usage: Universal
-#N/A
+dimwishlist:item=3325463374&perks=
 
 // 
 //notes:Aegis: "Purpose: | Usage: 
