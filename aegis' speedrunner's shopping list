@@ -4,3 +4,103 @@ description: Based on Aegis' Speedrunner's Shopping List (updated 2024-04-30). -
 // Apex Predator
 //notes:Aegis: "Purpose: Burst splash damage. Usage: Universal" | tags: speedrun
 dimwishlist:item=1851777734&perks=3525010810,3796465595,1523832109,3078487919,1439600632,3708227201
+
+// Gjallarhorn
+//notes:Aegis: "Purpose: Tracking splash damage, Granting Wolfpack rounds. Usage: Universal" | tags: speedrun
+dimwishlist:item=1363886209&perks=
+
+// Path of Least Resistance
+//notes:Aegis: "Purpose: Avoiding primary swaps, Special single shot add clear, Shooting bricks. Usage: Universal" | tags: speedrun
+dimwishlist:item=2827764482&perks=1840239774,2749775325,3700496672,2173046394,438098033
+
+// The Mountaintop
+//notes:Aegis: "Purpose: Boosting glide height, Dying quickly. Usage: Universal" | tags: speedrun
+dimwishlist:item=3993415705&perks=
+
+// The Supremacy
+//notes:Aegis: "Purpose: Quick ranged hitscan kills, Augmenting boss damage. Usage: Universal" | tags: speedrun
+dimwishlist:item=2884596447&perks=1840239774,1087426260,1968497646,3418782618,957782887,1556840489,3978468247,3891536761,3078487919,1354429876
+
+// Anarchy
+//notes:Aegis: "Purpose: Trapping spawns. Usage: VoG, DSC" | tags: speedrun
+dimwishlist:item=2376481550&perks=
+
+// Cold Comfort
+//notes:Aegis: "Purpose: Burst splash damage. Usage: Universal" | tags: speedrun
+dimwishlist:item=839786290&perks=3525010810,3796465595,968510818,3078487919
+
+// Distant Tumulus
+//notes:Aegis: "Purpose: Quick ranged hitscan kills, Breaking eyes. Usage: GoS, SotW" | tags: speedrun
+dimwishlist:item=2807687156&perks=1840239774,106909392,2284787283,1771339417
+
+// Half-Truths
+//notes:Aegis: "Purpose: Movement. Usage: Universal" | tags: speedrun
+dimwishlist:item=3257091166&perks=1261178282,3666208348,2349202967,269888150,3705817207,2590710093,2077819806
+
+// Indebted Kindness
+//notes:Aegis: "Purpose: Avoiding primary swaps, Ammo efficient fast add clear. Usage: Universal" | tags: speedrun
+dimwishlist:item=3381450498&perks=3525010810,106909392,951095735,1556840489,3708227201,2173046394
+
+// Retrofuturist
+//notes:Aegis: "Purpose: Double pellet. Usage: Universal" | tags: speedrun
+dimwishlist:item=1612781792&perks=1300023272,791862061,1821614984,3300816228,4104185692,1546637391
+
+// Succession
+//notes:Aegis: "Purpose: Quick ranged hitscan kills, Death Throes stacking. Usage: Universal" | tags: speedrun
+dimwishlist:item=2990047042&perks=1840239774,2420895100,106909392,1523832109,3523296417,1546637391,957782887,469285294,1774574192
+
+// Until Its Return
+//notes:Aegis: "Purpose: Burst single target damage. Usage: Universal" | tags: speedrun
+dimwishlist:item=2883484461&perks=1300023272,106909392,3643424744,3300816228,3708227201,3751912585
+
+// Xenoclast IV
+//notes:Aegis: "Purpose: One-two punch, Pellet swapping. Usage: Universal" | tags: speedrun
+dimwishlist:item=2891672170&perks=1300023272,106909392,1631667848,1556840489,3300816228,2869569095,2679249093,1546637391
+
+// Defiance of Yasmin
+//notes:Aegis: "Purpose: Shoot to loot kinetic, Augmenting damage. Usage: Universal" | tags: speedrun
+dimwishlist:item=3228096719&perks=1840239774,2420895100,3700496672,2621346526,1556840489,1821614984,1771339417
+
+// Lingering Dread
+//notes:Aegis: "Purpose: Blinding enemies, Chill Clip application. Usage: Universal" | tags: speedrun
+dimwishlist:item=2026087437&perks=3525010810,3032599245,3300816228,2978966579
+
+// Sojourner's Tale
+//notes:Aegis: "Purpose: Double slug. Usage: Universal" | tags: speedrun
+dimwishlist:item=599895591&perks=1840239774,791862061,3300816228,4104185692,3708227201
+
+// Briar's Contempt
+//notes:Aegis: "Purpose: Specialized sustained damage. Usage: Universal" | tags: speedrun
+dimwishlist:item=1491665733&perks=1840239774,689005463,3418782618,3708227201
+
+// Commemoration
+//notes:Aegis: "Purpose: General add clear. Usage: Universal" | tags: speedrun
+dimwishlist:item=4230965989&perks=1840239774,2420895100,1523832109,1820235745,557221067,3425386926
+
+// Funnelweb
+//notes:Aegis: "Purpose: General primary. Usage: Universal" | tags: speedrun
+dimwishlist:item=3341893443&perks=1840239774,3230963543,1820235745,509074078,1428297954,4104185692
+
+// Hollow Denial
+//notes:Aegis: "Purpose: Avoiding primary swaps, Special single shot add clear. Usage: Universal" | tags: speedrun
+dimwishlist:item=2323544076&perks=1840239774,2749775325,1556840489,776531651,3592538738
+
+// IKELOS_SR_V1.0.3
+//notes:Aegis: "Purpose: Quick ranged hitscan kills, Breaking eyes. Usage: GoS, SotW" | tags: speedrun
+dimwishlist:item=2302346155&perks=1840239774,106909392,1354429876,3643424744,2213355989,1821614984
+
+// No Reprieve
+//notes:Aegis: "Purpose: Double slug. Usage: Last Wish, Spire of the Watcher" | tags: speedrun
+dimwishlist:item=2531963421&perks=1840239774,791862061,3400784728,3708227201
+
+// Red Herring
+//notes:Aegis: "Purpose: Burst splash damage. Usage: GMs" | tags: speedrun
+dimwishlist:item=3175851496&perks=3525010810,3796465595,2869569095,4104185692
+
+// Taipan-4fr
+//notes:Aegis: "Purpose: Ranged sustained damage. Usage: Universal" | tags: speedrun
+dimwishlist:item=1911060537&perks=1840239774,2680121939,3400784728,1771339417
+
+// Thunderlord
+//notes:Aegis: "Purpose: Hitscan splash add clear. Usage: Universal" | tags: speedrun
+dimwishlist:item=3325463374&perks=
