@@ -5,6 +5,10 @@ description: Based on Aegis' Speedrunner's Shopping List (updated 2024-04-30).  
 //notes:[Aegis' Speedrunner's Shopping List] "Purpose: Burst splash damage. Usage: Universal" | tags: speedrun
 dimwishlist:item=1851777734&perks=3525010810,3796465595,1523832109,3078487919,1439600632,3708227201
 
+// Apex Predator
+//notes:[Aegis' Speedrunner's Shopping List] "Purpose: Burst splash damage. Usage: Universal" | tags: speedrun
+dimwishlist:item=2545083870&perks=3525010810,3796465595,1523832109,3078487919,1439600632,3708227201
+
 // Edge Transit - BRAVE version
 //notes:[Aegis' Speedrunner's Shopping List] "Purpose: Burst boss damage. Usage: Universal" | tags: speedrun
 dimwishlist:item=568611923&perks=3525010810,3301904089,1771897777,332133599,3373736292,968510818,3751912585,3078487919,3993379141
@@ -67,6 +71,10 @@ dimwishlist:item=2889501828&perks=938542991,2349202967,599007201,2077819806,3650
 
 // The Supremacy
 //notes:[Aegis' Speedrunner's Shopping List] "Purpose: Quick ranged hitscan kills, Augmenting boss damage. Usage: Universal" | tags: speedrun
+dimwishlist:item=686951703&perks=1840239774,1087426260,1968497646,3418782618,957782887,1556840489,3978468247,3891536761,3078487919,1354429876
+
+// The Supremacy
+//notes:[Aegis' Speedrunner's Shopping List] "Purpose: Quick ranged hitscan kills, Augmenting boss damage. Usage: Universal" | tags: speedrun
 dimwishlist:item=2884596447&perks=1840239774,1087426260,1968497646,3418782618,957782887,1556840489,3978468247,3891536761,3078487919,1354429876
 
 // Tractor Cannon
@@ -115,6 +123,10 @@ dimwishlist:item=981718087&perks=3525010810,2822142346,2010801679,3592538738,330
 
 // Distant Tumulus
 //notes:[Aegis' Speedrunner's Shopping List] "Purpose: Quick ranged hitscan kills, Breaking eyes. Usage: GoS, SotW" | tags: speedrun
+dimwishlist:item=2738174948&perks=1840239774,106909392,2284787283,1771339417
+
+// Distant Tumulus
+//notes:[Aegis' Speedrunner's Shopping List] "Purpose: Quick ranged hitscan kills, Breaking eyes. Usage: GoS, SotW" | tags: speedrun
 dimwishlist:item=2807687156&perks=1840239774,106909392,2284787283,1771339417
 
 // Empty Vessel
@@ -143,6 +155,10 @@ dimwishlist:item=304659313&perks=3525010810,3032599245,3161816588,3523296417,410
 
 // Imperial Decree
 //notes:[Aegis' Speedrunner's Shopping List] "Purpose: Burst single target damage, Slow single weapon damage. Usage: Universal" | tags: speedrun
+dimwishlist:item=2919334548&perks=1300023272,791862061,3300816228,2360754333,3708227201
+
+// Imperial Decree
+//notes:[Aegis' Speedrunner's Shopping List] "Purpose: Burst single target damage, Slow single weapon damage. Usage: Universal" | tags: speedrun
 dimwishlist:item=318443586&perks=1300023272,791862061,3300816228,2360754333,3708227201
 
 // Indebted Kindness
@@ -163,7 +179,19 @@ dimwishlist:item=3849810018&perks=3525010810,3032599245,3301904089,3300816228,35
 
 // Retrofuturist
 //notes:[Aegis' Speedrunner's Shopping List] "Purpose: Double pellet. Usage: Universal" | tags: speedrun
+dimwishlist:item=1325579289&perks=1300023272,791862061,1821614984,3300816228,4104185692,1546637391
+
+// Retrofuturist
+//notes:[Aegis' Speedrunner's Shopping List] "Purpose: Double pellet. Usage: Universal" | tags: speedrun
+dimwishlist:item=1402766122&perks=1300023272,791862061,1821614984,3300816228,4104185692,1546637391
+
+// Retrofuturist
+//notes:[Aegis' Speedrunner's Shopping List] "Purpose: Double pellet. Usage: Universal" | tags: speedrun
 dimwishlist:item=1612781792&perks=1300023272,791862061,1821614984,3300816228,4104185692,1546637391
+
+// Riiswalker
+//notes:[Aegis' Speedrunner's Shopping List] "Purpose: Pellet swapping. Usage: KF" | tags: speedrun
+dimwishlist:item=108221785&perks=1300023272,791862061,706527188,3436462433,1546637391
 
 // Riiswalker
 //notes:[Aegis' Speedrunner's Shopping List] "Purpose: Pellet swapping. Usage: KF" | tags: speedrun
@@ -183,7 +211,15 @@ dimwishlist:item=2990047042&perks=1840239774,2420895100,106909392,1523832109,352
 
 // The Militia's Birthright
 //notes:[Aegis' Speedrunner's Shopping List] "Purpose: Blinding enemies. Usage: Universal" | tags: speedrun
-dimwishlist:item=0&perks=3525010810,3032599245,2039302152,1556840489,3300816228,4104185692
+dimwishlist:item=40394833&perks=3525010810,3032599245,2039302152,1556840489,3300816228,4104185692
+
+// The Militia's Birthright
+//notes:[Aegis' Speedrunner's Shopping List] "Purpose: Blinding enemies. Usage: Universal" | tags: speedrun
+dimwishlist:item=1854753405&perks=3525010810,3032599245,2039302152,1556840489,3300816228,4104185692
+
+// The Militia's Birthright
+//notes:[Aegis' Speedrunner's Shopping List] "Purpose: Blinding enemies. Usage: Universal" | tags: speedrun
+dimwishlist:item=3745974521&perks=3525010810,3032599245,2039302152,1556840489,3300816228,4104185692
 
 // The Wardcliff Coil
 //notes:[Aegis' Speedrunner's Shopping List] "Purpose: Melting vehicle bosses. Usage: The Scarlet Keep, The Shattered Throne" | tags: speedrun
@@ -220,6 +256,10 @@ dimwishlist:item=1395261499&perks=
 // Acasia's Dejection
 //notes:[Aegis' Speedrunner's Shopping List] "Purpose: Avoiding primary swaps, Special single shot add clear. Usage: Universal" | tags: speedrun
 dimwishlist:item=1471212226&perks=1840239774,2749775325,1523832109,2869569095,4104185692,3215448563
+
+// Conditional Finality
+//notes:[Aegis' Speedrunner's Shopping List] "Purpose: Unstoppable stun, Instant freeze or ignite. Usage: Universal" | tags: speedrun
+dimwishlist:item=1429534243&perks=
 
 // Conditional Finality
 //notes:[Aegis' Speedrunner's Shopping List] "Purpose: Unstoppable stun, Instant freeze or ignite. Usage: Universal" | tags: speedrun
@@ -271,7 +311,11 @@ dimwishlist:item=4255171531&perks=3525010810,3796465595,3300816228,3523296417,28
 
 // Twilight Oath
 //notes:[Aegis' Speedrunner's Shopping List] "Purpose: Augmenting damage. Usage: Universal" | tags: speedrun
-dimwishlist:item=0&perks=1840239774,106909392,968510818,1546637391
+dimwishlist:item=1874424704&perks=1840239774,106909392,968510818,1546637391
+
+// Twilight Oath
+//notes:[Aegis' Speedrunner's Shopping List] "Purpose: Augmenting damage. Usage: Universal" | tags: speedrun
+dimwishlist:item=3297863558&perks=1840239774,106909392,968510818,1546637391
 
 // Briar's Contempt
 //notes:[Aegis' Speedrunner's Shopping List] "Purpose: Specialized sustained damage. Usage: Universal" | tags: speedrun
@@ -283,7 +327,11 @@ dimwishlist:item=1959650777&perks=3525010810,3796465595,3523296417,3300816228,29
 
 // Calus Mini-Tool
 //notes:[Aegis' Speedrunner's Shopping List] "Purpose: General primary. Usage: Universal" | tags: speedrun
-dimwishlist:item=0&perks=1840239774,3230963543,4071163871,4293542123
+dimwishlist:item=174192097&perks=1840239774,3230963543,4071163871,4293542123
+
+// Calus Mini-Tool
+//notes:[Aegis' Speedrunner's Shopping List] "Purpose: General primary. Usage: Universal" | tags: speedrun
+dimwishlist:item=2490988246&perks=1840239774,3230963543,4071163871,4293542123
 
 // Cataclysmic
 //notes:[Aegis' Speedrunner's Shopping List] "Purpose: Ranged sustained damage. Usage: Universal" | tags: speedrun
@@ -299,11 +347,19 @@ dimwishlist:item=471518543&perks=1840239774,3230963543,3523296417,1820235745,382
 
 // First In, Last Out
 //notes:[Aegis' Speedrunner's Shopping List] "Purpose: Double slug. Usage: Universal" | tags: speedrun
-dimwishlist:item=0&perks=1840239774,791862061,3300816228,1546637391,3708227201
+dimwishlist:item=515224227&perks=1840239774,791862061,3300816228,1546637391,3708227201
+
+// First In, Last Out
+//notes:[Aegis' Speedrunner's Shopping List] "Purpose: Double slug. Usage: Universal" | tags: speedrun
+dimwishlist:item=3616586446&perks=1840239774,791862061,3300816228,1546637391,3708227201
 
 // Fixed Odds
 //notes:[Aegis' Speedrunner's Shopping List] "Purpose: General add clear. Usage: Universal" | tags: speedrun
-dimwishlist:item=0&perks=839105230,2420895100,2869569095,4293542123
+dimwishlist:item=1642384931&perks=839105230,2420895100,2869569095,4293542123
+
+// Fixed Odds
+//notes:[Aegis' Speedrunner's Shopping List] "Purpose: General add clear. Usage: Universal" | tags: speedrun
+dimwishlist:item=2194955522&perks=839105230,2420895100,2869569095,4293542123
 
 // Funnelweb
 //notes:[Aegis' Speedrunner's Shopping List] "Purpose: General primary. Usage: Universal" | tags: speedrun
@@ -315,7 +371,19 @@ dimwishlist:item=1763584999&perks=
 
 // Gunnora's Axe
 //notes:[Aegis' Speedrunner's Shopping List] "Purpose: Double slug. Usage: Universal" | tags: speedrun
-dimwishlist:item=0&perks=1840239774,106909392,3300816228,1546637391
+dimwishlist:item=94729174&perks=1840239774,106909392,3300816228,1546637391
+
+// Gunnora's Axe
+//notes:[Aegis' Speedrunner's Shopping List] "Purpose: Double slug. Usage: Universal" | tags: speedrun
+dimwishlist:item=411397829&perks=1840239774,106909392,3300816228,1546637391
+
+// Gunnora's Axe
+//notes:[Aegis' Speedrunner's Shopping List] "Purpose: Double slug. Usage: Universal" | tags: speedrun
+dimwishlist:item=487361141&perks=1840239774,106909392,3300816228,1546637391
+
+// Gunnora's Axe
+//notes:[Aegis' Speedrunner's Shopping List] "Purpose: Double slug. Usage: Universal" | tags: speedrun
+dimwishlist:item=2326716489&perks=1840239774,106909392,3300816228,1546637391
 
 // Hezen Vengeance
 //notes:[Aegis' Speedrunner's Shopping List] "Purpose: Burst splash damage. Usage: Universal" | tags: speedrun
@@ -351,7 +419,15 @@ dimwishlist:item=2972949637&perks=3525010810,3301904089,968510818,1523832109,370
 
 // Mindbender's Ambition
 //notes:[Aegis' Speedrunner's Shopping List] "Purpose: Double pellet. Usage: Universal" | tags: speedrun
-dimwishlist:item=0&perks=1300023272,791862061,4071163871,1546637391
+dimwishlist:item=1094005544&perks=1300023272,791862061,4071163871,1546637391
+
+// Mindbender's Ambition
+//notes:[Aegis' Speedrunner's Shopping List] "Purpose: Double pellet. Usage: Universal" | tags: speedrun
+dimwishlist:item=1586231351&perks=1300023272,791862061,4071163871,1546637391
+
+// Mindbender's Ambition
+//notes:[Aegis' Speedrunner's Shopping List] "Purpose: Double pellet. Usage: Universal" | tags: speedrun
+dimwishlist:item=4117693024&perks=1300023272,791862061,4071163871,1546637391
 
 // No Reprieve
 //notes:[Aegis' Speedrunner's Shopping List] "Purpose: Double slug. Usage: Last Wish, Spire of the Watcher" | tags: speedrun
@@ -407,4 +483,8 @@ dimwishlist:item=3325463374&perks=
 
 // Truthteller
 //notes:[Aegis' Speedrunner's Shopping List] "Purpose: Blinding enemies, Filling ranged swap rotation. Usage: Universal" | tags: speedrun
-dimwishlist:item=0&perks=3525010810,3032599245,3301904089,3300816228,3523296417,706527188
+dimwishlist:item=1946491241&perks=3525010810,3032599245,3301904089,3300816228,3523296417,706527188
+
+// Truthteller
+//notes:[Aegis' Speedrunner's Shopping List] "Purpose: Blinding enemies, Filling ranged swap rotation. Usage: Universal" | tags: speedrun
+dimwishlist:item=3252697558&perks=3525010810,3032599245,3301904089,3300816228,3523296417,706527188
