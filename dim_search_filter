@@ -1,0 +1,47 @@
+/*Jxp'sVaultAnalyzer|HighlightsTrash|Version:1.1_20240620*/
+/*ARMORS|Version:5.1_20240620*/
+(is:armor
+	-(/*ChangeAsYouLike.Examples:*53#(2stats100_nomods)|*60#(3stats100_05mods)*/basestat:total:>=60
+		(	(/*PVE*//*resrecdis_5mods+40fragments*/basestat:resilience+recovery+discipline:>=45 (basestat:resilience+recovery:>=25 or basestat:discipline:>=17))
+			or
+			(/*PVEHunter*/is:hunter (/*mobresdis_5mods+40fragments*/basestat:mobility+resilience+discipline:>=45 (basestat:mobility+resilience:>=25 or basestat:discipline:>=17)))
+			or
+			(/*#4stats100_5mods+50fragments+15artificies*/modslot:artifice (basestat:highest+secondhighest+thirdhighest+fourthhighest:>=62))
+		)
+	)
+	or
+	/*PiecesThatHaveLowerStatsOverall*/
+	is:statlower
+	
+	/*KeepArmorsWithRaidsModSlots*/
+	/*-(source:raid -is:dupelower)*/
+
+	/*KeepArmorsWithActivitiesModSlots(ArtificeAndNonRaids)*/
+	/*-(modslot:activity (-source:raid -is:exotic) -is:dupelower))*/
+
+	/*KeepArmorsWithActivitiesIntrinsic*/
+	/*-(is:armorintrinsic -is:dupelower)*/
+
+	/*KeepHighestPowerItemsPerCharacter(CommentWhenReachMaxPower)*/
+	/*-is:maxpowerloadout*/
+
+	/*KeepOneClassItemForEachModSlot(RaidsAndArtifice)*/
+	-(is:classitem (source:raid or modslot:artifice (-is:exotic) -is:dupelower))
+	
+	/*KeepExoticClassItems(UntilWishlistWillWork)*/
+	-(is:classitem is:exotic)
+	
+	/*KeepArmorsWithTags*/
+	-(tag:favorite or tag:keep or tag:infuse or tag:archive)
+)
+or
+/*WEAPONS|Version:2.1_20240620*/
+(is:weapon
+	(-is:wishlist or is:craftable)
+	-is:wishlistunknown
+	-is:shaped
+	-is:deepsight
+	-(is:exotic -is:randomroll)
+	/*CommentDontKeepArmorsWithTags*/
+	-(tag:favorite or tag:keep or tag:infuse or tag:archive)
+)
