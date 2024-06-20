@@ -1,0 +1,23 @@
+/*JxP'sVendorsAnalyzer(+PvP)|HighlightsGood|Version:1.20240602*/
+/*ARMORS|Version:5.0_20240430*/
+(is:armor
+	(/*ChangeAsYouLike.Examples:*53#(2stats100_nomods)|*60#(3stats100_05mods)*/basestat:total:>=60
+		(	(/*#2stats100_nomod*/basestat:highest+secondhighest:>=45)
+			or
+			(/*PVE*//*resrecdis_5mods+40fragments*/basestat:resilience+recovery+discipline:>=45 (basestat:resilience+recovery:>=25 or basestat:discipline:>=17))
+			or
+			(/*PVEHunter*/is:hunter (/*mobresdis_5mods+40fragments*/basestat:mobility+resilience+discipline:>=45 (basestat:mobility+resilience:>=25 or basestat:discipline:>=17)))
+			or
+			(/*#4stats100_5mods+50fragments+15artificies*/modslot:artifice (basestat:highest+secondhighest+thirdhighest+fourthhighest:>=62))
+		)
+	)
+)
+or
+/*WEAPONS|Version:2.0_20240430*/
+(is:weapon
+	(is:wishlist -is:craftable)
+	or
+	(is:deepsight -is:patternunlocked)
+)
+or
+bounty
