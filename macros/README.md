@@ -1,2 +1,2 @@
 #List of Macros
-loadouts_swap
+\nloadouts_swap
