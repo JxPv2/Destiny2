@@ -1,4 +1,4 @@
-/*JxP'sVendorsAnalyzer(+PvP)|HighlightsGood|Version:1.20240602*/
+/*JxP'sVendorsAnalyzer|HighlightsGood|Version:1.20240602*/
 /*ARMORS|Version:5.0_20240430*/
 (is:armor
 	(/*ChangeAsYouLike.Examples:*53#(2stats100_nomods)|*60#(3stats100_05mods)*/basestat:total:>=60
