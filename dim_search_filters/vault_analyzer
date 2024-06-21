@@ -35,11 +35,11 @@
 	-(tag:favorite or tag:keep or tag:infuse or tag:archive)
 )
 or
-/*WEAPONS|Version:2.1_20240620*/
+/*WEAPONS|Version:2.2_20240621*/
 (is:weapon
-	(-is:wishlist or is:craftable)
-	-is:wishlistunknown
-	-is:shaped
+	-(is:wishlist or is:wishlistunknown)
+	or is:craftable
+	-is:crafted
 	-is:deepsight
 	-(is:exotic -is:randomroll)
 	/*CommentDontKeepArmorsWithTags*/
