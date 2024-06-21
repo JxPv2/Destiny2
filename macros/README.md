@@ -1,2 +1,1 @@
-#List of Macros
-\nloadouts_swap
+#Macros
