@@ -16,6 +16,10 @@ aegis' speedrunner's shopping list
 
 https://raw.githubusercontent.com/JxPv2/Destiny2/main/dim_wishlists/aegis'%20speedrunner's%20shopping%20list
 
+aegis' ergo sum video
+
+https://raw.githubusercontent.com/JxPv2/Destiny2/main/dim_wishlists/aegis'%20ergo%20sum%20video
+
 exotic class item test
 
 https://raw.githubusercontent.com/JxPv2/Destiny2/main/dim_wishlists/exotic%20class%20items%20test
