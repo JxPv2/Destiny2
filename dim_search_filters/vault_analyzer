@@ -12,12 +12,12 @@
 	or
 	/*PiecesThatHaveLowerStatsOverall*/
 	is:statlower
-	
+
 	/*KeepArmorsWithRaidsModSlots*/
 	/*-(source:raid -is:dupelower)*/
 
 	/*KeepArmorsWithActivitiesModSlots(ArtificeAndNonRaids)*/
-	/*-(modslot:activity (-source:raid -is:exotic) -is:dupelower))*/
+	/*-(modslot:activity (-source:raid -is:exotic) -is:dupelower)*/
 
 	/*KeepArmorsWithActivitiesIntrinsic*/
 	/*-(is:armorintrinsic -is:dupelower)*/
@@ -27,9 +27,9 @@
 
 	/*KeepOneClassItemForEachModSlot(RaidsAndArtifice)*/
 	-(is:classitem (source:raid or modslot:artifice (-is:exotic) -is:dupelower))
-	
+
 	/*KeepExoticClassItems(UntilWishlistWillWork)*/
-	-(is:classitem is:exotic)
+	-(is:classitem is:exotic is:wishlist)
 	
 	/*KeepArmorsWithTags*/
 	-(tag:favorite or tag:keep or tag:infuse or tag:archive)
