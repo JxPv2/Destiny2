@@ -1,3 +1,7 @@
+DO NOT USE IT, THEY WILL BAN YOU. BYE
+
+
+
 install in system path
 
 pip install pyautogui
