@@ -31,7 +31,7 @@ https://raw.githubusercontent.com/2Pillows/dim_wishlist_splitter/main/wishlists/
 
 ---
 
-# Changelogs
+# Versions
 
 aegis' destiny 2: endgame analysis
 
@@ -63,3 +63,8 @@ aegis' destiny 2: endgame analysis
 | Aspects	        | TFS launch | updated     |
 | Subclasses	    | TFS launch | updated     |
 | Encounters	    | SE launch	 | updated     |
+
+
+aegis' speedrunner's shopping list
+
+2024-10-23
