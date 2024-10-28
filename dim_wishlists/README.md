@@ -35,8 +35,8 @@ https://raw.githubusercontent.com/2Pillows/dim_wishlist_splitter/main/wishlists/
 
 aegis' destiny 2: endgame analysis
 
-TAB	            UPDATED	    STATUS
-
+| TAB         |	            UPDATED	    STATUS
+| ----------- |
 Shopping List	  2024-10-20	updated
 
 Day 1	          TFS launch	future
