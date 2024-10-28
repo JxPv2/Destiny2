@@ -28,3 +28,9 @@ dim wishlist splitter links
 (MKB_PvE)
 
 https://raw.githubusercontent.com/2Pillows/dim_wishlist_splitter/main/wishlists/MKB_PvE.txt
+
+---
+
+# Changelogs
+
+aegis' destiny 2: endgame analysis
