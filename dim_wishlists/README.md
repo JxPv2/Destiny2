@@ -54,11 +54,11 @@ aegis' destiny 2: endgame analysis
 | Rockets	        | 2024-10-09 | updated     |
 | LFRs	          | 2024-10-09 | updated     |
 | Primaries	      | 2024-10-09 | updated     |
-| Exotic Weapons	| 2024-10-22 | in progress |
+| Exotic Weapons	| 2024-10-31 | updated     |
 | Exotic Armor	  | pre-TFS	   | future      |
 | Builds	        | pre-TFS	   | future      |
-| Origin Traits	  | 2024-10-25 | updated     |
-| Perks	          | 2024-10-26 | in progress |
+| Origin Traits	  | 2024-10-26 | updated     |
+| Perks	          | 2024-10-31 | updated     |
 | Fragments	      | TFS launch | updated     |
 | Aspects	        | TFS launch | updated     |
 | Subclasses	    | TFS launch | updated     |
