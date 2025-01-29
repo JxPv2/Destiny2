@@ -37,32 +37,29 @@ aegis' destiny 2: endgame analysis
 
 | TAB             | UPDATED    | STATUS      |
 | --------------- | ---------- | ----------- |
-| Shopping List   | 2024-10-20 | updated     |
-| Day 1	          | TFS launch | future      |
-| Archetypes	    | 2024-09-09 | future      |
-| Experimental	  | 2024-09-09 | future      |
-| Shotguns	      | 2024-10-09 | updated     |
-| Snipers	        | 2024-10-09 | updated     |
-| Fusions	        | 2024-10-09 | updated     |
-| BGLs	          | 2024-10-09 | updated     |
-| Glaives	        | 2024-10-09 | updated     |
-| Traces	        | 2024-10-09 | updated     |
-| Rocket Sidearms |	2024-10-09 | updated     |
-| LMGs	          | 2024-10-09 | updated     |
-| HGLs	          | 2024-10-09 | updated     |
-| Swords	        | 2024-10-09 | updated     |
-| Rockets	        | 2024-10-09 | updated     |
-| LFRs	          | 2024-10-09 | updated     |
-| Primaries	      | 2024-10-09 | updated     |
-| Exotic Weapons	| 2024-10-31 | updated     |
+| Shopping List   | 2025-01-24 | updated     |
+| Shotguns	      | 2025-01-24 | updated     |
+| Snipers	        | 2025-01-24 | updated     |
+| Fusions	        | 2025-01-24 | updated     |
+| BGLs	          | 2025-01-24 | updated     |
+| Glaives	        | 2025-01-24 | updated     |
+| Traces	        | 2025-01-24 | updated     |
+| Rocket Sidearms |	2025-01-24 | updated     |
+| LMGs	          | 2025-01-24 | updated     |
+| HGLs	          | 2025-01-24 | updated     |
+| Swords	        | 2025-01-24 | updated     |
+| Rockets	        | 2025-01-24 | updated     |
+| LFRs	          | 2025-01-24 | updated     |
+| Autos           | 2025-01-24 | in progress |
+| Bows            | 2025-01-24 | in progress |
+| HCs             | 2025-01-24 | in progress |
+| Pulses          | 2025-01-24 | in progress |
+| Scouts          | 2025-01-24 | in progress |
+| Sidearms        | 2025-01-24 | in progress |
+| SMGs            | 2025-01-24 | in progress |
+| Primaries	      | 2024-10-09 | in progress |
+| Exotic Weapons	| 2025-01-24 | updated     |
 | Exotic Armor	  | pre-TFS	   | future      |
-| Builds	        | pre-TFS	   | future      |
-| Origin Traits	  | 2024-10-26 | updated     |
-| Perks	          | 2024-10-31 | updated     |
-| Fragments	      | TFS launch | updated     |
-| Aspects	        | TFS launch | updated     |
-| Subclasses	    | TFS launch | updated     |
-| Encounters	    | SE launch	 | updated     |
 
 
 aegis' speedrunner's shopping list
