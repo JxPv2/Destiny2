@@ -12,6 +12,10 @@ aegis' destiny 2: endgame analysis
 
 https://raw.githubusercontent.com/JxPv2/Destiny2/main/dim_wishlists/aegis'%20destiny%202%3A%20endgame%20analysis
 
+aegis' boss damage
+
+https://raw.githubusercontent.com/JxPv2/Destiny2/refs/heads/main/dim_wishlists/aegis'%20boss%20damage
+
 aegis' speedrunner's shopping list
 
 https://raw.githubusercontent.com/JxPv2/Destiny2/main/dim_wishlists/aegis'%20speedrunner's%20shopping%20list
