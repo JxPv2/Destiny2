@@ -64,6 +64,9 @@ aegis' destiny 2: endgame analysis
 | Exotic Weapons	| 2025-01-24 | in progress |
 | Exotic Armor	  | pre-TFS	   | future      |
 
+aegis' boss damage
+
+2025-02-05
 
 aegis' speedrunner's shopping list
 
