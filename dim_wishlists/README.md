@@ -41,28 +41,27 @@ aegis' destiny 2: endgame analysis
 
 | TAB             | UPDATED    | STATUS      |
 | --------------- | ---------- | ----------- |
-| Shopping List   | 2025-01-24 | updated     |
-| Shotguns	      | 2025-01-24 | updated     |
-| Snipers	        | 2025-01-24 | updated     |
-| Fusions	        | 2025-01-24 | updated     |
-| BGLs	          | 2025-01-24 | updated     |
-| Glaives	        | 2025-01-24 | updated     |
-| Traces	        | 2025-01-24 | updated     |
-| Rocket Sidearms |	2025-01-24 | updated     |
-| LMGs	          | 2025-01-24 | updated     |
-| HGLs	          | 2025-01-24 | updated     |
-| Swords	        | 2025-01-24 | updated     |
-| Rockets	        | 2025-01-24 | updated     |
-| LFRs	          | 2025-01-24 | updated     |
-| Autos           | 2025-01-24 | in progress |
-| Bows            | 2025-01-24 | in progress |
-| HCs             | 2025-01-24 | in progress |
-| Pulses          | 2025-01-24 | in progress |
-| Scouts          | 2025-01-24 | in progress |
-| Sidearms        | 2025-01-24 | in progress |
-| SMGs            | 2025-01-24 | in progress |
-| Primaries	      | 2024-10-09 | in progress |
-| Exotic Weapons	| 2025-01-24 | updated     |
+| Shopping List   | 2025-01-24 | in progress |
+| Shotguns	      | 2025-02-04 | updated     |
+| Snipers	        | 2025-02-04 | updated     |
+| Fusions	        | 2025-02-04 | updated     |
+| BGLs	          | 2025-02-04 | updated     |
+| Glaives	        | 2025-02-04 | updated     |
+| Traces	        | 2025-02-04 | updated     |
+| Rocket Sidearms |	2025-02-04 | updated     |
+| LMGs	          | 2025-02-04 | updated     |
+| HGLs	          | 2025-02-04 | updated     |
+| Swords	        | 2025-02-04 | updated     |
+| Rockets	        | 2025-02-04 | updated     |
+| LFRs	          | 2025-02-04 | updated     |
+| Autos           | 2025-02-04 | updated     |
+| Bows            | 2025-02-04 | updated     |
+| HCs             | 2025-02-04 | updated     |
+| Pulses          | 2025-02-04 | updated     |
+| Scouts          | 2025-02-04 | updated     |
+| Sidearms        | 2025-02-04 | updated     |
+| SMGs            | 2025-02-04 | updated     |
+| Exotic Weapons	| 2025-01-24 | in progress |
 | Exotic Armor	  | pre-TFS	   | future      |
 
 
