@@ -66,7 +66,7 @@ aegis' destiny 2: endgame analysis
 
 aegis' boss damage
 
-2025-02-05
+2025-02-14
 
 aegis' speedrunner's shopping list
 
