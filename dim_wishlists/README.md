@@ -37,31 +37,31 @@ https://raw.githubusercontent.com/2Pillows/dim_wishlist_splitter/main/wishlists/
 
 # Versions
 
-aegis' destiny 2: endgame analysis
+aegis' destiny 2: endgame analysis (SUNDERER DOCTRINE)
 
 | TAB             | UPDATED    | STATUS      |
 | --------------- | ---------- | ----------- |
-| Shopping List   | 2025-01-24 | in progress |
-| Shotguns	      | 2025-02-04 | updated     |
-| Snipers	        | 2025-02-04 | updated     |
-| Fusions	        | 2025-02-04 | updated     |
-| BGLs	          | 2025-02-04 | updated     |
-| Glaives	        | 2025-02-04 | updated     |
-| Traces	        | 2025-02-04 | updated     |
-| Rocket Sidearms |	2025-02-04 | updated     |
-| LMGs	          | 2025-02-04 | updated     |
-| HGLs	          | 2025-02-04 | updated     |
-| Swords	        | 2025-02-04 | updated     |
-| Rockets	        | 2025-02-04 | updated     |
-| LFRs	          | 2025-02-04 | updated     |
-| Autos           | 2025-02-04 | updated     |
-| Bows            | 2025-02-04 | updated     |
-| HCs             | 2025-02-04 | updated     |
-| Pulses          | 2025-02-04 | updated     |
-| Scouts          | 2025-02-04 | updated     |
-| Sidearms        | 2025-02-04 | updated     |
-| SMGs            | 2025-02-04 | updated     |
-| Exotic Weapons	| 2025-01-24 | in progress |
+| Shopping List   | 2025-02-15 | updated     |
+| Shotguns	      | 2025-02-14 | updated     |
+| Snipers	        | 2025-02-14 | updated     |
+| Fusions	        | 2025-02-14 | updated     |
+| BGLs	          | 2025-02-14 | updated     |
+| Glaives	        | 2025-02-14 | updated     |
+| Traces	        | 2025-02-14 | updated     |
+| Rocket Sidearms |	2025-02-14 | updated     |
+| LMGs	          | 2025-02-14 | updated     |
+| HGLs	          | 2025-02-14 | updated     |
+| Swords	        | 2025-02-14 | updated     |
+| Rockets	        | 2025-02-14 | updated     |
+| LFRs	          | 2025-02-14 | updated     |
+| Autos           | 2025-02-14 | updated     |
+| Bows            | 2025-02-14 | updated     |
+| HCs             | 2025-02-14 | updated     |
+| Pulses          | 2025-02-14 | updated     |
+| Scouts          | 2025-02-14 | updated     |
+| Sidearms        | 2025-02-14 | updated     |
+| SMGs            | 2025-02-14 | updated     |
+| Exotic Weapons	| 2025-02-14 | updated     |
 | Exotic Armor	  | pre-TFS	   | future      |
 
 aegis' boss damage
