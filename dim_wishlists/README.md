@@ -70,4 +70,4 @@ aegis' boss damage
 
 aegis' speedrunner's shopping list
 
-2024-10-23
+2025-04-05
