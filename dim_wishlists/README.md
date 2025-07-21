@@ -66,7 +66,7 @@ aegis' destiny 2: endgame analysis (SUNDERER DOCTRINE)
 
 aegis' boss damage
 
-2025-02-14
+2025-05-07
 
 aegis' speedrunner's shopping list
 
