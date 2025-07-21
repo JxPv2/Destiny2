@@ -41,27 +41,27 @@ aegis' destiny 2: endgame analysis (SUNDERER DOCTRINE)
 
 | TAB             | UPDATED    | STATUS      |
 | --------------- | ---------- | ----------- |
-| Shopping List   | 2025-02-15 | updated     |
-| Shotguns	      | 2025-02-14 | updated     |
-| Snipers	        | 2025-02-14 | updated     |
-| Fusions	        | 2025-02-14 | updated     |
-| BGLs	          | 2025-02-14 | updated     |
-| Glaives	        | 2025-02-14 | updated     |
-| Traces	        | 2025-02-14 | updated     |
-| Rocket Sidearms |	2025-02-14 | updated     |
-| LMGs	          | 2025-02-14 | updated     |
-| HGLs	          | 2025-02-14 | updated     |
-| Swords	        | 2025-02-14 | updated     |
-| Rockets	        | 2025-02-14 | updated     |
-| LFRs	          | 2025-02-14 | updated     |
-| Autos           | 2025-02-14 | updated     |
-| Bows            | 2025-02-14 | updated     |
-| HCs             | 2025-02-14 | updated     |
-| Pulses          | 2025-02-14 | updated     |
-| Scouts          | 2025-02-14 | updated     |
-| Sidearms        | 2025-02-14 | updated     |
-| SMGs            | 2025-02-14 | updated     |
-| Exotic Weapons	| 2025-02-14 | updated     |
+| Shopping List   | 2025-02-15 | in progress |
+| Shotguns	      | 2025-05-07 | in progress |
+| Snipers	        | 2025-05-07 | in progress |
+| Fusions	        | 2025-05-07 | in progress |
+| BGLs	          | 2025-05-07 | in progress |
+| Glaives	        | 2025-05-07 | in progress |
+| Traces	        | 2025-05-07 | in progress |
+| Rocket Sidearms | 2025-05-07 | in progress |
+| LMGs	          | 2025-05-07 | in progress |
+| HGLs	          | 2025-05-07 | in progress |
+| Swords	        | 2025-05-07 | in progress |
+| Rockets	        | 2025-05-07 | in progress |
+| LFRs	          | 2025-05-07 | in progress |
+| Autos           | 2025-05-07 | in progress |
+| Bows            | 2025-05-07 | in progress |
+| HCs             | 2025-05-07 | in progress |
+| Pulses          | 2025-05-07 | in progress |
+| Scouts          | 2025-05-07 | in progress |
+| Sidearms        | 2025-05-07 | in progress |
+| SMGs            | 2025-05-07 | in progress |
+| Exotic Weapons	| 2025-05-11 | in progress |
 | Exotic Armor	  | pre-TFS	   | future      |
 
 aegis' boss damage
