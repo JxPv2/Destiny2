@@ -1,3 +1,5 @@
+THEY DONT WORK ANYMORE (NOT UPDATED FOR ARMOR 3.0 YET)
+
 # DIM Search Filters
 copy and paste the filter in DIM search bar
 
