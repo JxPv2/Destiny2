@@ -9,7 +9,3 @@ for a better explanation read the code, try the file.
 lets you load into activities completely solo
 
 ### if i have time maybe one day ill write something better in this readme.
-
-
-
-
