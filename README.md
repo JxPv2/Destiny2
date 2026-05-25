@@ -3,4 +3,4 @@
 just random destiny2 stuffs
 
 
-WIP
+WIP and RIP
