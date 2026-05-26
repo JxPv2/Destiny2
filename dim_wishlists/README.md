@@ -5,7 +5,7 @@
 1. Open [DIM](https://app.destinyitemmanager.com/) / [DIM-Beta](https://beta.destinyitemmanager.com/)
 2. Go to **Settings → Wish List → Add another wish list**
 3. Paste the wishlist's raw URL
-4. + Add Wish List
+4. +Add Wish List
 ---
 
 ## raw links:
