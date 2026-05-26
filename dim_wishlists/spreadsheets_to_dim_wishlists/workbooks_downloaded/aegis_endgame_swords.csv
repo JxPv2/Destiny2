@@ -1,0 +1,159 @@
+WEAPON,,INFO,,,,,,PERKS,,,,,ANALYSIS,,
+🖼️,Name,Season,Energy,Frame,Charge,Impact,⬆️,Barrel,Mag,Perk 1,Perk 2,Origin Trait,Notes,Rank,Tier
+,Synanceia,27,Solar,Wave,50,62,Yes,"Jagged Edge
+Tempered Edge","Swordmaster's Guard
+Heavy Guard","Relentless Strikes
+Attrition Orbs
+Sharp Harvest","Elemental Honing
+Eager Edge
+Burning Ambition",Tenacity,"Sharp Harvest with Eager interesting, also great for damage",1,S
+,The Slammer,23,Stasis,Vortex,20,60,Yes,"Jagged Edge
+Tempered Edge","Swordmaster's Guard
+Heavy Guard",Eager Edge,"Cold Steel
+Demolitionist",Stunning Recovery,"best overall Eager sword, Adept Mag access + Cold Steel + vortex frame",2,S
+,Sullen Claw,28,Void,Lightweight,50,62,Yes,"Jagged Edge
+Tempered Edge","Swordmaster's Guard
+Heavy Guard","Eager Edge
+Vorpal Weapon
+Relentless Strikes","Assassin's Blade
+Whirlwind Blade
+Destabilizing Rounds",Imperial Allegiance,best light attack neutral + okay damage with bumped impact,3,S
+,Bequest,12,Arc,Adaptive,70,70,Yes,"Jagged Edge
+Tempered Edge","Swordmaster's Guard
+Heavy Guard",Relentless Strikes,"Surrounded
+Vorpal Weapon",Bray Inheritance,best Surrounded DPS sword,4,S
+,Aurora Dawn,27,Stasis,Wave,50,62,Yes,"Jagged Edge
+Tempered Edge","Swordmaster's Guard
+Heavy Guard","Sharp Harvest
+Flash Counter
+Rimestealer","Whirlwind Blade
+Elemental Honing
+Cold Steel",Vanguard Determination,"no Relentless hurts, otherwise probably best neutral (Flash + Cold)",5,A
+,Summum Bonum,24,Arc,Wave,20,60,Yes,"Jagged Edge
+Tempered Edge","Swordmaster's Guard
+Heavy Guard","Relentless Strikes
+Attrition Orbs
+Deconstruct","Chaos Reshaped
+Whirlwind Blade
+Surrounded",Collective Purpose,"worse impact than newer waves, but still good perks",6,A
+,Abyssal Edge,26,Strand,Wave,20,60,Yes,"Jagged Edge
+Tempered Edge","Swordmaster's Guard
+Heavy Guard","Relentless Strikes
+Flash Counter","Elemental Honing
+Surrounded
+Redirection",Willing Vessel,similar to Summum with better neutral and worse DPS-focused perks,7,A
+,Geodetic HSm,22,Void,Adaptive,47,62,Yes,"Jagged Edge
+Tempered Edge","Swordmaster's Guard
+Heavy Guard",Relentless Strikes,Whirlwind Blade,Nadir Focus,best consistent adaptive sword,8,A
+,"Falling Guillotine
+BRAVE version",23,Void,Vortex,20,60,Yes,"Jagged Edge
+Tempered Edge","Swordmaster's Guard
+Heavy Guard","Chain Reaction
+Frenzy","Eager Edge
+Bait and Switch
+Surrounded",Indomitability,"double damage perks traded for tanking total, solid Eager option though",9,A
+,Ill Omen,24,Stasis,Caster,52,60,Yes,"Jagged Edge
+Tempered Edge","Swordmaster's Guard
+Heavy Guard","Relentless Strikes
+Attrition Orbs","Whirlwind Blade
+Surrounded",Radiolaria Transposer,BiS consistent caster option,10,A
+,The Other Half,15,Void,Adaptive,20,60,Yes,"Jagged Edge
+Tempered Edge","Swordmaster's Guard
+Heavy Guard","Eager Edge
+Relentless Strikes","Surrounded
+Frenzy
+Whirlwind Blade",Hot Swap,good roam option for Eager + Surrounded heavy attacks,11,A
+,Eighty-Six,28,Strand,Vortex,20,60,Yes,"Jagged Edge
+Tempered Edge","Swordmaster's Guard
+Heavy Guard","Relentless Strikes
+Sharp Harvest
+Slice","Elemental Honing
+Redirection
+Attrition Orbs",Bray Legacy,"okay perks but worst frame, notable ability regen niche",12,A
+,Goldtusk,20,Arc,Lightweight,20,60,Yes,"Jagged Edge
+Tempered Edge",Swordmaster's Guard,Relentless Strikes,Whirlwind Blade,Veist Stinger,"interesting frame, arguably most consistent light spammer",13,A
+,Zephyr,25,Stasis,Adaptive,20,60,Yes,"Jagged Edge
+Tempered Edge","Swordmaster's Guard
+Heavy Guard","Relentless Strikes
+Attrition Orbs
+Rimestealer","Surrounded
+Whirlwind Blade
+Cold Steel",Dawning Surprise,Attrition + semi-unique neutral on top of B tier features,14,A
+,Temptation's Hook,26,Arc,Caster,50,60,Yes,"Jagged Edge
+Tempered Edge","Swordmaster's Guard
+Heavy Guard","Relentless Strikes
+Attrition Orbs",Whirlwind Blade,Paracausal Fluid,"worse ammo than Ill Omen, no Surrounded, better origin",15,A
+,Crown-Splitter,14,Void,Aggressive,20,73,No,"Jagged Edge
+Tempered Edge",Heavy Guard,Relentless Strikes,"Surrounded
+Whirlwind Blade",None,"consistent light spammer, worse than Goldtusk though",16,B
+,Double-Edged Answer,23,Void,Adaptive,20,60,Yes,"Jagged Edge
+Tempered Edge","Swordmaster's Guard
+Heavy Guard",Relentless Strikes,"Surrounded
+Whirlwind Blade",Nadir Focus,Relentless + Whirlwind/Surrounded adaptive core,17,B
+,Nasreddin,20,Arc,Adaptive,20,60,No,"Jagged Edge
+Tempered Edge","Swordmaster's Guard
+Heavy Guard",Relentless Strikes,"Surrounded
+Whirlwind Blade",Field-Tested,Relentless + Whirlwind/Surrounded adaptive core,18,B
+,Negative Space,11,Solar,Adaptive,20,60,No,"Jagged Edge
+Tempered Edge","Swordmaster's Guard
+Heavy Guard",Relentless Strikes,"Surrounded
+Whirlwind Blade",None,Relentless + Whirlwind/Surrounded adaptive core,19,B
+,Night Terror,8,Arc,Adaptive,20,60,No,"Jagged Edge
+Tempered Edge","Swordmaster's Guard
+Heavy Guard",Relentless Strikes,"Surrounded
+Whirlwind Blade",None,Relentless + Whirlwind/Surrounded adaptive core,20,B
+,False Idols,24,Solar,Vortex,20,60,Yes,"Jagged Edge
+Tempered Edge","Swordmaster's Guard
+Heavy Guard","Relentless Strikes
+Attrition Orbs","Bait and Switch
+Surrounded",Dealer's Choice,bad frame but Attrition makes up for it,21,B
+,Just In Case,21,Solar,Adaptive,20,60,No,"Jagged Edge
+Tempered Edge","Swordmaster's Guard
+Heavy Guard",Relentless Strikes,Whirlwind Blade,Disaster Plan,Relentless + Whirlwind only adaptive,22,C
+,Abide the Return,23,Solar,Adaptive,20,60,No,"Jagged Edge
+Tempered Edge","Swordmaster's Guard
+Heavy Guard",Relentless Strikes,Whirlwind Blade,None,Relentless + Whirlwind only adaptive,23,C
+,Steel Sybil Z-14,4,Void,Adaptive,20,60,No,"Jagged Edge
+Tempered Edge","Swordmaster's Guard
+Heavy Guard",Relentless Strikes,Whirlwind Blade,None,Relentless + Whirlwind only adaptive,24,C
+,Death's Razor,20,Void,Vortex,20,60,Yes,"Jagged Edge
+Tempered Edge",Infinite Guard,Relentless Strikes,"Surrounded
+Whirlwind Blade",To Excess,bad frame but has Surrounded option,25,C
+,Falling Guillotine,11,Void,Vortex,20,60,No,"Jagged Edge
+Tempered Edge","Swordmaster's Guard
+Heavy Guard",Relentless Strikes,"Surrounded
+Whirlwind Blade",None,bad frame but has Surrounded option,26,C
+,Half-Truths,15,Arc,Adaptive,20,60,Yes,"Jagged Edge
+Tempered Edge","Swordmaster's Guard
+Heavy Guard",Relentless Strikes,Eager Edge,Hot Swap,worst Eager sword but more useful than Surrounded-only swords,27,C
+,Caretaker,20,Solar,Adaptive,20,60,Yes,"Jagged Edge
+Tempered Edge","Swordmaster's Guard
+Heavy Guard",Relentless Strikes,Surrounded,Noble Deeds,Surrounded-only adaptive,28,D
+,Honor's Edge,10,Arc,Adaptive,20,60,No,"Jagged Edge
+Tempered Edge","Swordmaster's Guard
+Heavy Guard",Relentless Strikes,Surrounded,None,Surrounded-only adaptive,29,D
+,Eternity's Edge,14,Solar,Vortex,20,60,No,"Jagged Edge
+Tempered Edge",Infinite Guard,Relentless Strikes,Surrounded,None,Surrounded-only and bad frame,30,D
+,Throne-Cleaver,20,Solar,Aggressive,20,73,Yes,"Jagged Edge
+Tempered Edge",Heavy Guard,Duelist's Trance,Surrounded,To Excess,"no Relentless or Whirlwind, frame decent",31,D
+,Dragoncult Sickle,23,Strand,Caster,50,60,No,"Jagged Edge
+Tempered Edge","Swordmaster's Guard
+Heavy Guard",Duelist's Trance,"Surrounded
+Whirlwind Blade",Sundering,no Relentless,32,E
+,Sola's Scar,13,Solar,Caster,50,60,No,"Jagged Edge
+Tempered Edge","Swordmaster's Guard
+Heavy Guard",Relentless Strikes,Frenzy,None,Relentless + mediocre damage perk,33,E
+,Quickfang,14,Void,Lightweight,20,60,No,"Jagged Edge
+Tempered Edge",Swordmaster's Guard,Relentless Strikes,En Garde,None,Relentless + mediocre damage perk,34,E
+,Razor's Edge,16,Void,Vortex,20,60,No,"Jagged Edge
+Tempered Edge","Swordmaster's Guard
+Heavy Guard",Relentless Strikes,Frenzy,Skulking Wolf,Relentless + mediocre damage perk,35,E
+,Hero of Ages,15,Arc,Vortex,25,60,No,"Jagged Edge
+Tempered Edge","Swordmaster's Guard
+Heavy Guard",Relentless Strikes,En Garde,None,Relentless + mediocre damage perk,36,E
+,Thin Precipice,21,Strand,Vortex,20,60,Yes,"Jagged Edge
+Tempered Edge","Swordmaster's Guard
+Heavy Guard","Relentless Strikes
+Flash Counter","Golden Tricorn
+Chain Reaction",Unsated Hunger,no real boss damage perk,37,F
+,Chivalric Fire,23,Void,Caster,50,60,No,Tempered Edge,Balanced Guard,Repulsor Brace,Destabilizing Rounds,One Quiet Moment,"outdone by Flash Counter swords for neutral, no damage perk",38,F

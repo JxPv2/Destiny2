@@ -1,0 +1,239 @@
+WEAPON,,,INFO,,,,PERKS,,,,,ANALYSIS,,
+🖼️,Name,Season,Energy,Frame,Ammo,⬆️,Barrel,Mag,Perk 1,Perk 2,Origin Trait,Notes,Rank,Tier
+,Gridskipper,25,Void,Rapid,55,Yes,"Fluted Barrel
+Arrowhead Brake","Flared Magwell
+Alloy Magazine","Repulsor Brace
+Demolitionist",Destabilizing Rounds,Splicer Surge,great Void combo + solid origin for this primary type,1,S
+,The Martlet,28,Void,Lightweight,56,Yes,"Fluted Barrel
+Arrowhead Brake","Flared Magwell
+Alloy Magazine","Firefly
+Repulsor Brace",Destabilizing Rounds,Fleet Footed,Gridskipper with worse origin/archetype and Firefly option,2,S
+,Claws of the Wolf,24,Void,Rapid,46,Yes,"Fluted Barrel
+Arrowhead Brake","Flared Magwell
+Alloy Magazine",Repulsor Brace,"Destabilizing Rounds
+Attrition Orbs",Skulking Wolf,similar to Gridskipper with arugably worse origin,3,S
+,Joxer's Longsword,26,Void,Heavy Burst,49,Yes,Fluted Barrel,"Flared Magwell
+Alloy Magazine","Repulsor Brace
+Dragonfly
+Demolitionist","Destabilizing Rounds
+Demoralize",One Quiet Moment,bit more diversity and arguably better archetype for worse origin,4,S
+,Nullify,24,Solar,Heavy Burst,51,Yes,Fluted Barrel,"Flared Magwell
+Alloy Magazine","Firefly
+Heal Clip
+Demolitionist","Incandescent
+Chaos Reshaped
+Attrition Orbs",Collective Purpose,"great frame, double splash, diverse perks, just mid origin",5,S
+,High Tyrant,28,Void,Balanced (540RPM),58,Yes,"Fluted Barrel
+Arrowhead Brake","Light Heatsink
+Overclocked Heatsink","Destabilizing Rounds
+Repulsor Brace
+Loose Change","Meganeura
+Demoralize
+Frenzy",Imperial Allegiance,shame about Destab in 1st column but good double splash,6,S
+,Horror's Least,28,Arc,Rapid,56,Yes,"Fluted Barrel
+Arrowhead Brake","Flared Magwell
+Alloy Magazine","Trickle Charge
+Supercharged Magazine","Jolting Feedback
+Rolling Storm",Accelerated Assault,"fast Jolting activations, unknown reload perk quality",7,A
+,Vantage Point,25,Arc,Adaptive,53,Yes,"Fluted Barrel
+Arrowhead Brake","Flared Magwell
+Alloy Magazine",Eddy Current,Jolting Feedback,Dark Ether Reaper,underrated combo of Jolting + great origin,8,A
+,Oversoul Edict,22,Arc,Rapid,57,Yes,"Fluted Barrel
+Arrowhead Brake","Flared Magwell
+Alloy Magazine","Eddy Current
+Demolitionist",Voltshot,Cursed Thrall,excellent origin + best frame for Voltshot usage,9,A
+,All or Nothing,28,Strand,Dynamic (540RPM),56,Yes,"Fluted Barrel
+Arrowhead Brake","Light Heatsink
+Overclocked Heatsink","Firefly
+Slice","Tear
+Hatchling",Accelerated Assault,like Relentless but new frame and enhancements,10,A
+,Corrasion,24,Arc,Heavy Burst,52,Yes,Fluted Barrel,"Flared Magwell
+Alloy Magazine","Eddy Current
+Enlightened Action",Voltshot,Radiolaria Transposer,similar to Oversoul Edict with some small tweaks,11,A
+,Elsie's Rifle,23,Void,High-Impact,52,Yes,"Fluted Barrel
+Arrowhead Brake","Flared Magwell
+Alloy Magazine","Repulsor Brace
+Rewind Rounds
+Loose Change","Destabilizing Rounds
+Frenzy",Indomitability,solid Void combo + decent origin but bad frame,12,A
+,Jurassic Green,25,Solar,Rapid,47,Yes,"Fluted Barrel
+Arrowhead Brake","Flared Magwell
+Alloy Magazine","Heal Clip
+Loose Change",Incandescent,Field-Tested,classic Heal Clip + Incandescent combo on solid frame,13,A
+,Adhortative,23,Solar,Adaptive,52,Yes,"Fluted Barrel
+Arrowhead Brake","Flared Magwell
+Alloy Magazine","Heal Clip
+Attrition Orbs
+Shoot to Loot",Incandescent,Nano-Munitions,worse frame than Jurassic but better origin,14,A
+,Darkest Before,23,Solar,Rapid,50,Yes,"Fluted Barrel
+Arrowhead Brake","Flared Magwell
+Alloy Magazine","Heal Clip
+Attrition Orbs",Incandescent,Crossing Over,worse origin than Jurassic but similar otherwise,15,A
+,Cruel Mercy,26,Arc,Heavy Burst,56,Yes,Fluted Barrel,"Flared Magwell
+Alloy Magazine","Dragonfly
+Eddy Current
+Demolitionist","Rolling Storm
+Frenzy",Stunning Recovery,technically double splash on good frame but Rolling Storm is weak,16,A
+,Blast Furnace,23,Kinetic,Aggressive Burst,55,Yes,"Fluted Barrel
+Arrowhead Brake","Flared Magwell
+Alloy Magazine","Kinetic Tremors
+Shoot to Loot","Firefly
+One for All
+Frenzy",Indomitability,double splash on kinetic + uptime perks on decent frame,17,A
+,Stars in Shadow,27,Solar,High-Impact,49,Yes,"Fluted Barrel
+Arrowhead Brake","Flared Magwell
+Alloy Magazine","Heal Clip
+Rapid Hit
+Impromptu Ammunition","Incandescent
+Burning Ambition",Wild Card,"great perks and origin, just bad frame",18,A
+,Chattering Bone,21,Kinetic,Lightweight,49,Yes,"Fluted Barrel
+Arrowhead Brake","Flared Magwell
+Alloy Magazine","Rapid Hit
+Kill Clip",Kinetic Tremors,Explosive Pact,"damage + splash combo on good frame, low impact origin",19,B
+,Bygones,25,Kinetic,Adaptive,60,Yes,"Fluted Barrel
+Arrowhead Brake","Flared Magwell
+Alloy Magazine","Attrition Orbs
+Shoot to Loot
+Demolitionist","Kinetic Tremors
+Firefly",Gun and Run,"Attrition + KT combo, mid origin",20,B
+,Sacred Provenance,25,Kinetic,Aggressive Burst,52,Yes,"Fluted Barrel
+Arrowhead Brake","Flared Magwell
+Alloy Magazine","Rapid Hit
+Demolitionist","Kinetic Tremors
+Frenzy",Photoinhibition,decent frame with good reload + enhanced KT,21,B
+,BxR-55 Battler,15,Solar,Legacy PR-55,60,Yes,"Fluted Barrel
+Arrowhead Brake","Flared Magwell
+Alloy Magazine","Demolitionist
+Auto-Loading Holster
+Pugilist","Incandescent
+Blunt Execution Rounds",Hot Swap,solid loader perks + Incandescent,22,B
+,"Relentless
+RotN version",26,Strand,High-Impact,40,Yes,"Fluted Barrel
+Arrowhead Brake","Flared Magwell
+Alloy Magazine","Firefly
+Rapid Hit
+Slice","Hatchling
+Elemental Honing",Gravity Well,"double splash with weaker Strand options, still decent",23,B
+,Battle Scar,20,Kinetic,Lightweight,51,No,"Fluted Barrel
+Arrowhead Brake","Flared Magwell
+Alloy Magazine","Shoot to Loot
+Keep Away",Kinetic Tremors,Field-Tested,mediocre 1st column + non-enhanced KT,24,B
+,Jorum's Claw,20,Solar,Adaptive,56,No,"Fluted Barrel
+Arrowhead Brake","Flared Magwell
+Alloy Magazine",Outlaw,Incandescent,Skulking Wolf,okay reload perk + Incandescent on decent frame,25,C
+,Phyllotactic Spiral,20,Arc,High-Impact,48,Yes,"Fluted Barrel
+Arrowhead Brake","Flared Magwell
+Alloy Magazine","Compulsive Reloader
+Keep Away",Voltshot,Nanotech Tracer Missiles,Voltshot and solid origin on bad frame,26,C
+,Stay Frosty,25,Stasis,Lightweight,51,Yes,"Fluted Barrel
+Arrowhead Brake","Flared Magwell
+Alloy Magazine","Rimestealer
+Enlightened Action",Headstone,Dawning Surprise,classic Stasis combo with decent origin,27,C
+,Redrix's Estoc,26,Stasis,Legacy PR-55,60,Yes,"Fluted Barrel
+Arrowhead Brake","Flared Magwell
+Alloy Magazine","Rimestealer
+Demolitionist",Headstone,None,similar to Stay Frosty without origin,28,C
+,Disparity,19,Stasis,Aggressive Burst,53,Yes,"Fluted Barrel
+Arrowhead Brake","Flared Magwell
+Alloy Magazine",Rapid Hit,Headstone,Häkke Breach Armaments,"Häkke nice pairing with Headstone, no utility perk in 1st column",29,C
+,Psi Hermetic V,22,Stasis,High-Impact,52,Yes,"Fluted Barrel
+Arrowhead Brake","Flared Magwell
+Alloy Magazine",Enlightened Action,"Headstone
+Golden Tricorn",Wild Card,good origin and Headstone on bad frame,30,C
+,The Messenger,21,Kinetic,High-Impact,49,No,"Fluted Barrel
+Arrowhead Brake","Flared Magwell
+Alloy Magazine",Rapid Hit,Kinetic Tremors,Wild Card,non-enhanced KT + good origin on bad frame,31,C
+,Insidious,16,Arc,Aggressive Burst,59,Yes,"Fluted Barrel
+Arrowhead Brake","Flared Magwell
+Alloy Magazine",Dragonfly,One for All,Souldrinker,splash + damage but quite weak,32,D
+,Last Thursday,27,Strand,Adaptive,57,Yes,"Fluted Barrel
+Arrowhead Brake","Flared Magwell
+Alloy Magazine","Demolitionist
+Rapid Hit
+Strategist","Dragonfly
+Hatchling
+Elemental Honing",Exhaustive Research,okay 1st column but nothing remarkable in 2nd column,33,D
+,Aisha's Care,24,Strand,Heavy Burst,51,Yes,Fluted Barrel,"Flared Magwell
+Alloy Magazine",Slice,"Hatchling
+Golden Tricorn",Omolon Fluid Dynamics,great archetype but Hatchling quite weak,34,D
+,Smite of Merain,18,Kinetic,Adaptive,49,Yes,"Fluted Barrel
+Arrowhead Brake","Flared Magwell
+Alloy Magazine","Demolitionist
+Stats for All",Firefly,Runneth Over,utility + weaker splash on decent archetype,35,D
+,Syncopation-53,16,Stasis,Adaptive,45,Yes,"Fluted Barrel
+Arrowhead Brake","Flared Magwell
+Alloy Magazine","Outlaw
+Compulsive Reloader",Headstone,Suros Synergy,Headstone with everything else mediocre,36,D
+,New Purpose,17,Stasis,High-Impact,60,No,"Fluted Barrel
+Arrowhead Brake","Flared Magwell
+Alloy Magazine",Feeding Frenzy,Headstone,Bitterspite,worst archetype with kill-hungry reload perk,37,D
+,Different Times,21,Strand,Rapid,50,Yes,"Fluted Barrel
+Arrowhead Brake","Flared Magwell
+Alloy Magazine",Outlaw,Hatchling,Unsated Hunger,Hatchling generally worse than Headstone above,38,E
+,Nightshade,22,Strand,Lightweight,46,No,"Fluted Barrel
+Arrowhead Brake","Flared Magwell
+Alloy Magazine",Enlightened Action,Hatchling,Vanguard's Vindication,worse archetype than Different Times,39,E
+,Belisarius-D,23,Strand,Aggressive Burst,59,Yes,"Fluted Barrel
+Arrowhead Brake","Flared Magwell
+Alloy Magazine","Rapid Hit
+Slice",Hatchling,Häkke Breach Armaments,worse archetype than Nightshade,40,E
+,Ogma PR6,16,Solar,Lightweight,45,No,"Fluted Barrel
+Arrowhead Brake","Flared Magwell
+Alloy Magazine",Demolitionist,Dragonfly,Omolon Fluid Dynamics,only Dragonfly and okay loader perk,41,E
+,Relentless,26,Strand,High-Impact,40,Yes,"Fluted Barrel
+Arrowhead Brake","Flared Magwell
+Alloy Magazine","Rapid Hit
+Slice",Hatchling,Crossing Over,worse archetype than Belisarius,42,E
+,Outlast,21,Solar,Rapid,47,No,"Fluted Barrel
+Arrowhead Brake","Flared Magwell
+Alloy Magazine","Stats for All
+Outlaw",Dragonfly,Disaster Plan,only Dragonfly and mediocre loader perks,43,E
+,Yesteryear,18,Void,Adaptive,52,No,"Fluted Barrel
+Arrowhead Brake","Flared Magwell
+Alloy Magazine","Outlaw
+Compulsive Reloader","Dragonfly
+Repulsor Brace",Gun and Run,basically Outlast with worse archetype,44,E
+,Autumn Wind,20,Kinetic,Rapid,58,No,"Fluted Barrel
+Arrowhead Brake","Flared Magwell
+Alloy Magazine",Demolitionist,Frenzy,One Quiet Moment,good archetype with dated uptime-focused perks,45,F
+,Jian 7 Rifle,10,Arc,Adaptive,55,No,SLO-12 Post,"Flared Magwell
+Alloy Magazine",Grave Robber,"Dragonfly
+Swashbuckler",None,niche melee perks + Dragonfly on decent frame,46,F
+,The Third Axiom,13,Arc,Adaptive,47,No,"Fluted Barrel
+Arrowhead Brake","Flared Magwell
+Alloy Magazine",Feeding Frenzy,Dragonfly,None,dated reload perk + Dragonfly,47,F
+,Veles-X,19,Void,Aggressive Burst,54,No,Chambered Compensator,Flared Magwell,Repulsor Brace,"Golden Tricorn
+Kill Clip",Häkke Breach Armaments,no Repulsor pairing and mediocre damage perks,48,F
+,Scalar Potential,23,Arc,Rapid,47,Yes,"Fluted Barrel
+Arrowhead Brake","Flared Magwell
+Alloy Magazine",Enlightened Action,"Golden Tricorn
+Attrition Orbs",Dragon's Vengeance,good reload perk + questionable 2nd column,49,F
+,Piece of Mind,16,Kinetic,Rapid,53,Yes,"Fluted Barrel
+Arrowhead Brake","Flared Magwell
+Alloy Magazine","Auto-Loading Holster
+Overflow","Vorpal Weapon
+Adrenaline Junkie",Land Tank,no relevant damage perks despite decent origin on good frame,50,F
+,Last Perdition,6,Void,Adaptive,54,No,SLO-12 Post,"Flared Magwell
+Alloy Magazine",Outlaw,Kill Clip,None,very dated single target perk combo,51,F
+,The Time-Worn Spire,13,Kinetic,Rapid,53,No,Hitmark IS,"Flared Magwell
+Alloy Magazine",Feeding Frenzy,"Vorpal Weapon
+Rampage
+One for All",None,no relevant damage perks,52,F
+,Cold Denial,26,Kinetic,High-Impact,46,Yes,"Fluted Barrel
+Arrowhead Brake","Flared Magwell
+Alloy Magazine",Enlightened Action,"Desperado
+Swashbuckler",Paracausal Fluid,no relevant damage perks and bad frame,53,F
+,Legal Action II,15,Kinetic,High-Impact,47,No,"Fluted Barrel
+Arrowhead Brake","Flared Magwell
+Alloy Magazine",Feeding Frenzy,Frenzy,None,Frenzy on bad frame,54,F
+,Forge's Pledge,15,Solar,Adaptive,54,No,"Fluted Barrel
+Arrowhead Brake","Flared Magwell
+Alloy Magazine","Stats for All
+Auto-Loading Holster","One for All
+Multikill Clip",Skulking Wolf,"OFA style perk on bad weapon type, bad perks otherwise",55,F
+,Premonition,8,Void,High-Impact,53,No,"Fluted Barrel
+Arrowhead Brake","Flared Magwell
+Alloy Magazine",Feeding Frenzy,Rampage,None,bad damage perk and bad frame,56,F
+,Hailing Confusion,12,Kinetic,Adaptive,49,No,"Fluted Barrel
+Arrowhead Brake","Flared Magwell
+Alloy Magazine",Outlaw,Demolitionist,None,no damage perk,57,F

@@ -1,0 +1,6902 @@
+{
+  "spreadsheet": {
+    "name": "Aegis' Speedrunner's Shopping List",
+    "changelog": {
+      "date": "2026-01-05",
+      "patch": ""
+    },
+    "link": "https://docs.google.com/spreadsheets/d/1is4sNUesy--7Zm6SCCWEP9PAXomxaSj5xlJGCsSj_qs",
+    "scrape_date": "2026-05-26 14:44:18"
+  },
+  "workbooks": {
+    "Weapons": {
+      "Ergo Sum": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Enduring Blade"
+          ],
+          "column2": [
+            "Swordmaster's Guard"
+          ],
+          "perk1": [
+            "Lightweight Frame",
+            "Caster Frame",
+            "Wave Frame"
+          ],
+          "perk2": [
+            "Arc Conductor",
+            "The Perfect Fifth",
+            "Wolfpack Rounds"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Best in Role, Must-Have",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Splash add clear, Sword boss damage",
+          "tags": "",
+          "type": "",
+          "usage": "CE, SE",
+          "source": "Pale Heart",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Gizmo Weft": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "High-Velocity Rounds",
+            "Spike Grenades",
+            "Sticky Grenades"
+          ],
+          "perk1": [
+            "Air Trigger",
+            "Slideshot"
+          ],
+          "perk2": [
+            "Bipod"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Best in Role, Must-Have",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Boosting jump height",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Event drop",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Mint Retrograde": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "High-Velocity Rounds",
+            "High-Explosive Ordnance"
+          ],
+          "perk1": [
+            "Rewind Rounds",
+            "Hatchling",
+            "Beacon Rounds"
+          ],
+          "perk2": [
+            "Elemental Honing",
+            "Bait and Switch",
+            "Chain Reaction",
+            "Master of Arms"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Best in Role, Must-Have",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Everything",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Hawthorne",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Praxic Blade": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Offensive Form"
+          ],
+          "column2": [
+            "Blade Ammo"
+          ],
+          "perk1": [
+            "Impact Core"
+          ],
+          "perk2": [
+            "Hyperblade"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Best in Role, Must-Have",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Hyperlining",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Renegades quest",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Psi Aeterna IV": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "High-Velocity Rounds",
+            "High-Explosive Ordnance"
+          ],
+          "perk1": [
+            "Blast Distributor",
+            "Trickle Charge",
+            "Beacon Rounds"
+          ],
+          "perk2": [
+            "Elemental Honing",
+            "Rolling Storm",
+            "One for All"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Best in Role, Must-Have",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Everything",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "S28 portal",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Sullen Claw": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Tempered Edge"
+          ],
+          "column2": [
+            "Heavy Guard"
+          ],
+          "perk1": [
+            "Eager Edge",
+            "Vorpal Weapon"
+          ],
+          "perk2": [
+            "Assassin's Blade",
+            "Whirlwind Blade"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Best in Role, Must-Have",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Movement",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Equilibrium",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "The Navigator": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Best in Role, Must-Have",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Creating grapple points",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Ghosts of the Deep",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "The Slammer": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Tempered Edge"
+          ],
+          "column2": [
+            "Heavy Guard",
+            "Enduring Guard"
+          ],
+          "perk1": [
+            "Eager Edge"
+          ],
+          "perk2": [
+            "Cold Steel",
+            "Demolitionist"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Best in Role, Must-Have",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Movement, Overload stunning",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Nightfalls",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Theodolite": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "High-Velocity Rounds",
+            "Spike Grenades",
+            "Sticky Grenades"
+          ],
+          "perk1": [
+            "Reconstruction"
+          ],
+          "perk2": [
+            "Frenzy"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Best in Role, Must-Have",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Boosting jump height",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Hawthorne",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Tractor Cannon": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Best in Role, Must-Have",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Swappable 10s 30% debuff, Enemy displacement",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "New Light quest",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Uncivil Discourse": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Ionized Heatsink"
+          ],
+          "perk1": [
+            "Air Trigger"
+          ],
+          "perk2": [
+            "Precision Instrument"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Best in Role, Must-Have",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Lucky Pants burst damage",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Lawless Frontier",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "A Good Shout": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Ultralight Rail"
+          ],
+          "column2": [
+            "Charged Bolts",
+            "Serrated Bolts",
+            "Heavy Bolts"
+          ],
+          "perk1": [
+            "Envious Arsenal"
+          ],
+          "perk2": [
+            "High Ground"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Alternate Inferior Pick, Niche",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Sustained boss damage",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "S28 portal",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Aberrant Action": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Volatile Launch"
+          ],
+          "column2": [
+            "High-Explosive Ordnance"
+          ],
+          "perk1": [
+            "Heal Clip",
+            "Field Prep"
+          ],
+          "perk2": [
+            "Incandescent"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Alternate Inferior Pick, Niche",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Avoiding primary swaps, Ammo efficient fast add clear",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "S24 pool",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Alethonym": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Alternate Inferior Pick, Niche",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Primary ammo jump boosting",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "S25 pass",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Anarchy": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Alternate Inferior Pick, Niche",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Trapping spawns",
+          "tags": "",
+          "type": "",
+          "usage": "VoG, DSC",
+          "source": "Monument to Lost Lights",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Choir of One": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Alloy Magazine",
+            "Flared Magwell"
+          ],
+          "perk1": [
+            "Onslaught",
+            "Destabilizing Rounds"
+          ],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Alternate Inferior Pick, Niche",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Ranged single target add clear",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Encore",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Chronophage": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Light Battery"
+          ],
+          "perk1": [
+            "Shoot to Loot"
+          ],
+          "perk2": [
+            "Destabilizing Rounds"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Alternate Inferior Pick, Niche",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Avoiding primary swaps, Special single shot add clear, Shooting bricks",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "S24 pool",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Edge of Action": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Lightweight Emitter"
+          ],
+          "column2": [
+            "Appended Mag"
+          ],
+          "perk1": [],
+          "perk2": [
+            "Short-Action Stock"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Alternate Inferior Pick, Niche",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Providing 5% stackable buff",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Enclave evidence board",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Gjallarhorn": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Alternate Inferior Pick, Niche",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Tracking splash damage, Granting Wolfpack rounds",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "30th Anniversary",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Gunnora's Axe": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Tactical Mag"
+          ],
+          "perk1": [
+            "Auto-Loading Holster"
+          ],
+          "perk2": [
+            "Vorpal Weapon"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Double slug",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Iron Banner pool",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Hezen Vengeance": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "Impact Casing"
+          ],
+          "perk1": [
+            "Envious Arsenal",
+            "Overflow",
+            "Cluster Bomb"
+          ],
+          "perk2": [
+            "Elemental Honing",
+            "Bait and Switch"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Alternate Inferior Pick, Niche",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Burst splash damage",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Vault of Glass",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "IKELOS_SG_V1.0.3": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Barrel Shroud"
+          ],
+          "column2": [
+            "Tactical Mag"
+          ],
+          "perk1": [
+            "Grave Robber",
+            "Pugilist",
+            "Subsistence"
+          ],
+          "perk2": [
+            "Surrounded",
+            "One-Two Punch",
+            "Cascade Point"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Alternate Inferior Pick, Niche",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Burst single target damage, One-two punch",
+          "tags": "",
+          "type": "",
+          "usage": "RoN, Prophecy",
+          "source": "Operation: Seraph's Shield",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Izanagi's Burden": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Alternate Inferior Pick, Niche",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Ranged single target burst",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Monument to Lost Lights",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Lost Signal": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "High-Velocity Rounds"
+          ],
+          "perk1": [
+            "Auto-Loading Holster"
+          ],
+          "perk2": [
+            "Vorpal Weapon",
+            "One for All",
+            "Demolitionist"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Alternate Inferior Pick, Niche",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Trapping doors, Building Transcendence",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "S24 pool",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Lotus-Eater": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Volatile Launch"
+          ],
+          "column2": [
+            "Tactical Mag"
+          ],
+          "perk1": [
+            "Repulsor Brace",
+            "Shoot to Loot"
+          ],
+          "perk2": [
+            "Destabilizing Rounds"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Alternate Inferior Pick, Niche",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Avoiding primary swaps, Ammo efficient fast add clear",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Nightfalls",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Lumina": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Alternate Inferior Pick, Niche",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Providing 35% buff, Long distance grapple travel",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Monument to Lost Lights",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Motif-41": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "High-Velocity Rounds"
+          ],
+          "perk1": [
+            "Auto-Loading Holster",
+            "Impulse Amplifier",
+            "Wellspring"
+          ],
+          "perk2": [
+            "Incandescent",
+            "Vorpal Weapon",
+            "Attrition Orbs"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Alternate Inferior Pick, Niche",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Splash add clear",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "S28 portal",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "No Hesitation": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Accurized Rounds"
+          ],
+          "perk1": [
+            "Physic"
+          ],
+          "perk2": [
+            "Attrition Orbs",
+            "Incandescent"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Alternate Inferior Pick, Niche",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Healing vulnerable teammates, Universal damage boost",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Pale Heart",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Parasite": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Alternate Inferior Pick, Niche",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Extremely high burst",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Witch Queen quest",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Path of Least Resistance": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Light Battery"
+          ],
+          "perk1": [
+            "Shoot to Loot"
+          ],
+          "perk2": [
+            "Voltshot",
+            "Harmony"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Alternate Inferior Pick, Niche",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Avoiding primary swaps, Special single shot add clear, Shooting bricks",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Operation: Seraph's Shield",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Perfect Paradox": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Barrel Shroud"
+          ],
+          "column2": [
+            "Tactical Mag",
+            "Light Mag"
+          ],
+          "perk1": [
+            "Field Prep",
+            "Pugilist"
+          ],
+          "perk2": [
+            "One-Two Punch",
+            "Trench Barrel"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Alternate Inferior Pick, Niche",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Burst single target damage, One-two punch",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "S24 pool",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Psychopomp": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "High-Velocity Rounds"
+          ],
+          "perk1": [
+            "Envious Arsenal",
+            "Ambitious Assassin",
+            "Pugilist"
+          ],
+          "perk2": [
+            "Elemental Honing",
+            "Rolling Storm",
+            "Demolitionist"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Alternate Inferior Pick, Niche",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Trapping doors",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "S26 pool",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Pure Recollection": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Ricochet Rounds"
+          ],
+          "perk1": [
+            "Envious Arsenal"
+          ],
+          "perk2": [
+            "Bait and Switch",
+            "Withering Gaze"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Alternate Inferior Pick, Niche",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Dying, Debuff extension",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Hawthorne",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Refurbished A499": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Flared Magwell"
+          ],
+          "perk1": [
+            "Gutshot Straight",
+            "Bewildering Burst",
+            "Snapshot Sights"
+          ],
+          "perk2": [
+            "Aggregate Charge"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Alternate Inferior Pick, Niche",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Sustained boss damage",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Lawless Frontier",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Retraced Path": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Light Battery"
+          ],
+          "perk1": [
+            "Shoot to Loot",
+            "Subsistence",
+            "Adaptive Munitions"
+          ],
+          "perk2": [
+            "Demolitionist",
+            "Incandescent",
+            "Frenzy"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Alternate Inferior Pick, Niche",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Avoiding primary swaps, Special single shot add clear, Shooting bricks",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Dares of Eternity",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Returned Memory": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "High-Velocity Rounds"
+          ],
+          "perk1": [
+            "Heal Clip",
+            "Impulse Amplifier",
+            "Lead from Gold"
+          ],
+          "perk2": [
+            "Incandescent",
+            "Redirection",
+            "Desperate Measures"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Alternate Inferior Pick, Niche",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Splash add clear",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Hawthorne",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Salvation's Grip": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Alternate Inferior Pick, Niche",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Blocking spawn points, Creating terrain",
+          "tags": "",
+          "type": "",
+          "usage": "VotD, KF, RoN",
+          "source": "The Stasis Prototype quest",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Starscape Null": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Barrel Shroud"
+          ],
+          "column2": [
+            "Assault Mag"
+          ],
+          "perk1": [
+            "Rewind Rounds",
+            "Reconstruction"
+          ],
+          "perk2": [
+            "One-Two Punch",
+            "Trench Barrel"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Alternate Inferior Pick, Niche",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "One-two punch",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Desert Perpetual - Epic",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Still Hunt": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Alternate Inferior Pick, Niche",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Burst crit damage",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Pale Heart quest",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Synanceia": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Tempered Edge"
+          ],
+          "column2": [
+            "Heavy Guard",
+            "Swordmaster's Guard"
+          ],
+          "perk1": [
+            "Relentless Strikes",
+            "Attrition Orbs",
+            "Sharp Harvest"
+          ],
+          "perk2": [
+            "Eager Edge",
+            "Elemental Honing",
+            "Surrounded"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Alternate Inferior Pick, Niche",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Movement, Sustained sword damage",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Event drop",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Tessellation": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Alternate Inferior Pick, Niche",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Ranged burst damage",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Monument to Lost Lights",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "The Fourth Horseman": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Alternate Inferior Pick, Niche",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Imprecise single target burst",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Monument to Lost Lights",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "The When and Where": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "Impact Casing"
+          ],
+          "perk1": [
+            "Clown Cartridge",
+            "Overflow",
+            "Reconstruction"
+          ],
+          "perk2": [
+            "Reaper's Tithe",
+            "Surrounded",
+            "Bait and Switch",
+            "Bipod"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Alternate Inferior Pick, Niche",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Burst boss damage",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Desert Perpetual",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Tinasha's Mastery": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Volatile Launch"
+          ],
+          "column2": [
+            "High-Explosive Ordnance"
+          ],
+          "perk1": [
+            "Air Trigger",
+            "Reverberation"
+          ],
+          "perk2": [
+            "Chill Clip",
+            "Desperate Measures",
+            "Surrounded"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Alternate Inferior Pick, Niche",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Avoiding primary swaps, Ammo efficient fast add clear",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Iron Banner",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Trinity Ghoul": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Alternate Inferior Pick, Niche",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Low health rapid add clear",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "World drop",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Unsworn": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Light Battery"
+          ],
+          "perk1": [
+            "Shoot to Loot"
+          ],
+          "perk2": [
+            "Detonator Beam",
+            "Hatchling"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Alternate Inferior Pick, Niche",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Avoiding primary swaps, Special single shot add clear, Shooting bricks",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Sundered Doctrine",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "VS Velocity Baton": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "High-Velocity Rounds"
+          ],
+          "perk1": [
+            "Demolitionist",
+            "Repulsor Brace"
+          ],
+          "perk2": [
+            "Attrition Orbs",
+            "Destabilizing Rounds"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Alternate Inferior Pick, Niche",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Trapping doors, Orb generation",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Vesper's Host",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Adamantite": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Accurized Rounds"
+          ],
+          "perk1": [
+            "Reciprocity",
+            "Slice"
+          ],
+          "perk2": [
+            "Attrition Orbs"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Situational, Unnecessary",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Healing vulnerable teammates, Universal damage boost",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "S26 pool",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Bad Juju": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Situational, Unnecessary",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Farming super",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Monument to Lost Lights",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Conspiracy Honed": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Ionized Heatsink"
+          ],
+          "perk1": [
+            "Vorpal Weapon"
+          ],
+          "perk2": [
+            "Bait and Switch"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Situational, Unnecessary",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Burst boss damage",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Equilibrium",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Critical Anomaly": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Tactical Mag"
+          ],
+          "perk1": [
+            "Chill Clip",
+            "Rewind Rounds"
+          ],
+          "perk2": [
+            "Chaos Reshaped"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Situational, Unnecessary",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Artifact-independent Overload",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Salvation's Edge",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Cusp Sempiternal": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Accurized Rounds"
+          ],
+          "perk1": [
+            "Impulse Amplifier",
+            "Repulsor Brace",
+            "Reciprocity"
+          ],
+          "perk2": [
+            "Destabilizing Rounds",
+            "Circle of Life"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Situational, Unnecessary",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Healing vulnerable teammates, Universal damage boost",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Divinity": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Situational, Unnecessary",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "15% debuff with crit bubble, Intrinsic overload",
+          "tags": "",
+          "type": "",
+          "usage": "GMs",
+          "source": "Garden of Salvation",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Edge Transit": {
+        "version": "BRAVE",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "Sticky Grenades"
+          ],
+          "perk1": [
+            "Cascade Point"
+          ],
+          "perk2": [
+            "Explosive Light"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Situational, Unnecessary",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Burst boss damage",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Onslaught",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Eriana's Vow": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Situational, Unnecessary",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Rapid piercing damage, Destroying oracles, Death Throes stacking, Long range hitscan Barrier",
+          "tags": "",
+          "type": "",
+          "usage": "VoG, Duality, VotD",
+          "source": "Monument to Lost Lights",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Ex Diris": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Situational, Unnecessary",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Dying quickly",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Monument to Lost Lights",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Finality's Auger": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Situational, Unnecessary",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Trapping doors",
+          "tags": "",
+          "type": "",
+          "usage": "VoG",
+          "source": "Sundered Doctrine",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Ice Breaker": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Situational, Unnecessary",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Ammo generation",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Vesper's Host",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Imperial Decree": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Barrel Shroud"
+          ],
+          "column2": [
+            "Assault Mag"
+          ],
+          "perk1": [
+            "Auto-Loading Holster"
+          ],
+          "perk2": [
+            "Trench Barrel",
+            "Surrounded"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Situational, Unnecessary",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Burst single target damage, Slow single weapon damage",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "S20 focusing",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Martyr's Retribution": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "High-Velocity Rounds"
+          ],
+          "perk1": [
+            "Heal Clip",
+            "Demolitionist",
+            "Auto-Loading Holster"
+          ],
+          "perk2": [
+            "Incandescent",
+            "Kill Clip"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Situational, Unnecessary",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Ammo efficient add clear",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "S24 pool",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "New Malpais": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Situational, Unnecessary",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Trapping spawns, Pre-activating objectives",
+          "tags": "",
+          "type": "",
+          "usage": "TST, SotW",
+          "source": "Monument to Lost Lights",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Praedyth's Revenge": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Tactical Mag"
+          ],
+          "perk1": [
+            "Kinetic Tremors",
+            "Fourth Time's the Charm"
+          ],
+          "perk2": [
+            "Elemental Honing",
+            "Bait and Switch"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Situational, Unnecessary",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Quick ranged hitscan kills, Augmenting boss damage",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Vault of Glass",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Tarnation": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Volatile Launch"
+          ],
+          "column2": [
+            "High-Explosive Ordnance"
+          ],
+          "perk1": [
+            "Field Prep"
+          ],
+          "perk2": [
+            "Danger Zone"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Situational, Unnecessary",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Vault add clear",
+          "tags": "",
+          "type": "",
+          "usage": "Last Wish",
+          "source": "Throne World pool",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "The Call": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Volatile Launch"
+          ],
+          "column2": [
+            "High-Explosive Ordnance"
+          ],
+          "perk1": [
+            "Slice",
+            "Lead from Gold",
+            "Demolitionist"
+          ],
+          "perk2": [
+            "Desperate Measures",
+            "Golden Tricorn",
+            "One for All"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Situational, Unnecessary",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Avoiding primary swaps, Ammo efficient fast add clear",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Pale Heart pool",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "The Mountaintop": {
+        "version": "BRAVE",
+        "perks": {
+          "column1": [
+            "Hard Launch",
+            "Quick Launch"
+          ],
+          "column2": [
+            "Implosion Rounds",
+            "Sticky Grenades"
+          ],
+          "perk1": [
+            "Auto-Loading Holster",
+            "Overflow",
+            "Demolitionist",
+            "Lead from Gold"
+          ],
+          "perk2": [
+            "Recombination",
+            "Frenzy"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Situational, Unnecessary",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Boosting jump height, Augmenting boss damage",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Onslaught",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "The Other Half": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Enduring Blade",
+            "Jagged Edge"
+          ],
+          "column2": [
+            "Heavy Guard",
+            "Swordmaster's Guard"
+          ],
+          "perk1": [
+            "Eager Edge"
+          ],
+          "perk2": [
+            "Surrounded",
+            "Frenzy",
+            "Vorpal Weapon"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Situational, Unnecessary",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Movement",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Dares of Eternity",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "The Wardcliff Coil": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Situational, Unnecessary",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Melting vehicle bosses",
+          "tags": "",
+          "type": "",
+          "usage": "The Scarlet Keep, The Shattered Throne",
+          "source": "World drop",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Unfall": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "High-Velocity Rounds"
+          ],
+          "perk1": [
+            "Impulse Amplifier",
+            "Lead from Gold",
+            "Beacon Rounds"
+          ],
+          "perk2": [
+            "Master of Arms",
+            "Rolling Storm",
+            "Jolting Feedback"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Situational, Unnecessary",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Splash add clear",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Hawthorne",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Unvoiced": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Assault Mag"
+          ],
+          "perk1": [
+            "Redirection",
+            "Fourth Time's the Charm"
+          ],
+          "perk2": [
+            "Elemental Honing",
+            "Bait and Switch"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Situational, Unnecessary",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Special burst damage",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Sundered Doctrine",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Verglas Curve": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Situational, Unnecessary",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Making terrain for lining",
+          "tags": "",
+          "type": "",
+          "usage": "KF, RoN",
+          "source": "Monument to Lost Lights",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "VS Chill Inhibitor": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "Spike Grenades"
+          ],
+          "perk1": [
+            "Envious Arsenal",
+            "Cascade Point"
+          ],
+          "perk2": [
+            "Bait and Switch",
+            "Explosive Light",
+            "Surrounded"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Non-rocket burst damage",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Vesper's Host",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Whirling Ovation": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Situational, Unnecessary",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Delayed burst damage",
+          "tags": "",
+          "type": "",
+          "usage": "RoN",
+          "source": "Desert Perpetual",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Witherhoard": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Situational, Unnecessary",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Trapping spawns",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Monument to Lost Lights",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Worldline Zero": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Situational, Unnecessary",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Blade Focus long lines",
+          "tags": "",
+          "type": "",
+          "usage": "LW",
+          "source": "Monument to Lost Lights",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Xenophage": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Situational, Unnecessary",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Ranged hitscan bursts",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Pit of Heresy",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Acasia's Dejection": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Light Battery"
+          ],
+          "perk1": [
+            "Reconstruction",
+            "Field Prep"
+          ],
+          "perk2": [
+            "Frenzy",
+            "Paracausal Affinity"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Avoiding primary swaps, Special single shot add clear",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Root of Nightmares",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Apex Predator": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "Impact Casing"
+          ],
+          "perk1": [
+            "Reconstruction"
+          ],
+          "perk2": [
+            "Bait and Switch",
+            "Bipod",
+            "Surrounded"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Burst splash damage",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Last Wish",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Arbalest": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Single target piercing damage, Intrinsic Barrier",
+          "tags": "",
+          "type": "",
+          "usage": "GMs",
+          "source": "Intro exotic quest",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Arcane Embrace": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Appended Mag"
+          ],
+          "perk1": [
+            "Fourth Time's the Charm",
+            "Air Trigger",
+            "Grave Robber"
+          ],
+          "perk2": [
+            "Precision Instrument",
+            "Surrounded"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Fastest Cascade trigger",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Festival of the Lost",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Bastion": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Object destruction, Intrinsic Unstoppable, Ranged long duration 12P",
+          "tags": "",
+          "type": "",
+          "usage": "DSC, Prophecy, Lake of Shadows, etc.",
+          "source": "Monument to Lost Lights",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Bitter/Sweet": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "Spike Grenades",
+            "Mini Frags"
+          ],
+          "perk1": [
+            "Envious Arsenal"
+          ],
+          "perk2": [
+            "Bait and Switch"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Non-rocket burst damage",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "S25 pool",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Briar's Contempt": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Accelerated Coils"
+          ],
+          "perk1": [
+            "Rewind Rounds"
+          ],
+          "perk2": [
+            "Surrounded"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Specialized sustained damage",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Root of Nightmares",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Bump in the Night": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "Impact Casing"
+          ],
+          "perk1": [
+            "Demolitionist",
+            "Auto-Loading Holster"
+          ],
+          "perk2": [
+            "Chill Clip",
+            "Frenzy"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Chill Clip application",
+          "tags": "",
+          "type": "",
+          "usage": "SotW",
+          "source": "Presage",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Calus Mini-Tool": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Flared Magwell"
+          ],
+          "perk1": [
+            "Threat Detector"
+          ],
+          "perk2": [
+            "Incandescent"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "General primary",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Presage",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Cataclysmic": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Enhanced Battery"
+          ],
+          "perk1": [
+            "Fourth Time's The Charm"
+          ],
+          "perk2": [
+            "Bait and Switch"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Ranged sustained damage",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Vow of the Disciple",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Cataphract GL3": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "Spike Grenades"
+          ],
+          "perk1": [
+            "Envious Assassin",
+            "Auto-Loading Holster"
+          ],
+          "perk2": [
+            "Bait and Switch",
+            "Cascade Point"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Non-rocket burst damage",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "Trials of Osiris",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Cold Comfort": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "Impact Casing"
+          ],
+          "perk1": [
+            "Envious Assassin"
+          ],
+          "perk2": [
+            "Bait and Switch"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Burst splash damage",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Ghosts of the Deep",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Commemoration": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Extended Mag"
+          ],
+          "perk1": [
+            "Reconstruction",
+            "Subsistence"
+          ],
+          "perk2": [
+            "Killing Tally",
+            "Rampage"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "General add clear",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Deep Stone Crypt",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Conditional Finality": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Unstoppable stun, Instant freeze or ignite",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Root of Nightmares",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Corrective Measure": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Flared Magwell"
+          ],
+          "perk1": [
+            "Demolitionist",
+            "Subsistence"
+          ],
+          "perk2": [
+            "Firefly"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "General add clear",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Vault of Glass",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Crux Termination IV": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "Impact Casing"
+          ],
+          "perk1": [
+            "Slideshot",
+            "Reconstruction",
+            "Clown Cartridge"
+          ],
+          "perk2": [
+            "Surrounded",
+            "Bipod"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Niche boss damage, Burst splash damage",
+          "tags": "",
+          "type": "",
+          "usage": "GMs",
+          "source": "World drop",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Cynosure": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "Impact Casing"
+          ],
+          "perk1": [
+            "Envious Arsenal",
+            "Overflow",
+            "Clown Cartridge"
+          ],
+          "perk2": [
+            "Elemental Honing",
+            "Bipod",
+            "High Ground"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Burst splash damage",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Vanguard pool",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Dead Weight": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Barrel Shroud"
+          ],
+          "column2": [
+            "Tactical Mag"
+          ],
+          "perk1": [
+            "Grave Robber",
+            "Auto-Loading Holster",
+            "Lead from Gold"
+          ],
+          "perk2": [
+            "One-Two Punch",
+            "Surrounded",
+            "Frenzy",
+            "Vorpal Weapon"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "One-two punch, Major burst, Fast single weapon damage",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Gambit pool",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Deafening Whisper": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "High-Velocity Rounds"
+          ],
+          "perk1": [
+            "Ambitious Assassin"
+          ],
+          "perk2": [
+            "Wellspring",
+            "Auto-Loading Holster",
+            "Unrelenting"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Ammo efficient add clear",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Dares of Eternity (rotation)",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Defiance of Yasmin": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Extended Mag"
+          ],
+          "perk1": [
+            "Shoot to Loot",
+            "Ensemble",
+            "Lead From Gold"
+          ],
+          "perk2": [
+            "Slickdraw",
+            "Firing Line"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Shoot to loot kinetic, Augmenting damage",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "King's Fall",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Distant Tumulus": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Tactical Mag"
+          ],
+          "perk1": [
+            "Clown Cartridge"
+          ],
+          "perk2": [
+            "Firing Line"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Quick ranged hitscan kills, Breaking eyes",
+          "tags": "",
+          "type": "",
+          "usage": "GoS, SotW",
+          "source": "Dares of Eternity (rotation)",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Empty Vessel": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "Disorienting Grenades",
+            "Spike Grenades"
+          ],
+          "perk1": [
+            "Auto-Loading Holster"
+          ],
+          "perk2": [
+            "Demolitionist",
+            "Danger Zone",
+            "Vorpal Weapon"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Blinding enemies, Filling ranged swap rotation",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Vanguard pool",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Explosive Personality": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "High-Velocity Rounds"
+          ],
+          "perk1": [
+            "Auto-Loading Holster",
+            "Threat Detector"
+          ],
+          "perk2": [
+            "Frenzy",
+            "Unrelenting"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Ammo efficient add clear",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Vox Obscura",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "First In, Last Out": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Assault Mag"
+          ],
+          "perk1": [
+            "Auto-Loading Holster"
+          ],
+          "perk2": [
+            "Vorpal Weapon",
+            "Surrounded"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Double slug",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Dares of Eternity (rotation)",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Fixed Odds": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Arrowhead Brake"
+          ],
+          "column2": [
+            "Extended Mag"
+          ],
+          "perk1": [
+            "Field Prep"
+          ],
+          "perk2": [
+            "Incandescent"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "General add clear",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Duality",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Forbearance": {
+        "version": "BRAVE",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "High-Velocity Rounds"
+          ],
+          "perk1": [
+            "Demolitionist",
+            "Ambitious Assassin",
+            "Unrelenting"
+          ],
+          "perk2": [
+            "Chain Reaction",
+            "Desperate Measures"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Ammo efficient add clear",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Onslaught",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Fortissimo-11": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Assault Mag"
+          ],
+          "perk1": [
+            "Threat Detector",
+            "Demolitionist",
+            "Fourth Time's the Charm"
+          ],
+          "perk2": [
+            "Vorpal Weapon",
+            "Surrounded",
+            "Frenzy"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Double slug",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Vanguard pool",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Funnelweb": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Flared Magwell"
+          ],
+          "perk1": [
+            "Subsistence",
+            "Steady Hands",
+            "Perpetual Motion"
+          ],
+          "perk2": [
+            "Frenzy"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "General primary",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "World drop",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Grand Overture": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Extremely high burst",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Monument to Lost Lights",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Half-Truths": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Enduring Blade",
+            "Jagged Edge"
+          ],
+          "column2": [
+            "Heavy Guard",
+            "Swordmaster's Guard"
+          ],
+          "perk1": [
+            "Duelist's Trance",
+            "Tireless Blade"
+          ],
+          "perk2": [
+            "Eager Edge"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Movement",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Dares of Eternity",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Harsh Language": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "High-Velocity Rounds"
+          ],
+          "perk1": [
+            "Wellspring",
+            "Field Prep"
+          ],
+          "perk2": [
+            "Repulsor Brace",
+            "Destabilizing Rounds"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Ammo efficient add clear",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "World drop",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Heritage": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Assault Mag"
+          ],
+          "perk1": [
+            "Reconstruction"
+          ],
+          "perk2": [
+            "Recombination"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Single target burst, Double slug",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Deep Stone Crypt",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Hollow Denial": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Light Battery"
+          ],
+          "perk1": [
+            "Lead From Gold"
+          ],
+          "perk2": [
+            "Repulsor Brace",
+            "Wellspring"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Avoiding primary swaps, Special single shot add clear",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Presage",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Ignition Code": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "Disorienting Grenades"
+          ],
+          "perk1": [
+            "Slideshot"
+          ],
+          "perk2": [
+            "Demolitionist",
+            "Frenzy",
+            "Danger Zone"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Blinding enemies",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Dares of Eternity (rotation)",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "IKELOS_SMG_V1.0.2": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Seraph Rounds",
+            "Flared Magwell"
+          ],
+          "perk1": [
+            "Threat Detector"
+          ],
+          "perk2": [
+            "Demolitionist",
+            "Surrounded"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "General primary",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "IKELOS_SMG_V1.0.3": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Seraph Rounds",
+            "Flared Magwell"
+          ],
+          "perk1": [
+            "Shoot to Loot",
+            "Threat Detector"
+          ],
+          "perk2": [
+            "Voltshot",
+            "Surrounded",
+            "Frenzy"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "General primary",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Operation: Seraph's Shield",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "IKELOS_SR_V1.0.2": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Tactical Mag"
+          ],
+          "perk1": [
+            "Fourth Time's The Charm",
+            "Triple Tap"
+          ],
+          "perk2": [
+            "High-Impact Reserves",
+            "Quickdraw"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Quick ranged hitscan kills, Breaking eyes",
+          "tags": "",
+          "type": "",
+          "usage": "GoS, SotW",
+          "source": "Operation: Seraph's Shield",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "IKELOS_SR_V1.0.3": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Tactical Mag"
+          ],
+          "perk1": [
+            "Fourth Time's The Charm",
+            "Overflow"
+          ],
+          "perk2": [
+            "High-Impact Reserves",
+            "Slickdraw"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Quick ranged hitscan kills, Breaking eyes",
+          "tags": "",
+          "type": "",
+          "usage": "GoS, SotW",
+          "source": "Operation: Seraph's Shield",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Ill Omen": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Jagged Edge"
+          ],
+          "column2": [
+            "Swordmaster's Guard"
+          ],
+          "perk1": [
+            "Attrition Orbs",
+            "Relentless Strikes"
+          ],
+          "perk2": [
+            "Whirlwind Blade",
+            "Surrounded"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Sword boss damage",
+          "tags": "",
+          "type": "",
+          "usage": "CE, SE",
+          "source": "S24 pool",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Indebted Kindness": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "Tactical Mag"
+          ],
+          "perk1": [
+            "Impulse Amplifier",
+            "Lead From Gold"
+          ],
+          "perk2": [
+            "Surrounded",
+            "Voltshot"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Avoiding primary swaps, Ammo efficient fast add clear",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Warlord's Ruin",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Judgment of Kelgorath": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Tempered Truss Rod"
+          ],
+          "column2": [
+            "Swap Mag"
+          ],
+          "perk1": [
+            "Pugilist"
+          ],
+          "perk2": [
+            "Close to Melee"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Melee sustained damage",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Operation: Seraph's Shield",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Koraxis's Distress": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "Spike Grenades"
+          ],
+          "perk1": [
+            "Envious Assassin",
+            "Reconstruction"
+          ],
+          "perk2": [
+            "Surrounded"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Situational non-rocket burst",
+          "tags": "",
+          "type": "",
+          "usage": "GoS, LW",
+          "source": "Root of Nightmares",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Legato-11": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Assault Mag"
+          ],
+          "perk1": [
+            "Auto-Loading Holster"
+          ],
+          "perk2": [
+            "Vorpal Weapon",
+            "Cascade Point"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Double slug, Damage rotation fill",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "World drop",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Lingering Dread": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "Disorienting Grenades"
+          ],
+          "perk1": [
+            "Auto-Loading Holster"
+          ],
+          "perk2": [
+            "Chill Clip"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Blinding enemies, Chill Clip application",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Duality",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Liturgy": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "Spike Grenades",
+            "Disorienting Grenades"
+          ],
+          "perk1": [
+            "Envious Arsenal",
+            "Slideways"
+          ],
+          "perk2": [
+            "Chill Clip"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Blinding Overload option, Filling ranged swap rotation",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "S25 pool",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Marsilion-C": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "Spike Grenades"
+          ],
+          "perk1": [
+            "Envious Assassin"
+          ],
+          "perk2": [
+            "Cascade Point",
+            "Full Court"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Non-rocket burst damage",
+          "tags": "",
+          "type": "",
+          "usage": "SE",
+          "source": "Gunsmith pool",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Mindbender's Ambition": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Barrel Shroud"
+          ],
+          "column2": [
+            "Assault Mag"
+          ],
+          "perk1": [
+            "Threat Detector"
+          ],
+          "perk2": [
+            "Vorpal Weapon"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Double pellet",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Vanguard legacy focusing",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Nessa's Oblation": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Assault Mag"
+          ],
+          "perk1": [
+            "Reconstruction"
+          ],
+          "perk2": [
+            "Vorpal Weapon"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Double slug",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Root of Nightmares",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "New Pacific Epitaph": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "High-Velocity Rounds"
+          ],
+          "perk1": [
+            "Demolitionist",
+            "Lead from Gold",
+            "Unrelenting"
+          ],
+          "perk2": [
+            "Redirection"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Ammo efficient add clear",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Ghosts of the Deep",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "No Reprieve": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Assault Mag"
+          ],
+          "perk1": [
+            "Triple Tap"
+          ],
+          "perk2": [
+            "Surrounded"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Double slug",
+          "tags": "",
+          "type": "",
+          "usage": "Last Wish, Spire of the Watcher",
+          "source": "",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Omniscient Eye": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Tactical Mag"
+          ],
+          "perk1": [
+            "Fourth Time's the Charm",
+            "Envious Arsenal"
+          ],
+          "perk2": [
+            "Precision Instrument",
+            "Vorpal Weapon"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Augmenting damage",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Garden of Salvation",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "One Small Step": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Barrel Shroud"
+          ],
+          "column2": [
+            "Tactical Mag"
+          ],
+          "perk1": [
+            "Slideshot",
+            "Lead From Gold",
+            "Surplus"
+          ],
+          "perk2": [
+            "One-Two Punch"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "One-two punch",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Moon essence",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Pardon Our Dust": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "Disorienting Grenades",
+            "Spike Grenades"
+          ],
+          "perk1": [
+            "Auto-Loading Holster"
+          ],
+          "perk2": [
+            "Demolitionist",
+            "Vorpal Weapon"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Blinding enemies, Augmenting boss damage",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Dares of Eternity",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Qullim's Terminus": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Flared Magwell"
+          ],
+          "perk1": [
+            "Ensemble"
+          ],
+          "perk2": [
+            "Killing Tally",
+            "Firefly"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "General add clear",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "King's Fall",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Ragnhild-D": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Barrel Shroud"
+          ],
+          "column2": [
+            "Assault Mag"
+          ],
+          "perk1": [
+            "Auto-Loading Holster",
+            "Ensemble"
+          ],
+          "perk2": [
+            "Frenzy"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Double pellet",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "World drop",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Rake Angle": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Lightweight Emitter"
+          ],
+          "column2": [
+            "Extended Mag",
+            "Swap Mag"
+          ],
+          "perk1": [
+            "Overflow",
+            "Impulse Amplifier",
+            "Lead from Gold"
+          ],
+          "perk2": [
+            "Chill Clip"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Overload stun",
+          "tags": "",
+          "type": "",
+          "usage": "Lost sectors",
+          "source": "Nightfalls",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Red Herring": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "Impact Casing"
+          ],
+          "perk1": [
+            "Field Prep"
+          ],
+          "perk2": [
+            "Frenzy"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Burst splash damage",
+          "tags": "",
+          "type": "",
+          "usage": "GMs",
+          "source": "Throne World pool",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Reed's Regret": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Enhanced Battery"
+          ],
+          "perk1": [
+            "Triple Tap"
+          ],
+          "perk2": [
+            "Firing Line"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Ranged sustained damage",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Trials of Osiris",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Retrofuturist": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Barrel Shroud"
+          ],
+          "column2": [
+            "Assault Mag"
+          ],
+          "perk1": [
+            "Slickdraw",
+            "Auto-Loading Holster"
+          ],
+          "perk2": [
+            "Frenzy",
+            "Vorpal Weapon"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Double pellet",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Crucible pool",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Riiswalker": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Barrel Shroud"
+          ],
+          "column2": [
+            "Assault Mag"
+          ],
+          "perk1": [
+            "Quickdraw",
+            "Surplus"
+          ],
+          "perk2": [
+            "Vorpal Weapon"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Double pellet",
+          "tags": "",
+          "type": "",
+          "usage": "KF",
+          "source": "Iron Banner legacy focusing",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Riptide": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Arrowhead Brake"
+          ],
+          "column2": [
+            "Accelerated Coils"
+          ],
+          "perk1": [
+            "Auto-Loading Holster",
+            "Lead from Gold",
+            "Field Prep"
+          ],
+          "perk2": [
+            "Chill Clip",
+            "Vorpal Weapon",
+            "Frenzy"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Chill Clip application",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Crucible pool",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Scatter Signal": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Enhanced Battery"
+          ],
+          "perk1": [
+            "Overflow",
+            "Slice"
+          ],
+          "perk2": [
+            "Controlled Burst"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Augmenting damage",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "S23 pool",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Seventh Seraph CQC-12": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Barrel Shroud"
+          ],
+          "column2": [
+            "Tactical Mag"
+          ],
+          "perk1": [
+            "Auto-Loading Holster"
+          ],
+          "perk2": [
+            "Vorpal Weapon"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Double pellet, Killing majors",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Sojourner's Tale": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Assault Mag"
+          ],
+          "perk1": [
+            "Auto-Loading Holster"
+          ],
+          "perk2": [
+            "Frenzy",
+            "Surrounded"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Double slug",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Dares of Eternity (rotation)",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Sovereignty": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Tactical Mag"
+          ],
+          "perk1": [
+            "Demolitionist",
+            "Explosive Payload"
+          ],
+          "perk2": [
+            "Withering Gaze"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Artifact-independent weaken",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "S25 pool",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Stormchaser": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Arrowhead Brake"
+          ],
+          "column2": [
+            "Accelerated Coils",
+            "Enhanced Battery"
+          ],
+          "perk1": [
+            "Auto-Loading Holster",
+            "Clown Cartridge"
+          ],
+          "perk2": [
+            "Firing Line"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Ranged sustained damage",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Duality",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Submission": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Flared Magwell"
+          ],
+          "perk1": [
+            "Perpetual Motion"
+          ],
+          "perk2": [
+            "Frenzy",
+            "Demolitionist"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "General primary",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Vow of the Disciple",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Succession": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Extended Mag",
+            "Tactical Mag"
+          ],
+          "perk1": [
+            "Reconstruction",
+            "Demolitionist"
+          ],
+          "perk2": [
+            "Vorpal Weapon",
+            "Snapshot Sights",
+            "Recombination",
+            "Osmosis"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Quick ranged hitscan kills, Death Throes stacking",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Deep Stone Crypt",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Summum Bonum": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Jagged Edge"
+          ],
+          "column2": [
+            "Swordmaster's Guard"
+          ],
+          "perk1": [
+            "Relentless Strikes",
+            "Attrition Orbs",
+            "Deconstruct"
+          ],
+          "perk2": [
+            "Chaos Reshaped",
+            "Whirlwind Blade",
+            "Surrounded"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Melee range boss damage",
+          "tags": "",
+          "type": "",
+          "usage": "SE",
+          "source": "Salvation's Edge",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Taipan-4fr": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Enhanced Battery"
+          ],
+          "perk1": [
+            "Triple Tap"
+          ],
+          "perk2": [
+            "Firing Line"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Ranged sustained damage",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "World drop, Enclave quest",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "The Comedian": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Barrel Shroud"
+          ],
+          "column2": [
+            "Assault Mag"
+          ],
+          "perk1": [
+            "Ensemble",
+            "Lead from Gold"
+          ],
+          "perk2": [
+            "Vorpal Weapon",
+            "Trench Barrel"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Double pellet, Slow single weapon damage",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Vanguard legacy focusing",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "The Hothead": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "Impact Casing"
+          ],
+          "perk1": [
+            "Auto-Loading Holster",
+            "Demolitionist",
+            "Field Prep"
+          ],
+          "perk2": [
+            "Explosive Light",
+            "Clown Cartridge",
+            "Lasting Impression"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Burst splash damage",
+          "tags": "",
+          "type": "",
+          "usage": "GMs",
+          "source": "Vanguard legacy focusing",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "The Lament": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Ammo efficient burst, Intrinsic Barrier",
+          "tags": "",
+          "type": "",
+          "usage": "GMs, missions, Last Wish",
+          "source": "Reforging the Past",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "The Militia's Birthright": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "Disorienting Grenades"
+          ],
+          "perk1": [
+            "Slideways",
+            "Lead from Gold"
+          ],
+          "perk2": [
+            "Auto-Loading Holster",
+            "Frenzy"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Blinding enemies",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Vanguard legacy focusing",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "The Supremacy": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Appended Mag",
+            "Armor-Piercing Rounds"
+          ],
+          "perk1": [
+            "Rewind Rounds",
+            "Snapshot Sights",
+            "Lead from Gold",
+            "Discord"
+          ],
+          "perk2": [
+            "Kinetic Tremors",
+            "Bait and Switch",
+            "Fourth Time's the Charm"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Quick ranged hitscan kills, Augmenting boss damage",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Last Wish",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Thoughtless": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Extended Mag"
+          ],
+          "perk1": [
+            "Overflow"
+          ],
+          "perk2": [
+            "Firing Line"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Augmenting damage",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Vox Obscura",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Thunderlord": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Hitscan splash add clear",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "World drop",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Tomorrow's Answer": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "Impact Casing"
+          ],
+          "perk1": [
+            "Envious Arsenal"
+          ],
+          "perk2": [
+            "Bait and Switch",
+            "Explosive Light"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Burst splash damage",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Trials of Osiris",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Truthteller": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "Disorienting Grenades",
+            "Spike Grenades"
+          ],
+          "perk1": [
+            "Auto-Loading Holster"
+          ],
+          "perk2": [
+            "Demolitionist",
+            "Quickdraw"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Blinding enemies, Filling ranged swap rotation",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Tusk of the Boar": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "High-Velocity Rounds"
+          ],
+          "perk1": [
+            "Slideways",
+            "Slice"
+          ],
+          "perk2": [
+            "Chain Reaction",
+            "Deconstruct"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Ammo efficient add clear",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Iron Banner",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Twilight Oath": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Tactical Mag"
+          ],
+          "perk1": [
+            "Envious Assassin"
+          ],
+          "perk2": [
+            "Vorpal Weapon"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Augmenting damage",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Dreaming City",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Until Its Return": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Barrel Shroud"
+          ],
+          "column2": [
+            "Tactical Mag"
+          ],
+          "perk1": [
+            "Overflow",
+            "Auto-Loading Holster"
+          ],
+          "perk2": [
+            "Surrounded",
+            "Cascade Point"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Burst single target damage",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "S21 pool",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Veleda-F": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Tactical Mag"
+          ],
+          "perk1": [
+            "Air Trigger",
+            "Slickdraw"
+          ],
+          "perk2": [
+            "Withering Gaze"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Artifact-independent weaken",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "World drop",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Wastelander M5": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Barrel Shroud"
+          ],
+          "column2": [
+            "Tactical Mag"
+          ],
+          "perk1": [
+            "Lead From Gold"
+          ],
+          "perk2": [
+            "One-Two Punch",
+            "Vorpal Weapon"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "One-two punch, Major burst",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Dares of Eternity",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Wicked Sister": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "Spike Grenades",
+            "Mini Frags"
+          ],
+          "perk1": [
+            "Envious Arsenal"
+          ],
+          "perk2": [
+            "Bait and Switch"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Non-rocket burst damage",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Vanguard pool",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Wild Style": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "Spike Grenades"
+          ],
+          "perk1": [
+            "Reconstruction"
+          ],
+          "perk2": [
+            "Bait and Switch",
+            "Vorpal Weapon"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Filling ranged swap rotation",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Nightfalls",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Wilderflight": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "Disorienting Grenades",
+            "Spike Grenades"
+          ],
+          "perk1": [
+            "Auto-Loading Holster",
+            "Demolitionist"
+          ],
+          "perk2": [
+            "Frenzy",
+            "Vorpal Weapon",
+            "Lead From Gold"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Blinding enemies, Filling ranged swap rotation",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Spire of the Watcher",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Without Remorse": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Barrel Shroud"
+          ],
+          "column2": [
+            "Tactical Mag"
+          ],
+          "perk1": [
+            "Threat Detector",
+            "Field Prep"
+          ],
+          "perk2": [
+            "One-Two Punch",
+            "Vorpal Weapon"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "One-two punch, Pellet swapping",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Presage",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Xenoclast IV": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Barrel Shroud"
+          ],
+          "column2": [
+            "Tactical Mag"
+          ],
+          "perk1": [
+            "Grave Robber",
+            "Lead From Gold",
+            "Auto-Loading Holster",
+            "Field Prep"
+          ],
+          "perk2": [
+            "One-Two Punch",
+            "Vorpal Weapon"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "One-two punch, Pellet swapping",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Vanguard pool",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      }
+    }
+  }
+}

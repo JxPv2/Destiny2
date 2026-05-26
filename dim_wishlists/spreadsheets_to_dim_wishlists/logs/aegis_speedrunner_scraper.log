@@ -1,0 +1,7 @@
+2026-05-26 14:44:18,665 [INFO] [aegis_speedrunner] -> ================================================================================
+2026-05-26 14:44:18,665 [INFO] [aegis_speedrunner] -> 🚀 Initializing Data Extraction Pipeline Engine: [aegis_speedrunner]
+2026-05-26 14:44:18,665 [INFO] [aegis_speedrunner] -> ================================================================================
+  2026-05-26 14:44:18,666 [INFO] [aegis_speedrunner] -> 🔄 Output data asset missing at 'spreadsheets_scraped_data/aegis_speedrunner_spreadsheet_data_scraped.json'. Forcing scrape routine override.
+  2026-05-26 14:44:18,666 [INFO] [aegis_speedrunner] -> ⚙️ Extracting speedrunner rows from source asset: workbooks_downloaded/aegis_speedrunner_weapons.csv
+  2026-05-26 14:44:18,676 [INFO] [aegis_speedrunner] -> 🎉 Successfully compiled speedrunner down to cache: spreadsheets_scraped_data/aegis_speedrunner_spreadsheet_data_scraped.json
+  2026-05-26 14:44:18,677 [INFO] [aegis_speedrunner] -> ✅ Registry synchronization update flags reset to False for elements: ['Weapons']

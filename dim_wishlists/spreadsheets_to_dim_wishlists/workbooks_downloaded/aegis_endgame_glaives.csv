@@ -1,0 +1,89 @@
+WEAPON,,INFO,,,,,,PERKS,,,,,ANALYSIS,,
+🖼️,Name,Season,Energy,Frame,Ammo,Shield,⬆️,Barrel,Mag,Perk 1,Perk 2,Origin Trait,Notes,Rank,Tier
+,Rake Angle,25,Stasis,Aggressive,31,42,Yes,"Lightweight Emitter
+Auxiliary Reserves","Appended Mag
+Swap Mag","Overflow
+Impulse Amplifier
+Lead from Gold","Chill Clip
+Close to Melee",Stunning Recovery,"fast 2 shot freeze, excellent utility perk array, CtM access",1,S
+,Forthcoming Deviance,24,Void,Rapid,65,28,Yes,"Lightweight Emitter
+Auxiliary Reserves","Appended Mag
+Swap Mag","Impulse Amplifier
+Grave Robber
+Demolitionist","Close to Melee
+Chaos Reshaped
+Destabilizing Rounds",Collective Purpose,"only glaive with Chaos Reshaped access, solid neutral perks too",2,S
+,The Heron,28,Void,Aggressive,52,39,Yes,"Lightweight Emitter
+Auxiliary Reserves","Appended Mag
+Swap Mag","Repulsor Brace
+Disruption Break
+Lead from Gold","Destabilizing Rounds
+Close to Melee
+Redirection","Nail, Meet Hammer",probably BiS pairing with Techsec 4pc,3,S
+,Nezarec's Whisper,17,Arc,Adaptive,50,42,Yes,"Lightweight Emitter
+Auxiliary Reserves","Appended Mag
+Swap Mag","Demolitionist
+Impulse Amplifier
+Lead from Gold",Frenzy,Extrovert,"Extrovert triggers on melee kills, decent neutral perks too",4,S
+,Refusal of the Call,26,Strand,Adaptive,44,44,Yes,"Lightweight Emitter
+Auxiliary Reserves","Appended Mag
+Swap Mag","Impulse Amplifier
+Slice
+Discord","Close to Melee
+Melee Momentum",Runneth Over,"only Slice glaive, solid perks otherwise as well",5,S
+,Unexpected Resurgence,21,Arc,Adaptive,51,50,No,"Lightweight Emitter
+Auxiliary Reserves","Appended Mag
+Swap Mag","Auto-Loading Holster
+Impulse Amplifier
+Replenishing Aegis","Frenzy
+Close to Melee
+Voltshot",Alacrity,"ALH is interesting but perks aren't stellar, best shield duration though",6,A
+,The Enigma,16,Void,Adaptive,45,45,Yes,"Lightweight Emitter
+Auxiliary Reserves","Appended Mag
+Swap Mag",Impulse Amplifier,Frenzy,Psychohack,"solid origin and straightforward QoL perks, great shield duration",7,A
+,Backfang,26,Arc,Rapid,65,27,Yes,"Lightweight Emitter
+Auxiliary Reserves","Appended Mag
+Swap Mag","Impulse Amplifier
+Grave Robber
+Lead from Gold","Surrounded
+Close to Melee
+Voltshot",Gun and Run,better shield duration than Greasy with similar perks/origin,8,A
+,"Greasy Luck
+RotN version",26,Solar,Rapid,64,18,Yes,"Lightweight Emitter
+Auxiliary Reserves","Appended Mag
+Swap Mag","Reconstruction
+Lead from Gold
+Heal Clip","Incandescent
+Redirection
+Close to Melee",Restoration Ritual,"interesting utility perks in both columns, awful shield duration",9,A
+,Greasy Luck,21,Solar,Rapid,64,18,Yes,"Lightweight Emitter
+Auxiliary Reserves","Appended Mag
+Swap Mag","Lead from Gold
+Impulse Amplifier
+Replenishing Aegis","Incandescent
+Redirection
+Close to Melee",Restoration Ritual,slightly worse and less diverse perk pool vs. RotN version,10,A
+,Lubrae's Ruin,16,Solar,Adaptive,40,40,Yes,"Lightweight Emitter
+Auxiliary Reserves","Appended Mag
+Swap Mag","Immovable Object
+Sleight of Hand
+Grave Robber","Unstoppable Force
+Surrounded
+Swashbuckler",Souldrinker,"not the best Souldrinker user, decent package though",11,B
+,Ecliptic Distaff,20,Void,Adaptive,41,47,No,Ballistic Tuning,Alloy Magazine,"Immovable Object
+Replenishing Aegis","Close to Melee
+Destabilizing Rounds",One Quiet Moment,serviceable defensive glaive with Destabilizing access,12,B
+,Judgment of Kelgorath,19,Solar,Aggressive,35,25,Yes,"Lightweight Emitter
+Auxiliary Reserves","Appended Mag
+Swap Mag","Overflow
+Demolitionist
+Immovable Object","Close to Melee
+Unstoppable Force
+Impulse Amplifier",Ambush,"better overall perks vs. Albedo, decent overall",13,B
+,Albedo Wing,25,Arc,Aggressive,35,30,Yes,"Lightweight Emitter
+Auxiliary Reserves","Appended Mag
+Swap Mag","Grave Robber
+Replenishing Aegis
+Air Trigger","Lead from Gold
+Demolitionist
+Close to Melee",Dawning Surprise,"mediocre shield duration, perks nothing special",14,B

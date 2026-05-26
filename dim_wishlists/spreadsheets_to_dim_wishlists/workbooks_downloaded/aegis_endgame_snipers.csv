@@ -1,0 +1,150 @@
+WEAPON,,INFO,,,,,PERKS,,,,,ANALYSIS,,
+🖼️,Name,Season,Energy,Frame,Ammo,⬆️,Barrel,Mag,Perk 1,Perk 2,Origin Trait,Notes,Rank,Tier
+,Praedyth's Revenge,26,Kinetic,Rapid,60,Yes,Fluted Barrel,Tactical Mag,"Fourth Time's the Charm
+Kinetic Tremors
+Discord","Elemental Honing
+Bait and Switch
+Firefly",Timelost Magazine,insane origin synergy with FTTC and BiS perks all around,1,S
+,Conspiracy Honed,28,Stasis,Dynamic (140RPM),43,Yes,Fluted Barrel,"Ionized Heatsink
+Overclocked Heatsink",Vorpal Weapon,Bait and Switch,Imperial Allegiance,"double perk fast vent style burst sniper, no ammo gen perk though",2,S
+,Lance Ephemeral,27,Strand,Rapid,54,Yes,Fluted Barrel,Tactical Mag,"Fourth Time's the Charm
+Envious Arsenal
+Lead from Gold","Bait and Switch
+Elemental Honing
+Redirection",Frame of Reference,"similar to Praedyth's but more burst-specialized, less applicable",3,S
+,Something Something,28,Kinetic,Aggressive,37,Yes,Fluted Barrel,Extended Mag,"Triple Tap
+Discord","Elemental Honing
+All-Star
+Adhesive Ordnance",Accelerated Assault,better than Succession due to Accelerated Assault,4,A
+,The Supremacy,21,Kinetic,Rapid,42,Yes,Fluted Barrel,Appended Mag,"Rewind Rounds
+Lead from Gold
+Discord","Kinetic Tremors
+Bait and Switch
+Fourth Time's the Charm",Explosive Pact,"worse than S tier snipers in every way, Lead + KT unique",5,A
+,Omniscient Eye,25,Solar,Rapid,44,Yes,Fluted Barrel,Tactical Mag,"Fourth Time's the Charm
+Envious Arsenal","Precision Instrument
+Vorpal Weapon",Photoinhibition,"BiS energy dump sniper, easily surpassed soon though",6,A
+,Critical Anomaly,24,Stasis,Aggressive,47,Yes,Fluted Barrel,Extended Mag,"Chill Clip
+Rewind Rounds",Chaos Reshaped,Collective Purpose,"Chill Clip provides 2 shot burst like Recomb, bit more unwieldy",7,A
+,Keen Thistle,26,Solar,Aggressive,45,Yes,Fluted Barrel,Extended Mag,"Envious Arsenal
+Incandescent
+Triple Tap","Bait and Switch
+Discord
+Fourth Time's the Charm",Häkke Breach Armaments,funny TT+FTTC roll but otherwise just alright for damage,8,A
+,IKELOS_SR_v1.0.3,19,Solar,Rapid,45,Yes,Fluted Barrel,Tactical Mag,Fourth Time's the Charm,Focused Fury,Rasputin's Arsenal,FTTC + very consistent 20% perk on good frame,9,A
+,"Succession
+BRAVE version",23,Kinetic,Aggressive,50,Yes,Fluted Barrel,Extended Mag,"Reconstruction
+Demolitionist
+Discord","Recombination
+Vorpal Weapon
+Redirection",Indomitability,legendary Izi-esque burst + good Demo weapon (doubled gains + origin),10,A
+,Succession,12,Kinetic,Aggressive,50,Yes,Fluted Barrel,Extended Mag,"Reconstruction
+Demolitionist","Recombination
+Vorpal Weapon
+Osmosis",Bray Inheritance,similar to BRAVE version but a little worse overall,11,A
+,Veleda-F,25,Void,Aggressive,33,Yes,Fluted Barrel,Extended Mag,"Air Trigger
+Slickdraw",Withering Gaze,Häkke Breach Armaments,situational special ranged debuff extension option,12,B
+,Sovereignty,25,Void,Adaptive,40,Yes,Fluted Barrel,Appended Mag,"Demolitionist
+Explosive Payload",Withering Gaze,Dark Ether Reaper,worse frame for per-shot Withering Gaze damage,13,B
+,Irukandji,20,Stasis,Rapid,46,No,Fluted Barrel,Tactical Mag,"Fourth Time's the Charm
+Shoot to Loot",Firing Line,Veist Stinger,"FTTC + okay 20% perk, very overshadowed by other options in-slot",14,B
+,Father's Sins,16,Void,Rapid,48,Yes,Fluted Barrel,Tactical Mag,"Triple Tap
+Shoot to Loot
+Lead from Gold",Focused Fury,Psychohack,"TT but consistent damage perk rapid, nice origin",15,B
+,Shoreline Dissident,27,Void,Rapid,55,Yes,Fluted Barrel,Tactical Mag,"Triple Tap
+Shoot to Loot
+Explosive Payload","Precision Instrument
+High Ground
+Destabilizing Rounds",Bray Legacy,worse consistency vs. Father's Sins but utility rolls,16,B
+,A Distant Pull,21,Stasis,Rapid,39,Yes,Fluted Barrel,Tactical Mag,Triple Tap,Focused Fury,Unsated Hunger,TT but consistent damage perk rapid,17,B
+,Distant Tumulus,10,Solar,Rapid,47,No,Fluted Barrel,Tactical Mag,"Clown Cartridge
+Lead from Gold",Firing Line,None,good frame and okay 20% perk but no FTTC,18,C
+,Uzume RR4,24,Solar,Adaptive,50,Yes,Fluted Barrel,Appended Mag,"Fourth Time's the Charm
+Discord
+Attrition Orbs","Precision Instrument
+Deconstruct
+Vorpal Weapon",Stunning Recovery,FTTC + consistent damage perks but bad frame,19,C
+,Fugue-55,16,Void,Adaptive,45,No,Fluted Barrel,Appended Mag,"Fourth Time's the Charm
+Auto-Loading Holster
+Lead from Gold","Firing Line
+Vorpal Weapon",Suros Synergy,FTTC + consistent damage perks but bad frame,20,C
+,Naeem's Lance,23,Strand,Rapid,55,No,Fluted Barrel,Tactical Mag,"Reconstruction
+Discord","Precision Instrument
+High Ground",Sundering,no FTTC rapid with overflow perk,21,C
+,Twilight Oath,23,Solar,Rapid,45,No,Fluted Barrel,Tactical Mag,Envious Assassin,"Vorpal Weapon
+Precision Instrument
+High Ground",Advanced Reflexes,no FTTC rapid with overflow perk,22,C
+,Embraced Identity,24,Void,Adaptive,36,Yes,Fluted Barrel,Appended Mag,"Reconstruction
+Rewind Rounds
+Attrition Orbs","Redirection
+Fourth Time's the Charm
+High Ground",Dealer's Choice,similar to low B rapids but wrong frame,23,C
+,Frozen Orbit,13,Void,Aggressive,45,No,Fluted Barrel,Extended Mag,"Auto-Loading Holster
+Lead from Gold","Vorpal Weapon
+Demolitionist",One Quiet Moment,loader perk + okay damage perk aggressive,24,D
+,Tranquility,8,Kinetic,Adaptive,40,No,Fluted Barrel,Appended Mag,"Auto-Loading Holster
+Lead from Gold","Firing Line
+Frenzy
+Demolitionist",None,loader perk + okay damage perk adaptive,25,D
+,Defiance of Yasmin,18,Kinetic,Adaptive,35,Yes,Fluted Barrel,Extended Mag,"Lead from Gold
+Shoot to Loot
+Osmosis","Firing Line
+Demolitionist",Runneth Over,Lead + okay damage perk adaptive,26,D
+,Locus Locutus,22,Stasis,Adaptive,43,Yes,Fluted Barrel,Appended Mag,"Overflow
+Discord","Firing Line
+High Ground",Head Rush,overflow perk + okay damage perk adaptive,27,D
+,Volta Bracket,20,Strand,Aggressive,28,Yes,Fluted Barrel,Extended Mag,"Envious Assassin
+Shoot to Loot","Cascade Point
+Firing Line
+Explosive Payload",Nanotech Tracer Missiles,okay perks + only StL EP kinetic special,28,D
+,Thoughtless,16,Stasis,Adaptive,48,Yes,Fluted Barrel,Appended Mag,Overflow,"Firing Line
+Focused Fury",Land Tank,Locus but Fury instead of High Ground,29,D
+,The Long Walk,15,Solar,Aggressive,41,No,Fluted Barrel,Extended Mag,Overflow,"Firing Line
+Frenzy",None,overflow perk + okay damage perk aggresive,30,D
+,Occluded Finality,14,Arc,Aggressive,59,No,Fluted Barrel,Extended Mag,Auto-Loading Holster,"Firing Line
+Vorpal Weapon
+Demolitionist",Suros Synergy,loader perk + okay damage perk aggressive,31,D
+,Mechabre,25,Arc,Aggressive,45,Yes,Fluted Barrel,Extended Mag,"Triple Tap
+Demolitionist","Firing Line
+Vorpal Weapon",Search Party,"TT on bad archetype, fine damage perks",32,D
+,Silicon Neuroma,16,Kinetic,Aggressive,35,No,Fluted Barrel,Extended Mag,Triple Tap,"Firing Line
+Focused Fury
+Demolitionist",Stunning Recovery,"TT on bad archetype, fine damage perks",33,D
+,Luna Regolith III,22,Solar,Aggressive,32,Yes,Fluted Barrel,Extended Mag,Clown Cartridge,"Firing Line
+High Ground
+Cascade Point",Wild Card,overflow perk + okay damage perk aggressive,34,D
+,Far Future,13,Solar,Adaptive,30,No,Fluted Barrel,Appended Mag,"Auto-Loading Holster
+Lead from Gold","Frenzy
+Demolitionist",None,loader perk + okay damage perk adaptive,35,D
+,Albruna-D,19,Arc,Aggressive,45,Yes,Fluted Barrel,Extended Mag,Clown Cartridge,"Cascade Point
+Firing Line",Häkke Breach Armaments,overflow perk + okay damage perk aggressive,36,D
+,Bite of the Fox,20,Kinetic,Aggressive,38,No,Fluted Barrel,Extended Mag,Envious Assassin,Vorpal Weapon,Skulking Wolf,overflow perk + okay damage perk aggressive,37,D
+,Last Foray,21,Solar,Aggressive,29,Yes,Fluted Barrel,Extended Mag,"Envious Assassin
+Discord","Cascade Point
+Frenzy
+Incandescent",Field-Tested,overflow perk + mediocre damage perk aggressive,38,D
+,Adored,12,Arc,Adaptive,36,No,Hammer-Forged Rifling,Accurized Rounds,Triple Tap,Vorpal Weapon,None,TT + okay damage perk adaptive,39,D
+,Beloved,17,Solar,Adaptive,36,Yes,Fluted Barrel,Appended Mag,Fourth Time's the Charm,"Box Breathing
+Incandescent",To Excess,FTTC but awful second column,40,E
+,Persuader,22,Void,Rapid,42,No,Fluted Barrel,Tactical Mag,"Discord
+Repulsor Brace","High Ground
+Destabilizing Rounds
+Triple Tap",Vanguard's Vindication,only High Ground and no overflow/ammo regen,41,E
+,Gallu RR3,17,Arc,Adaptive,35,No,Fluted Barrel,Appended Mag,"Overflow
+Shoot to Loot","Focused Fury
+Snapshot Sights",Omolon Fluid Dynamics,overflow perk + okay damage perk adaptive,42,E
+,Sole Survivor,21,Arc,Adaptive,41,No,Fluted Barrel,Appended Mag,Lead from Gold,"Firing Line
+Vorpal Weapon
+Voltshot",Disaster Plan,Lead + okay damage perk adaptive,43,E
+,Shepherd's Watch,15,Kinetic,Adaptive,32,No,Fluted Barrel,Appended Mag,Lead from Gold,"Firing Line
+Frenzy
+Demolitionist",None,Lead + okay damage perk adaptive,44,E
+,Eye of Sol,24,Kinetic,Adaptive,45,Yes,Fluted Barrel,Appended Mag,Slickdraw,"Firing Line
+Vorpal Weapon",Wild Card,no good 1st column + okay damage perk adaptive,45,E
+,Mercurial Overreach,21,Arc,Adaptive,50,Yes,Fluted Barrel,Appended Mag,Discord,Vorpal Weapon,None,Discord + okay damage perk adaptive,46,E
+,Widow's Bite,11,Solar,Rapid,33,No,Fluted Barrel,Tactical Mag,Lead from Gold,Demolitionist,None,good archetype but no damage perk,47,F
+,1000 Yard Stare,15,Void,Adaptive,50,No,Fluted Barrel,Appended Mag,Triple Tap,"Demolitionist
+Golden Tricorn",None,TT but no usable damage perk,48,F
+,Long Shadow,4,Kinetic,Adaptive,32,No,ATC Rex,Appended Mag,Field Prep,Triple Tap,None,TT but no usable damage perk,49,F
+,The Domino,24,Solar,Adaptive,38,Yes,Fluted Barrel,Appended Mag,Overflow,Incandescent,Nadir Focus,splash perk,50,F
+,Apostate,8,Arc,Rapid,51,No,Fluted Barrel,Tactical Mag,Lead from Gold,Wellspring,None,no useful perks,51,F

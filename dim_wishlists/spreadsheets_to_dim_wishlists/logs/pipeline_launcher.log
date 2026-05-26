@@ -1,0 +1,22 @@
+2026-05-26 14:43:51,325 [INFO] -> ================================================================================
+2026-05-26 14:43:51,325 [INFO] -> 🚀 Launching Full Pipeline Execution...
+2026-05-26 14:43:51,325 [INFO] -> ================================================================================
+  2026-05-26 14:43:51,325 [INFO] -> ▶️  Starting stage: Version State Check
+  2026-05-26 14:43:56,446 [INFO] -> ✅ Stage completed successfully: Version State Check
+  2026-05-26 14:43:56,446 [INFO] -> ▶️  Starting stage: Bungie Manifest Download
+  2026-05-26 14:44:18,534 [INFO] -> ✅ Stage completed successfully: Bungie Manifest Download
+  2026-05-26 14:44:18,534 [INFO] -> ▶️  Starting stage: Boss Damage Scraper
+  2026-05-26 14:44:18,610 [INFO] -> ✅ Stage completed successfully: Boss Damage Scraper
+  2026-05-26 14:44:18,610 [INFO] -> ▶️  Starting stage: Speedrunner Scraper
+  2026-05-26 14:44:18,685 [INFO] -> ✅ Stage completed successfully: Speedrunner Scraper
+  2026-05-26 14:44:18,685 [INFO] -> ▶️  Starting stage: Endgame Scraper
+  2026-05-26 14:44:18,976 [INFO] -> ✅ Stage completed successfully: Endgame Scraper
+  2026-05-26 14:44:18,976 [INFO] -> ▶️  Starting stage: DIM Wishlist Converter
+  2026-05-26 14:44:19,918 [INFO] -> ✅ Stage completed successfully: DIM Wishlist Converter
+  2026-05-26 14:44:19,918 [INFO] -> ================================================================================
+  2026-05-26 14:44:19,918 [INFO] -> 📊 Pipeline Execution Summary
+  2026-05-26 14:44:19,918 [INFO] -> ================================================================================
+  2026-05-26 14:44:19,918 [INFO] ->   Completed (6): Version State Check, Bungie Manifest Download, Boss Damage Scraper, Speedrunner Scraper, Endgame Scraper, DIM Wishlist Converter
+  2026-05-26 14:44:19,919 [INFO] ->   Failed: None
+  2026-05-26 14:44:19,919 [INFO] -> ================================================================================
+  2026-05-26 14:44:19,919 [INFO] -> 🎉 All pipeline stages completed successfully.

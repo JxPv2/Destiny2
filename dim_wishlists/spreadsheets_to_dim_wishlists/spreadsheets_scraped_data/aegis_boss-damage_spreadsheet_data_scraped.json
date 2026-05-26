@@ -1,0 +1,4237 @@
+{
+  "spreadsheet": {
+    "name": "Aegis' Boss Damage",
+    "changelog": {
+      "date": "2026-03-12",
+      "patch": ""
+    },
+    "link": "https://docs.google.com/spreadsheets/d/1_5wtBjRYHHxuF4oJKDb_iOGZs-wTkzB6RYbnyNLbuz4",
+    "scrape_date": "2026-05-26 14:44:18"
+  },
+  "workbooks": {
+    "Equipment (WIP)": {
+      "Celestial Nighthawk": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Meta-Defining",
+          "tier": "",
+          "priority": "",
+          "role": "Ability",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Solid damage super with great ranged burst",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Cuirass of the Falling Star": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Meta-Defining",
+          "tier": "",
+          "priority": "",
+          "role": "Ability",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Zero effort for best damage super in the game",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Ergo Sum": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [
+            "Caster Frame",
+            "Lightweight Frame",
+            "Wave Frame"
+          ],
+          "perk2": [
+            "The Perfect Fifth",
+            "Unplanned Reprieve",
+            "Wolfpack Rounds"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Meta-Defining",
+          "tier": "",
+          "priority": "",
+          "role": "Main",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Best sword damage when Transcendent",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Gjallarhorn": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Meta-Defining",
+          "tier": "",
+          "priority": "",
+          "role": "Buff",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Exists to augment Hezen users",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Hezen Vengeance": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "Impact Casing"
+          ],
+          "perk1": [
+            "Overflow",
+            "Envious Assassin",
+            "Cluster Bomb"
+          ],
+          "perk2": [
+            "Bait and Switch",
+            "Elemental Honing"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Meta-Defining",
+          "tier": "",
+          "priority": "",
+          "role": "Main",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Best general burst damage",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Sanguine Alchemy": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Meta-Defining",
+          "tier": "",
+          "priority": "",
+          "role": "Buff",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Best damage armor exotic, free 10% for doing nothing",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Solipsism": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [
+            "Spirit of Inmost Light",
+            "Spirit of Apotheosis"
+          ],
+          "perk2": [
+            "Spirit of the Star-Eater",
+            "Spirit of Verity"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Meta-Defining",
+          "tier": "",
+          "priority": "",
+          "role": "Ability",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Great pairing with Nova, excellent for Transcendence farming",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Tractor Cannon": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Meta-Defining",
+          "tier": "",
+          "priority": "",
+          "role": "Utility",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Easiest long-term 30% debuff source",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Bequest": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Jagged Edge"
+          ],
+          "column2": [
+            "Swordmaster's Guard"
+          ],
+          "perk1": [
+            "Relentless Strikes"
+          ],
+          "perk2": [
+            "Surrounded"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Situational",
+          "tier": "",
+          "priority": "",
+          "role": "Main",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Very easy Surrounded sword damage",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Choir of One": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Alloy Magazine",
+            "Flared Magwell"
+          ],
+          "perk1": [
+            "Short-Action Stock"
+          ],
+          "perk2": [
+            "Onslaught"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Situational",
+          "tier": "",
+          "priority": "",
+          "role": "Filler",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Great for object-based damage, like Crypt Security or blights",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Cynosure": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "Impact Casing"
+          ],
+          "perk1": [
+            "Overflow",
+            "Envious Assassin",
+            "Reconstruction"
+          ],
+          "perk2": [
+            "Elemental Honing",
+            "High Ground"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Situational",
+          "tier": "",
+          "priority": "",
+          "role": "Main",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Hezen alternative with Reconstruction",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Edge of Action": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Lightweight Emitter"
+          ],
+          "column2": [
+            "Swap Mag"
+          ],
+          "perk1": [
+            "Short-Action Stock"
+          ],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Situational",
+          "tier": "",
+          "priority": "",
+          "role": "Buff",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Free 5% buff and great refreshable protection for glaive/sword damage",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Edge Transit": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "Spike Grenades",
+            "Sticky Grenades"
+          ],
+          "perk1": [
+            "Cascade Point",
+            "Envious Assassin"
+          ],
+          "perk2": [
+            "Bait and Switch",
+            "Explosive Light"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Situational",
+          "tier": "",
+          "priority": "",
+          "role": "Main",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Highest legendary burst DPS in the game (with stickies)",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "IKELOS_SG_V1.0.3": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Barrel Shroud"
+          ],
+          "column2": [
+            "Tactical Mag"
+          ],
+          "perk1": [
+            "Grave Robber"
+          ],
+          "perk2": [
+            "One-Two Punch",
+            "Surrounded",
+            "Cascade Point"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Situational",
+          "tier": "",
+          "priority": "",
+          "role": "Filler",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Solid One-Two Punch option for energy slot",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Ill Omen": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Jagged Edge"
+          ],
+          "column2": [
+            "Swordmaster's Guard"
+          ],
+          "perk1": [
+            "Relentless Strikes",
+            "Attrition Orbs"
+          ],
+          "perk2": [
+            "Whirlwind Blade",
+            "Surrounded"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Situational",
+          "tier": "",
+          "priority": "",
+          "role": "Main",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Most convenient sword damage option, archetype good with Storm's Keep",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Izanagi's Burden": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Situational",
+          "tier": "",
+          "priority": "",
+          "role": "Filler",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Solid burst damage, decent for Cascade/Envious setups",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Knucklehead Radar": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Situational",
+          "tier": "",
+          "priority": "",
+          "role": "Buff",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Decent for final stands, might be bugged right now",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Liturgy": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "Spike Grenades"
+          ],
+          "perk1": [
+            "Envious Arsenal"
+          ],
+          "perk2": [
+            "Chill Clip"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Situational",
+          "tier": "",
+          "priority": "",
+          "role": "Filler",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Excellent applicator of Chill Clip for Courage, great for Envious rotations",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Lord of Wolves": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Situational",
+          "tier": "",
+          "priority": "",
+          "role": "Main",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Excellent melee range special weapon total damage with consistent crit access",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Lost Signal": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "High-Velocity Rounds"
+          ],
+          "perk1": [
+            "Auto-Loading Holster"
+          ],
+          "perk2": [
+            "Vorpal Weapon",
+            "High Ground"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Situational",
+          "tier": "",
+          "priority": "",
+          "role": "Filler",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Good for farming dark Transcendence energy",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Lumina": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Situational",
+          "tier": "",
+          "priority": "",
+          "role": "Buff",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "35% damage buff guarantee for you and at least one teammate",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Lunafaction Boots": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Situational",
+          "tier": "",
+          "priority": "",
+          "role": "Reload",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Easy to provide reload boost and exotic is swappable",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "No Hesitation": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Flared Magwell"
+          ],
+          "perk1": [
+            "Physic"
+          ],
+          "perk2": [
+            "Attrition Orbs"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Situational",
+          "tier": "",
+          "priority": "",
+          "role": "Buff",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "10% universally stackable buff, easy to apply, \"splashes\" teammates unlike Lumina",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Perfect Paradox": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Barrel Shroud"
+          ],
+          "column2": [
+            "Tactical Mag"
+          ],
+          "perk1": [
+            "Pugilist",
+            "Field Prep"
+          ],
+          "perk2": [
+            "One-Two Punch",
+            "Trench Barrel"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Situational",
+          "tier": "",
+          "priority": "",
+          "role": "Filler",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Best kinetic One-Two Punch and generic melee shotgun",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Praedyth's Revenge": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Tactical Mag"
+          ],
+          "perk1": [
+            "Fourth Time's the Charm",
+            "Kinetic Tremors",
+            "Envious Arsenal"
+          ],
+          "perk2": [
+            "Elemental Honing",
+            "Bait and Switch"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Situational",
+          "tier": "",
+          "priority": "",
+          "role": "Filler",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Best legendary sniper in the game bar none, pairs great with Tractor/Gjallarhorn",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Psychopomp": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "High-Velocity Rounds"
+          ],
+          "perk1": [
+            "Envious Arsenal"
+          ],
+          "perk2": [
+            "Elemental Honing",
+            "Frenzy"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Situational",
+          "tier": "",
+          "priority": "",
+          "role": "Filler",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Best energy slot DPS perks for an area denial",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Still Hunt": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Situational",
+          "tier": "",
+          "priority": "",
+          "role": "Main",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Still solid burst damage post-nerf, synergizes well with rotations and long phases",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Stoicism": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [
+            "Spirit of the Eternal Warrior",
+            "Spirit of Inmost Light"
+          ],
+          "perk2": [
+            "Spirit of the Star-Eater",
+            "Spirit of Synthoceps"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Situational",
+          "tier": "",
+          "priority": "",
+          "role": "Ability",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Equal damage to Cuirass but with a 30s x4 arc surge bonus",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Synthoceps": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Situational",
+          "tier": "",
+          "priority": "",
+          "role": "Ability",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Still relevant for BoW grapple melee boosts or for glaive damage",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "The Queenbreaker": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Situational",
+          "tier": "",
+          "priority": "",
+          "role": "Main",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Great damage profile and ease of use even without Particle",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Thunderlord": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Situational",
+          "tier": "",
+          "priority": "",
+          "role": "Main",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Very convenient damage option that has been buffed into relevance",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Unvoiced": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Assault Mag"
+          ],
+          "perk1": [
+            "Redirection"
+          ],
+          "perk2": [
+            "Elemental Honing",
+            "Bait and Switch"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Situational",
+          "tier": "",
+          "priority": "",
+          "role": "Filler",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Best legendary special burst thanks to Redirection QoL buff",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "VS Chill Inhibitor": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "Spike Grenades"
+          ],
+          "perk1": [
+            "Envious Arsenal",
+            "Cascade Point"
+          ],
+          "perk2": [
+            "Bait and Switch",
+            "Surrounded",
+            "Explosive Light"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Situational",
+          "tier": "",
+          "priority": "",
+          "role": "Main",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Worse off thanks to HGL nerf and Hezen launch, but still decent for solo burst",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Abyssal Edge": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Jagged Edge"
+          ],
+          "column2": [
+            "Swordmaster's Guard"
+          ],
+          "perk1": [
+            "Relentless Strikes"
+          ],
+          "perk2": [
+            "Elemental Honing",
+            "Surrounded"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Extremely Niche",
+          "tier": "",
+          "priority": "",
+          "role": "Main",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Best wave without Whirlwind, Honing arguably more consistent than Whirlwind in some cases",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Adamantite": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Flared Magwell"
+          ],
+          "perk1": [
+            "Reciprocity",
+            "Slice"
+          ],
+          "perk2": [
+            "Attrition Orbs"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Extremely Niche",
+          "tier": "",
+          "priority": "",
+          "role": "Buff",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Alternative to No Hesitation in case kinetic slot needed, but no Physic hurts",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Anarchy": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Extremely Niche",
+          "tier": "",
+          "priority": "",
+          "role": "Filler",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Mediocre total damage compared to dump time, but pairs well with Praedyth's",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Apex Predator": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "Impact Casing"
+          ],
+          "perk1": [
+            "Reconstruction",
+            "Slideways"
+          ],
+          "perk2": [
+            "Bait and Switch",
+            "Surrounded"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Extremely Niche",
+          "tier": "",
+          "priority": "",
+          "role": "Main",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Surrounded still BiS in some cases, still performs decently despite Hezen overshadowing",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Barrow-Dyad": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Taken Ambition"
+          ],
+          "perk2": [
+            "Target Lock"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Extremely Niche",
+          "tier": "",
+          "priority": "",
+          "role": "Filler",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Similar to max stack Outbreak with no windup if Peacekeepers used",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Bastion": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Extremely Niche",
+          "tier": "",
+          "priority": "",
+          "role": "Main",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Surprisingly decent total damage and DPS, just melee-restricted and a little awkward",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Bitter/Sweet": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "Spike Grenades"
+          ],
+          "perk1": [
+            "Envious Arsenal"
+          ],
+          "perk2": [
+            "Bait and Switch",
+            "Cascade Point"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Extremely Niche",
+          "tier": "",
+          "priority": "",
+          "role": "Main",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Classic perk combo, most standard HGL for damage",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Briarbinds": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Extremely Niche",
+          "tier": "",
+          "priority": "",
+          "role": "Utility",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Best ability-based debuff extension in the game",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Cloudstrike": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Extremely Niche",
+          "tier": "",
+          "priority": "",
+          "role": "Main",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Very respectable total damage and DPS for a fairly easy-to-use special",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "D.A.R.C.I.": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Extremely Niche",
+          "tier": "",
+          "priority": "",
+          "role": "Main",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Decent damage on its own, empowers Praedyth's to become quite competitive",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Dimensional Hypotrochoid": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "High-Velocity Rounds"
+          ],
+          "perk1": [
+            "Envious Assassin"
+          ],
+          "perk2": [
+            "One for All"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Extremely Niche",
+          "tier": "",
+          "priority": "",
+          "role": "Main",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Best legendary Raneiks damage option",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Divinity": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Extremely Niche",
+          "tier": "",
+          "priority": "",
+          "role": "Utility",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Still useful in high-pressure environments for weapons like Thunderlord and Queenbreaker",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Eriana's Vow": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Extremely Niche",
+          "tier": "",
+          "priority": "",
+          "role": "Filler",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Excellent special damage with Unloved swapping",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Euphony": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Extremely Niche",
+          "tier": "",
+          "priority": "",
+          "role": "Main",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Only kinetic slot weapon realistically competitive with Praedyth's for total damage",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Felwinter's Helm": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Extremely Niche",
+          "tier": "",
+          "priority": "",
+          "role": "Utility",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "One of the only sources of extendable 30% debuff",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Geodetic HSm": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Jagged Edge"
+          ],
+          "column2": [
+            "Swordmaster's Guard"
+          ],
+          "perk1": [
+            "Relentless Strikes"
+          ],
+          "perk2": [
+            "Whirlwind Blade"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Extremely Niche",
+          "tier": "",
+          "priority": "",
+          "role": "Main",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Best adaptive Whirlwind sword",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Hazardous Propulsion": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Extremely Niche",
+          "tier": "",
+          "priority": "",
+          "role": "Buff",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "35% buff is a little overrated, but the free volley damage isn't bad",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Hullabaloo": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "High-Velocity Rounds"
+          ],
+          "perk1": [
+            "Envious Assassin",
+            "Envious Arsenal"
+          ],
+          "perk2": [
+            "One for All",
+            "Cascade Point"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Extremely Niche",
+          "tier": "",
+          "priority": "",
+          "role": "Main",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Dimensional alternative for Raneiks",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Ice Breaker": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Extremely Niche",
+          "tier": "",
+          "priority": "",
+          "role": "Filler",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "High and consistent swap burst option for Envious rotations",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Imperial Decree": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Barrel Shroud"
+          ],
+          "column2": [
+            "Assault Mag"
+          ],
+          "perk1": [
+            "Auto-Loading Holster"
+          ],
+          "perk2": [
+            "Trench Barrel",
+            "Surrounded"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Extremely Niche",
+          "tier": "",
+          "priority": "",
+          "role": "Filler",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Great for low health burst damage, best general Trench option",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Keen Thistle": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Extended Mag"
+          ],
+          "perk1": [
+            "Envious Assassin",
+            "Triple Tap"
+          ],
+          "perk2": [
+            "Bait and Switch",
+            "Fourth Time's the Charm"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Extremely Niche",
+          "tier": "",
+          "priority": "",
+          "role": "Filler",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Decent swap option, has very high total damage roll",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Merciless": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Extremely Niche",
+          "tier": "",
+          "priority": "",
+          "role": "Filler",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Decent burst damage when Impetus is available, but generally not BiS",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Outbreak Perfected": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Appended Mag"
+          ],
+          "perk1": [
+            "Rewind Rounds"
+          ],
+          "perk2": [
+            "Short-Action Stock"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Extremely Niche",
+          "tier": "",
+          "priority": "",
+          "role": "Filler",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Best fireteam-wide sustained primary damage",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Parasite": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Extremely Niche",
+          "tier": "",
+          "priority": "",
+          "role": "Burst",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Good synergy with holsters, but generally not BiS in current sandbox",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Rain of Fire": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Extremely Niche",
+          "tier": "",
+          "priority": "",
+          "role": "Reload",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Overshadowed by Sanguine + Envious, but still important to use in some cases",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Scatter Signal": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Accelerated Coils"
+          ],
+          "perk1": [
+            "Overflow"
+          ],
+          "perk2": [
+            "Controlled Burst"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Extremely Niche",
+          "tier": "",
+          "priority": "",
+          "role": "Filler",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Excellent lazy dark Transcendence generator for Tractor/Gjallarhorn users",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Summum Bonum": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Jagged Edge"
+          ],
+          "column2": [
+            "Swordmaster's Guard"
+          ],
+          "perk1": [
+            "Relentless Strikes",
+            "Attrition Orbs",
+            "Deconstruct"
+          ],
+          "perk2": [
+            "Chaos Reshaped",
+            "Whirlwind Blade"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Extremely Niche",
+          "tier": "",
+          "priority": "",
+          "role": "Main",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Best wave sword damage, but still a little worse overall than casters for general use",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Temptation's Hook": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Jagged Edge"
+          ],
+          "column2": [
+            "Swordmaster's Guard"
+          ],
+          "perk1": [
+            "Relentless Strikes",
+            "Attrition Orbs"
+          ],
+          "perk2": [
+            "Whirlwind Blade"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Extremely Niche",
+          "tier": "",
+          "priority": "",
+          "role": "Main",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Ill Omen alternative with worse stats",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "The Fourth Horseman": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Extremely Niche",
+          "tier": "",
+          "priority": "",
+          "role": "Filler",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Still usable post-nerf, but relatively niche",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "The Mountaintop": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Hard Launch",
+            "Quick Launch"
+          ],
+          "column2": [
+            "Implosion Rounds",
+            "Spike Grenades"
+          ],
+          "perk1": [
+            "Auto-Loading Holster",
+            "Overflow",
+            "Demolitionist"
+          ],
+          "perk2": [
+            "Recombination",
+            "Vorpal Weapon"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Extremely Niche",
+          "tier": "",
+          "priority": "",
+          "role": "Filler",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Higher per-shot than Liturgy, but worse synergy with Courage/Honing",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "The Navigator": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Extremely Niche",
+          "tier": "",
+          "priority": "",
+          "role": "Utility",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Needed for grapple melee damage viability",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "The Wardcliff Coil": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Extremely Niche",
+          "tier": "",
+          "priority": "",
+          "role": "Main",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Usable for certain bosses (Dul Incaru)",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Verity's Brow": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Extremely Niche",
+          "tier": "",
+          "priority": "",
+          "role": "Ability",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Good in certain scenarios, like Atheon/Rhulk, otherwise Sanguine is much better",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "VS Velocity Baton": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "High-Velocity Rounds"
+          ],
+          "perk1": [
+            "Demolitionist"
+          ],
+          "perk2": [
+            "Bait and Switch",
+            "High Ground",
+            "Attrition Orbs"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Extremely Niche",
+          "tier": "",
+          "priority": "",
+          "role": "Filler",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Alternative to Psychopomp that has Attrition Orbs",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Wicked Sister": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "Spike Grenades"
+          ],
+          "perk1": [
+            "Envious Arsenal"
+          ],
+          "perk2": [
+            "Bait and Switch",
+            "Cascade Point",
+            "High Ground"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Extremely Niche",
+          "tier": "",
+          "priority": "",
+          "role": "Main",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Good pairing with Euphony, mediocre otherwise",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Winterbite": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Extremely Niche",
+          "tier": "",
+          "priority": "",
+          "role": "Main",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Best glaive melee damage source",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Witherhoard": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Extremely Niche",
+          "tier": "",
+          "priority": "",
+          "role": "Filler",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Great long-term DoT for Envious rotations",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Wormgod Caress": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Extremely Niche",
+          "tier": "",
+          "priority": "",
+          "role": "Ability",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Best burst melee exotic until Guile gets a meter",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Ager's Scepter": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Meta, Worse Alternative",
+          "tier": "",
+          "priority": "",
+          "role": "Main",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Decent QoL special damage especially with Command available",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Alethonym": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Meta, Worse Alternative",
+          "tier": "",
+          "priority": "",
+          "role": "Filler",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Usable as full fireteam-stackable DoT for Envious, but short-term and annoying",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Apotheosis Veil": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Meta, Worse Alternative",
+          "tier": "",
+          "priority": "",
+          "role": "Utility",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Used in speedruns to give teammates abilities back, otherwise Solipsism variant is much more relevant",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Boots of the Assembler": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Meta, Worse Alternative",
+          "tier": "",
+          "priority": "",
+          "role": "Buff",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Annoying way to get 5s Lumina buff, inconsistent generally",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Cataphract GL3": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "Spike Grenades"
+          ],
+          "perk1": [
+            "Envious Assassin"
+          ],
+          "perk2": [
+            "Bait and Switch",
+            "Cascade Point"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Meta, Worse Alternative",
+          "tier": "",
+          "priority": "",
+          "role": "Main",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Envious Assassin allows for easy dump with no loadout changes, but essentially irrelevant now",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Cold Comfort": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "Impact Casing"
+          ],
+          "perk1": [
+            "Envious Assassin"
+          ],
+          "perk2": [
+            "Bait and Switch",
+            "Explosive Light"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Meta, Worse Alternative",
+          "tier": "",
+          "priority": "",
+          "role": "Main",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Still usable for burst, but Overflow on Hezen is much better",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Conditional Finality": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Meta, Worse Alternative",
+          "tier": "",
+          "priority": "",
+          "role": "Filler",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Decent option for Envious filler, with Command can trigger 3 times",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Critical Anomaly": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Extended Mag"
+          ],
+          "perk1": [
+            "Chill Clip"
+          ],
+          "perk2": [
+            "Chaos Reshaped"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Meta, Worse Alternative",
+          "tier": "",
+          "priority": "",
+          "role": "Filler",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Decent damage for two Chill Clip shots, but awkward to maintain",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Crux Termination IV": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "Impact Casing"
+          ],
+          "perk1": [
+            "Slideshot",
+            "Reconstruction",
+            "Clown Cartridge"
+          ],
+          "perk2": [
+            "Explosive Light",
+            "Surrounded"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Meta, Worse Alternative",
+          "tier": "",
+          "priority": "",
+          "role": "Main",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Surrounded means still relevant, but very niche",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Dead Weight": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Barrel Shroud"
+          ],
+          "column2": [
+            "Tactical Mag"
+          ],
+          "perk1": [
+            "Auto-Loading Holster",
+            "Grave Robber",
+            "Field Prep"
+          ],
+          "perk2": [
+            "Surrounded",
+            "Vorpal Weapon",
+            "One-Two Punch"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Meta, Worse Alternative",
+          "tier": "",
+          "priority": "",
+          "role": "Filler",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Decent non-enhanced energy slot shotgun",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Falling Guillotine": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Jagged Edge"
+          ],
+          "column2": [
+            "Swordmaster's Guard"
+          ],
+          "perk1": [
+            "Frenzy"
+          ],
+          "perk2": [
+            "Whirlwind Blade",
+            "Surrounded"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Meta, Worse Alternative",
+          "tier": "",
+          "priority": "",
+          "role": "Filler",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Double damage perks make it decent, but vortex frame really destroys total",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Finality's Auger": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Meta, Worse Alternative",
+          "tier": "",
+          "priority": "",
+          "role": "Filler",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "More annoying Anarchy alternative that does a bit more damage",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Foetracer": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Meta, Worse Alternative",
+          "tier": "",
+          "priority": "",
+          "role": "Buff",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Less relevant than Relativism equivalent, but still used sometimes",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Grand Overture": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Meta, Worse Alternative",
+          "tier": "",
+          "priority": "",
+          "role": "Main",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Generally overshadowed by Thunderlord now",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Koraxis's Distress": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "Spike Grenades"
+          ],
+          "perk1": [
+            "Envious Assassin"
+          ],
+          "perk2": [
+            "Surrounded"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Meta, Worse Alternative",
+          "tier": "",
+          "priority": "",
+          "role": "Main",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Surrounded equivalent to Cataphract dump",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Lucky Pants": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Meta, Worse Alternative",
+          "tier": "",
+          "priority": "",
+          "role": "Buff",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Relatively niche in current sandbox, but still usable",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Malfeasance": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Meta, Worse Alternative",
+          "tier": "",
+          "priority": "",
+          "role": "Filler",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Largely irrelevant for LP damage except against Taken",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Mask of Bakris": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Meta, Worse Alternative",
+          "tier": "",
+          "priority": "",
+          "role": "Buff",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "4x surges for two weapon types, can be useful in some niche scenarios",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Microcosm": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Meta, Worse Alternative",
+          "tier": "",
+          "priority": "",
+          "role": "Main",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Can be useful against shield-based enemies (GotD, certain Dread)",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Nessa's Oblation": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Assault Mag"
+          ],
+          "perk1": [
+            "Reconstruction",
+            "Fourth Time's the Charm"
+          ],
+          "perk2": [
+            "Vorpal Weapon"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Meta, Worse Alternative",
+          "tier": "",
+          "priority": "",
+          "role": "Filler",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Not very relevant compared to Unvoiced, but has FTTC and more swap-friendly perks",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "One Thousand Voices": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Meta, Worse Alternative",
+          "tier": "",
+          "priority": "",
+          "role": "Main",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Probably the easiest high damage exotic to use in the game",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Rake Angle": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Lightweight Emitter"
+          ],
+          "column2": [
+            "Swap Mag"
+          ],
+          "perk1": [],
+          "perk2": [
+            "Close to Melee"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Meta, Worse Alternative",
+          "tier": "",
+          "priority": "",
+          "role": "Main",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Any CtM glaive works here",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Regnant": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "Sticky Grenades"
+          ],
+          "perk1": [
+            "Envious Assassin",
+            "Auto-Loading Holster"
+          ],
+          "perk2": [
+            "Explosive Light"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Meta, Worse Alternative",
+          "tier": "",
+          "priority": "",
+          "role": "Main",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Has some use for total damage strategies involving Attrition Orbs",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Relativism": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [
+            "Spirit of Inmost Light",
+            "Spirit of the Dragon",
+            "Spirit of the Foetracer"
+          ],
+          "perk2": [
+            "Spirit of the Star-Eater",
+            "Spirit of Synthoceps"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Meta, Worse Alternative",
+          "tier": "",
+          "priority": "",
+          "role": "Ability",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Generally unused due to Nighthawk and Still Hunt synergy, but some options exist",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Riiswalker": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Barrel Shroud"
+          ],
+          "column2": [
+            "Assault Mag"
+          ],
+          "perk1": [
+            "Quickdraw"
+          ],
+          "perk2": [
+            "Vorpal Weapon"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Meta, Worse Alternative",
+          "tier": "",
+          "priority": "",
+          "role": "Filler",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Double pellet options, fairly irrelevant in current sandbox",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Seventh Seraph CQC-12": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Barrel Shroud"
+          ],
+          "column2": [
+            "Assault Mag"
+          ],
+          "perk1": [
+            "Auto-Loading Holster"
+          ],
+          "perk2": [
+            "Vorpal Weapon"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Meta, Worse Alternative",
+          "tier": "",
+          "priority": "",
+          "role": "Filler",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Double pellet options, fairly irrelevant in current sandbox",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Star-Eater Scales": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Meta, Worse Alternative",
+          "tier": "",
+          "priority": "",
+          "role": "Ability",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "For use with supers like Gathering Storm and Silence and Squall",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Supercluster": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Assault Mag"
+          ],
+          "perk1": [
+            "Reconstruction",
+            "Fourth Time's the Charm",
+            "Threat Detector"
+          ],
+          "perk2": [
+            "Vorpal Weapon",
+            "Surrounded",
+            "Cascade Point"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Meta, Worse Alternative",
+          "tier": "",
+          "priority": "",
+          "role": "Filler",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Best kinetic slug swap option, but generally not very relevant",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "The Dragon's Shadow": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Meta, Worse Alternative",
+          "tier": "",
+          "priority": "",
+          "role": "Reload",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Can be useful with weapons like The Fourth Horseman in fast dump rotations",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "The Supremacy": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Appended Mag"
+          ],
+          "perk1": [
+            "Rewind Rounds"
+          ],
+          "perk2": [
+            "Kinetic Tremors",
+            "Bait and Switch"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Meta, Worse Alternative",
+          "tier": "",
+          "priority": "",
+          "role": "Filler",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Strictly worse than Praedyth's in every way",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Tomorrow's Answer": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "Impact Casing"
+          ],
+          "perk1": [
+            "Envious Arsenal"
+          ],
+          "perk2": [
+            "Bait and Switch"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Meta, Worse Alternative",
+          "tier": "",
+          "priority": "",
+          "role": "Main",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Hezen predecessor with worse archetype",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Triton Vice": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Meta, Worse Alternative",
+          "tier": "",
+          "priority": "",
+          "role": "Ability",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Synthoceps-equivalent glaive melee booster for hunter",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Unloved": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Appended Mag"
+          ],
+          "perk1": [
+            "Rapid Hit"
+          ],
+          "perk2": [
+            "Elemental Honing"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Meta, Worse Alternative",
+          "tier": "",
+          "priority": "",
+          "role": "Filler",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Only relevant legendary LP HC",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Until Its Return": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Barrel Shroud"
+          ],
+          "column2": [
+            "Tactical Mag"
+          ],
+          "perk1": [
+            "Auto-Loading Holster"
+          ],
+          "perk2": [
+            "Surrounded",
+            "Cascade Point",
+            "Vorpal Weapon"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Meta, Worse Alternative",
+          "tier": "",
+          "priority": "",
+          "role": "Filler",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Best kinetic slot sustained pellet damage",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Whisper of the Worm": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Steady Rounds"
+          ],
+          "perk1": [
+            "Field Prep"
+          ],
+          "perk2": [
+            "Short-Action Stock"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Meta, Worse Alternative",
+          "tier": "",
+          "priority": "",
+          "role": "Main",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Overshadowed by Queenbreaker",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Winter's Guile": {
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Meta, Worse Alternative",
+          "tier": "",
+          "priority": "",
+          "role": "Ability",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Best burst damage option for Winterbite, but very niche and restrictive",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Without Remorse": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Barrel Shroud"
+          ],
+          "column2": [
+            "Assault Mag"
+          ],
+          "perk1": [
+            "Field Prep",
+            "Threat Detector"
+          ],
+          "perk2": [
+            "Vorpal Weapon",
+            "One-Two Punch"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Meta, Worse Alternative",
+          "tier": "",
+          "priority": "",
+          "role": "Filler",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Double pellet options, fairly irrelevant in current sandbox",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Yesterday's Question": {
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Appended Mag"
+          ],
+          "perk1": [
+            "Rapid Hit"
+          ],
+          "perk2": [
+            "Vorpal Weapon"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Meta, Worse Alternative",
+          "tier": "",
+          "priority": "",
+          "role": "Filler",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Best energy slot legendary LP HC, basically irrelevant",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      }
+    }
+  }
+}

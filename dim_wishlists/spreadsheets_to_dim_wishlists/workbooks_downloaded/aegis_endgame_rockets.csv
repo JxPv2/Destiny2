@@ -1,0 +1,107 @@
+WEAPON,,INFO,,,,,PERKS,,,,,ANALYSIS,,
+🖼️,Name,Season,Energy,Frame,Ammo,⬆️,Barrel,Mag,Perk 1,Perk 2,Origin Trait,Notes,Rank,Tier
+,Hezen Vengeance,26,Solar,Aggressive,50,Yes,Quick Launch,Impact Casing,"Envious Arsenal
+Cluster Bomb
+Overflow","Bait and Switch
+Elemental Honing
+Bipod",Timelost Magazine,"double damage options, insane origin, Bipod swap option",1,S
+,The When and Where,27,Stasis,Adaptive,38,Yes,Quick Launch,Impact Casing,"Clown Cartridge
+Reconstruction
+Overflow","Bait and Switch
+Elemental Honing
+Bipod",Frame of Reference,missing Envious but great otherwise as a burst specialist,2,S
+,"Cold Comfort
+RotN version",26,Stasis,Aggressive,45,Yes,Quick Launch,Impact Casing,"Envious Arsenal
+Reconstruction","Elemental Honing
+Bait and Switch
+Bipod",Restoration Ritual,worse origin than Hezen with no Cluster option,4,A
+,Cynosure,26,Strand,Adaptive,47,Yes,Quick Launch,Impact Casing,"Envious Arsenal
+Clown Cartridge
+Field Prep","Elemental Honing
+Explosive Light
+Bipod",Vanguard's Vindication,"worst origin of the best rockets, perk pool still competitive though",5,A
+,Tomorrow's Answer,25,Void,High-Impact,37,Yes,Quick Launch,Impact Casing,"Envious Arsenal
+Air Trigger
+Withering Gaze","Bait and Switch
+Explosive Light
+Bipod",Wild Card,"interesting option post-reserve nerf, frame difference",6,A
+,Apex Predator,21,Solar,Adaptive,33,Yes,Quick Launch,Impact Casing,"Reconstruction
+Slideways
+Demolitionist","Bait and Switch
+Surrounded
+Bipod",Explosive Pact,"solid perk pool, origin just useless and no Envious",7,B
+,Crux Termination IV,23,Arc,Aggressive,45,Yes,Quick Launch,Impact Casing,"Reconstruction
+Clown Cartridge
+Slideshot","Bipod
+Explosive Light
+Surrounded",Wild Card,"doubles as add clear Pack rocket thanks to origin, damage perks are niche",8,B
+,Haliaetus,27,Strand,High-Impact,37,Yes,Quick Launch,Impact Casing,"Auto-Loading Holster
+Cluster Bomb
+Grave Robber","Aggregate Charge
+Reaper's Tithe
+Elemental Honing",Bray Legacy,"decent perk combos, just not the best frame",9,B
+,Cold Comfort,21,Stasis,Aggressive,45,Yes,Quick Launch,Impact Casing,Envious Assassin,"Bait and Switch
+Bipod",Restoration Ritual,very limited use case due to no loader perk besides Envious Assassin,10,B
+,Folded Root,27,Void,Aggressive,37,Yes,Quick Launch,Impact Casing,"Cluster Bomb
+Air Trigger","Bipod
+Chain Reaction
+Lasting Impression",Tenacity,basically Braytech except aggressive,11,B
+,Heretic's Fervor,25,Stasis,Aggressive,31,Yes,Quick Launch,Impact Casing,"Field Prep
+Slideshot
+Auto-Loading Holster","Bipod
+Explosive Light",Dark Ether Reaper,not as versatile as Crux but similar quality origin,12,B
+,Micromort,28,Arc,Precision,41,Yes,Quick Launch,Impact Casing,"Cluster Bomb
+Envious Arsenal
+Clown Cartridge","Bait and Switch
+Bipod",Häkke Breach Armaments,"decent for Pack add clear, worst archetype for damage",13,C
+,Braytech Osprey,21,Void,High-Impact,38,No,Quick Launch,Impact Casing,"Cluster Bomb
+Envious Assassin
+Field Prep","Bipod
+Frenzy",Vanguard's Vindication,among the best for Pack add clear,14,C
+,Faith-Keeper,24,Void,Precision,36,Yes,Quick Launch,Impact Casing,"Clown Cartridge
+Auto-Loading Holster
+Field Prep","Bipod
+Explosive Light",Radiolaria Transposer,among the best for Pack add clear,15,C
+,Crowning Duologue,24,Strand,Precision,45,Yes,Quick Launch,Impact Casing,"Reconstruction
+Air Trigger
+Demolitionist","Bipod
+Deconstruct",Dream Work,among the best for Pack add clear,16,C
+,The Hothead,15,Arc,Adaptive,34,No,Quick Launch,Impact Casing,"Demolitionist
+Field Prep
+Auto-Loading Holster","Explosive Light
+Clown Cartridge",Vanguard's Vindication,outdated dump rocket,17,C
+,Sleepless,23,Arc,High-Impact,36,No,Quick Launch,Impact Casing,"Field Prep
+Auto-Loading Holster",Bipod,Advanced Reflexes,little worse than the best add clear options but still good,18,C
+,Semiotician,22,Strand,High-Impact,40,Yes,Quick Launch,Impact Casing,Field Prep,"Bipod
+Explosive Light",Head Rush,little worse than the best add clear options but still good,19,C
+,Blowout,19,Arc,Adaptive,29,Yes,Quick Launch,Impact Casing,"Field Prep
+Demolitionist","Explosive Light
+Frenzy",One Quiet Moment,less versatile Hothead,20,C
+,Bump in the Night,17,Stasis,Aggressive,40,Yes,Quick Launch,Impact Casing,"Demolitionist
+Auto-Loading Holster
+Field Prep","Frenzy
+Chill Clip",Extrovert,solid archetype but very outdated damage perks,21,C
+,Code Duello,13,Solar,High-Impact,42,No,Quick Launch,Impact Casing,"Auto-Loading Holster
+Field Prep",Frenzy,None,okay archetype with outdated damage perks,22,D
+,Roar of the Bear,20,Solar,High-Impact,38,No,Quick Launch,Impact Casing,"Field Prep
+Demolitionist","Lasting Impression
+Cluster Bomb",Skulking Wolf,okay archetype with outdated damage perks,23,D
+,Palmyra-B,16,Stasis,Precision,42,Yes,Quick Launch,Impact Casing,Auto-Loading Holster,Explosive Light,Häkke Breach Armaments,ALH but precision and outdated damage eprk,24,D
+,Hoosegow,11,Arc,Adaptive,25,No,Quick Launch,Impact Casing,"Field Prep
+Auto-Loading Holster","Cluster Bomb
+Demolitionist",None,ALH but Cluster as best damage perk,25,D
+,Bad Omens,4,Void,Aggressive,35,No,Quick Launch,Alloy Casing,"Auto-Loading Holster
+Field Prep",Cluster Bomb,None,ALH but Cluster as best damage perk,26,D
+,Red Herring,16,Void,Adaptive,36,Yes,Quick Launch,Impact Casing,Field Prep,"Golden Tricorn
+Frenzy",Psychohack,dump rocket with outdated perks,27,E
+,Heretic,8,Arc,Aggressive,32,No,Quick Launch,Impact Casing,Field Prep,"Lasting Impression
+Cluster Bomb",None,dump rocket with outdated perks,28,E
+,Royal Entry,13,Void,Precision,45,No,Quick Launch,Impact Casing,"Field Prep
+Auto-Loading Holster","Clown Cartridge
+Lasting Impression",Vanguard's Vindication,ALH but precision and outdated damage perk,29,E
+,Ascendancy,15,Solar,Precision,35,No,Quick Launch,Impact Casing,"Impulse Amplifier
+Ambitious Assassin",Explosive Light,None,dump rocket with outdated perks and bad frame,30,F
+,Shining Sphere,7,Arc,Adaptive,38,No,Quick Launch,Impact Casing,"Field Prep
+Auto-Loading Holster",Demolitionist,None,ALH with no damage perk,31,F
+,Subzero Salvo,12,Arc,Precision,34,No,Quick Launch,Impact Casing,Ambitious Assassin,"Cluster Bomb
+Demolitionist",None,awful all around,32,F
