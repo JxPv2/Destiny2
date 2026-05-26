@@ -13,7 +13,7 @@ paste it in DIM -> Settings -> Wish List -> Add another wish list -> + Add Wish 
 https://raw.githubusercontent.com/JxPv2/D2-Stuff/refs/heads/main/dim_wishlists/aegis_boss-damage_spreadsheet_dim_wishlist.txt
 
 
-### aegis' destiny 2: endgame analysis
+### aegis' endgame analysis
 
 https://raw.githubusercontent.com/JxPv2/D2-Stuff/refs/heads/main/dim_wishlists/aegis_endgame_spreadsheet_dim_wishlist.txt
 
