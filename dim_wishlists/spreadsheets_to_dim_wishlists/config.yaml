@@ -72,7 +72,7 @@ spreadsheets:
   # --------------------------------------------------------------------------
   aegis_boss-damage:
     name: "Aegis' Boss Damage"
-    id: "1DbHDzXqyPpejqgv-e4Ugh-c8rGPBZeJzu8na014ySAQ"
+    id: "1_5wtBjRYHHxuF4oJKDb_iOGZs-wTkzB6RYbnyNLbuz4"
     tags: "aegis boss-damage pve"
     workbooks:
       - gid: 1268483240
@@ -87,7 +87,7 @@ spreadsheets:
   # --------------------------------------------------------------------------
   aegis_speedrunner:
     name: "Aegis' Speedrunner's Shopping List"
-    id: "1amDuDN5gjWg9tR_NHnd9wdj0xpusiI7Ck-njl-san_k"
+    id: "1is4sNUesy--7Zm6SCCWEP9PAXomxaSj5xlJGCsSj_qs"
     tags: "aegis speedrun pve"
     workbooks:
       - gid: 0
@@ -98,7 +98,7 @@ spreadsheets:
   # --------------------------------------------------------------------------
   aegis_endgame:
     name: "Aegis' Endgame Analysis"
-    id: "1kf7rsdhyaRimbBwZtpgErIpsT1HiK5d7IMybw5sV7_M"
+    id: "1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY"
     tags: "aegis endgame pve"
     workbooks:
       - gid: 346832350
