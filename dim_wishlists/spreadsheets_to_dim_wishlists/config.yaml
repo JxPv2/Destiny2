@@ -1,0 +1,218 @@
+# ==============================================================================
+# PIPELINE CONFIGURATION
+# ==============================================================================
+# This single file controls the entire pipeline:
+#   - Where files are stored
+#   - Which Bungie manifest components to download
+#   - Which Google Sheets to scrape
+#   - Which perk categories to ignore
+# ==============================================================================
+
+# ==============================================================================
+# SECTION 0: GLOBAL PIPELINE PATH MANIFEST
+# ==============================================================================
+# All paths are relative to where the script runs from (repo root).
+# These folders are created automatically if they don't exist.
+# ==============================================================================
+pipeline_paths:
+  state_file: "local_version_state.json"      # Tracks versions/hashes so we know what changed
+  log_dir: "logs"                            # One .log file per script
+  manifest_dir: "bungie_manifest_data"         # Raw + compiled Bungie manifest JSON
+  download_dir: "workbooks_downloaded"         # CSV/XLSX files from Google Sheets
+  scraped_dir: "spreadsheets_scraped_data"    # Cleaned JSON after scraping
+  wishlist_dir: "dim_wishlists"              # Final .txt files DIM can import
+  
+# ==============================================================================
+# SECTION 1: BUNGIE API
+# ==============================================================================
+# The Bungie API key is optional for manifest metadata (it works without one).
+# If you register at https://www.bungie.net/developer you get higher rate limits.
+# ==============================================================================
+bungie_api:
+  api_key: "Destiny2API"                     # Placeholder — replace with real key or leave as-is
+  components:                                # Which manifest tables to download
+    - DestinyInventoryItemDefinition          # Weapons, perks, armor, everything
+    - DestinyPlugSetDefinition                # Random-roll perk pools per weapon
+    
+# ==============================================================================
+# SECTION 2: GOOGLE SHEETS TO MONITOR
+# ==============================================================================
+# ------------------------------------------------------------------------------
+# spreadsheets  –  A dictionary of spreadsheets you want to track.
+# ------------------------------------------------------------------------------
+# Each key (e.g. 'creator_spreadsheet-name') is a short, unique name used
+# throughout the pipeline.
+#
+# Each value is another dictionary:
+#   name       - The name that will be used into the wishlist.txt files.
+#
+#   id         – The Google Sheets file ID.  It is the long string in the
+#                sheet’s URL: https://docs.google.com/spreadsheets/d/<ID>/edit
+#
+#   tags       - They will be added as | tags: at the end of the wishlist.
+#                Used to be searchable keywords in DIM (wishlistnotes:).
+#
+#   workbooks  – A list of the exact spreadsheet (tab) gids and names you want to extract.
+#
+#   gid        - The workbook ID. It is the long string in the
+#                sheet’s URL: https://docs.google.com/spreadsheets/d/<ID>/edit?gid=<GID>
+#   name       - Must match the workbook name in the Spreadsheet.
+#                Used as fallback if GID is not working.
+#
+#   tags       - Same as tags for the spreadsheet. If you declare in the workbook they
+#                will get priority over the spreadsheet ones.
+#                (use example: spreadsheets is mostly pve but this workbook is pvp).
+#
+#   use_xlsx   - True to tell the extractor scripts to actually use the xlsx version of 
+#                the workbooks to be able to read particular formatted workbooks.
+# ==============================================================================
+spreadsheets:
+  # --------------------------------------------------------------------------
+  # Spreadsheet: Aegis' Boss Damage
+  # --------------------------------------------------------------------------
+  aegis_boss-damage:
+    name: "Aegis' Boss Damage"
+    id: "1DbHDzXqyPpejqgv-e4Ugh-c8rGPBZeJzu8na014ySAQ"
+    tags: "aegis boss-damage pve"
+    workbooks:
+      - gid: 1268483240
+        name: "Changelog"
+        tags: ""
+      - gid: 639621230
+        name: "Equipment (WIP)"
+        tags: ""
+
+  # --------------------------------------------------------------------------
+  # Spreadsheet: Aegis' Speedrunner's Shopping List
+  # --------------------------------------------------------------------------
+  aegis_speedrunner:
+    name: "Aegis' Speedrunner's Shopping List"
+    id: "1amDuDN5gjWg9tR_NHnd9wdj0xpusiI7Ck-njl-san_k"
+    tags: "aegis speedrun pve"
+    workbooks:
+      - gid: 0
+        name: "Weapons"
+
+  # --------------------------------------------------------------------------
+  # Spreadsheet: Aegis' Endgame Analysis
+  # --------------------------------------------------------------------------
+  aegis_endgame:
+    name: "Aegis' Endgame Analysis"
+    id: "1kf7rsdhyaRimbBwZtpgErIpsT1HiK5d7IMybw5sV7_M"
+    tags: "aegis endgame pve"
+    workbooks:
+      - gid: 346832350
+        name: "Status"
+        tags: ""
+      - gid: 1439671777
+        name: "Changelog"
+        tags: ""
+      - gid: 1062099834
+        name: "Shopping List"
+        tags: ""
+      - gid: 1890042119
+        name: "Autos"
+        tags: ""
+      - gid: 324500912
+        name: "Bows"
+        tags: ""
+      - gid: 1315046624
+        name: "HCs"
+        tags: ""
+      - gid: 1712537582
+        name: "Pulses"
+        tags: ""
+      - gid: 946843299
+        name: "Scouts"
+        tags: ""
+      - gid: 1594008157
+        name: "Sidearms"
+        tags: ""
+      - gid: 1405969509
+        name: "SMGs"
+        tags: ""
+      - gid: 657764751
+        name: "BGLs"
+        tags: ""
+      - gid: 1318165198
+        name: "Fusions"
+        tags: ""
+      - gid: 1239299765
+        name: "Glaives"
+        tags: ""
+      - gid: 1595979957
+        name: "Shotguns"
+        tags: ""
+      - gid: 1090554564
+        name: "Snipers"
+        tags: ""
+      - gid: 550485113
+        name: "Rocket Sidearms"
+        tags: ""
+      - gid: 288998351
+        name: "Traces"
+        tags: ""
+      - gid: 439751986
+        name: "HGLs"
+        tags: ""
+      - gid: 29008106
+        name: "LFRs"
+        tags: ""
+      - gid: 1919916707
+        name: "LMGs"
+        tags: ""
+      - gid: 981030684
+        name: "Rockets"
+        tags: ""
+      - gid: 473850359
+        name: "Swords"
+        tags: ""
+      - gid: 266663572
+        name: "Other"
+        tags: ""
+      - gid: 1789798057
+        name: "Exotic Weapons"
+        tags: ""
+        use_xlsx: true
+      - gid: 1087089423
+        name: "Exotic Armor (ignore)"
+        tags: ""
+
+# ==============================================================================
+# SECTION 3: MANIFEST BYPASS LIST
+# ==============================================================================
+# Some items have broken/incomplete perk pools in Bungie's manifest.
+# This forces wishlist generation without pool validation.
+# (exotic class items for example) (looking at you bungo)
+# Add items name.
+# ==============================================================================
+ignore_manifest_perk_pool:
+  - "Relativism"
+  - "Stoicism"
+  - "Solipsism"
+
+# ==============================================================================
+# SECTION 4: MANIFEST FILTERS
+# ==============================================================================
+# When compiling the manifest, skip these plug categories.
+# This shrinks the processed manifest and removes non-perk sockets
+# (shaders, trackers, masterworks, armor mods, etc.).
+# Each string is matched with .startswith() against the plugCategoryIdentifier.
+# "itemTypeDisplayName"
+# ==============================================================================
+bungie_manifest_filtering:
+  ignored_plug_categories:
+    - "shader"                                        # Shaders
+    - "mementos"                                      # Mementos
+    - "skins"                                         # Ornaments
+    - "v400.plugs.weapons.masterworks.trackers"       # Kills Trackers
+    - "crafting.plugs.weapons.mods.memories"          # Deepsight Resonance
+    - "crafting.plugs.weapons.mods.transfusers.level" # Crafted Weapon Levels
+    - "crafting.plugs.weapons.mods.extractors"        # Extract Pattern
+    - "v300.weapon.damage_type.energy"                # Energy Mods
+    - "v400.weapon.mod_damage"                        # Weapon Mods
+    - "v400.weapon.mod_guns"                          # Weapon Mods
+    - "v400.plugs.weapons.masterworks"                # All Weapon Masterwork
+    - "enhancements.v2"                               # Armor Mods
+    - "v460.plugs.armor.masterworks.stat."            # Armor Upgrade
+    - "enhancements.artifice"                         # Armor Artifice

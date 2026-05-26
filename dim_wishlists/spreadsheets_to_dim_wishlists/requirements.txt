@@ -1,0 +1,15 @@
+# ==============================================================================
+# PYTHON DEPENDENCIES
+# ==============================================================================
+# This file tells pip what external libraries to install.
+# Run: pip install -r requirements.txt
+# ==============================================================================
+
+# requests — HTTP library for downloading from Bungie API and Google Sheets
+requests>=2.28.0
+
+# PyYAML — reads/writes YAML files (our config.yaml)
+PyYAML>=6.0
+
+# openpyxl — reads Excel .xlsx files (for spreadsheets that need it)
+openpyxl>=3.0.0
