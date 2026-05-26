@@ -23,6 +23,9 @@
 - Roll data: [Aegis](https://drive.google.com/drive/folders/1AL3GM6rSSrm4LtSZeayxpSUsvSJdsiU3) community spreadsheets
 - Wishlist splitter: [2Pillows](https://github.com/2Pillows/dim_wishlist_splitter)
 
+
+The scripts that generate the wishlists txt files are in "spreadsheets_to_dim_wishlists".
+
 ## License
 
 [GPLv3](LICENSE)
