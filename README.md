@@ -1,6 +1,6 @@
-# Destiny2
+# D2-Stuff
 
-just random destiny2 stuffs
+just random destiny2 things
 
 
 WIP and RIP
