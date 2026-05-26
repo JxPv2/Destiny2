@@ -1,10 +1,3 @@
-# D2-Stuff — Auto-generated DIM wishlists from community spreadsheets
-# Copyright (C) 2026 JxPv2
-# 
-# This program is free software: you can redistribute it and/or modify
-# it under the terms of the GNU General Public License as published by
-# the Free Software Foundation, either version 3 of the License, or
-# (at your option) any later version.
 import os
 import json
 import yaml
@@ -189,6 +182,25 @@ class DIMWishlistGenerator:
         # NFD splits "ä" into "a" + combining diaeresis; we drop the combining marks.
         decomposed = unicodedata.normalize('NFD', text)
         return ''.join(c for c in decomposed if unicodedata.category(c) != 'Mn')
+
+    def _tokenize(self, text):
+        """
+        Split a perk name into lowercase tokens for subset matching.
+
+        Tokens are whitespace-separated words. Punctuation attached to words
+        is stripped so "Frame," and "Frame" share the same token.
+        """
+        if not text:
+            return set()
+        # Split on whitespace, strip common punctuation from each token
+        raw_tokens = text.lower().split()
+        cleaned = set()
+        for t in raw_tokens:
+            # Strip leading/trailing punctuation
+            stripped = t.strip(".,;:!?()[]{}\"'")
+            if stripped:
+                cleaned.add(stripped)
+        return cleaned
 
     def _load_manifest_lookups(self):
         """
@@ -483,17 +495,25 @@ class DIMWishlistGenerator:
         if pool_bypass:
             details_logger.info(f"POOL BYPASS: '{item_name}' using global manifest hashes, ignoring weapon perk pool.")
 
-        # Pre-check: which perks exist globally but not in ANY instance's pool?
-        # This is a diagnostic-only pass; it does not affect generation.
-        all_valid_perks = set()
+        # =================================================================
+        # GLOBAL PERK POOL CHECK FOR VARIANT MATCHING ELIGIBILITY
+        # =================================================================
+        # Build the union of ALL valid perks across every instance of this weapon.
+        # If a perk exists in at least one instance's pool, we use it as-is and
+        # NEVER do variant matching. Variant matching is only for typos where
+        # the perk is completely absent from ALL instances.
+        all_valid_perks_union = set()
         for inst in item_instances:
-            all_valid_perks.update(inst.get("valid_perks", []))
+            all_valid_perks_union.update(inst.get("valid_perks", []))
 
+        # Pre-check: which perks exist globally but not in ANY instance's pool?
+        # These are the ONLY candidates eligible for variant matching.
+        globally_missing_perks = set()
         for slot, name_bucket in perk_name_buckets:
             for perk_name in name_bucket:
                 possible_hashes = self.perk_map.get(perk_name, [])
-                if possible_hashes and not any(h in all_valid_perks for h in possible_hashes):
-                    # Perk exists in manifest but not in any pool for this weapon.
+                if possible_hashes and not any(h in all_valid_perks_union for h in possible_hashes):
+                    globally_missing_perks.add(perk_name)
                     for h in possible_hashes:
                         pool_rejected.append((slot, perk_name, h))
 
@@ -515,34 +535,35 @@ class DIMWishlistGenerator:
                     if valid_hashes:
                         hash_bucket.extend(valid_hashes)
                     else:
-                        # Fallback: search the weapon's valid perk pool for variant names.
-                        # Example: spreadsheet says "Outlaw", pool contains "Outlaw Refit".
+                        # =================================================================
+                        # VARIANT MATCHING WITH GLOBAL POOL GUARD
+                        # =================================================================
+                        # Only attempt variant matching if this perk is missing from
+                        # ALL instances of this weapon. If it exists in even one
+                        # instance, we skip variant matching because the spreadsheet
+                        # intended that specific perk for a specific version.
                         fallback_hashes = []
-                        perk_name_lower = perk_name.lower()
-                        for vp_hash in valid_manifest_perks:
-                            vp_name = self.perk_map_by_hash.get(vp_hash)
-                            if vp_name:
-                                vp_name_lower = vp_name.lower()
-                                # Match if the pool perk starts with the spreadsheet perk
-                                # and the next character is a space or opening paren.
-                                if (
-                                    vp_name_lower == perk_name_lower or
-                                    (
-                                        vp_name_lower.startswith(perk_name_lower) and
-                                        len(vp_name_lower) > len(perk_name_lower) and
-                                        vp_name_lower[len(perk_name_lower)] in " ("
-                                    )
-                                ):
+
+                        if perk_name in globally_missing_perks:
+                            search_tokens = self._tokenize(perk_name)
+
+                            for vp_hash in valid_manifest_perks:
+                                vp_name = self.perk_map_by_hash.get(vp_hash)
+                                if not vp_name:
+                                    continue
+
+                                vp_tokens = self._tokenize(vp_name)
+
+                                if search_tokens and search_tokens <= vp_tokens:
                                     fallback_hashes.append(vp_hash)
 
-                        if fallback_hashes:
-                            hash_bucket.extend(fallback_hashes)
-                            matched_names = [self.perk_map_by_hash.get(h) for h in fallback_hashes]
-                            details_logger.info(f"VARIANT MATCH: '{perk_name}' -> {matched_names} on '{item_name}'")
+                            if fallback_hashes:
+                                hash_bucket.extend(fallback_hashes)
+                                matched_names = [self.perk_map_by_hash.get(h) for h in fallback_hashes]
+                                details_logger.info(f"VARIANT MATCH: '{perk_name}' -> {matched_names} on '{item_name}'")
                         elif possible_hashes:
-                            # No pool match and no variant match, but the perk
-                            # exists globally. Include the global hashes anyway;
-                            # they will be filtered out below unless pool_bypass is on.
+                            # Perk exists globally and in some instance, just not THIS one.
+                            # Include the global hash; it will be filtered by pool validation.
                             hash_bucket.extend(possible_hashes)
 
                 if hash_bucket:
