@@ -10135,3 +10135,11 @@
     2026-05-26 16:34:06,555 [INFO] -> 🎉 Wishlist file isolated and successfully written: 'dim_wishlists/aegis_boss-damage_spreadsheet_dim_wishlist.txt' (348 lines)
   2026-05-26 16:34:06,555 [INFO] -> ✅ Global manifest wishlist rebuild flag cleared.
   2026-05-26 16:34:06,556 [INFO] -> State tracker synchronized. Flags committed to file: 'local_version_state.json'
+2026-05-26 18:19:06,504 [INFO] -> ================================================================================
+2026-05-26 18:19:06,504 [INFO] -> 🚀 Launching Isolated DIM Wishlist Text Generation Pipeline...
+2026-05-26 18:19:06,504 [INFO] -> ================================================================================
+  2026-05-26 18:19:06,504 [INFO] -> Loading processed Bungie manifest database maps into memory...
+  2026-05-26 18:19:06,548 [INFO] -> Skip Condition Met: File 'aegis_speedrunner_spreadsheet_data_scraped.json' has no update required and wishlist output file already exists. Skipping.
+  2026-05-26 18:19:06,548 [INFO] -> Skip Condition Met: File 'aegis_endgame_spreadsheet_data_scraped.json' has no update required and wishlist output file already exists. Skipping.
+  2026-05-26 18:19:06,548 [INFO] -> Skip Condition Met: File 'aegis_boss-damage_spreadsheet_data_scraped.json' has no update required and wishlist output file already exists. Skipping.
+  2026-05-26 18:19:06,548 [INFO] -> Pipeline execution completed. No state changes needed updating.
