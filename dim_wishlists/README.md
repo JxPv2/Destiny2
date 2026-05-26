@@ -15,7 +15,7 @@
 | Aegis' Boss Damage | [`aegis boss damage dim raw link`](https://raw.githubusercontent.com/JxPv2/D2-Stuff/refs/heads/main/dim_wishlists/aegis_boss-damage_spreadsheet_dim_wishlist.txt) |
 | Aegis' Endgame | [`aegis endgame dim raw link`](https://raw.githubusercontent.com/JxPv2/D2-Stuff/refs/heads/main/dim_wishlists/aegis_endgame_spreadsheet_dim_wishlist.txt) |
 | Aegis' Speedrunner | [`aegis speedrunner dim raw link`](https://raw.githubusercontent.com/JxPv2/D2-Stuff/refs/heads/main/dim_wishlists/aegis_speedrunner_spreadsheet_dim_wishlist.txt) |
-| 2Pillows MKB_PvE | [`2pillows mkb_pve dim raw link](https://raw.githubusercontent.com/2Pillows/dim_wishlist_splitter/main/wishlists/MKB_PvE.txt) |
+| 2Pillows MKB_PvE | [`2pillows mkb_pve dim raw link`](https://raw.githubusercontent.com/2Pillows/dim_wishlist_splitter/main/wishlists/MKB_PvE.txt) |
 
 
 ## Credits
