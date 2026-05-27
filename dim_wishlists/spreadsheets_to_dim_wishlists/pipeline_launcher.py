@@ -72,7 +72,12 @@ STAGE_TIMEOUT_SECONDS = 600  # 10 minutes per stage
 #   4. Speedrunner Scraper     -> Scrapes the Aegis speedrunner sheet.
 #   5. Endgame Scraper         -> Scrapes the Aegis endgame mega-sheet.
 #   6. DIM Wishlist Converter  -> Generates .txt wishlists from all scraped
-#                                 JSON artifacts.
+#                                 JSON artifacts. Sets wishlist_split_required
+#                                 flags in the shared state for sources that
+#                                 were actually updated.
+#   7. DIM Wishlist Splitter   -> Reads the state flags set by the converter
+#                                 and only re-splits sources that changed.
+#                                 Clears flags after processing.
 PIPELINE_STAGES = [
     ("Version State Check", [sys.executable, "version_state_checker.py"]),
     ("Bungie Manifest Download", [sys.executable, "bungie_manifest_downloader.py"]),
@@ -80,6 +85,7 @@ PIPELINE_STAGES = [
     ("Speedrunner Scraper", [sys.executable, "aegis_speedrunner_spreadsheet_data_scraper.py"]),
     ("Endgame Scraper", [sys.executable, "aegis_endgame_spreadsheet_data_scraper.py"]),
     ("DIM Wishlist Converter", [sys.executable, "dim_wishlists_converter.py"]),
+    ("DIM Wishlist Splitter", [sys.executable, "dim_wishlists_splitter.py", "--pipeline"]),
 ]
 
 # ==============================================================================
