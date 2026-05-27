@@ -22,13 +22,13 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        working-directory: ${{ github.workspace }}/dim_wishlists/spreadsheets_to_dim_wishlists
+        working-directory: ${{ github.workspace }}/dim_wishlists/spreadsheets_to_dim_wishlists_scripts
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
       - name: Run pipeline
-        working-directory: ${{ github.workspace }}/dim_wishlists/spreadsheets_to_dim_wishlists
+        working-directory: ${{ github.workspace }}/dim_wishlists/spreadsheets_to_dim_wishlists_scripts
         run: python pipeline_launcher.py
         env:
           PYTHONIOENCODING: utf-8
@@ -37,9 +37,9 @@ jobs:
         run: |
           mkdir -p ${{ github.workspace }}/dim_wishlists
           # Recursively copy all .txt files (main + splitted + any future subdirs)
-          # cp -r ${{ github.workspace }}/dim_wishlists/spreadsheets_to_dim_wishlists/dim_wishlists/* ${{ github.workspace }}/dim_wishlists/ 2>/dev/null || true
-          cp ${{ github.workspace }}/dim_wishlists/spreadsheets_to_dim_wishlists/dim_wishlists/*.txt ${{ github.workspace }}/dim_wishlists/ 2>/dev/null || true
-          cp ${{ github.workspace }}/dim_wishlists/spreadsheets_to_dim_wishlists/dim_wishlists/splitted_dim_wishlists/*.txt ${{ github.workspace }}/dim_wishlists/ 2>/dev/null || true
+          # cp -r ${{ github.workspace }}/dim_wishlists/spreadsheets_to_dim_wishlists_scripts/dim_wishlists/* ${{ github.workspace }}/dim_wishlists/ 2>/dev/null || true
+          cp ${{ github.workspace }}/dim_wishlists/spreadsheets_to_dim_wishlists_scripts/dim_wishlists/*.txt ${{ github.workspace }}/dim_wishlists/ 2>/dev/null || true
+          cp ${{ github.workspace }}/dim_wishlists/spreadsheets_to_dim_wishlists_scripts/dim_wishlists/splitted_dim_wishlists/*.txt ${{ github.workspace }}/dim_wishlists/ 2>/dev/null || true
 
       - name: Commit and push changes
         run: |
@@ -47,7 +47,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           
           git add dim_wishlists/
-          git add dim_wishlists/spreadsheets_to_dim_wishlists/
+          git add dim_wishlists/spreadsheets_to_dim_wishlists_scripts/
           
           if git diff --cached --quiet; then
             echo "No changes to commit."
