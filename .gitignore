@@ -5,7 +5,5 @@ __pycache__/
 
 # Raw Bungie manifest component tables (246 MB+ each, exceeds GitHub 100 MB limit)
 # Keep bungie_manifest_processed.json — it's small and required
-dim_wishlists/spreadsheets_to_dim_wishlists/bungie_manifest_data/DestinyInventoryItemDefinition.json
-dim_wishlists/spreadsheets_to_dim_wishlists/bungie_manifest_data/DestinyPlugSetDefinition.json
-dim_wishlists/spreadsheets_to_dim_wishlists/bungie_manifest_data/DestinySandboxPerkDefinition.json
-dim_wishlists/spreadsheets_to_dim_wishlists/bungie_manifest_data/DestinySocketTypeDefinition.json
+dim_wishlists/spreadsheets_to_dim_wishlists_scripts/bungie_manifest_data/DestinyInventoryItemDefinition.json
+dim_wishlists/spreadsheets_to_dim_wishlists_scripts/bungie_manifest_data/DestinyPlugSetDefinition.json
