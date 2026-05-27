@@ -6,11 +6,12 @@
       "patch": ""
     },
     "link": "https://docs.google.com/spreadsheets/d/1is4sNUesy--7Zm6SCCWEP9PAXomxaSj5xlJGCsSj_qs",
-    "scrape_date": "2026-05-26 18:25:06"
+    "scrape_date": "2026-05-27 23:51:50"
   },
   "workbooks": {
     "Weapons": {
       "Ergo Sum": {
+        "weapon_name": "Ergo Sum",
         "version": "",
         "perks": {
           "column1": [
@@ -57,6 +58,7 @@
         }
       },
       "Gizmo Weft": {
+        "weapon_name": "Gizmo Weft",
         "version": "",
         "perks": {
           "column1": [
@@ -102,6 +104,7 @@
         }
       },
       "Mint Retrograde": {
+        "weapon_name": "Mint Retrograde",
         "version": "",
         "perks": {
           "column1": [
@@ -150,6 +153,7 @@
         }
       },
       "Praxic Blade": {
+        "weapon_name": "Praxic Blade",
         "version": "",
         "perks": {
           "column1": [
@@ -192,6 +196,7 @@
         }
       },
       "Psi Aeterna IV": {
+        "weapon_name": "Psi Aeterna IV",
         "version": "",
         "perks": {
           "column1": [
@@ -239,6 +244,7 @@
         }
       },
       "Sullen Claw": {
+        "weapon_name": "Sullen Claw",
         "version": "",
         "perks": {
           "column1": [
@@ -283,6 +289,7 @@
         }
       },
       "The Navigator": {
+        "weapon_name": "The Navigator",
         "version": "",
         "perks": {
           "column1": [],
@@ -317,6 +324,7 @@
         }
       },
       "The Slammer": {
+        "weapon_name": "The Slammer",
         "version": "",
         "perks": {
           "column1": [
@@ -361,6 +369,7 @@
         }
       },
       "Theodolite": {
+        "weapon_name": "Theodolite",
         "version": "",
         "perks": {
           "column1": [
@@ -405,6 +414,7 @@
         }
       },
       "Tractor Cannon": {
+        "weapon_name": "Tractor Cannon",
         "version": "",
         "perks": {
           "column1": [],
@@ -439,6 +449,7 @@
         }
       },
       "Uncivil Discourse": {
+        "weapon_name": "Uncivil Discourse",
         "version": "",
         "perks": {
           "column1": [
@@ -481,6 +492,7 @@
         }
       },
       "A Good Shout": {
+        "weapon_name": "A Good Shout",
         "version": "",
         "perks": {
           "column1": [
@@ -525,6 +537,7 @@
         }
       },
       "Aberrant Action": {
+        "weapon_name": "Aberrant Action",
         "version": "",
         "perks": {
           "column1": [
@@ -568,6 +581,7 @@
         }
       },
       "Alethonym": {
+        "weapon_name": "Alethonym",
         "version": "",
         "perks": {
           "column1": [],
@@ -602,6 +616,7 @@
         }
       },
       "Anarchy": {
+        "weapon_name": "Anarchy",
         "version": "",
         "perks": {
           "column1": [],
@@ -636,6 +651,7 @@
         }
       },
       "Choir of One": {
+        "weapon_name": "Choir of One",
         "version": "",
         "perks": {
           "column1": [
@@ -678,6 +694,7 @@
         }
       },
       "Chronophage": {
+        "weapon_name": "Chronophage",
         "version": "",
         "perks": {
           "column1": [
@@ -720,6 +737,7 @@
         }
       },
       "Edge of Action": {
+        "weapon_name": "Edge of Action",
         "version": "",
         "perks": {
           "column1": [
@@ -760,6 +778,7 @@
         }
       },
       "Gjallarhorn": {
+        "weapon_name": "Gjallarhorn",
         "version": "",
         "perks": {
           "column1": [],
@@ -794,32 +813,33 @@
         }
       },
       "Gunnora's Axe": {
+        "weapon_name": "Gunnora's Axe",
         "version": "",
         "perks": {
           "column1": [
             "Fluted Barrel"
           ],
           "column2": [
-            "Tactical Mag"
+            "Ricochet Rounds"
           ],
           "perk1": [
-            "Auto-Loading Holster"
+            "Slickdraw"
           ],
           "perk2": [
-            "Vorpal Weapon"
+            "Snapshot Sights"
           ],
           "origin_trait": []
         },
         "info": {
-          "rank": "Not Relevant",
+          "rank": "Alternate Inferior Pick, Niche",
           "tier": "",
           "priority": "",
           "role": "",
-          "purpose": "Double slug",
+          "purpose": "Dying quickly",
           "tags": "",
           "type": "",
           "usage": "Universal",
-          "source": "Iron Banner pool",
+          "source": "Iron Banner",
           "notes": "",
           "description": "",
           "alternatives": "",
@@ -836,6 +856,7 @@
         }
       },
       "Hezen Vengeance": {
+        "weapon_name": "Hezen Vengeance",
         "version": "",
         "perks": {
           "column1": [
@@ -881,6 +902,7 @@
         }
       },
       "IKELOS_SG_V1.0.3": {
+        "weapon_name": "IKELOS_SG_V1.0.3",
         "version": "",
         "perks": {
           "column1": [
@@ -927,6 +949,7 @@
         }
       },
       "Izanagi's Burden": {
+        "weapon_name": "Izanagi's Burden",
         "version": "",
         "perks": {
           "column1": [],
@@ -961,6 +984,7 @@
         }
       },
       "Lost Signal": {
+        "weapon_name": "Lost Signal",
         "version": "",
         "perks": {
           "column1": [
@@ -1005,6 +1029,7 @@
         }
       },
       "Lotus-Eater": {
+        "weapon_name": "Lotus-Eater",
         "version": "",
         "perks": {
           "column1": [
@@ -1048,6 +1073,7 @@
         }
       },
       "Lumina": {
+        "weapon_name": "Lumina",
         "version": "",
         "perks": {
           "column1": [],
@@ -1082,6 +1108,7 @@
         }
       },
       "Motif-41": {
+        "weapon_name": "Motif-41",
         "version": "",
         "perks": {
           "column1": [
@@ -1128,6 +1155,7 @@
         }
       },
       "No Hesitation": {
+        "weapon_name": "No Hesitation",
         "version": "",
         "perks": {
           "column1": [
@@ -1171,6 +1199,7 @@
         }
       },
       "Parasite": {
+        "weapon_name": "Parasite",
         "version": "",
         "perks": {
           "column1": [],
@@ -1205,6 +1234,7 @@
         }
       },
       "Path of Least Resistance": {
+        "weapon_name": "Path of Least Resistance",
         "version": "",
         "perks": {
           "column1": [
@@ -1248,6 +1278,7 @@
         }
       },
       "Perfect Paradox": {
+        "weapon_name": "Perfect Paradox",
         "version": "",
         "perks": {
           "column1": [
@@ -1293,6 +1324,7 @@
         }
       },
       "Psychopomp": {
+        "weapon_name": "Psychopomp",
         "version": "",
         "perks": {
           "column1": [
@@ -1339,6 +1371,7 @@
         }
       },
       "Pure Recollection": {
+        "weapon_name": "Pure Recollection",
         "version": "",
         "perks": {
           "column1": [
@@ -1382,6 +1415,7 @@
         }
       },
       "Refurbished A499": {
+        "weapon_name": "Refurbished A499",
         "version": "",
         "perks": {
           "column1": [
@@ -1426,6 +1460,7 @@
         }
       },
       "Retraced Path": {
+        "weapon_name": "Retraced Path",
         "version": "",
         "perks": {
           "column1": [
@@ -1472,6 +1507,7 @@
         }
       },
       "Returned Memory": {
+        "weapon_name": "Returned Memory",
         "version": "",
         "perks": {
           "column1": [
@@ -1518,6 +1554,7 @@
         }
       },
       "Salvation's Grip": {
+        "weapon_name": "Salvation's Grip",
         "version": "",
         "perks": {
           "column1": [],
@@ -1552,6 +1589,7 @@
         }
       },
       "Starscape Null": {
+        "weapon_name": "Starscape Null",
         "version": "",
         "perks": {
           "column1": [
@@ -1596,6 +1634,7 @@
         }
       },
       "Still Hunt": {
+        "weapon_name": "Still Hunt",
         "version": "",
         "perks": {
           "column1": [],
@@ -1630,6 +1669,7 @@
         }
       },
       "Synanceia": {
+        "weapon_name": "Synanceia",
         "version": "",
         "perks": {
           "column1": [
@@ -1677,6 +1717,7 @@
         }
       },
       "Tessellation": {
+        "weapon_name": "Tessellation",
         "version": "",
         "perks": {
           "column1": [],
@@ -1711,6 +1752,7 @@
         }
       },
       "The Fourth Horseman": {
+        "weapon_name": "The Fourth Horseman",
         "version": "",
         "perks": {
           "column1": [],
@@ -1745,6 +1787,7 @@
         }
       },
       "The When and Where": {
+        "weapon_name": "The When and Where",
         "version": "",
         "perks": {
           "column1": [
@@ -1792,6 +1835,7 @@
         }
       },
       "Tinasha's Mastery": {
+        "weapon_name": "Tinasha's Mastery",
         "version": "",
         "perks": {
           "column1": [
@@ -1837,6 +1881,7 @@
         }
       },
       "Trinity Ghoul": {
+        "weapon_name": "Trinity Ghoul",
         "version": "",
         "perks": {
           "column1": [],
@@ -1871,6 +1916,7 @@
         }
       },
       "Unsworn": {
+        "weapon_name": "Unsworn",
         "version": "",
         "perks": {
           "column1": [
@@ -1914,6 +1960,7 @@
         }
       },
       "VS Velocity Baton": {
+        "weapon_name": "VS Velocity Baton",
         "version": "",
         "perks": {
           "column1": [
@@ -1958,6 +2005,7 @@
         }
       },
       "Adamantite": {
+        "weapon_name": "Adamantite",
         "version": "",
         "perks": {
           "column1": [
@@ -2001,6 +2049,7 @@
         }
       },
       "Bad Juju": {
+        "weapon_name": "Bad Juju",
         "version": "",
         "perks": {
           "column1": [],
@@ -2035,6 +2084,7 @@
         }
       },
       "Conspiracy Honed": {
+        "weapon_name": "Conspiracy Honed",
         "version": "",
         "perks": {
           "column1": [
@@ -2077,6 +2127,7 @@
         }
       },
       "Critical Anomaly": {
+        "weapon_name": "Critical Anomaly",
         "version": "",
         "perks": {
           "column1": [
@@ -2120,6 +2171,7 @@
         }
       },
       "Cusp Sempiternal": {
+        "weapon_name": "Cusp Sempiternal",
         "version": "",
         "perks": {
           "column1": [
@@ -2165,6 +2217,7 @@
         }
       },
       "Divinity": {
+        "weapon_name": "Divinity",
         "version": "",
         "perks": {
           "column1": [],
@@ -2199,6 +2252,7 @@
         }
       },
       "Edge Transit": {
+        "weapon_name": "Edge Transit",
         "version": "BRAVE",
         "perks": {
           "column1": [
@@ -2241,6 +2295,7 @@
         }
       },
       "Eriana's Vow": {
+        "weapon_name": "Eriana's Vow",
         "version": "",
         "perks": {
           "column1": [],
@@ -2275,6 +2330,7 @@
         }
       },
       "Ex Diris": {
+        "weapon_name": "Ex Diris",
         "version": "",
         "perks": {
           "column1": [],
@@ -2309,6 +2365,7 @@
         }
       },
       "Finality's Auger": {
+        "weapon_name": "Finality's Auger",
         "version": "",
         "perks": {
           "column1": [],
@@ -2343,6 +2400,7 @@
         }
       },
       "Ice Breaker": {
+        "weapon_name": "Ice Breaker",
         "version": "",
         "perks": {
           "column1": [],
@@ -2377,6 +2435,7 @@
         }
       },
       "Imperial Decree": {
+        "weapon_name": "Imperial Decree",
         "version": "",
         "perks": {
           "column1": [
@@ -2420,6 +2479,7 @@
         }
       },
       "Martyr's Retribution": {
+        "weapon_name": "Martyr's Retribution",
         "version": "",
         "perks": {
           "column1": [
@@ -2465,6 +2525,7 @@
         }
       },
       "New Malpais": {
+        "weapon_name": "New Malpais",
         "version": "",
         "perks": {
           "column1": [],
@@ -2499,6 +2560,7 @@
         }
       },
       "Praedyth's Revenge": {
+        "weapon_name": "Praedyth's Revenge",
         "version": "",
         "perks": {
           "column1": [
@@ -2543,6 +2605,7 @@
         }
       },
       "Tarnation": {
+        "weapon_name": "Tarnation",
         "version": "",
         "perks": {
           "column1": [
@@ -2585,6 +2648,7 @@
         }
       },
       "The Call": {
+        "weapon_name": "The Call",
         "version": "",
         "perks": {
           "column1": [
@@ -2631,6 +2695,42 @@
         }
       },
       "The Mountaintop": {
+        "weapon_name": "The Mountaintop",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Situational, Unnecessary",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Boosting jump height",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Monument to Lost Lights",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "The Mountaintop_2": {
+        "weapon_name": "The Mountaintop",
         "version": "BRAVE",
         "perks": {
           "column1": [
@@ -2679,6 +2779,7 @@
         }
       },
       "The Other Half": {
+        "weapon_name": "The Other Half",
         "version": "",
         "perks": {
           "column1": [
@@ -2725,6 +2826,7 @@
         }
       },
       "The Wardcliff Coil": {
+        "weapon_name": "The Wardcliff Coil",
         "version": "",
         "perks": {
           "column1": [],
@@ -2759,6 +2861,7 @@
         }
       },
       "Unfall": {
+        "weapon_name": "Unfall",
         "version": "",
         "perks": {
           "column1": [
@@ -2805,6 +2908,7 @@
         }
       },
       "Unvoiced": {
+        "weapon_name": "Unvoiced",
         "version": "",
         "perks": {
           "column1": [
@@ -2849,6 +2953,7 @@
         }
       },
       "Verglas Curve": {
+        "weapon_name": "Verglas Curve",
         "version": "",
         "perks": {
           "column1": [],
@@ -2883,34 +2988,32 @@
         }
       },
       "VS Chill Inhibitor": {
+        "weapon_name": "VS Chill Inhibitor",
         "version": "",
         "perks": {
           "column1": [
-            "Quick Launch"
+            "Volatile Launch"
           ],
           "column2": [
-            "Spike Grenades"
+            "High-Explosive Ordnance"
           ],
           "perk1": [
-            "Envious Arsenal",
-            "Cascade Point"
+            "Demolitionist"
           ],
           "perk2": [
-            "Bait and Switch",
-            "Explosive Light",
-            "Surrounded"
+            "Chain Reaction"
           ],
           "origin_trait": []
         },
         "info": {
-          "rank": "Not Relevant",
+          "rank": "Situational, Unnecessary",
           "tier": "",
           "priority": "",
           "role": "",
-          "purpose": "Non-rocket burst damage",
+          "purpose": "Vault add clear",
           "tags": "",
           "type": "",
-          "usage": "Universal",
+          "usage": "LW",
           "source": "Vesper's Host",
           "notes": "",
           "description": "",
@@ -2928,6 +3031,7 @@
         }
       },
       "Whirling Ovation": {
+        "weapon_name": "Whirling Ovation",
         "version": "",
         "perks": {
           "column1": [],
@@ -2962,6 +3066,7 @@
         }
       },
       "Witherhoard": {
+        "weapon_name": "Witherhoard",
         "version": "",
         "perks": {
           "column1": [],
@@ -2996,6 +3101,7 @@
         }
       },
       "Worldline Zero": {
+        "weapon_name": "Worldline Zero",
         "version": "",
         "perks": {
           "column1": [],
@@ -3030,6 +3136,7 @@
         }
       },
       "Xenophage": {
+        "weapon_name": "Xenophage",
         "version": "",
         "perks": {
           "column1": [],
@@ -3064,6 +3171,7 @@
         }
       },
       "Acasia's Dejection": {
+        "weapon_name": "Acasia's Dejection",
         "version": "",
         "perks": {
           "column1": [
@@ -3108,6 +3216,7 @@
         }
       },
       "Apex Predator": {
+        "weapon_name": "Apex Predator",
         "version": "",
         "perks": {
           "column1": [
@@ -3152,6 +3261,7 @@
         }
       },
       "Arbalest": {
+        "weapon_name": "Arbalest",
         "version": "",
         "perks": {
           "column1": [],
@@ -3186,6 +3296,7 @@
         }
       },
       "Arcane Embrace": {
+        "weapon_name": "Arcane Embrace",
         "version": "",
         "perks": {
           "column1": [
@@ -3231,6 +3342,7 @@
         }
       },
       "Bastion": {
+        "weapon_name": "Bastion",
         "version": "",
         "perks": {
           "column1": [],
@@ -3265,6 +3377,7 @@
         }
       },
       "Bitter/Sweet": {
+        "weapon_name": "Bitter/Sweet",
         "version": "",
         "perks": {
           "column1": [
@@ -3308,6 +3421,7 @@
         }
       },
       "Briar's Contempt": {
+        "weapon_name": "Briar's Contempt",
         "version": "",
         "perks": {
           "column1": [
@@ -3350,6 +3464,7 @@
         }
       },
       "Bump in the Night": {
+        "weapon_name": "Bump in the Night",
         "version": "",
         "perks": {
           "column1": [
@@ -3394,6 +3509,7 @@
         }
       },
       "Calus Mini-Tool": {
+        "weapon_name": "Calus Mini-Tool",
         "version": "",
         "perks": {
           "column1": [
@@ -3436,6 +3552,7 @@
         }
       },
       "Cataclysmic": {
+        "weapon_name": "Cataclysmic",
         "version": "",
         "perks": {
           "column1": [
@@ -3478,6 +3595,7 @@
         }
       },
       "Cataphract GL3": {
+        "weapon_name": "Cataphract GL3",
         "version": "",
         "perks": {
           "column1": [
@@ -3522,6 +3640,7 @@
         }
       },
       "Cold Comfort": {
+        "weapon_name": "Cold Comfort",
         "version": "",
         "perks": {
           "column1": [
@@ -3564,6 +3683,7 @@
         }
       },
       "Commemoration": {
+        "weapon_name": "Commemoration",
         "version": "",
         "perks": {
           "column1": [
@@ -3608,6 +3728,7 @@
         }
       },
       "Conditional Finality": {
+        "weapon_name": "Conditional Finality",
         "version": "",
         "perks": {
           "column1": [],
@@ -3642,6 +3763,7 @@
         }
       },
       "Corrective Measure": {
+        "weapon_name": "Corrective Measure",
         "version": "",
         "perks": {
           "column1": [
@@ -3685,6 +3807,7 @@
         }
       },
       "Crux Termination IV": {
+        "weapon_name": "Crux Termination IV",
         "version": "",
         "perks": {
           "column1": [
@@ -3730,6 +3853,7 @@
         }
       },
       "Cynosure": {
+        "weapon_name": "Cynosure",
         "version": "",
         "perks": {
           "column1": [
@@ -3776,6 +3900,7 @@
         }
       },
       "Dead Weight": {
+        "weapon_name": "Dead Weight",
         "version": "",
         "perks": {
           "column1": [
@@ -3823,6 +3948,7 @@
         }
       },
       "Deafening Whisper": {
+        "weapon_name": "Deafening Whisper",
         "version": "",
         "perks": {
           "column1": [
@@ -3867,6 +3993,7 @@
         }
       },
       "Defiance of Yasmin": {
+        "weapon_name": "Defiance of Yasmin",
         "version": "",
         "perks": {
           "column1": [
@@ -3912,6 +4039,7 @@
         }
       },
       "Distant Tumulus": {
+        "weapon_name": "Distant Tumulus",
         "version": "",
         "perks": {
           "column1": [
@@ -3954,6 +4082,7 @@
         }
       },
       "Empty Vessel": {
+        "weapon_name": "Empty Vessel",
         "version": "",
         "perks": {
           "column1": [
@@ -3999,6 +4128,7 @@
         }
       },
       "Explosive Personality": {
+        "weapon_name": "Explosive Personality",
         "version": "",
         "perks": {
           "column1": [
@@ -4043,6 +4173,7 @@
         }
       },
       "First In, Last Out": {
+        "weapon_name": "First In, Last Out",
         "version": "",
         "perks": {
           "column1": [
@@ -4086,6 +4217,7 @@
         }
       },
       "Fixed Odds": {
+        "weapon_name": "Fixed Odds",
         "version": "",
         "perks": {
           "column1": [
@@ -4128,6 +4260,53 @@
         }
       },
       "Forbearance": {
+        "weapon_name": "Forbearance",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "High-Velocity Rounds"
+          ],
+          "perk1": [
+            "Ambitious Assassin",
+            "Unrelenting",
+            "Genesis"
+          ],
+          "perk2": [
+            "Chain Reaction",
+            "Wellspring"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Ammo efficient add clear",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Vow of the Disciple",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Forbearance_2": {
+        "weapon_name": "Forbearance",
         "version": "BRAVE",
         "perks": {
           "column1": [
@@ -4173,6 +4352,7 @@
         }
       },
       "Fortissimo-11": {
+        "weapon_name": "Fortissimo-11",
         "version": "",
         "perks": {
           "column1": [
@@ -4219,6 +4399,7 @@
         }
       },
       "Funnelweb": {
+        "weapon_name": "Funnelweb",
         "version": "",
         "perks": {
           "column1": [
@@ -4263,6 +4444,7 @@
         }
       },
       "Grand Overture": {
+        "weapon_name": "Grand Overture",
         "version": "",
         "perks": {
           "column1": [],
@@ -4296,7 +4478,51 @@
           }
         }
       },
+      "Gunnora's Axe_2": {
+        "weapon_name": "Gunnora's Axe",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Tactical Mag"
+          ],
+          "perk1": [
+            "Auto-Loading Holster"
+          ],
+          "perk2": [
+            "Vorpal Weapon"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Double slug",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Iron Banner pool",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
       "Half-Truths": {
+        "weapon_name": "Half-Truths",
         "version": "",
         "perks": {
           "column1": [
@@ -4342,6 +4568,7 @@
         }
       },
       "Harsh Language": {
+        "weapon_name": "Harsh Language",
         "version": "",
         "perks": {
           "column1": [
@@ -4386,6 +4613,7 @@
         }
       },
       "Heritage": {
+        "weapon_name": "Heritage",
         "version": "",
         "perks": {
           "column1": [
@@ -4428,6 +4656,7 @@
         }
       },
       "Hollow Denial": {
+        "weapon_name": "Hollow Denial",
         "version": "",
         "perks": {
           "column1": [
@@ -4471,6 +4700,7 @@
         }
       },
       "Ignition Code": {
+        "weapon_name": "Ignition Code",
         "version": "",
         "perks": {
           "column1": [
@@ -4515,6 +4745,7 @@
         }
       },
       "IKELOS_SMG_V1.0.2": {
+        "weapon_name": "IKELOS_SMG_V1.0.2",
         "version": "",
         "perks": {
           "column1": [
@@ -4559,6 +4790,7 @@
         }
       },
       "IKELOS_SMG_V1.0.3": {
+        "weapon_name": "IKELOS_SMG_V1.0.3",
         "version": "",
         "perks": {
           "column1": [
@@ -4605,6 +4837,7 @@
         }
       },
       "IKELOS_SR_V1.0.2": {
+        "weapon_name": "IKELOS_SR_V1.0.2",
         "version": "",
         "perks": {
           "column1": [
@@ -4649,6 +4882,7 @@
         }
       },
       "IKELOS_SR_V1.0.3": {
+        "weapon_name": "IKELOS_SR_V1.0.3",
         "version": "",
         "perks": {
           "column1": [
@@ -4693,6 +4927,7 @@
         }
       },
       "Ill Omen": {
+        "weapon_name": "Ill Omen",
         "version": "",
         "perks": {
           "column1": [
@@ -4737,6 +4972,7 @@
         }
       },
       "Indebted Kindness": {
+        "weapon_name": "Indebted Kindness",
         "version": "",
         "perks": {
           "column1": [
@@ -4781,6 +5017,7 @@
         }
       },
       "Judgment of Kelgorath": {
+        "weapon_name": "Judgment of Kelgorath",
         "version": "",
         "perks": {
           "column1": [
@@ -4823,6 +5060,7 @@
         }
       },
       "Koraxis's Distress": {
+        "weapon_name": "Koraxis's Distress",
         "version": "",
         "perks": {
           "column1": [
@@ -4866,6 +5104,7 @@
         }
       },
       "Legato-11": {
+        "weapon_name": "Legato-11",
         "version": "",
         "perks": {
           "column1": [
@@ -4909,6 +5148,7 @@
         }
       },
       "Lingering Dread": {
+        "weapon_name": "Lingering Dread",
         "version": "",
         "perks": {
           "column1": [
@@ -4951,6 +5191,7 @@
         }
       },
       "Liturgy": {
+        "weapon_name": "Liturgy",
         "version": "",
         "perks": {
           "column1": [
@@ -4995,6 +5236,7 @@
         }
       },
       "Marsilion-C": {
+        "weapon_name": "Marsilion-C",
         "version": "",
         "perks": {
           "column1": [
@@ -5038,6 +5280,7 @@
         }
       },
       "Mindbender's Ambition": {
+        "weapon_name": "Mindbender's Ambition",
         "version": "",
         "perks": {
           "column1": [
@@ -5080,6 +5323,7 @@
         }
       },
       "Nessa's Oblation": {
+        "weapon_name": "Nessa's Oblation",
         "version": "",
         "perks": {
           "column1": [
@@ -5122,6 +5366,7 @@
         }
       },
       "New Pacific Epitaph": {
+        "weapon_name": "New Pacific Epitaph",
         "version": "",
         "perks": {
           "column1": [
@@ -5166,6 +5411,7 @@
         }
       },
       "No Reprieve": {
+        "weapon_name": "No Reprieve",
         "version": "",
         "perks": {
           "column1": [
@@ -5208,6 +5454,7 @@
         }
       },
       "Omniscient Eye": {
+        "weapon_name": "Omniscient Eye",
         "version": "",
         "perks": {
           "column1": [
@@ -5252,6 +5499,7 @@
         }
       },
       "One Small Step": {
+        "weapon_name": "One Small Step",
         "version": "",
         "perks": {
           "column1": [
@@ -5296,6 +5544,7 @@
         }
       },
       "Pardon Our Dust": {
+        "weapon_name": "Pardon Our Dust",
         "version": "",
         "perks": {
           "column1": [
@@ -5340,6 +5589,7 @@
         }
       },
       "Qullim's Terminus": {
+        "weapon_name": "Qullim's Terminus",
         "version": "",
         "perks": {
           "column1": [
@@ -5383,6 +5633,7 @@
         }
       },
       "Ragnhild-D": {
+        "weapon_name": "Ragnhild-D",
         "version": "",
         "perks": {
           "column1": [
@@ -5426,6 +5677,7 @@
         }
       },
       "Rake Angle": {
+        "weapon_name": "Rake Angle",
         "version": "",
         "perks": {
           "column1": [
@@ -5471,6 +5723,7 @@
         }
       },
       "Red Herring": {
+        "weapon_name": "Red Herring",
         "version": "",
         "perks": {
           "column1": [
@@ -5513,6 +5766,7 @@
         }
       },
       "Reed's Regret": {
+        "weapon_name": "Reed's Regret",
         "version": "",
         "perks": {
           "column1": [
@@ -5555,6 +5809,7 @@
         }
       },
       "Retrofuturist": {
+        "weapon_name": "Retrofuturist",
         "version": "",
         "perks": {
           "column1": [
@@ -5599,6 +5854,7 @@
         }
       },
       "Riiswalker": {
+        "weapon_name": "Riiswalker",
         "version": "",
         "perks": {
           "column1": [
@@ -5642,6 +5898,7 @@
         }
       },
       "Riptide": {
+        "weapon_name": "Riptide",
         "version": "",
         "perks": {
           "column1": [
@@ -5688,6 +5945,7 @@
         }
       },
       "Scatter Signal": {
+        "weapon_name": "Scatter Signal",
         "version": "",
         "perks": {
           "column1": [
@@ -5731,6 +5989,7 @@
         }
       },
       "Seventh Seraph CQC-12": {
+        "weapon_name": "Seventh Seraph CQC-12",
         "version": "",
         "perks": {
           "column1": [
@@ -5773,6 +6032,7 @@
         }
       },
       "Sojourner's Tale": {
+        "weapon_name": "Sojourner's Tale",
         "version": "",
         "perks": {
           "column1": [
@@ -5816,6 +6076,7 @@
         }
       },
       "Sovereignty": {
+        "weapon_name": "Sovereignty",
         "version": "",
         "perks": {
           "column1": [
@@ -5859,6 +6120,7 @@
         }
       },
       "Stormchaser": {
+        "weapon_name": "Stormchaser",
         "version": "",
         "perks": {
           "column1": [
@@ -5903,6 +6165,7 @@
         }
       },
       "Submission": {
+        "weapon_name": "Submission",
         "version": "",
         "perks": {
           "column1": [
@@ -5946,6 +6209,7 @@
         }
       },
       "Succession": {
+        "weapon_name": "Succession",
         "version": "",
         "perks": {
           "column1": [
@@ -5993,6 +6257,7 @@
         }
       },
       "Summum Bonum": {
+        "weapon_name": "Summum Bonum",
         "version": "",
         "perks": {
           "column1": [
@@ -6039,6 +6304,7 @@
         }
       },
       "Taipan-4fr": {
+        "weapon_name": "Taipan-4fr",
         "version": "",
         "perks": {
           "column1": [
@@ -6081,6 +6347,7 @@
         }
       },
       "The Comedian": {
+        "weapon_name": "The Comedian",
         "version": "",
         "perks": {
           "column1": [
@@ -6125,6 +6392,7 @@
         }
       },
       "The Hothead": {
+        "weapon_name": "The Hothead",
         "version": "",
         "perks": {
           "column1": [
@@ -6171,6 +6439,7 @@
         }
       },
       "The Lament": {
+        "weapon_name": "The Lament",
         "version": "",
         "perks": {
           "column1": [],
@@ -6205,6 +6474,7 @@
         }
       },
       "The Militia's Birthright": {
+        "weapon_name": "The Militia's Birthright",
         "version": "",
         "perks": {
           "column1": [
@@ -6249,6 +6519,7 @@
         }
       },
       "The Supremacy": {
+        "weapon_name": "The Supremacy",
         "version": "",
         "perks": {
           "column1": [
@@ -6297,6 +6568,7 @@
         }
       },
       "Thoughtless": {
+        "weapon_name": "Thoughtless",
         "version": "",
         "perks": {
           "column1": [
@@ -6339,6 +6611,7 @@
         }
       },
       "Thunderlord": {
+        "weapon_name": "Thunderlord",
         "version": "",
         "perks": {
           "column1": [],
@@ -6373,6 +6646,7 @@
         }
       },
       "Tomorrow's Answer": {
+        "weapon_name": "Tomorrow's Answer",
         "version": "",
         "perks": {
           "column1": [
@@ -6416,6 +6690,7 @@
         }
       },
       "Truthteller": {
+        "weapon_name": "Truthteller",
         "version": "",
         "perks": {
           "column1": [
@@ -6460,6 +6735,7 @@
         }
       },
       "Tusk of the Boar": {
+        "weapon_name": "Tusk of the Boar",
         "version": "",
         "perks": {
           "column1": [
@@ -6504,6 +6780,7 @@
         }
       },
       "Twilight Oath": {
+        "weapon_name": "Twilight Oath",
         "version": "",
         "perks": {
           "column1": [
@@ -6546,6 +6823,7 @@
         }
       },
       "Until Its Return": {
+        "weapon_name": "Until Its Return",
         "version": "",
         "perks": {
           "column1": [
@@ -6590,6 +6868,7 @@
         }
       },
       "Veleda-F": {
+        "weapon_name": "Veleda-F",
         "version": "",
         "perks": {
           "column1": [
@@ -6632,7 +6911,54 @@
           }
         }
       },
+      "VS Chill Inhibitor_2": {
+        "weapon_name": "VS Chill Inhibitor",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "Spike Grenades"
+          ],
+          "perk1": [
+            "Envious Arsenal",
+            "Cascade Point"
+          ],
+          "perk2": [
+            "Bait and Switch",
+            "Explosive Light",
+            "Surrounded"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "Not Relevant",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "Non-rocket burst damage",
+          "tags": "",
+          "type": "",
+          "usage": "Universal",
+          "source": "Vesper's Host",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
       "Wastelander M5": {
+        "weapon_name": "Wastelander M5",
         "version": "",
         "perks": {
           "column1": [
@@ -6676,6 +7002,7 @@
         }
       },
       "Wicked Sister": {
+        "weapon_name": "Wicked Sister",
         "version": "",
         "perks": {
           "column1": [
@@ -6719,6 +7046,7 @@
         }
       },
       "Wild Style": {
+        "weapon_name": "Wild Style",
         "version": "",
         "perks": {
           "column1": [
@@ -6762,6 +7090,7 @@
         }
       },
       "Wilderflight": {
+        "weapon_name": "Wilderflight",
         "version": "",
         "perks": {
           "column1": [
@@ -6808,6 +7137,7 @@
         }
       },
       "Without Remorse": {
+        "weapon_name": "Without Remorse",
         "version": "",
         "perks": {
           "column1": [
@@ -6852,6 +7182,7 @@
         }
       },
       "Xenoclast IV": {
+        "weapon_name": "Xenoclast IV",
         "version": "",
         "perks": {
           "column1": [

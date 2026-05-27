@@ -6,11 +6,12 @@
       "patch": ""
     },
     "link": "https://docs.google.com/spreadsheets/d/1_5wtBjRYHHxuF4oJKDb_iOGZs-wTkzB6RYbnyNLbuz4",
-    "scrape_date": "2026-05-26 18:25:06"
+    "scrape_date": "2026-05-27 23:51:50"
   },
   "workbooks": {
     "Equipment (WIP)": {
       "Celestial Nighthawk": {
+        "weapon_name": "Celestial Nighthawk",
         "version": "",
         "perks": {
           "column1": [],
@@ -45,6 +46,7 @@
         }
       },
       "Cuirass of the Falling Star": {
+        "weapon_name": "Cuirass of the Falling Star",
         "version": "",
         "perks": {
           "column1": [],
@@ -79,6 +81,7 @@
         }
       },
       "Ergo Sum": {
+        "weapon_name": "Ergo Sum",
         "version": "",
         "perks": {
           "column1": [],
@@ -121,6 +124,7 @@
         }
       },
       "Gjallarhorn": {
+        "weapon_name": "Gjallarhorn",
         "version": "",
         "perks": {
           "column1": [],
@@ -155,6 +159,7 @@
         }
       },
       "Hezen Vengeance": {
+        "weapon_name": "Hezen Vengeance",
         "version": "",
         "perks": {
           "column1": [
@@ -200,6 +205,7 @@
         }
       },
       "Sanguine Alchemy": {
+        "weapon_name": "Sanguine Alchemy",
         "version": "",
         "perks": {
           "column1": [],
@@ -234,6 +240,7 @@
         }
       },
       "Solipsism": {
+        "weapon_name": "Solipsism",
         "version": "",
         "perks": {
           "column1": [],
@@ -274,6 +281,7 @@
         }
       },
       "Tractor Cannon": {
+        "weapon_name": "Tractor Cannon",
         "version": "",
         "perks": {
           "column1": [],
@@ -308,6 +316,7 @@
         }
       },
       "Bequest": {
+        "weapon_name": "Bequest",
         "version": "",
         "perks": {
           "column1": [
@@ -350,6 +359,7 @@
         }
       },
       "Choir of One": {
+        "weapon_name": "Choir of One",
         "version": "",
         "perks": {
           "column1": [
@@ -393,6 +403,7 @@
         }
       },
       "Cynosure": {
+        "weapon_name": "Cynosure",
         "version": "",
         "perks": {
           "column1": [
@@ -438,6 +449,7 @@
         }
       },
       "Edge of Action": {
+        "weapon_name": "Edge of Action",
         "version": "",
         "perks": {
           "column1": [
@@ -478,6 +490,7 @@
         }
       },
       "Edge Transit": {
+        "weapon_name": "Edge Transit",
         "version": "",
         "perks": {
           "column1": [
@@ -523,6 +536,7 @@
         }
       },
       "IKELOS_SG_V1.0.3": {
+        "weapon_name": "IKELOS_SG_V1.0.3",
         "version": "",
         "perks": {
           "column1": [
@@ -567,6 +581,7 @@
         }
       },
       "Ill Omen": {
+        "weapon_name": "Ill Omen",
         "version": "",
         "perks": {
           "column1": [
@@ -611,6 +626,7 @@
         }
       },
       "Izanagi's Burden": {
+        "weapon_name": "Izanagi's Burden",
         "version": "",
         "perks": {
           "column1": [],
@@ -645,6 +661,7 @@
         }
       },
       "Knucklehead Radar": {
+        "weapon_name": "Knucklehead Radar",
         "version": "",
         "perks": {
           "column1": [],
@@ -679,6 +696,7 @@
         }
       },
       "Liturgy": {
+        "weapon_name": "Liturgy",
         "version": "",
         "perks": {
           "column1": [
@@ -721,6 +739,7 @@
         }
       },
       "Lord of Wolves": {
+        "weapon_name": "Lord of Wolves",
         "version": "",
         "perks": {
           "column1": [],
@@ -755,6 +774,7 @@
         }
       },
       "Lost Signal": {
+        "weapon_name": "Lost Signal",
         "version": "",
         "perks": {
           "column1": [
@@ -798,6 +818,7 @@
         }
       },
       "Lumina": {
+        "weapon_name": "Lumina",
         "version": "",
         "perks": {
           "column1": [],
@@ -832,6 +853,7 @@
         }
       },
       "Lunafaction Boots": {
+        "weapon_name": "Lunafaction Boots",
         "version": "",
         "perks": {
           "column1": [],
@@ -866,6 +888,7 @@
         }
       },
       "No Hesitation": {
+        "weapon_name": "No Hesitation",
         "version": "",
         "perks": {
           "column1": [
@@ -908,6 +931,7 @@
         }
       },
       "Perfect Paradox": {
+        "weapon_name": "Perfect Paradox",
         "version": "",
         "perks": {
           "column1": [
@@ -952,6 +976,7 @@
         }
       },
       "Praedyth's Revenge": {
+        "weapon_name": "Praedyth's Revenge",
         "version": "",
         "perks": {
           "column1": [
@@ -997,6 +1022,7 @@
         }
       },
       "Psychopomp": {
+        "weapon_name": "Psychopomp",
         "version": "",
         "perks": {
           "column1": [
@@ -1040,6 +1066,7 @@
         }
       },
       "Still Hunt": {
+        "weapon_name": "Still Hunt",
         "version": "",
         "perks": {
           "column1": [],
@@ -1074,6 +1101,7 @@
         }
       },
       "Stoicism": {
+        "weapon_name": "Stoicism",
         "version": "",
         "perks": {
           "column1": [],
@@ -1114,6 +1142,7 @@
         }
       },
       "Synthoceps": {
+        "weapon_name": "Synthoceps",
         "version": "",
         "perks": {
           "column1": [],
@@ -1148,6 +1177,7 @@
         }
       },
       "The Queenbreaker": {
+        "weapon_name": "The Queenbreaker",
         "version": "",
         "perks": {
           "column1": [],
@@ -1182,6 +1212,7 @@
         }
       },
       "Thunderlord": {
+        "weapon_name": "Thunderlord",
         "version": "",
         "perks": {
           "column1": [],
@@ -1216,6 +1247,7 @@
         }
       },
       "Unvoiced": {
+        "weapon_name": "Unvoiced",
         "version": "",
         "perks": {
           "column1": [
@@ -1259,6 +1291,7 @@
         }
       },
       "VS Chill Inhibitor": {
+        "weapon_name": "VS Chill Inhibitor",
         "version": "",
         "perks": {
           "column1": [
@@ -1304,6 +1337,7 @@
         }
       },
       "Abyssal Edge": {
+        "weapon_name": "Abyssal Edge",
         "version": "",
         "perks": {
           "column1": [
@@ -1347,6 +1381,7 @@
         }
       },
       "Adamantite": {
+        "weapon_name": "Adamantite",
         "version": "",
         "perks": {
           "column1": [
@@ -1390,6 +1425,7 @@
         }
       },
       "Anarchy": {
+        "weapon_name": "Anarchy",
         "version": "",
         "perks": {
           "column1": [],
@@ -1424,6 +1460,7 @@
         }
       },
       "Apex Predator": {
+        "weapon_name": "Apex Predator",
         "version": "",
         "perks": {
           "column1": [
@@ -1468,6 +1505,7 @@
         }
       },
       "Barrow-Dyad": {
+        "weapon_name": "Barrow-Dyad",
         "version": "",
         "perks": {
           "column1": [
@@ -1510,6 +1548,7 @@
         }
       },
       "Bastion": {
+        "weapon_name": "Bastion",
         "version": "",
         "perks": {
           "column1": [],
@@ -1544,6 +1583,7 @@
         }
       },
       "Bitter/Sweet": {
+        "weapon_name": "Bitter/Sweet",
         "version": "",
         "perks": {
           "column1": [
@@ -1587,6 +1627,7 @@
         }
       },
       "Briarbinds": {
+        "weapon_name": "Briarbinds",
         "version": "",
         "perks": {
           "column1": [],
@@ -1621,6 +1662,7 @@
         }
       },
       "Cloudstrike": {
+        "weapon_name": "Cloudstrike",
         "version": "",
         "perks": {
           "column1": [],
@@ -1655,6 +1697,7 @@
         }
       },
       "D.A.R.C.I.": {
+        "weapon_name": "D.A.R.C.I.",
         "version": "",
         "perks": {
           "column1": [],
@@ -1689,6 +1732,7 @@
         }
       },
       "Dimensional Hypotrochoid": {
+        "weapon_name": "Dimensional Hypotrochoid",
         "version": "",
         "perks": {
           "column1": [
@@ -1731,6 +1775,7 @@
         }
       },
       "Divinity": {
+        "weapon_name": "Divinity",
         "version": "",
         "perks": {
           "column1": [],
@@ -1765,6 +1810,7 @@
         }
       },
       "Eriana's Vow": {
+        "weapon_name": "Eriana's Vow",
         "version": "",
         "perks": {
           "column1": [],
@@ -1799,6 +1845,7 @@
         }
       },
       "Euphony": {
+        "weapon_name": "Euphony",
         "version": "",
         "perks": {
           "column1": [],
@@ -1833,6 +1880,7 @@
         }
       },
       "Felwinter's Helm": {
+        "weapon_name": "Felwinter's Helm",
         "version": "",
         "perks": {
           "column1": [],
@@ -1867,6 +1915,7 @@
         }
       },
       "Geodetic HSm": {
+        "weapon_name": "Geodetic HSm",
         "version": "",
         "perks": {
           "column1": [
@@ -1909,6 +1958,7 @@
         }
       },
       "Hazardous Propulsion": {
+        "weapon_name": "Hazardous Propulsion",
         "version": "",
         "perks": {
           "column1": [],
@@ -1943,6 +1993,7 @@
         }
       },
       "Hullabaloo": {
+        "weapon_name": "Hullabaloo",
         "version": "",
         "perks": {
           "column1": [
@@ -1987,6 +2038,7 @@
         }
       },
       "Ice Breaker": {
+        "weapon_name": "Ice Breaker",
         "version": "",
         "perks": {
           "column1": [],
@@ -2021,6 +2073,7 @@
         }
       },
       "Imperial Decree": {
+        "weapon_name": "Imperial Decree",
         "version": "",
         "perks": {
           "column1": [
@@ -2064,6 +2117,7 @@
         }
       },
       "Keen Thistle": {
+        "weapon_name": "Keen Thistle",
         "version": "",
         "perks": {
           "column1": [
@@ -2108,6 +2162,7 @@
         }
       },
       "Merciless": {
+        "weapon_name": "Merciless",
         "version": "",
         "perks": {
           "column1": [],
@@ -2142,6 +2197,7 @@
         }
       },
       "Outbreak Perfected": {
+        "weapon_name": "Outbreak Perfected",
         "version": "",
         "perks": {
           "column1": [
@@ -2184,6 +2240,7 @@
         }
       },
       "Parasite": {
+        "weapon_name": "Parasite",
         "version": "",
         "perks": {
           "column1": [],
@@ -2218,6 +2275,7 @@
         }
       },
       "Rain of Fire": {
+        "weapon_name": "Rain of Fire",
         "version": "",
         "perks": {
           "column1": [],
@@ -2252,6 +2310,7 @@
         }
       },
       "Scatter Signal": {
+        "weapon_name": "Scatter Signal",
         "version": "",
         "perks": {
           "column1": [
@@ -2294,6 +2353,7 @@
         }
       },
       "Summum Bonum": {
+        "weapon_name": "Summum Bonum",
         "version": "",
         "perks": {
           "column1": [
@@ -2339,6 +2399,7 @@
         }
       },
       "Temptation's Hook": {
+        "weapon_name": "Temptation's Hook",
         "version": "",
         "perks": {
           "column1": [
@@ -2382,6 +2443,7 @@
         }
       },
       "The Fourth Horseman": {
+        "weapon_name": "The Fourth Horseman",
         "version": "",
         "perks": {
           "column1": [],
@@ -2416,6 +2478,7 @@
         }
       },
       "The Mountaintop": {
+        "weapon_name": "The Mountaintop",
         "version": "",
         "perks": {
           "column1": [
@@ -2463,6 +2526,7 @@
         }
       },
       "The Navigator": {
+        "weapon_name": "The Navigator",
         "version": "",
         "perks": {
           "column1": [],
@@ -2497,6 +2561,7 @@
         }
       },
       "The Wardcliff Coil": {
+        "weapon_name": "The Wardcliff Coil",
         "version": "",
         "perks": {
           "column1": [],
@@ -2531,6 +2596,7 @@
         }
       },
       "Verity's Brow": {
+        "weapon_name": "Verity's Brow",
         "version": "",
         "perks": {
           "column1": [],
@@ -2565,6 +2631,7 @@
         }
       },
       "VS Velocity Baton": {
+        "weapon_name": "VS Velocity Baton",
         "version": "",
         "perks": {
           "column1": [
@@ -2609,6 +2676,7 @@
         }
       },
       "Wicked Sister": {
+        "weapon_name": "Wicked Sister",
         "version": "",
         "perks": {
           "column1": [
@@ -2653,6 +2721,7 @@
         }
       },
       "Winterbite": {
+        "weapon_name": "Winterbite",
         "version": "",
         "perks": {
           "column1": [],
@@ -2687,6 +2756,7 @@
         }
       },
       "Witherhoard": {
+        "weapon_name": "Witherhoard",
         "version": "",
         "perks": {
           "column1": [],
@@ -2721,6 +2791,7 @@
         }
       },
       "Wormgod Caress": {
+        "weapon_name": "Wormgod Caress",
         "version": "",
         "perks": {
           "column1": [],
@@ -2755,6 +2826,7 @@
         }
       },
       "Ager's Scepter": {
+        "weapon_name": "Ager's Scepter",
         "version": "",
         "perks": {
           "column1": [],
@@ -2789,6 +2861,7 @@
         }
       },
       "Alethonym": {
+        "weapon_name": "Alethonym",
         "version": "",
         "perks": {
           "column1": [],
@@ -2823,6 +2896,7 @@
         }
       },
       "Apotheosis Veil": {
+        "weapon_name": "Apotheosis Veil",
         "version": "",
         "perks": {
           "column1": [],
@@ -2857,6 +2931,7 @@
         }
       },
       "Boots of the Assembler": {
+        "weapon_name": "Boots of the Assembler",
         "version": "",
         "perks": {
           "column1": [],
@@ -2891,6 +2966,7 @@
         }
       },
       "Cataphract GL3": {
+        "weapon_name": "Cataphract GL3",
         "version": "",
         "perks": {
           "column1": [
@@ -2934,6 +3010,7 @@
         }
       },
       "Cold Comfort": {
+        "weapon_name": "Cold Comfort",
         "version": "",
         "perks": {
           "column1": [
@@ -2977,6 +3054,7 @@
         }
       },
       "Conditional Finality": {
+        "weapon_name": "Conditional Finality",
         "version": "",
         "perks": {
           "column1": [],
@@ -3011,6 +3089,7 @@
         }
       },
       "Critical Anomaly": {
+        "weapon_name": "Critical Anomaly",
         "version": "",
         "perks": {
           "column1": [
@@ -3053,6 +3132,7 @@
         }
       },
       "Crux Termination IV": {
+        "weapon_name": "Crux Termination IV",
         "version": "",
         "perks": {
           "column1": [
@@ -3098,6 +3178,7 @@
         }
       },
       "Dead Weight": {
+        "weapon_name": "Dead Weight",
         "version": "",
         "perks": {
           "column1": [
@@ -3144,6 +3225,7 @@
         }
       },
       "Falling Guillotine": {
+        "weapon_name": "Falling Guillotine",
         "version": "",
         "perks": {
           "column1": [
@@ -3187,6 +3269,7 @@
         }
       },
       "Finality's Auger": {
+        "weapon_name": "Finality's Auger",
         "version": "",
         "perks": {
           "column1": [],
@@ -3221,6 +3304,7 @@
         }
       },
       "Foetracer": {
+        "weapon_name": "Foetracer",
         "version": "",
         "perks": {
           "column1": [],
@@ -3255,6 +3339,7 @@
         }
       },
       "Grand Overture": {
+        "weapon_name": "Grand Overture",
         "version": "",
         "perks": {
           "column1": [],
@@ -3289,6 +3374,7 @@
         }
       },
       "Koraxis's Distress": {
+        "weapon_name": "Koraxis's Distress",
         "version": "",
         "perks": {
           "column1": [
@@ -3331,6 +3417,7 @@
         }
       },
       "Lucky Pants": {
+        "weapon_name": "Lucky Pants",
         "version": "",
         "perks": {
           "column1": [],
@@ -3365,6 +3452,7 @@
         }
       },
       "Malfeasance": {
+        "weapon_name": "Malfeasance",
         "version": "",
         "perks": {
           "column1": [],
@@ -3399,6 +3487,7 @@
         }
       },
       "Mask of Bakris": {
+        "weapon_name": "Mask of Bakris",
         "version": "",
         "perks": {
           "column1": [],
@@ -3433,6 +3522,7 @@
         }
       },
       "Microcosm": {
+        "weapon_name": "Microcosm",
         "version": "",
         "perks": {
           "column1": [],
@@ -3467,6 +3557,7 @@
         }
       },
       "Nessa's Oblation": {
+        "weapon_name": "Nessa's Oblation",
         "version": "",
         "perks": {
           "column1": [
@@ -3510,6 +3601,7 @@
         }
       },
       "One Thousand Voices": {
+        "weapon_name": "One Thousand Voices",
         "version": "",
         "perks": {
           "column1": [],
@@ -3544,6 +3636,7 @@
         }
       },
       "Rake Angle": {
+        "weapon_name": "Rake Angle",
         "version": "",
         "perks": {
           "column1": [
@@ -3584,6 +3677,7 @@
         }
       },
       "Regnant": {
+        "weapon_name": "Regnant",
         "version": "",
         "perks": {
           "column1": [
@@ -3627,6 +3721,7 @@
         }
       },
       "Relativism": {
+        "weapon_name": "Relativism",
         "version": "",
         "perks": {
           "column1": [],
@@ -3668,6 +3763,7 @@
         }
       },
       "Riiswalker": {
+        "weapon_name": "Riiswalker",
         "version": "",
         "perks": {
           "column1": [
@@ -3710,6 +3806,7 @@
         }
       },
       "Seventh Seraph CQC-12": {
+        "weapon_name": "Seventh Seraph CQC-12",
         "version": "",
         "perks": {
           "column1": [
@@ -3752,6 +3849,7 @@
         }
       },
       "Star-Eater Scales": {
+        "weapon_name": "Star-Eater Scales",
         "version": "",
         "perks": {
           "column1": [],
@@ -3786,6 +3884,7 @@
         }
       },
       "Supercluster": {
+        "weapon_name": "Supercluster",
         "version": "",
         "perks": {
           "column1": [
@@ -3832,6 +3931,7 @@
         }
       },
       "The Dragon's Shadow": {
+        "weapon_name": "The Dragon's Shadow",
         "version": "",
         "perks": {
           "column1": [],
@@ -3866,6 +3966,7 @@
         }
       },
       "The Supremacy": {
+        "weapon_name": "The Supremacy",
         "version": "",
         "perks": {
           "column1": [
@@ -3909,6 +4010,7 @@
         }
       },
       "Tomorrow's Answer": {
+        "weapon_name": "Tomorrow's Answer",
         "version": "",
         "perks": {
           "column1": [
@@ -3951,6 +4053,7 @@
         }
       },
       "Triton Vice": {
+        "weapon_name": "Triton Vice",
         "version": "",
         "perks": {
           "column1": [],
@@ -3985,6 +4088,7 @@
         }
       },
       "Unloved": {
+        "weapon_name": "Unloved",
         "version": "",
         "perks": {
           "column1": [
@@ -4027,6 +4131,7 @@
         }
       },
       "Until Its Return": {
+        "weapon_name": "Until Its Return",
         "version": "",
         "perks": {
           "column1": [
@@ -4071,6 +4176,7 @@
         }
       },
       "Whisper of the Worm": {
+        "weapon_name": "Whisper of the Worm",
         "version": "",
         "perks": {
           "column1": [
@@ -4113,6 +4219,7 @@
         }
       },
       "Winter's Guile": {
+        "weapon_name": "Winter's Guile",
         "version": "",
         "perks": {
           "column1": [],
@@ -4147,6 +4254,7 @@
         }
       },
       "Without Remorse": {
+        "weapon_name": "Without Remorse",
         "version": "",
         "perks": {
           "column1": [
@@ -4191,6 +4299,7 @@
         }
       },
       "Yesterday's Question": {
+        "weapon_name": "Yesterday's Question",
         "version": "",
         "perks": {
           "column1": [
