@@ -87,3 +87,7 @@
   2026-05-26 18:25:06,772 [INFO] [aegis_endgame] -> ⚙️ Mapping sheet layout structure: 'Exotic Armor (ignore)' from workbooks_downloaded/aegis_endgame_exotic_armor_(ignore).csv
   2026-05-26 18:25:06,814 [INFO] [aegis_endgame] -> 🎉 Successfully compiled endgame down to cache: spreadsheets_scraped_data/aegis_endgame_spreadsheet_data_scraped.json
   2026-05-26 18:25:06,815 [INFO] [aegis_endgame] -> ✅ Registry synchronization update flags reset to False for elements: ['Status', 'Changelog', 'Shopping List', 'Autos', 'Bows', 'HCs', 'Pulses', 'Scouts', 'Sidearms', 'SMGs', 'BGLs', 'Fusions', 'Glaives', 'Shotguns', 'Snipers', 'Rocket Sidearms', 'Traces', 'HGLs', 'LFRs', 'LMGs', 'Rockets', 'Swords', 'Other', 'Exotic Weapons', 'Exotic Armor (ignore)']
+2026-05-27 02:39:08,329 [INFO] [aegis_endgame] -> ================================================================================
+2026-05-27 02:39:08,329 [INFO] [aegis_endgame] -> 🚀 Initializing Data Extraction Pipeline Engine: [aegis_endgame]
+2026-05-27 02:39:08,329 [INFO] [aegis_endgame] -> ================================================================================
+  2026-05-27 02:39:08,331 [INFO] [aegis_endgame] -> 🟩 All endgame workbook profiles match local registry maps. Scraping skipped.

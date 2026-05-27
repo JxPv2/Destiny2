@@ -86,3 +86,25 @@
   2026-05-26 18:25:07,740 [INFO] ->   Failed: None
   2026-05-26 18:25:07,741 [INFO] -> ================================================================================
   2026-05-26 18:25:07,741 [INFO] -> 🎉 All pipeline stages completed successfully.
+2026-05-27 02:39:03,470 [INFO] -> ================================================================================
+2026-05-27 02:39:03,470 [INFO] -> 🚀 Launching Full Pipeline Execution...
+2026-05-27 02:39:03,470 [INFO] -> ================================================================================
+  2026-05-27 02:39:03,471 [INFO] -> ▶️  Starting stage: Version State Check
+  2026-05-27 02:39:07,994 [INFO] -> ✅ Stage completed successfully: Version State Check
+  2026-05-27 02:39:07,994 [INFO] -> ▶️  Starting stage: Bungie Manifest Download
+  2026-05-27 02:39:08,146 [INFO] -> ✅ Stage completed successfully: Bungie Manifest Download
+  2026-05-27 02:39:08,146 [INFO] -> ▶️  Starting stage: Boss Damage Scraper
+  2026-05-27 02:39:08,212 [INFO] -> ✅ Stage completed successfully: Boss Damage Scraper
+  2026-05-27 02:39:08,212 [INFO] -> ▶️  Starting stage: Speedrunner Scraper
+  2026-05-27 02:39:08,274 [INFO] -> ✅ Stage completed successfully: Speedrunner Scraper
+  2026-05-27 02:39:08,274 [INFO] -> ▶️  Starting stage: Endgame Scraper
+  2026-05-27 02:39:08,337 [INFO] -> ✅ Stage completed successfully: Endgame Scraper
+  2026-05-27 02:39:08,337 [INFO] -> ▶️  Starting stage: DIM Wishlist Converter
+  2026-05-27 02:39:08,464 [INFO] -> ✅ Stage completed successfully: DIM Wishlist Converter
+  2026-05-27 02:39:08,464 [INFO] -> ================================================================================
+  2026-05-27 02:39:08,464 [INFO] -> 📊 Pipeline Execution Summary
+  2026-05-27 02:39:08,465 [INFO] -> ================================================================================
+  2026-05-27 02:39:08,465 [INFO] ->   Completed (6): Version State Check, Bungie Manifest Download, Boss Damage Scraper, Speedrunner Scraper, Endgame Scraper, DIM Wishlist Converter
+  2026-05-27 02:39:08,465 [INFO] ->   Failed: None
+  2026-05-27 02:39:08,465 [INFO] -> ================================================================================
+  2026-05-27 02:39:08,465 [INFO] -> 🎉 All pipeline stages completed successfully.
