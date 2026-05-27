@@ -152,3 +152,27 @@
   2026-05-27 18:21:03,816 [INFO] ->   Failed: None
   2026-05-27 18:21:03,817 [INFO] -> ================================================================================
   2026-05-27 18:21:03,817 [INFO] -> 🎉 All pipeline stages completed successfully.
+2026-05-27 20:48:04,977 [INFO] -> ================================================================================
+2026-05-27 20:48:04,978 [INFO] -> 🚀 Launching Full Pipeline Execution...
+2026-05-27 20:48:04,978 [INFO] -> ================================================================================
+  2026-05-27 20:48:04,978 [INFO] -> ▶️  Starting stage: Version State Check
+  2026-05-27 20:48:09,240 [INFO] -> ✅ Stage completed successfully: Version State Check
+  2026-05-27 20:48:09,240 [INFO] -> ▶️  Starting stage: Bungie Manifest Download
+  2026-05-27 20:48:09,394 [INFO] -> ✅ Stage completed successfully: Bungie Manifest Download
+  2026-05-27 20:48:09,394 [INFO] -> ▶️  Starting stage: Boss Damage Scraper
+  2026-05-27 20:48:09,461 [INFO] -> ✅ Stage completed successfully: Boss Damage Scraper
+  2026-05-27 20:48:09,461 [INFO] -> ▶️  Starting stage: Speedrunner Scraper
+  2026-05-27 20:48:09,522 [INFO] -> ✅ Stage completed successfully: Speedrunner Scraper
+  2026-05-27 20:48:09,523 [INFO] -> ▶️  Starting stage: Endgame Scraper
+  2026-05-27 20:48:09,586 [INFO] -> ✅ Stage completed successfully: Endgame Scraper
+  2026-05-27 20:48:09,586 [INFO] -> ▶️  Starting stage: DIM Wishlist Converter
+  2026-05-27 20:48:09,721 [INFO] -> ✅ Stage completed successfully: DIM Wishlist Converter
+  2026-05-27 20:48:09,721 [INFO] -> ▶️  Starting stage: DIM Wishlist Splitter
+  2026-05-27 20:48:09,837 [INFO] -> ✅ Stage completed successfully: DIM Wishlist Splitter
+  2026-05-27 20:48:09,837 [INFO] -> ================================================================================
+  2026-05-27 20:48:09,837 [INFO] -> 📊 Pipeline Execution Summary
+  2026-05-27 20:48:09,837 [INFO] -> ================================================================================
+  2026-05-27 20:48:09,837 [INFO] ->   Completed (7): Version State Check, Bungie Manifest Download, Boss Damage Scraper, Speedrunner Scraper, Endgame Scraper, DIM Wishlist Converter, DIM Wishlist Splitter
+  2026-05-27 20:48:09,837 [INFO] ->   Failed: None
+  2026-05-27 20:48:09,837 [INFO] -> ================================================================================
+  2026-05-27 20:48:09,838 [INFO] -> 🎉 All pipeline stages completed successfully.
