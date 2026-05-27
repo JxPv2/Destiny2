@@ -120,19 +120,10 @@ class AegisBossDamageScraper(BaseSpreadsheetScraper):
         self.logger.info(f"⚙️ Compiling records loop matrix from target asset: {file_path}")
         for row in rows:
             name = row.get("Name")
-            # Skip blank rows and visual divider rows that start with "==".
-            if not name or str(name).strip() == "" or str(name).startswith("=="):
+            if not self.is_valid_weapon_row(name):
                 continue
 
-            # parse_name_and_version splits "Palindrome\nVersion 3.2.1" into
-            # ("Palindrome", "3.2.1"). For boss-damage sheets the version is
-            # often absent, in which case version_string becomes "".
-            clean_name, version_string = self.parse_name_and_version(name)
-
-            # Seed a fresh record with the canonical schema so every weapon
-            # entry has identical keys, even if the sheet leaves columns blank.
-            record = self.initialize_unified_record()
-            record["version"] = version_string
+            clean_name, record = self.create_weapon_record(name)
 
             # Extract perk structures cleanly using fallbacks for structural safety.
             # Column 1 / Column 2 map to the first two socket columns (barrels,
@@ -158,11 +149,7 @@ class AegisBossDamageScraper(BaseSpreadsheetScraper):
             record["info"]["role"] = self.sanitize_info_cell("role", row.get("Role"))
             record["info"]["notes"] = self.sanitize_info_cell("notes", row.get("Notes"))
 
-            # The boss-damage sheet is opinionated: one entry per weapon name.
-            # If a name appears twice (rare, usually a copy-paste error), the
-            # second occurrence overwrites the first. This matches the sheet's
-            # intent of having a single canonical DPS ranking per weapon.
-            equipment_map[clean_name] = record
+            self.store_record_deduped(equipment_map, clean_name, record)
 
         return equipment_map
 

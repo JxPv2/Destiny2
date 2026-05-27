@@ -229,6 +229,59 @@ class BaseSpreadsheetScraper:
         return ", ".join(lines)
 
     # =========================================================================
+    # SHARED HELPERS: row validation, record factory, deduplication
+    # =========================================================================
+
+    def is_valid_weapon_row(self, name):
+        """
+        Return True if a raw name cell represents an actual weapon entry.
+
+        Filters out:
+          - None or blank cells.
+          - Visual divider rows starting with "==" (section headers).
+        """
+        if not name:
+            return False
+        s = str(name).strip()
+        return s != "" and not s.startswith("==")
+
+    def create_weapon_record(self, raw_name):
+        """
+        Create a canonical weapon record from a raw name cell.
+
+        Steps:
+          1. Split the raw name into (display_name, version_string).
+          2. Initialize a fresh unified record.
+          3. Populate version and weapon_name fields.
+
+        Returns:
+            (clean_name, record_dict)
+        """
+        clean_name, version_string = self.parse_name_and_version(raw_name)
+        record = self.initialize_unified_record()
+        record["version"] = version_string
+        record["weapon_name"] = clean_name
+        return clean_name, record
+
+    def store_record_deduped(self, target_dict, base_name, record):
+        """
+        Store a weapon record in target_dict, deduplicating the key.
+
+        If base_name already exists in target_dict, suffix the key with
+        _2, _3, etc. until a free slot is found. The first occurrence keeps
+        the bare name; subsequent ones get the increment.
+
+        This prevents same-workbook duplicates from silently overwriting
+        each other while preserving the real weapon name inside the record.
+        """
+        candidate = base_name
+        counter = 2
+        while candidate in target_dict:
+            candidate = f"{base_name}_{counter}"
+            counter += 1
+        target_dict[candidate] = record
+
+    # =========================================================================
     # STATE REGISTRY
     # =========================================================================
     # The pipeline uses a JSON state file to avoid redundant work. After a
@@ -329,12 +382,14 @@ class BaseSpreadsheetScraper:
         Every weapon roll record produced by a subclass should conform to this
         shape so the wishlist converter can consume it blindly. The schema
         separates:
+          - weapon_name   -> bare display name for manifest lookup.
           - version       -> semver string from parse_name_and_version.
           - perks         -> 5 columns: column1, column2, perk1, perk2, origin_trait.
           - info          -> metadata (rank, tier, tags, source, notes, etc.).
           - info.analysis -> 8 scoring dimensions used by DIM's roll grading.
         """
         return {
+            "weapon_name": "",
             "version": "",
             "perks": {
                 "column1": [], "column2": [], "perk1": [], "perk2": [], "origin_trait": []
@@ -385,7 +440,7 @@ class BaseSpreadsheetScraper:
         """
         Resolve the on-disk path for a given workbook.
 
-        The filename pattern is: <spreadsheet_key>_<sanitized_workbook_name>.<<ext>
+        The filename pattern is: <spreadsheet_key>_<sanitized_workbook_name>.<<ext>>
         where ext is "xlsx" if the config explicitly sets use_xlsx, otherwise
         "csv". This convention lets multiple scrapers share the same source_dir
         without collisions.

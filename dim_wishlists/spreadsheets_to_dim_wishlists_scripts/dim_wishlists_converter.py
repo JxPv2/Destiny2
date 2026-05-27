@@ -766,7 +766,8 @@ class DIMWishlistGenerator:
                     workbook_logger.info(f"Parsing nested ledger tab: '{workbook_name}'")
                     tags = self.resolve_tags(matched_key, workbook_name)
                     for weapon_name, weapon_details in weapons_dict.items():
-                        result = self.generate_item_wishlist(weapon_name, weapon_details, tags=tags)
+                        real_name = weapon_details.get("weapon_name", weapon_name)
+                        result = self.generate_item_wishlist(real_name, weapon_details, tags=tags)
                         if result:
                             # DIM comment block: weapon name, notes, then lines.
                             all_compiled_lines.append(f"// {result['item_name']}")
@@ -784,7 +785,8 @@ class DIMWishlistGenerator:
                     # flat dict (defensive; should not happen with current scrapers).
                     if weapon_name == "spreadsheet":
                         continue
-                    result = self.generate_item_wishlist(weapon_name, weapon_details, tags=tags)
+                    real_name = weapon_details.get("weapon_name", weapon_name)
+                    result = self.generate_item_wishlist(real_name, weapon_details, tags=tags)
                     if result:
                         all_compiled_lines.append(f"// {result['item_name']}")
                         tag_suffix = f" | tags: {result['tags']}" if result.get('tags') else " | tags: "

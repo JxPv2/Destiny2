@@ -128,12 +128,10 @@ class AegisEndgameScraper(BaseSpreadsheetScraper):
         rows = self._read_file_as_dicts(file_path, skip_rows=0)
         for row in rows:
             name = row.get("Name")
-            if not name or str(name).strip() == "" or str(name).startswith("=="):
+            if not self.is_valid_weapon_row(name):
                 continue
 
-            clean_name, version_string = self.parse_name_and_version(name)
-            record = self.initialize_unified_record()
-            record["version"] = version_string
+            clean_name, record = self.create_weapon_record(name)
 
             # Shopping List only specifies trait perks, not barrel or magazine.
             record["perks"]["perk1"] = self.sanitize_perk_cell(row.get("Column 1"))
@@ -145,7 +143,7 @@ class AegisEndgameScraper(BaseSpreadsheetScraper):
             record["info"]["priority"] = self.sanitize_info_cell("priority", row.get("Priority"))
             record["info"]["alternatives"] = self.sanitize_info_cell("alternatives", row.get("Alternatives"))
 
-            items_map[clean_name] = record
+            self.store_record_deduped(items_map, clean_name, record)
         return items_map
 
     def parse_weapon_archetype(self, file_path):
@@ -174,12 +172,10 @@ class AegisEndgameScraper(BaseSpreadsheetScraper):
         rows = self._read_file_as_dicts(file_path, skip_rows=1)
         for row in rows:
             name = row.get("Name")
-            if not name or str(name).strip() == "" or str(name).startswith("=="):
+            if not self.is_valid_weapon_row(name):
                 continue
 
-            clean_name, version_string = self.parse_name_and_version(name)
-            record = self.initialize_unified_record()
-            record["version"] = version_string
+            clean_name, record = self.create_weapon_record(name)
 
             # Full perk coverage: barrel/mag plus traits and origin.
             record["perks"]["column1"] = self.sanitize_perk_cell(row.get("Barrel"))
@@ -192,7 +188,7 @@ class AegisEndgameScraper(BaseSpreadsheetScraper):
             record["info"]["tier"] = self.sanitize_info_cell("tier", row.get("Tier"))
             record["info"]["notes"] = self.sanitize_info_cell("notes", row.get("Notes"))
 
-            items_map[clean_name] = record
+            self.store_record_deduped(items_map, clean_name, record)
         return items_map
 
     def parse_exotic_sheet(self, file_path, skip_rows=0):
@@ -249,12 +245,10 @@ class AegisEndgameScraper(BaseSpreadsheetScraper):
             }
 
             name = clean_row.get("name")
-            if not name or str(name).strip() == "" or str(name).startswith("=="):
+            if not self.is_valid_weapon_row(name):
                 continue
 
-            clean_name, version_string = self.parse_name_and_version(name)
-            record = self.initialize_unified_record()
-            record["version"] = version_string
+            clean_name, record = self.create_weapon_record(name)
 
             # Translate the one-letter type symbol into a human-readable label.
             raw_type = str(clean_row.get("type") or "").strip()
@@ -285,7 +279,7 @@ class AegisEndgameScraper(BaseSpreadsheetScraper):
                     json_key, trans_sym
                 )
 
-            items_map[clean_name] = record
+            self.store_record_deduped(items_map, clean_name, record)
         return items_map
 
     def _execute_processing(self):

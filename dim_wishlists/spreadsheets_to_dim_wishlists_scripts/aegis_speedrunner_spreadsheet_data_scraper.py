@@ -130,16 +130,10 @@ class AegisSpeedrunnerScraper(BaseSpreadsheetScraper):
 
         for row in rows:
             name = row.get("Name")
-            # Skip blank rows and visual divider rows.
-            if not name or str(name).strip() == "" or str(name).startswith("=="):
+            if not self.is_valid_weapon_row(name):
                 continue
 
-            # parse_name_and_version splits multi-line names into (name, version).
-            clean_name, version_string = self.parse_name_and_version(name)
-
-            # Seed a fresh canonical record so every entry has identical keys.
-            record = self.initialize_unified_record()
-            record["version"] = version_string
+            clean_name, record = self.create_weapon_record(name)
 
             # Perk columns: barrel/magazine (Column 1 / Column 2) and traits.
             record["perks"]["column1"] = self.sanitize_perk_cell(row.get("Column 1"))
@@ -157,10 +151,7 @@ class AegisSpeedrunnerScraper(BaseSpreadsheetScraper):
             record["info"]["usage"] = self.sanitize_info_cell("usage", row.get("Usage"))
             record["info"]["source"] = self.sanitize_info_cell("source", row.get("Source"))
 
-            # One entry per weapon name. Duplicate names overwrite, which is
-            # acceptable because the speedrunner sheet is opinionated and does
-            # not list the same weapon twice.
-            extracted_weapons[clean_name] = record
+            self.store_record_deduped(extracted_weapons, clean_name, record)
 
         # ------------------------------------------------------------------
         # Assemble payload with provenance metadata
