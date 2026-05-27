@@ -15,12 +15,13 @@
 # These folders are created automatically if they don't exist.
 # ==============================================================================
 pipeline_paths:
-  state_file: "local_version_state.json"      # Tracks versions/hashes so we know what changed
-  log_dir: "logs"                            # One .log file per script
-  manifest_dir: "bungie_manifest_data"         # Raw + compiled Bungie manifest JSON
-  download_dir: "workbooks_downloaded"         # CSV/XLSX files from Google Sheets
-  scraped_dir: "spreadsheets_scraped_data"    # Cleaned JSON after scraping
-  wishlist_dir: "dim_wishlists"              # Final .txt files DIM can import
+  state_file: "local_version_state.json"                        # Tracks versions/hashes so we know what changed
+  log_dir: "logs"                                               # One .log file per script
+  manifest_dir: "bungie_manifest_data"                          # Raw + compiled Bungie manifest JSON
+  download_dir: "workbooks_downloaded"                          # CSV/XLSX files from Google Sheets
+  scraped_dir: "spreadsheets_scraped_data"                      # Cleaned JSON after scraping
+  wishlist_dir: "dim_wishlists"                                 # Final .txt files DIM can import
+  splitted_wishlist_dir: "dim_wishlists/splitted_dim_wishlists" # Splitted .txt files DIM can import
   
 # ==============================================================================
 # SECTION 1: BUNGIE API
@@ -29,8 +30,8 @@ pipeline_paths:
 # If you register at https://www.bungie.net/developer you get higher rate limits.
 # ==============================================================================
 bungie_api:
-  api_key: "Destiny2API"                     # Placeholder — replace with real key or leave as-is
-  components:                                # Which manifest tables to download
+  api_key: "Destiny2API"                      # Placeholder — replace with real key or leave as-is
+  components:                                 # Which manifest tables to download
     - DestinyInventoryItemDefinition          # Weapons, perks, armor, everything
     - DestinyPlugSetDefinition                # Random-roll perk pools per weapon
     
