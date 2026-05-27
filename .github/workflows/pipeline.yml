@@ -36,7 +36,10 @@ jobs:
       - name: Copy wishlists to repo-root dim_wishlists
         run: |
           mkdir -p ${{ github.workspace }}/dim_wishlists
+          # Recursively copy all .txt files (main + splitted + any future subdirs)
+          # cp -r ${{ github.workspace }}/dim_wishlists/spreadsheets_to_dim_wishlists/dim_wishlists/* ${{ github.workspace }}/dim_wishlists/ 2>/dev/null || true
           cp ${{ github.workspace }}/dim_wishlists/spreadsheets_to_dim_wishlists/dim_wishlists/*.txt ${{ github.workspace }}/dim_wishlists/ 2>/dev/null || true
+          cp ${{ github.workspace }}/dim_wishlists/spreadsheets_to_dim_wishlists/dim_wishlists/splitted_dim_wishlists/*.txt ${{ github.workspace }}/dim_wishlists/ 2>/dev/null || true
 
       - name: Commit and push changes
         run: |
