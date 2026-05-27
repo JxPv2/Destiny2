@@ -17,7 +17,8 @@
 | Aegis' Speedrunner | [`aegis speedrunner dim raw link`](https://raw.githubusercontent.com/JxPv2/D2-Stuff/refs/heads/main/dim_wishlists/aegis_speedrunner_spreadsheet_dim_wishlist.txt) | all ranks and rolls |
 | 2Pillows MKB_PvE | [`2pillows mkb_pve dim raw link`](https://raw.githubusercontent.com/2Pillows/dim_wishlist_splitter/main/wishlists/MKB_PvE.txt) | [check the repo](https://github.com/2Pillows/dim_wishlist_splitter/tree/main/wishlists) |
 
-Open an issue or DM me on Discord (jxp) if you have a particular desired wishlist.
+###
+Open an issue, or DM me on Discord (jxp), for problems (missing weapon or perks combination) and/or if you have a particular desired wishlist to be created.
 
 ## Credits
 
