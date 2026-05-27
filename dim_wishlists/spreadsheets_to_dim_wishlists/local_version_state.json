@@ -2,6 +2,7 @@
   "spreadsheets": {
     "aegis_boss-damage": {
       "wishlist_update_required": false,
+      "wishlist_split_required": true,
       "workbooks": {
         "Changelog": {
           "local_saved_hash": "e54d2b25f42acb89ae39cdfdd2fbcefe235dab5accb853888d9eaeaa97a2e640",
@@ -17,6 +18,7 @@
     },
     "aegis_speedrunner": {
       "wishlist_update_required": false,
+      "wishlist_split_required": true,
       "workbooks": {
         "Weapons": {
           "local_saved_hash": "542f63774d60b7daf6efb780a2333d4774df347105b12f985d58d9fe378b7a2c",
@@ -27,6 +29,7 @@
     },
     "aegis_endgame": {
       "wishlist_update_required": false,
+      "wishlist_split_required": true,
       "workbooks": {
         "Status": {
           "local_saved_hash": "340bc326f11405efa194313909e62e7105340e74a041aa06d16de40541ba45b8",
