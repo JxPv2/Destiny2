@@ -132,7 +132,8 @@ def bootstrap_system_paths(config_path=CONFIG_FILE):
         "manifest_dir": "bungie_manifest_data",
         "download_dir": "workbooks_downloaded",
         "scraped_dir": "spreadsheets_scraped_data",
-        "wishlist_dir": "dim_wishlists"
+        "wishlist_dir": "dim_wishlists",
+        "splitted_wishlist_dir": "dim_wishlists/splitted_dim_wishlists",
     }
 
     dry_run = is_dry_run()
@@ -153,7 +154,8 @@ def bootstrap_system_paths(config_path=CONFIG_FILE):
                 "manifest_dir": paths_block.get("manifest_dir", defaults["manifest_dir"]),
                 "download_dir": paths_block.get("download_dir", defaults["download_dir"]),
                 "scraped_dir": paths_block.get("scraped_dir", defaults["scraped_dir"]),
-                "wishlist_dir": paths_block.get("wishlist_dir", defaults["wishlist_dir"])
+                "wishlist_dir": paths_block.get("wishlist_dir", defaults["wishlist_dir"]),
+                "splitted_wishlist_dir": paths_block.get("splitted_wishlist_dir", defaults["splitted_wishlist_dir"])
             }
             # Apply dry_run prefix to all paths if active
             if dry_run:
