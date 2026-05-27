@@ -20,6 +20,8 @@ Download:
  - config.yaml
  - core_spreadsheet_data_scraper.py
  - dim_wishlists_converter.py
+ - dim_wishlists_splitter.py
+ - dim_wishlists_splitter_config.yaml
  - pipeline_launcher.py
  - pipeline_utils.py
  - requirements.txt
