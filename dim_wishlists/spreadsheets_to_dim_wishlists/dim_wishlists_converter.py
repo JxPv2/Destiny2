@@ -803,6 +803,23 @@ class DIMWishlistGenerator:
                     f"🎉 Wishlist file isolated and successfully written: '{output_path}' ({lines_written_for_file} lines)"
                 )
 
+                # ------------------------------------------------------------------
+                # SET SPLITTER FLAG: Signal the downstream splitter that this
+                # source has fresh data and should be re-split.
+                # ------------------------------------------------------------------
+                # The splitter reads this flag from the same state file. If True,
+                # it processes this source and clears the flag. If False/missing,
+                # it skips the source entirely.
+                # We use clean_short_name as the key because that matches the
+                # config_source_spreadsheet values in the splitter's YAML config.
+                if "spreadsheets" not in state:
+                    state["spreadsheets"] = {}
+                if clean_short_name not in state["spreadsheets"]:
+                    state["spreadsheets"][clean_short_name] = {}
+                state["spreadsheets"][clean_short_name]["wishlist_split_required"] = True
+                logger.info(f"  🏷️  Flagged '{clean_short_name}' for splitter (wishlist_split_required = True)")
+                state_modified = True
+
                 # Clear the wishlist_update_required flag for this file.
                 if parent_node == "spreadsheets":
                     state["spreadsheets"][matched_key]["wishlist_update_required"] = False
@@ -810,8 +827,6 @@ class DIMWishlistGenerator:
                     state[matched_key]["wishlist_update_required"] = False
                 else:
                     # Auto-create the nested structure if this is the first run.
-                    if "spreadsheets" not in state:
-                        state["spreadsheets"] = {}
                     if matched_key not in state["spreadsheets"]:
                         state["spreadsheets"][matched_key] = {}
                     state["spreadsheets"][matched_key]["wishlist_update_required"] = False
