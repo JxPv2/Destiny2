@@ -163,12 +163,28 @@ workbook_groups:
 # =============================================================================
 
 outputs:
-
   # ---------------------------------------------------------------------------
-  # AEGIS' BOSS DAMAGE
+  # AEGIS' BOSS DAMAGE — Rank 1
   # ---------------------------------------------------------------------------
   # Source: aegis_boss-damage spreadsheet
-  # Keep only weapons ranked "Meta-Defining" or "Situational".
+  # Keep only items ranked "Meta-Defining".
+  # ---------------------------------------------------------------------------
+  - id: aegis_boss-damage_rank_1
+    config_source_spreadsheet: aegis_boss-damage
+    output_filename_suffix: "rank_1"
+    wishlist_title_suffix: "Rank: 1"
+    wishlist_description_suffix: ""
+    rules:
+      - type: filter
+        apply_to_workbook: "*"
+        scraped_field: info.rank
+        values: "Meta-Defining"
+
+  # ---------------------------------------------------------------------------
+  # AEGIS' BOSS DAMAGE — Rank 1-2
+  # ---------------------------------------------------------------------------
+  # Source: aegis_boss-damage spreadsheet
+  # Keep only items ranked "Meta-Defining" or "Situational".
   # ---------------------------------------------------------------------------
   - id: aegis_boss-damage_rank_1-2
     config_source_spreadsheet: aegis_boss-damage
@@ -182,10 +198,44 @@ outputs:
         values: ["Meta-Defining", "Situational"]
 
   # ---------------------------------------------------------------------------
-  # AEGIS' SPEEDRUNNER
+  # AEGIS' BOSS DAMAGE — Rank 1-3
+  # ---------------------------------------------------------------------------
+  # Source: aegis_boss-damage spreadsheet
+  # Keep only items ranked "Meta-Defining" or "Situational" or "Extremely Niche".
+  # ---------------------------------------------------------------------------
+  - id: aegis_boss-damage_rank_1-3
+    config_source_spreadsheet: aegis_boss-damage
+    output_filename_suffix: "rank_1-3"
+    wishlist_title_suffix: "Rank: 1-3"
+    wishlist_description_suffix: ""
+    rules:
+      - type: filter
+        apply_to_workbook: "*"
+        scraped_field: info.rank
+        values: ["Meta-Defining", "Situational", "Extremely Niche"]
+
+  # ---------------------------------------------------------------------------
+  # AEGIS' SPEEDRUNNER — Rank 1
   # ---------------------------------------------------------------------------
   # Source: aegis_speedrunner spreadsheet
-  # Keep only weapons with the top two speedrunner ranks.
+  # Keep only items ranked "Best in Role, Must-Have".
+  # ---------------------------------------------------------------------------
+  - id: aegis_speedrunner_rank_1
+    config_source_spreadsheet: aegis_speedrunner
+    output_filename_suffix: "rank_1"
+    wishlist_title_suffix: "Rank: 1"
+    wishlist_description_suffix: ""
+    rules:
+      - type: filter
+        apply_to_workbook: "*"
+        scraped_field: info.rank
+        values: "Best in Role, Must-Have"
+
+  # ---------------------------------------------------------------------------
+  # AEGIS' SPEEDRUNNER — Rank 1-2
+  # ---------------------------------------------------------------------------
+  # Source: aegis_speedrunner spreadsheet
+  # Keep only items ranked "Best in Role, Must-Have" or "Alternate Inferior Pick, Niche".
   # ---------------------------------------------------------------------------
   - id: aegis_speedrunner_rank_1-2
     config_source_spreadsheet: aegis_speedrunner
@@ -197,6 +247,23 @@ outputs:
         apply_to_workbook: "*"
         scraped_field: info.rank
         values: ["Best in Role, Must-Have", "Alternate Inferior Pick, Niche"]
+
+  # ---------------------------------------------------------------------------
+  # AEGIS' SPEEDRUNNER — Rank 1-3
+  # ---------------------------------------------------------------------------
+  # Source: aegis_speedrunner spreadsheet
+  # Keep only items ranked "Best in Role, Must-Have" or "Alternate Inferior Pick, Niche" or "Situational, Unnecessary"
+  # ---------------------------------------------------------------------------
+  - id: aegis_speedrunner_rank_1-3
+    config_source_spreadsheet: aegis_speedrunner
+    output_filename_suffix: "rank_1-3"
+    wishlist_title_suffix: "Rank: 1-3"
+    wishlist_description_suffix: ""
+    rules:
+      - type: filter
+        apply_to_workbook: "*"
+        scraped_field: info.rank
+        values: ["Best in Role, Must-Have", "Alternate Inferior Pick, Niche", "Situational, Unnecessary"]
 
   # ---------------------------------------------------------------------------
   # AEGIS' ENDGAME — Tier S-A (all tabs)
@@ -226,9 +293,37 @@ outputs:
         values: ["S", "A", ""]
 
   # ---------------------------------------------------------------------------
+  # AEGIS' ENDGAME — Tier S-B (all tabs)
+  # ---------------------------------------------------------------------------
+  # Source: aegis_endgame spreadsheet
+  # Shopping List uses numeric ranks (1, 2, 3); all other tabs use letter tiers.
+  # We combine two filter rules:
+  #   1. For "Shopping List": keep ranks 1 and 2 and 3.
+  #   2. For all tier-using tabs: keep tiers S and A and B.
+  # The empty string "" in the second rule's values is INTENTIONAL: some
+  # weapons may have an empty tier field that should still pass. If a weapon
+  # has NO tier field at all (null/None in JSON), the rule will REJECT it.
+  # ---------------------------------------------------------------------------
+  - id: aegis_endgame_tier_s-b
+    config_source_spreadsheet: aegis_endgame
+    output_filename_suffix: "tier_s-b"
+    wishlist_title_suffix: "Tier: S-B"
+    wishlist_description_suffix: ""
+    rules:
+      - type: filter
+        apply_to_workbook: "Shopping List"
+        scraped_field: info.rank
+        values: ["1", "2", "3"]
+      - type: filter
+        apply_to_workbook_group: "use_tier"
+        scraped_field: info.tier
+        values: ["S", "A", "B", ""]
+
+  # ---------------------------------------------------------------------------
   # AEGIS' ENDGAME — Tier S-A (NO exotic tabs)
   # ---------------------------------------------------------------------------
-  # Same tier logic as above, but explicitly excludes the two exotic tabs
+  # Same tier logic as "AEGIS' ENDGAME — Tier S-A (all tabs)", 
+  # but explicitly excludes the two exotic tabs
   # BEFORE applying the tier filters.
   # ---------------------------------------------------------------------------
   - id: aegis_endgame_tier_s-a_no_exotic_tabs
@@ -249,7 +344,31 @@ outputs:
         values: ["S", "A", ""]
 
   # ---------------------------------------------------------------------------
-  # AEGIS' ENDGAME — Exotic Weapons only
+  # AEGIS' ENDGAME — Tier S-B (NO exotic tabs)
+  # ---------------------------------------------------------------------------
+  # Same tier logic as "AEGIS' ENDGAME — Tier S-B (all tabs)", 
+  # but explicitly excludes the two exotic tabs
+  # BEFORE applying the tier filters.
+  # ---------------------------------------------------------------------------
+  - id: aegis_endgame_tier_s-b_no_exotic_tabs
+    config_source_spreadsheet: aegis_endgame
+    output_filename_suffix: "tier_s-b_no_exotic_tabs"
+    wishlist_title_suffix: "Tier: S-B (No Exotic Tabs)"
+    wishlist_description_suffix: ""
+    rules:
+      - type: workbook
+        exclude: ["Exotic Weapons", "Exotic Armor (ignore)"]
+      - type: filter
+        apply_to_workbook: "Shopping List"
+        scraped_field: info.rank
+        values: ["1", "2", "3"]
+      - type: filter
+        apply_to_workbook_group: "archetypes"
+        scraped_field: info.tier
+        values: ["S", "A", "B", ""]
+
+  # ---------------------------------------------------------------------------
+  # AEGIS' ENDGAME — Tier S-A Exotic Weapons only
   # ---------------------------------------------------------------------------
   # Isolate the "Exotic Weapons" workbook and keep only S-tier and A-tier.
   # ---------------------------------------------------------------------------
@@ -267,16 +386,33 @@ outputs:
         values: ["S", "A"]
 
   # ---------------------------------------------------------------------------
-  # AEGIS' ENDGAME — Exotic Armor only
+  # AEGIS' ENDGAME — All Exotic Weapons only
+  # ---------------------------------------------------------------------------
+  # Isolate the "Exotic Weapons" workbook.
+  # ---------------------------------------------------------------------------
+  - id: aegis_endgame_exotic_weapons
+    config_source_spreadsheet: aegis_endgame
+    output_filename_suffix: "exotic_weapons"
+    wishlist_title_suffix: "(Exotic Weapons)"
+    wishlist_description_suffix: ""
+    rules:
+      - type: workbook
+        include: ["Exotic Weapons"]
+      - type: filter
+        apply_to_workbook: "Exotic Weapons"
+        scraped_field: info.tier
+        values:
+  # ---------------------------------------------------------------------------
+  # AEGIS' ENDGAME — All Exotic Armor only
   # ---------------------------------------------------------------------------
   # Isolate the "Exotic Armor (ignore)" workbook.
   # Armor tiers may be empty strings, so we match "" explicitly.
   # NOTE: If the armor has NO tier field at all, this rule will REJECT it.
   # ---------------------------------------------------------------------------
-  - id: aegis_endgame_tier_s-a_exotic_armors
+  - id: aegis_endgame_exotic_armors
     config_source_spreadsheet: aegis_endgame
-    output_filename_suffix: "tier_s-a_exotic_armors"
-    wishlist_title_suffix: "Tier: S-A (Exotic Armors)"
+    output_filename_suffix: "exotic_armors"
+    wishlist_title_suffix: "(Exotic Armors)"
     wishlist_description_suffix: ""
     rules:
       - type: workbook

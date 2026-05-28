@@ -115,7 +115,7 @@ logger.addHandler(file_handler)
 # STATE HELPERS
 # =============================================================================
 # The splitter shares the same state file as the converter. It only touches
-# the wishlist_split_required flags under state["spreadsheets"][<source_key>].
+# the wishlist_split_required flags under state["spreadsheets"][<<source_key>].
 # =============================================================================
 
 def _load_state():
@@ -795,10 +795,12 @@ def run_splitter(config_path, force_all=False, pipeline_mode=False):
         config_path (str):  Path to the splitter configuration YAML.
         force_all (bool):   If True, process all sources regardless of state
                             flags. Useful for manual re-runs or recovery.
-        pipeline_mode (bool): If True and no flags are set, exit immediately
-                              instead of falling back to all sources. This
-                              prevents redundant work in the automated pipeline
-                              when the converter did not update anything.
+        pipeline_mode (bool): If True, the script still checks every source for
+                            missing output files. It only skips a source when
+                            no state flag is set AND all expected output files
+                            already exist. This prevents the splitter from
+                            doing redundant work while still recovering from
+                            missing files.
     """
     logger.info("=" * 60)
     logger.info("🚀 Starting Wishlist Splitter...")
@@ -813,28 +815,20 @@ def run_splitter(config_path, force_all=False, pipeline_mode=False):
 
     # Determine execution mode:
     #   - If force_all is True, process everything (manual override).
-    #   - If any source has wishlist_split_required=True, enter selective mode
-    #     and process only those sources.
-    #   - If no flags are set AND we're in pipeline_mode, exit immediately.
-    #     The converter did not update anything, so there's nothing to split.
-    #   - If no flags are set AND we're standalone, fall back to processing ALL
-    #     sources. This is the safety net for manual runs.
-    selective_mode = False
-    if not force_all:
+    #   - Otherwise, we enter the source loop and decide per-source whether
+    #     to skip or process based on state flags + missing output files.
+    if force_all:
+        logger.info("🔧 Force-all mode: processing ALL sources")
+        selective_mode = False
+    else:
         selective_mode = any(
             isinstance(s, dict) and s.get("wishlist_split_required", False)
             for s in spreadsheets_state.values()
         )
         if selective_mode:
-            logger.info("🔍 Selective mode active: only processing sources with wishlist_split_required=True")
-        elif pipeline_mode:
-            logger.info("📋 No sources were updated by the converter. Splitter exiting (pipeline mode).")
-            logger.info("=" * 60)
-            logger.info("Wishlist Splitter complete (no-op).")
-            logger.info("=" * 60)
-            return
+            logger.info("🔍 Selective mode active: processing sources with wishlist_split_required=True")
         else:
-            logger.info("📋 No split flags found in state. Processing ALL sources (standalone fallback mode).")
+            logger.info("📋 No split flags found in state. Checking for missing output files...")
 
     # ------------------------------------------------------------------
     # Load splitter config
@@ -857,6 +851,8 @@ def run_splitter(config_path, force_all=False, pipeline_mode=False):
         source = out.get("config_source_spreadsheet", "default")
         outputs_by_source.setdefault(source, []).append(out)
 
+    processed_any_source = False
+
     for source_key, source_outputs in outputs_by_source.items():
         # "default" means the output definition omitted config_source_spreadsheet.
         # We skip these because we cannot determine which source files to read.
@@ -867,21 +863,54 @@ def run_splitter(config_path, force_all=False, pipeline_mode=False):
             )
             continue
 
-        # ------------------------------------------------------------------
-        # STATE CHECK: Skip sources that weren't updated in this pipeline run
-        # ------------------------------------------------------------------
-        if selective_mode:
-            split_required = spreadsheets_state.get(source_key, {}).get("wishlist_split_required", False)
-            if not split_required:
-                logger.info(f"  ⏭️  Skipping {source_key} (wishlist_split_required is False or missing)")
-                continue
-
         # Derive filenames from the source_key prefix.
         # Example: source_key "aegis_boss-damage" maps to:
         #   - aegis_boss-damage_spreadsheet_dim_wishlist.txt
         #   - aegis_boss-damage_spreadsheet_data_scraped.json
         wishlist_file = os.path.join(WISHLIST_DIR, f"{source_key}_spreadsheet_dim_wishlist.txt")
         scraped_file = os.path.join(SCRAPED_DIR, f"{source_key}_spreadsheet_data_scraped.json")
+        base_name = f"{source_key}_spreadsheet_dim_wishlist"
+
+        # ------------------------------------------------------------------
+        # Check state flag and missing output files
+        # ------------------------------------------------------------------
+        split_required = spreadsheets_state.get(source_key, {}).get("wishlist_split_required", False)
+
+        # Determine if any expected output files are missing (deleted, first run,
+        # or config added new outputs). If so, force processing regardless
+        # of the state flag.
+        any_output_missing = False
+        missing_files = []
+        for out_def in source_outputs:
+            hardcoded_file = out_def.get("output_filename")
+            file_suffix = out_def.get("output_filename_suffix", "")
+            if hardcoded_file:
+                out_file = hardcoded_file
+            elif file_suffix:
+                out_file = f"{base_name}_{file_suffix}.txt"
+            else:
+                out_file = f"{out_def.get('id', 'unnamed')}.txt"
+            out_path = os.path.join(SPLIT_DIR, out_file)
+            if not os.path.exists(out_path):
+                any_output_missing = True
+                missing_files.append(out_file)
+
+        # ------------------------------------------------------------------
+        # DECISION: Skip or Process
+        # ------------------------------------------------------------------
+        # In both selective_mode and pipeline_mode, we skip a source ONLY when:
+        #   - wishlist_split_required is False (or missing)
+        #   - AND all expected output files already exist
+        #
+        # If the converter updated the source (split_required=True), we process.
+        # If output files are missing, we process (and log which ones).
+        # ------------------------------------------------------------------
+        if not force_all and not split_required and not any_output_missing:
+            logger.info(f"  ⏭️  Skipping {source_key} (no changes and all outputs exist)")
+            continue
+
+        if any_output_missing and not split_required:
+            logger.info(f"  🔄 Forcing split for {source_key} — missing output files: {', '.join(missing_files)}")
 
         if not os.path.exists(wishlist_file):
             logger.warning(f"Source wishlist not found: {wishlist_file}")
@@ -896,9 +925,6 @@ def run_splitter(config_path, force_all=False, pipeline_mode=False):
         scraped_index = build_scraped_index(scraped_file)
 
         logger.info(f"  Parsed {len(blocks)} weapon blocks")
-
-        # Base name for auto-derived filenames, e.g. "aegis_boss-damage_spreadsheet_dim_wishlist"
-        base_name = os.path.splitext(os.path.basename(wishlist_file))[0]
 
         for out_def in source_outputs:
             out_id = out_def.get("id", "unnamed")
@@ -944,10 +970,12 @@ def run_splitter(config_path, force_all=False, pipeline_mode=False):
         # ------------------------------------------------------------------
         # CLEAR SPLITTER FLAG: This source has been fully processed.
         # ------------------------------------------------------------------
-        if selective_mode and source_key in spreadsheets_state:
+        if not force_all and source_key in spreadsheets_state:
             spreadsheets_state[source_key]["wishlist_split_required"] = False
             state_modified = True
             logger.info(f"  ✅ Cleared wishlist_split_required for '{source_key}'")
+
+        processed_any_source = True
 
     # ------------------------------------------------------------------
     # Commit state changes
@@ -958,7 +986,10 @@ def run_splitter(config_path, force_all=False, pipeline_mode=False):
         logger.info("No state flags were modified.")
 
     logger.info("=" * 60)
-    logger.info("Wishlist Splitter complete.")
+    if processed_any_source:
+        logger.info("Wishlist Splitter complete.")
+    else:
+        logger.info("Wishlist Splitter complete (no-op — nothing to process).")
     logger.info("=" * 60)
 
 
@@ -994,8 +1025,8 @@ if __name__ == "__main__":
         "--pipeline",
         action="store_true",
         help="Running as part of the automated pipeline. "
-             "If no sources were updated, exit immediately instead of "
-             "falling back to processing all sources."
+             "If no sources were updated, the splitter still checks for "
+             "missing output files and writes them before exiting."
     )
     args = parser.parse_args()
 
