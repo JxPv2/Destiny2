@@ -143,3 +143,34 @@
     2026-05-27 23:51:51,848 [INFO] -> Parsing nested ledger tab: 'Exotic Armor (ignore)'
   2026-05-27 23:51:51,874 [INFO] -> Processing 'aegis_boss-damage_spreadsheet_data_scraped.json' (Reason: wishlist_update_required is set to true)...
     2026-05-27 23:51:51,876 [INFO] -> Parsing nested ledger tab: 'Equipment (WIP)'
+2026-05-28 00:21:15,263 [INFO] -> ================================================================================
+2026-05-28 00:21:15,264 [INFO] -> 🚀 Launching Isolated DIM Wishlist Text Generation Pipeline...
+2026-05-28 00:21:15,264 [INFO] -> ================================================================================
+  2026-05-28 00:21:15,310 [INFO] -> Processing 'aegis_speedrunner_spreadsheet_data_scraped.json' (Reason: wishlist_update_required is set to true)...
+    2026-05-28 00:21:15,312 [INFO] -> Parsing nested ledger tab: 'Weapons'
+  2026-05-28 00:21:15,349 [INFO] -> Processing 'aegis_endgame_spreadsheet_data_scraped.json' (Reason: wishlist_update_required is set to true)...
+    2026-05-28 00:21:15,357 [INFO] -> Parsing nested ledger tab: 'Shopping List'
+    2026-05-28 00:21:15,375 [INFO] -> Parsing nested ledger tab: 'Autos'
+    2026-05-28 00:21:15,420 [INFO] -> Parsing nested ledger tab: 'Bows'
+    2026-05-28 00:21:15,436 [INFO] -> Parsing nested ledger tab: 'HCs'
+    2026-05-28 00:21:15,476 [INFO] -> Parsing nested ledger tab: 'Pulses'
+    2026-05-28 00:21:15,519 [INFO] -> Parsing nested ledger tab: 'Scouts'
+    2026-05-28 00:21:15,553 [INFO] -> Parsing nested ledger tab: 'Sidearms'
+    2026-05-28 00:21:15,584 [INFO] -> Parsing nested ledger tab: 'SMGs'
+    2026-05-28 00:21:15,627 [INFO] -> Parsing nested ledger tab: 'BGLs'
+    2026-05-28 00:21:15,645 [INFO] -> Parsing nested ledger tab: 'Fusions'
+    2026-05-28 00:21:15,675 [INFO] -> Parsing nested ledger tab: 'Glaives'
+    2026-05-28 00:21:15,693 [INFO] -> Parsing nested ledger tab: 'Shotguns'
+    2026-05-28 00:21:15,718 [INFO] -> Parsing nested ledger tab: 'Snipers'
+    2026-05-28 00:21:15,737 [INFO] -> Parsing nested ledger tab: 'Rocket Sidearms'
+    2026-05-28 00:21:15,748 [INFO] -> Parsing nested ledger tab: 'Traces'
+    2026-05-28 00:21:15,759 [INFO] -> Parsing nested ledger tab: 'HGLs'
+    2026-05-28 00:21:15,773 [INFO] -> Parsing nested ledger tab: 'LFRs'
+    2026-05-28 00:21:15,785 [INFO] -> Parsing nested ledger tab: 'LMGs'
+    2026-05-28 00:21:15,813 [INFO] -> Parsing nested ledger tab: 'Rockets'
+    2026-05-28 00:21:15,830 [INFO] -> Parsing nested ledger tab: 'Swords'
+    2026-05-28 00:21:15,853 [INFO] -> Parsing nested ledger tab: 'Other'
+    2026-05-28 00:21:15,866 [INFO] -> Parsing nested ledger tab: 'Exotic Weapons'
+    2026-05-28 00:21:15,886 [INFO] -> Parsing nested ledger tab: 'Exotic Armor (ignore)'
+  2026-05-28 00:21:15,907 [INFO] -> Processing 'aegis_boss-damage_spreadsheet_data_scraped.json' (Reason: wishlist_update_required is set to true)...
+    2026-05-28 00:21:15,909 [INFO] -> Parsing nested ledger tab: 'Equipment (WIP)'
