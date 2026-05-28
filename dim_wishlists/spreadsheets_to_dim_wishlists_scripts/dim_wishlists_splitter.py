@@ -290,14 +290,21 @@ def parse_wishlist_file(file_path):
 
 def build_scraped_index(scraped_path):
     """
-    Build a lookup dict: weapon_name -> {workbook_name, raw_record}.
+    Build a lookup dict: bare_weapon_name -> list of {workbook_name, raw_record}.
+
+    Because the scraper deduplicates same-workbook duplicates by suffixing
+    _2, _3, etc. to the dict key, we index by the bare weapon_name field
+    inside the record. When a weapon appears multiple times with different
+    ranks, all entries are stored under the same bare name so the rule
+    engine can match the correct one by rank.
 
     Args:
         scraped_path (str): Path to the scraped JSON file.
 
     Returns:
-        dict[str, dict]: Index mapping weapon name to its workbook and record.
-                       Empty dict if the file is missing or malformed.
+        dict[str, list[dict]]: Index mapping bare weapon name to a list of
+                               {workbook, record} entries. Empty dict if the
+                               file is missing or malformed.
     """
     index = {}
 
@@ -312,10 +319,10 @@ def build_scraped_index(scraped_path):
 
     for wb_name, weapons in workbooks.items():
         for weapon_name, weapon_data in weapons.items():
-            index[weapon_name] = {
-                "workbook": wb_name,
-                "record": weapon_data
-            }
+            # Use the bare weapon_name from the record, not the suffixed dict key.
+            bare_name = weapon_data.get("weapon_name", weapon_name)
+            entry = {"workbook": wb_name, "record": weapon_data}
+            index.setdefault(bare_name, []).append(entry)
 
     return index
 
@@ -380,6 +387,16 @@ class RuleEngine:
         # workbook_groups maps group_name -> list of workbook names.
         # Passed from the top-level config so rules can reference them.
         self.workbook_groups = workbook_groups or {}
+
+    @staticmethod
+    def _extract_rank_from_notes(notes):
+        """Extract the [Rank] value from a notes string, or None."""
+        if not notes:
+            return None
+        match = re.search(r'\[Rank\]:\s*([^/\[]+)', notes)
+        if match:
+            return match.group(1).strip()
+        return None
 
     def _resolve_workbook_target(self, rule):
         """
@@ -473,6 +490,12 @@ class RuleEngine:
         A weapon is included only if every rule returns True. If there are no
         rules, the block passes by default (vacuous truth).
 
+        When a weapon appears multiple times in the same workbook (e.g.,
+        "Gunnora's Axe" and "Gunnora's Axe_2"), the scraped index stores
+        a list of entries under the bare name. We match the block to the
+        correct record by comparing the rank extracted from the block's
+        notes with the rank in each scraped record.
+
         Args:
             block (WishlistBlock): The weapon block to test.
 
@@ -482,15 +505,46 @@ class RuleEngine:
         if not self.rules:
             return True
 
-        scraped = self.scraped_index.get(block.name, {})
-        record = scraped.get("record", {})
-        workbook_name = scraped.get("workbook", "")
+        entries = self.scraped_index.get(block.name, [])
+        if not entries:
+            # No scraped data for this weapon — fail all filter rules.
+            return False
 
-        for rule in self.rules:
-            if not self._evaluate_single(rule, block, record, workbook_name):
-                return False
+        # If there's only one entry, use it directly.
+        if len(entries) == 1:
+            record = entries[0]["record"]
+            workbook_name = entries[0]["workbook"]
+            for rule in self.rules:
+                if not self._evaluate_single(rule, block, record, workbook_name):
+                    return False
+            return True
 
-        return True
+        # Multiple entries: find the one whose rank matches the block's notes.
+        block_rank = self._extract_rank_from_notes(block.notes)
+        if block_rank:
+            for entry in entries:
+                record = entry["record"]
+                wb_rank = record.get("info", {}).get("rank", "")
+                if str(wb_rank).strip() == block_rank:
+                    workbook_name = entry["workbook"]
+                    for rule in self.rules:
+                        if not self._evaluate_single(rule, block, record, workbook_name):
+                            return False
+                    return True
+
+        # Fallback: if no rank match, try every entry. Return True if ANY passes.
+        for entry in entries:
+            record = entry["record"]
+            workbook_name = entry["workbook"]
+            all_pass = True
+            for rule in self.rules:
+                if not self._evaluate_single(rule, block, record, workbook_name):
+                    all_pass = False
+                    break
+            if all_pass:
+                return True
+
+        return False
 
     def _evaluate_single(self, rule, block, record, workbook_name):
         """
