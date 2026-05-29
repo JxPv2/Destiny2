@@ -178,7 +178,7 @@ outputs:
       - type: filter
         apply_to_workbook: "*"
         scraped_field: info.rank
-        values: "Meta-Defining"
+        values: [1]
 
   # ---------------------------------------------------------------------------
   # AEGIS' BOSS DAMAGE — Rank 1-2
@@ -195,7 +195,7 @@ outputs:
       - type: filter
         apply_to_workbook: "*"
         scraped_field: info.rank
-        values: ["Meta-Defining", "Situational"]
+        values: [1, 2]
 
   # ---------------------------------------------------------------------------
   # AEGIS' BOSS DAMAGE — Rank 1-3
@@ -212,7 +212,7 @@ outputs:
       - type: filter
         apply_to_workbook: "*"
         scraped_field: info.rank
-        values: ["Meta-Defining", "Situational", "Extremely Niche"]
+        values: [1, 2, 3]
 
   # ---------------------------------------------------------------------------
   # AEGIS' SPEEDRUNNER — Rank 1
@@ -229,7 +229,7 @@ outputs:
       - type: filter
         apply_to_workbook: "*"
         scraped_field: info.rank
-        values: "Best in Role, Must-Have"
+        values: [1]
 
   # ---------------------------------------------------------------------------
   # AEGIS' SPEEDRUNNER — Rank 1-2
@@ -246,7 +246,7 @@ outputs:
       - type: filter
         apply_to_workbook: "*"
         scraped_field: info.rank
-        values: ["Best in Role, Must-Have", "Alternate Inferior Pick, Niche"]
+        values: [1, 2]
 
   # ---------------------------------------------------------------------------
   # AEGIS' SPEEDRUNNER — Rank 1-3
@@ -263,7 +263,7 @@ outputs:
       - type: filter
         apply_to_workbook: "*"
         scraped_field: info.rank
-        values: ["Best in Role, Must-Have", "Alternate Inferior Pick, Niche", "Situational, Unnecessary"]
+        values: [1, 2, 3]
 
   # ---------------------------------------------------------------------------
   # AEGIS' ENDGAME — Tier S-A (all tabs)
@@ -448,7 +448,7 @@ outputs:
 #       - type: filter
 #         apply_to_workbook: "*"
 #         scraped_field: info.rank
-#         values: ["Meta-Defining", "Situational"]
+#         values: [1, 2]
 #
 #   # No header changes, just filter by workbook inclusion
 #   - id: endgame_archetypes_only

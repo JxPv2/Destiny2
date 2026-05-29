@@ -15,6 +15,9 @@ from pipeline_utils import (
     bootstrap_system_paths,
     SmartIndentFormatter,
     setup_root_console_logging,
+    setup_module_logger,
+    load_config,
+    ensure_manifest_state,
     CONFIG_FILE,
 )
 
@@ -36,19 +39,7 @@ os.makedirs(LOG_DIR, exist_ok=True)
 # ==============================================================================
 # Module-level logger isolated from root noise. We clear existing handlers to
 # survive reloads in interactive environments without duplicate lines.
-logger = logging.getLogger("ManifestCompiler")
-logger.setLevel(logging.INFO)
-
-if logger.hasHandlers():
-    logger.handlers.clear()
-
-LOG_LAYOUT = "%(asctime)s [%(levelname)s] -> %(message)s"
-custom_formatter = SmartIndentFormatter(fmt=LOG_LAYOUT)
-
-log_name = os.path.splitext(os.path.basename(__file__))[0] + ".log"
-file_handler = logging.FileHandler(os.path.join(LOG_DIR, log_name), encoding="utf-8")
-file_handler.setFormatter(custom_formatter)
-logger.addHandler(file_handler)
+logger = setup_module_logger("bungie_manifest_compiler", LOG_DIR)
 
 # ==============================================================================
 # SECTION 3: FILTERING ENGINE (GATEKEEPER)
@@ -141,9 +132,9 @@ def compile_manifest():
     # Reset the category filter cache so repeated runs in the same process do
     # not carry stale decisions from a previous config.
     _filter_cache.clear()
-    logger.info("=" * 50)
+    logger.info("=" * 80)
     logger.info("🚀 Initializing Local Bungie Manifest Compiler...")
-    logger.info("=" * 50)
+    logger.info("=" * 80)
     logger.info(f"🧹 Filter cache cleared. Size: {len(_filter_cache)}")
 
     # --------------------------------------------------------------------------
@@ -153,9 +144,7 @@ def compile_manifest():
     SYSTEM_PATHS = bootstrap_system_paths()
     STATE_FILE = SYSTEM_PATHS["state_file"]
     state = load_json_file(STATE_FILE, lambda: {"bungie_manifest": {}, "spreadsheets": {}})
-    if "bungie_manifest" not in state:
-        state["bungie_manifest"] = {}
-    manifest_state = state["bungie_manifest"]
+    manifest_state = ensure_manifest_state(state)
 
     # --------------------------------------------------------------------------
     # Load filtering configuration
@@ -163,13 +152,8 @@ def compile_manifest():
     # If the config is missing we degrade gracefully with an empty ignore list
     # rather than crashing. This lets a new clone run the compiler immediately
     # after downloading raw files, even before config.yaml is customized.
-    if not os.path.exists(CONFIG_FILE):
-        logger.error(f"Config file '{CONFIG_FILE}' missing. Proceeding with empty ignore list.")
-        ignore_list = []
-    else:
-        with open(CONFIG_FILE, "r", encoding="utf-8") as f:
-            config = yaml.safe_load(f) or {}
-            ignore_list = config.get("bungie_manifest_filtering", {}).get("ignored_plug_categories", [])
+    config = load_config()
+    ignore_list = config.get("bungie_manifest_filtering", {}).get("ignored_plug_categories", [])
 
     # --------------------------------------------------------------------------
     # Validate raw inputs

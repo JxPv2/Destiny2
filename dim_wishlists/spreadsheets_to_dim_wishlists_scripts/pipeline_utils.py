@@ -329,3 +329,236 @@ def save_json_file(filepath, data):
 def get_current_timestamp():
     """Generates UTC timestamps in strict ISO-8601 format."""
     return datetime.now(timezone.utc).isoformat()
+
+# ==============================================================================
+# SECTION 5: LOGGING HELPERS
+# ==============================================================================
+# These factories eliminate the boilerplate repeated in every pipeline script.
+
+class IndentAdapter(logging.LoggerAdapter):
+    """
+    LoggerAdapter that injects an 'indent' key into the LogRecord extra dict.
+    SmartIndentFormatter reads this key and prepends spaces so nested output
+    (workbook -> weapon -> perk) is visually scannable.
+
+    Usage:
+        logger = logging.getLogger("MyScript")
+        adapter = IndentAdapter(logger, 2)
+        adapter.info("nested message")  # indented by 2 levels
+    """
+    def __init__(self, logger, indent_level):
+        super().__init__(logger, {})
+        self.indent_level = indent_level
+
+    def process(self, msg, kwargs):
+        extra = kwargs.setdefault("extra", {})
+        extra["indent"] = self.indent_level
+        return msg, kwargs
+
+
+class DuplicateInfoFilter(logging.Filter):
+    """
+    Duplicates specific INFO records to a secondary handler.
+    Passes through WARNING+ records normally.
+
+    Why this exists:
+        The warnings log is a lean file that operators can tail to see only
+        problems. However, warnings without surrounding context (e.g., which
+        spreadsheet was being processed when the warning fired) are hard to
+        debug. This filter copies select high-level INFO lines (banners, stage
+        transitions) into the warnings handler so every warning is self-contained.
+    """
+    def __init__(self, target_handler, keywords=None):
+        super().__init__()
+        self.target_handler = target_handler
+        self.keywords = keywords or []
+
+    def filter(self, record):
+        # Always pass through to the primary handler (return True).
+        # Additionally, if this is an INFO record whose message contains one
+        # of the contextual keywords, forward a copy to the warnings handler.
+        if record.levelno == logging.INFO:
+            msg_lower = record.getMessage().lower()
+            if any(kw in msg_lower for kw in self.keywords):
+                self.target_handler.handle(record)
+        return True  # Never block the primary handler
+
+
+def setup_module_logger(name, log_dir, layout=None, warnings_log=False, dupe_keywords=None):
+    """
+    Create a fully-configured module logger with FileHandler + optional warnings log.
+
+    This replaces the ~15 lines of boilerplate repeated in every script:
+        logger = logging.getLogger(...)
+        logger.setLevel(...)
+        if logger.hasHandlers(): clear
+        formatter = SmartIndentFormatter(...)
+        fh = FileHandler(...)
+        ...
+
+    Args:
+        name (str): Logger name (usually __name__ or script filename without .py).
+        log_dir (str): Directory where .log files are written.
+        layout (str): Optional custom format string. Default preserves timestamps.
+        warnings_log (bool): If True, also create a _warnings.log with a
+            DuplicateInfoFilter that echoes select INFO lines for context.
+        dupe_keywords (list[str]): Keywords for the DuplicateInfoFilter.
+            Only used if warnings_log=True.
+
+    Returns:
+        logging.Logger: The configured logger, ready for use.
+    """
+    if layout is None:
+        layout = "%(asctime)s [%(levelname)s] -> %(message)s"
+
+    logger = logging.getLogger(name)
+    logger.setLevel(logging.INFO)
+
+    # Defensive reset: survive reloads in long-running scheduler processes.
+    if logger.hasHandlers():
+        logger.handlers.clear()
+
+    formatter = SmartIndentFormatter(fmt=layout)
+
+    # Primary log file: everything (INFO and above).
+    log_path = os.path.join(log_dir, f"{name}.log")
+    file_handler = logging.FileHandler(log_path, encoding="utf-8")
+    file_handler.setFormatter(formatter)
+    file_handler.setLevel(logging.INFO)
+
+    # Optional warnings-only secondary log.
+    if warnings_log:
+        warnings_path = os.path.join(log_dir, f"{name}_warnings.log")
+        warnings_handler = logging.FileHandler(warnings_path, encoding="utf-8")
+        warnings_handler.setFormatter(formatter)
+        warnings_handler.setLevel(logging.WARNING)
+
+        dup_filter = DuplicateInfoFilter(
+            warnings_handler,
+            keywords=dupe_keywords or ["launching", "processing", "=" * 10]
+        )
+        file_handler.addFilter(dup_filter)
+
+    logger.addHandler(file_handler)
+    return logger
+
+
+# ==============================================================================
+# SECTION 6: CONFIGURATION HELPERS
+# ==============================================================================
+
+def load_config(config_path=CONFIG_FILE):
+    """
+    Safely load config.yaml and return the parsed dict.
+
+    Returns an empty dict (never raises) so callers can degrade gracefully
+    with hardcoded defaults rather than crashing.
+
+    Args:
+        config_path (str): Path to the YAML config file.
+
+    Returns:
+        dict: Parsed YAML content, or {} on any failure (missing file,
+              parse error, permission denied).
+    """
+    if not os.path.exists(config_path):
+        return {}
+    try:
+        with open(config_path, "r", encoding="utf-8") as f:
+            return yaml.safe_load(f) or {}
+    except Exception:
+        return {}
+
+
+# ==============================================================================
+# SECTION 7: STATE FILE HELPERS
+# ==============================================================================
+# These ensure consistent dict structure and key ordering across all scripts
+# that read/write local_version_state.json.
+
+def get_spreadsheet_state_template():
+    """
+    Return a fresh spreadsheet state dict.
+
+    This is a factory function rather than a module-level dict to avoid
+    the mutable default dict anti-pattern. Every call returns a new dict
+    with its own independent "workbooks" sub-dict.
+    """
+    return {
+        "wishlist_update_required": False,
+        "wishlist_split_required": False,
+        "workbooks": {}
+    }
+
+
+MANIFEST_STATE_TEMPLATE = {
+    "wishlist_update_required": False,
+    "bungie_manifest_download_required": False,
+    "bungie_manifest_compile_required": False,
+    "local_saved_version": "",
+    "last_check": ""
+}
+
+
+def ensure_spreadsheet_state(state, key):
+    """
+    Ensure state["spreadsheets"][key] exists with canonical key order.
+
+    If the key is missing, creates it using the template:
+        wishlist_update_required, wishlist_split_required, workbooks
+
+    If the key exists but is missing any canonical keys, injects them while
+    preserving existing values.
+
+    Args:
+        state (dict): The root state dict (mutated in place).
+        key (str): The spreadsheet key (e.g., "aegis_boss-damage").
+
+    Returns:
+        dict: The spreadsheet state sub-dict for the given key.
+    """
+    if "spreadsheets" not in state:
+        state["spreadsheets"] = {}
+
+    if key not in state["spreadsheets"]:
+        state["spreadsheets"][key] = get_spreadsheet_state_template()
+        return state["spreadsheets"][key]
+
+    existing = state["spreadsheets"][key]
+    # Rebuild with canonical order, preserving existing values.
+    merged = {}
+    for k in get_spreadsheet_state_template():
+        merged[k] = existing.get(k, get_spreadsheet_state_template()[k])
+    # Preserve any non-canonical keys that may have been added by future scripts.
+    for k, v in existing.items():
+        if k not in merged:
+            merged[k] = v
+    state["spreadsheets"][key] = merged
+    return merged
+
+
+def ensure_manifest_state(state):
+    """
+    Ensure state["bungie_manifest"] exists with canonical key order.
+
+    Same pattern as ensure_spreadsheet_state but for the manifest section.
+
+    Args:
+        state (dict): The root state dict (mutated in place).
+
+    Returns:
+        dict: The manifest state sub-dict.
+    """
+    if "bungie_manifest" not in state:
+        state["bungie_manifest"] = dict(MANIFEST_STATE_TEMPLATE)
+        return state["bungie_manifest"]
+
+    existing = state["bungie_manifest"]
+    merged = {}
+    for k in MANIFEST_STATE_TEMPLATE:
+        merged[k] = existing.get(k, MANIFEST_STATE_TEMPLATE[k])
+    for k, v in existing.items():
+        if k not in merged:
+            merged[k] = v
+    state["bungie_manifest"] = merged
+    return merged

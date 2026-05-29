@@ -17,6 +17,7 @@ from pipeline_utils import (
     PipelineIndentedFormatter,
     save_json_file,
     setup_root_console_logging,
+    load_config,
     CONFIG_FILE,
 )
 
@@ -115,25 +116,13 @@ class BaseSpreadsheetScraper:
         Returns an empty dict on any failure so the scraper can degrade
         gracefully with hardcoded defaults rather than crashing.
         """
-        config_path = CONFIG_FILE
         self._config_error = None
         self._config_missing = False
 
-        if os.path.exists(config_path):
-            try:
-                with open(config_path, "r", encoding="utf-8") as f:
-                    return yaml.safe_load(f) or {}
-            except Exception as e:
-                # YAML parse errors or permission issues are stored for later
-                # reporting rather than raising, because some scrapers may not
-                # need config at all (e.g., they only use hardcoded paths).
-                self._config_error = e
-                return {}
-
-        # If the file is absent entirely, flag it so _report_configuration_status
-        # can warn the operator.
-        self._config_missing = True
-        return {}
+        config = load_config()
+        if not config:
+            self._config_missing = True
+        return config
 
     def _report_configuration_status(self):
         """

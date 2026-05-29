@@ -59,6 +59,9 @@ from pipeline_utils import (
     PipelineIndentedFormatter,
     setup_root_console_logging,
     save_json_file,
+    setup_module_logger,
+    load_config,
+    IndentAdapter,
 )
 
 # =============================================================================
@@ -91,25 +94,25 @@ os.makedirs(SPLIT_DIR, exist_ok=True)
 # This avoids duplicate handlers on the same logger object.
 # =============================================================================
 
-LOG_LAYOUT = "%(asctime)s [%(levelname)s] -> %(message)s"
-formatter = PipelineIndentedFormatter(fmt=LOG_LAYOUT)
-
-logger = logging.getLogger("WishlistSplitter")
-logger.setLevel(logging.INFO)
-
-# If this module is ever re-imported, clear old handlers to prevent duplicates.
-if logger.hasHandlers():
-    logger.handlers.clear()
+logger = setup_module_logger("dim_wishlists_splitter", LOG_DIR)
 
 # Enable propagation so root console handler (set up in __main__) also emits
 # these log records. This matches the pipeline-wide logging architecture.
 logger.propagate = True
 
-# Derive log filename from script name, e.g. dim_wishlists_splitter.py -> .log
-log_name = os.path.splitext(os.path.basename(__file__))[0] + ".log"
-file_handler = logging.FileHandler(os.path.join(LOG_DIR, log_name), encoding="utf-8")
-file_handler.setFormatter(formatter)
-logger.addHandler(file_handler)
+# =============================================================================
+# LoggerAdapters for hierarchical indentation
+# =============================================================================
+# IndentAdapter injects an "indent" key into the LogRecord's extra dict.
+# PipelineIndentedFormatter reads this key and prepends spaces so nested
+# output (workbook -> weapon -> perk) is visually scannable.
+# Three indentation tiers for the three nesting levels in execute_pipeline():
+#   workbook_logger  -> workbook name banner (2 spaces)
+#   details_logger   -> per-weapon results    (3 spaces)
+#   warning_logger   -> diagnostic reasons    (4 spaces)
+workbook_logger = IndentAdapter(logger, 2)
+details_logger = IndentAdapter(logger, 3)
+warning_logger = IndentAdapter(logger, 4)
 
 # =============================================================================
 # STATE HELPERS
@@ -381,12 +384,13 @@ class RuleEngine:
                                    Used by apply_to_workbook_group rules.
     """
 
-    def __init__(self, rules, scraped_index, workbook_groups=None):
+    def __init__(self, rules, scraped_index, workbook_groups=None, source_key=None):
         self.rules = rules
         self.scraped_index = scraped_index
         # workbook_groups maps group_name -> list of workbook names.
         # Passed from the top-level config so rules can reference them.
         self.workbook_groups = workbook_groups or {}
+        self.source_key = source_key
 
     @staticmethod
     def _extract_rank_from_notes(notes):
@@ -617,6 +621,21 @@ class RuleEngine:
             field_path = rule.get("scraped_field")
             allowed_values = rule.get("values", [])
 
+            # ------------------------------------------------------------------
+            # RANK TRANSLATION: If this is a rank filter and we know the source
+            # spreadsheet, translate numeric values using config.yaml rank_mappings.
+            # This lets the splitter config use raw numbers (e.g., [1, 2]) instead
+            # of translated strings (e.g., ["Meta-Defining", "Situational"]).
+            # ------------------------------------------------------------------
+            if field_path == "info.rank" and self.source_key:
+                config = load_config()
+                translations = config.get("rank_mappings", {}).get(self.source_key, {})
+                translated = set()
+                for v in allowed_values:
+                    v_str = str(v)
+                    translated.add(translations.get(v_str, v_str))
+                allowed_values = list(translated)
+
             # Malformed rule: missing field path or no allowed values.
             # We treat this as "do not reject" so a typo doesn't silently
             # empty the output. Consider upgrading to a hard error in future.
@@ -762,7 +781,7 @@ def write_output(header_lines, blocks, output_path,
     with open(output_path, "w", encoding="utf-8") as f:
         f.write("\n".join(lines) + "\n")
 
-    logger.info(f"Wrote {len(blocks)} blocks to {output_path}")
+    workbook_logger.info(f"Wrote {len(blocks)} blocks to {output_path}")
 
 
 # =============================================================================
@@ -795,16 +814,17 @@ def run_splitter(config_path, force_all=False, pipeline_mode=False):
         config_path (str):  Path to the splitter configuration YAML.
         force_all (bool):   If True, process all sources regardless of state
                             flags. Useful for manual re-runs or recovery.
-        pipeline_mode (bool): If True, the script still checks every source for
-                            missing output files. It only skips a source when
-                            no state flag is set AND all expected output files
-                            already exist. This prevents the splitter from
-                            doing redundant work while still recovering from
-                            missing files.
+        pipeline_mode (bool): Reserved for future use. Currently the skip logic
+                            behaves the same in both modes: a source is skipped
+                            only when no state flag is set AND all expected
+                            output files already exist. The flag is accepted
+                            so the pipeline_launcher can pass it without error,
+                            but it does not change behavior at this time.
+                            To force a full re-split, use --force-all instead.
     """
-    logger.info("=" * 60)
+    logger.info("=" * 80)
     logger.info("🚀 Starting Wishlist Splitter...")
-    logger.info("=" * 60)
+    logger.info("=" * 80)
 
     # ------------------------------------------------------------------
     # Load pipeline state for selective execution
@@ -917,14 +937,14 @@ def run_splitter(config_path, force_all=False, pipeline_mode=False):
             continue
 
         logger.info(f"Processing source: {source_key}")
-        logger.info(f"  Wishlist: {wishlist_file}")
-        logger.info(f"  Scraped:  {scraped_file}")
+        workbook_logger.info(f"  Wishlist: {wishlist_file}")
+        workbook_logger.info(f"  Scraped:  {scraped_file}")
 
         # Parse once, filter many times.
         header_lines, blocks = parse_wishlist_file(wishlist_file)
         scraped_index = build_scraped_index(scraped_file)
 
-        logger.info(f"  Parsed {len(blocks)} weapon blocks")
+        workbook_logger.info(f"  Parsed {len(blocks)} weapon blocks")
 
         for out_def in source_outputs:
             out_id = out_def.get("id", "unnamed")
@@ -953,7 +973,7 @@ def run_splitter(config_path, force_all=False, pipeline_mode=False):
 
             # Build rule engine and evaluate every block.
             rules = out_def.get("rules", [])
-            engine = RuleEngine(rules, scraped_index, workbook_groups)
+            engine = RuleEngine(rules, scraped_index, workbook_groups, source_key=source_key)
             filtered = [b for b in blocks if engine.evaluate(b)]
 
             if filtered:
@@ -985,12 +1005,12 @@ def run_splitter(config_path, force_all=False, pipeline_mode=False):
     else:
         logger.info("No state flags were modified.")
 
-    logger.info("=" * 60)
+    logger.info("=" * 80)
     if processed_any_source:
         logger.info("Wishlist Splitter complete.")
     else:
         logger.info("Wishlist Splitter complete (no-op — nothing to process).")
-    logger.info("=" * 60)
+    logger.info("=" * 80)
 
 
 # =============================================================================
@@ -1024,9 +1044,9 @@ if __name__ == "__main__":
     parser.add_argument(
         "--pipeline",
         action="store_true",
-        help="Running as part of the automated pipeline. "
-             "If no sources were updated, the splitter still checks for "
-             "missing output files and writes them before exiting."
+        help="Accepted for compatibility with pipeline_launcher. "
+             "Currently does not change behavior; skip logic is the same "
+             "with or without this flag. Use --force-all to force a full re-split."
     )
     args = parser.parse_args()
 

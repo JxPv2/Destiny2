@@ -108,14 +108,9 @@ class AegisBossDamageScraper(BaseSpreadsheetScraper):
 
         rows = self._read_file_as_dicts(file_path, skip_rows=0)
 
-        # Human-readable label transformations for the spreadsheet rating values.
-        # These tiers are specific to the Aegis community's boss-damage taxonomy.
-        rank_translations = {
-            "1": "Meta-Defining",
-            "2": "Situational",
-            "3": "Extremely Niche",
-            "4": "Not Meta, Worse Alternative"
-        }
+        # Load rank translations from config.yaml so sheet authors can adjust
+        # tiers without code changes. Falls back to empty dict if config missing.
+        rank_translations = self.config.get("rank_mappings", {}).get("aegis_boss-damage", {})
 
         self.logger.info(f"⚙️ Compiling records loop matrix from target asset: {file_path}")
         for row in rows:

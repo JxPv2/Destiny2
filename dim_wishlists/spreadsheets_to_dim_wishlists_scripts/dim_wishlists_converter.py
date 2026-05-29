@@ -18,6 +18,11 @@ from pipeline_utils import (
     PipelineIndentedFormatter,
     save_json_file,
     setup_root_console_logging,
+    IndentAdapter,
+    DuplicateInfoFilter,
+    setup_module_logger,
+    load_config,
+    ensure_spreadsheet_state,
     CONFIG_FILE,
 )
 
@@ -50,61 +55,13 @@ custom_formatter = PipelineIndentedFormatter(fmt=LOG_LAYOUT)
 # =============================================================================
 # FILTER: Duplicate specific INFO records to warnings log for context
 # =============================================================================
-class DuplicateInfoFilter(logging.Filter):
-    """
-    Duplicates specific INFO records to a secondary handler.
-    Passes through WARNING+ records normally.
-
-    Why this exists:
-        The warnings log is a lean file that operators can tail to see only
-        problems. However, warnings without surrounding context (e.g., which
-        spreadsheet was being processed when the warning fired) are hard to
-        debug. This filter copies select high-level INFO lines (banners, stage
-        transitions) into the warnings log so every warning is self-contained.
-    """
-    def __init__(self, target_handler, keywords=None):
-        super().__init__()
-        self.target_handler = target_handler
-        self.keywords = keywords or []
-
-    def filter(self, record):
-        # Always pass through to the primary handler (return True).
-        # Additionally, if this is an INFO record whose message contains one
-        # of the contextual keywords, forward a copy to the warnings handler.
-        if record.levelno == logging.INFO:
-            msg_lower = record.getMessage().lower()
-            if any(kw in msg_lower for kw in self.keywords):
-                self.target_handler.handle(record)
-        return True  # Never block the primary handler
-
-# Primary log: everything (INFO and above).
-log_name = os.path.splitext(os.path.basename(__file__))[0] + ".log"
-file_handler = logging.FileHandler(os.path.join(LOG_DIR, log_name), encoding="utf-8")
-file_handler.setFormatter(custom_formatter)
-file_handler.setLevel(logging.INFO)
-
-# Secondary log: warnings and above, plus contextual INFO dupes.
-warnings_log_name = os.path.splitext(os.path.basename(__file__))[0] + "_warnings.log"
-warnings_handler = logging.FileHandler(os.path.join(LOG_DIR, warnings_log_name), encoding="utf-8")
-warnings_handler.setFormatter(custom_formatter)
-warnings_handler.setLevel(logging.WARNING)
-
-# Attach the dupe filter so key INFO lines echo into the warnings file.
-dup_filter = DuplicateInfoFilter(
-    warnings_handler,
-    keywords=["launching", "processing", "parsing nested", "=" * 40]
-)
-file_handler.addFilter(dup_filter)
-
 # Module logger: isolated from root noise, dual-file output.
-logger = logging.getLogger("WishlistGenerator")
-logger.setLevel(logging.INFO)
-
-if logger.hasHandlers():
-    logger.handlers.clear()
-
-logger.addHandler(file_handler)
-logger.addHandler(warnings_handler)
+logger = setup_module_logger(
+    "dim_wishlists_converter",
+    LOG_DIR,
+    warnings_log=True,
+    dupe_keywords=["launching", "processing", "parsing nested", "=" * 80]
+)
 
 # =============================================================================
 # LoggerAdapters for hierarchical indentation
@@ -112,16 +69,6 @@ logger.addHandler(warnings_handler)
 # IndentAdapter injects an "indent" key into the LogRecord's extra dict.
 # PipelineIndentedFormatter reads this key and prepends spaces so nested
 # output (workbook -> weapon -> perk) is visually scannable.
-class IndentAdapter(logging.LoggerAdapter):
-    def __init__(self, logger, indent_level):
-        super().__init__(logger, {})
-        self.indent_level = indent_level
-
-    def process(self, msg, kwargs):
-        extra = kwargs.setdefault("extra", {})
-        extra["indent"] = self.indent_level
-        return msg, kwargs
-
 # Three indentation tiers for the three nesting levels in execute_pipeline():
 #   workbook_logger  -> workbook name banner (2 spaces)
 #   details_logger   -> per-weapon results    (3 spaces)
@@ -153,15 +100,10 @@ class DIMWishlistGenerator:
         contains lowercase cleaned names; any match in generate_item_wishlist()
         skips the pool-membership check.
         """
-        try:
-            with open(CONFIG_FILE, "r", encoding="utf-8") as f:
-                config = yaml.safe_load(f) or {}
-            items = config.get("ignore_manifest_perk_pool", [])
-            # Normalize to lowercase for case-insensitive matching.
-            return {item.strip().lower() for item in items if isinstance(item, str)}
-        except Exception as e:
-            logger.warning(f"Could not load ignore_manifest_perk_pool from config: {e}")
-            return set()
+        config = load_config()
+        items = config.get("ignore_manifest_perk_pool", [])
+        # Normalize to lowercase for case-insensitive matching.
+        return {item.strip().lower() for item in items if isinstance(item, str)}
 
     def _clean(self, text):
         """
@@ -324,6 +266,11 @@ class DIMWishlistGenerator:
 
         Returns:
             (block_dict, matched_key, parent_node_name) or (None, filename_key, None)
+
+        NOTE: matched_key is for READ-ONLY lookups (checking flags). For any
+        state MUTATIONS (setting/clearing flags), always use clean_short_name
+        derived from filename_key so that both wishlist_update_required and
+        wishlist_split_required live on the same canonical spreadsheet key.
         """
         possible_keys = [
             filename_key,
@@ -355,12 +302,7 @@ class DIMWishlistGenerator:
         Tags appear in the wishlist as "//notes: ... | tags: <tags>" so DIM
         users can see which community sheet recommended each roll.
         """
-        try:
-            with open(CONFIG_FILE, "r", encoding="utf-8") as f:
-                config = yaml.safe_load(f) or {}
-        except Exception:
-            return ""
-
+        config = load_config()
         ss_config = config.get("spreadsheets", {}).get(spreadsheet_key, {})
         ss_tags = ss_config.get("tags", "")
 
@@ -814,26 +756,25 @@ class DIMWishlistGenerator:
                 # it skips the source entirely.
                 # We use clean_short_name as the key because that matches the
                 # config_source_spreadsheet values in the splitter's YAML config.
-                if "spreadsheets" not in state:
-                    state["spreadsheets"] = {}
-                if clean_short_name not in state["spreadsheets"]:
-                    state["spreadsheets"][clean_short_name] = {}
+                from pipeline_utils import ensure_spreadsheet_state
+                ensure_spreadsheet_state(state, clean_short_name)
                 state["spreadsheets"][clean_short_name]["wishlist_split_required"] = True
-                logger.info(f"  🏷️  Flagged '{clean_short_name}' for splitter (wishlist_split_required = True)")
+                details_logger.info(f"  🏷️  Flagged '{clean_short_name}' for splitter (wishlist_split_required = True)")
                 state_modified = True
 
                 # Clear the wishlist_update_required flag for this file.
-                if parent_node == "spreadsheets":
-                    state["spreadsheets"][matched_key]["wishlist_update_required"] = False
-                elif matched_key in state and isinstance(state[matched_key], dict):
-                    state[matched_key]["wishlist_update_required"] = False
-                else:
-                    # Auto-create the nested structure if this is the first run.
-                    if matched_key not in state["spreadsheets"]:
-                        state["spreadsheets"][matched_key] = {}
-                    state["spreadsheets"][matched_key]["wishlist_update_required"] = False
+                # We use clean_short_name (not matched_key) to ensure the flag
+                # is cleared at the same key path where the splitter will later
+                # read wishlist_split_required.
+                ensure_spreadsheet_state(state, clean_short_name)
+                state["spreadsheets"][clean_short_name]["wishlist_update_required"] = False
 
                 state_modified = True
+
+                # Verify the file was actually written
+                if not os.path.exists(output_path) or os.path.getsize(output_path) == 0:
+                    logger.error(f"File write verification failed for '{output_path}'")
+                    continue
             else:
                 logger.warning(f"No valid lines could be computed or verified for file setup template: '{json_file}'")
 

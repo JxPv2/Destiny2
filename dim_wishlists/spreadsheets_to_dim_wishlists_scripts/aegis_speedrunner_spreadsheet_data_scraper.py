@@ -120,13 +120,9 @@ class AegisSpeedrunnerScraper(BaseSpreadsheetScraper):
         extracted_weapons = {}
         rows = self._read_file_as_dicts(file_path, skip_rows=0)
 
-        # Human-readable translations for the speedrunner rank taxonomy.
-        rank_translations = {
-            "1": "Best in Role, Must-Have",
-            "2": "Alternate Inferior Pick, Niche",
-            "3": "Situational, Unnecessary",
-            "N/A": "Not Relevant"
-        }
+        # Load rank translations from config.yaml so sheet authors can adjust
+        # tiers without code changes. Falls back to empty dict if config missing.
+        rank_translations = self.config.get("rank_mappings", {}).get("aegis_speedrunner", {})
 
         for row in rows:
             name = row.get("Name")

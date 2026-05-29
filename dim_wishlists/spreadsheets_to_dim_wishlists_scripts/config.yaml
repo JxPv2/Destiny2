@@ -76,11 +76,12 @@ spreadsheets:
     id: "1_5wtBjRYHHxuF4oJKDb_iOGZs-wTkzB6RYbnyNLbuz4"
     tags: "aegis boss-damage pve"
     workbooks:
-      - gid: 1268483240
+      - name: "Changelog"
+        gid: 1268483240
         name: "Changelog"
         tags: ""
-      - gid: 639621230
-        name: "Equipment (WIP)"
+      - name: "Equipment (WIP)"
+        gid: 639621230
         tags: ""
 
   # --------------------------------------------------------------------------
@@ -91,8 +92,9 @@ spreadsheets:
     id: "1is4sNUesy--7Zm6SCCWEP9PAXomxaSj5xlJGCsSj_qs"
     tags: "aegis speedrun pve"
     workbooks:
-      - gid: 0
-        name: "Weapons"
+      - name: "Weapons"
+        gid: 0 
+        tags: ""
 
   # --------------------------------------------------------------------------
   # Spreadsheet: Aegis' Endgame Analysis
@@ -102,81 +104,81 @@ spreadsheets:
     id: "1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY"
     tags: "aegis endgame pve"
     workbooks:
-      - gid: 346832350
-        name: "Status"
+      - name: "Status"
+        gid: 346832350
         tags: ""
-      - gid: 1439671777
-        name: "Changelog"
+      - name: "Changelog"
+        gid: 1439671777
         tags: ""
-      - gid: 1062099834
-        name: "Shopping List"
+      - name: "Shopping List"
+        gid: 1062099834
         tags: ""
-      - gid: 1890042119
-        name: "Autos"
+      - name: "Autos"
+        gid: 1890042119
         tags: ""
-      - gid: 324500912
-        name: "Bows"
+      - name: "Bows"
+        gid: 324500912
         tags: ""
-      - gid: 1315046624
-        name: "HCs"
+      - name: "HCs"
+        gid: 1315046624
         tags: ""
-      - gid: 1712537582
-        name: "Pulses"
+      - name: "Pulses"
+        gid: 1712537582
         tags: ""
-      - gid: 946843299
-        name: "Scouts"
+      - name: "Scouts"
+        gid: 946843299
         tags: ""
-      - gid: 1594008157
-        name: "Sidearms"
+      - name: "Sidearms"
+        gid: 1594008157
         tags: ""
-      - gid: 1405969509
-        name: "SMGs"
+      - name: "SMGs"
+        gid: 1405969509
         tags: ""
-      - gid: 657764751
-        name: "BGLs"
+      - name: "BGLs"
+        gid: 657764751
         tags: ""
-      - gid: 1318165198
-        name: "Fusions"
+      - name: "Fusions"
+        gid: 1318165198
         tags: ""
-      - gid: 1239299765
-        name: "Glaives"
+      - name: "Glaives"
+        gid: 1239299765
         tags: ""
-      - gid: 1595979957
-        name: "Shotguns"
+      - name: "Shotguns"
+        gid: 1595979957
         tags: ""
-      - gid: 1090554564
-        name: "Snipers"
+      - name: "Snipers"
+        gid: 1090554564
         tags: ""
-      - gid: 550485113
-        name: "Rocket Sidearms"
+      - name: "Rocket Sidearms"
+        gid: 550485113
         tags: ""
-      - gid: 288998351
-        name: "Traces"
+      - name: "Traces"
+        gid: 288998351
         tags: ""
-      - gid: 439751986
-        name: "HGLs"
+      - name: "HGLs"
+        gid: 439751986
         tags: ""
-      - gid: 29008106
-        name: "LFRs"
+      - name: "LFRs"
+        gid: 29008106
         tags: ""
-      - gid: 1919916707
-        name: "LMGs"
+      - name: "LMGs"
+        gid: 1919916707
         tags: ""
-      - gid: 981030684
-        name: "Rockets"
+      - name: "Rockets"
+        gid: 981030684
         tags: ""
-      - gid: 473850359
-        name: "Swords"
+      - name: "Swords"
+        gid: 473850359
         tags: ""
-      - gid: 266663572
-        name: "Other"
+      - name: "Other"
+        gid: 266663572
         tags: ""
-      - gid: 1789798057
-        name: "Exotic Weapons"
+      - name: "Exotic Weapons"
+        gid: 1789798057  
         tags: ""
         use_xlsx: true
-      - gid: 1087089423
-        name: "Exotic Armor (ignore)"
+      - name: "Exotic Armor (ignore)"
+        gid: 1087089423
         tags: ""
 
 # ==============================================================================
@@ -192,6 +194,51 @@ ignore_manifest_perk_pool:
   - "Stoicism"
   - "Solipsism"
   - "Ergo Sum"
+
+# ==============================================================================
+# SECTION 3.5: RANK TRANSLATION TABLES
+# ==============================================================================
+# Community spreadsheets use numeric or symbolic ranks that need to be
+# translated into human-readable strings for DIM wishlist notes.
+# Each mapping is keyed by the spreadsheet logical name.
+# ==============================================================================
+
+rank_mappings:
+  # --------------------------------------------------------------------------
+  # Aegis' Boss Damage — numeric 1-4
+  # --------------------------------------------------------------------------
+  aegis_boss-damage:
+    "1": "Meta-Defining"
+    "2": "Situational"
+    "3": "Extremely Niche"
+    "4": "Not Meta, Worse Alternative"
+
+  # --------------------------------------------------------------------------
+  # Aegis' Speedrunner — numeric 1-3 + N/A
+  # --------------------------------------------------------------------------
+  aegis_speedrunner:
+    "1": "Best in Role, Must-Have"
+    "2": "Alternate Inferior Pick, Niche"
+    "3": "Situational, Unnecessary"
+    "N/A": "Not Relevant"
+
+  # --------------------------------------------------------------------------
+  # Aegis' Endgame — Exotic tier symbols
+  # --------------------------------------------------------------------------
+  aegis_endgame_exotic:
+    "✔": "Optimal"
+    "▲": "Viable"
+    "!": "Situational"
+    "✖": "Wasted"
+
+  # --------------------------------------------------------------------------
+  # Aegis' Endgame — Exotic type symbols
+  # --------------------------------------------------------------------------
+  aegis_endgame_exotic_type:
+    "N": "Neutral"
+    "S": "Swap"
+    "H": "Hybrid"
+    "M": "Movement"
 
 # ==============================================================================
 # SECTION 4: MANIFEST FILTERS

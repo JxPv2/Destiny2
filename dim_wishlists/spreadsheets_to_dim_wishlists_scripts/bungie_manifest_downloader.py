@@ -19,6 +19,8 @@ from pipeline_utils import (
     setup_root_console_logging,
     load_json_file,
     save_json_file,
+    setup_module_logger,
+    ensure_manifest_state,
     CONFIG_FILE,
 )
 
@@ -40,25 +42,7 @@ os.makedirs(LOG_DIR, exist_ok=True)
 # ==============================================================================
 # Create a dedicated logger for this module. We isolate it from the root logger
 # so other libraries' noise does not pollute our manifest-specific log files.
-logger = logging.getLogger("ManifestDownloader")
-logger.setLevel(logging.INFO)
-
-# Defensive reset: if this module is re-imported (e.g., in a notebook or
-# interactive session), wipe old handlers to avoid duplicate log lines.
-if logger.hasHandlers():
-    logger.handlers.clear()
-
-# Layout string used by SmartIndentFormatter. The formatter preserves the
-# timestamp and level while visually indenting continuation lines so nested
-# error tracebacks remain readable in the log file.
-LOG_LAYOUT = "%(asctime)s [%(levelname)s] -> %(message)s"
-custom_formatter = SmartIndentFormatter(fmt=LOG_LAYOUT)
-
-# Derive the log filename from the script name (e.g., bungie_manifest_downloader.log).
-log_name = os.path.splitext(os.path.basename(__file__))[0] + ".log"
-file_handler = logging.FileHandler(os.path.join(LOG_DIR, log_name), encoding="utf-8")
-file_handler.setFormatter(custom_formatter)
-logger.addHandler(file_handler)
+logger = setup_module_logger("bungie_manifest_downloader", LOG_DIR)
 
 # ==============================================================================
 # SECTION 3: CONSTANTS
@@ -95,18 +79,15 @@ def execute_manifest_download():
     # --------------------------------------------------------------------------
     # Phase 0: Banner & state hydration
     # --------------------------------------------------------------------------
-    logger.info("=" * 50)
+    logger.info("=" * 80)
     logger.info("🚀 Initializing Destiny 2 Live Manifest Downloader...")
-    logger.info("=" * 50)
+    logger.info("=" * 80)
 
     # Load the shared state file. If it does not exist yet, seed it with the
     # expected top-level keys so downstream code never has to check for KeyError.
     state = load_json_file(STATE_FILE, lambda: {"bungie_manifest": {}, "spreadsheets": {}})
 
-    # Guard against legacy state files that might only contain spreadsheet keys.
-    if "bungie_manifest" not in state:
-        state["bungie_manifest"] = {}
-    manifest_state = state["bungie_manifest"]
+    manifest_state = ensure_manifest_state(state)
 
     # These two booleans drive the entire flow. They are set by other scripts
     # (e.g., after a spreadsheet update or a version mismatch detection).

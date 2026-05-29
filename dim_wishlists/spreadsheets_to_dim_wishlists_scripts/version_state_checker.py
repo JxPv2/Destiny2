@@ -23,6 +23,11 @@ from pipeline_utils import (
     load_json_file,
     save_json_file,
     get_current_timestamp,
+    IndentAdapter,
+    setup_module_logger,
+    load_config,
+    ensure_spreadsheet_state,
+    ensure_manifest_state,
     CONFIG_FILE,
 )
 
@@ -44,19 +49,7 @@ os.makedirs(LOG_DIR, exist_ok=True)
 # transitions (spreadsheet processing banners) and network retry warnings.
 # Per-workbook detail is emitted through IndentAdapter loggers for visual
 # hierarchy.
-logger = logging.getLogger("VersionChecker")
-logger.setLevel(logging.INFO)
-
-# Defensive reset: survive reloads in long-running scheduler processes.
-if logger.hasHandlers():
-    logger.handlers.clear()
-
-formatter = SmartIndentFormatter("%(asctime)s [%(levelname)s] -> %(message)s")
-
-log_name = os.path.splitext(os.path.basename(__file__))[0] + ".log"
-file_handler = logging.FileHandler(os.path.join(LOG_DIR, log_name), encoding="utf-8")
-file_handler.setFormatter(formatter)
-logger.addHandler(file_handler)
+logger = setup_module_logger("version_state_checker", LOG_DIR)
 
 # ==============================================================================
 # LoggerAdapters for hierarchical indentation
@@ -64,16 +57,6 @@ logger.addHandler(file_handler)
 # These adapters inject an "indent" key into the LogRecord extra dict.
 # SmartIndentFormatter reads this key and prepends spaces so nested output
 # (spreadsheet -> workbook -> download attempt) is visually scannable.
-class IndentAdapter(logging.LoggerAdapter):
-    def __init__(self, logger, indent_level):
-        super().__init__(logger, {})
-        self.indent_level = indent_level
-
-    def process(self, msg, kwargs):
-        extra = kwargs.setdefault("extra", {})
-        extra["indent"] = self.indent_level
-        return msg, kwargs
-
 # Two indentation tiers:
 #   section_logger -> spreadsheet-level banners (2 spaces).
 #   detail_logger  -> per-workbook download results (4 spaces).
@@ -508,9 +491,9 @@ def process_checks():
         Using 4 concurrent workers keeps total runtime under ~30 seconds even
         for spreadsheets with 20+ tabs, without hitting Google's rate limit.
     """
-    logger.info("=" * 50)
+    logger.info("=" * 80)
     logger.info("🚀 Starting version check and synchronization loop...")
-    logger.info("=" * 50)
+    logger.info("=" * 80)
 
     # Guard: config.yaml is mandatory. Without it we do not know which sheets
     # to poll or which Bungie API key to use.
@@ -528,10 +511,7 @@ def process_checks():
     # structure so downstream code never has to check for missing top-level keys.
     state = load_json_file(STATE_FILE, lambda: {"spreadsheets": {}, "bungie_manifest": {}})
 
-    if "spreadsheets" not in state:
-        state["spreadsheets"] = {}
-    if "bungie_manifest" not in state:
-        state["bungie_manifest"] = {}
+    ensure_manifest_state(state)
 
     # ------------------------------------------------------------------
     # Bungie Manifest version check
@@ -580,14 +560,9 @@ def process_checks():
         section_logger.info(f"Processing spreadsheet engine resource target profile: '{ss_key}'")
 
         # Auto-create the spreadsheet entry in state if this is the first run.
-        if ss_key not in state["spreadsheets"]:
-            state["spreadsheets"][ss_key] = {"wishlist_update_required": False, "workbooks": {}}
+        ss_state = ensure_spreadsheet_state(state, ss_key)
 
-        ss_state = state["spreadsheets"][ss_key]
 
-        # Ensure the wishlist flag key exists (first-run safety).
-        if "wishlist_update_required" not in ss_state:
-            ss_state["wishlist_update_required"] = False
 
         # ------------------------------------------------------------------
         # Parallel workbook processing
@@ -602,25 +577,50 @@ def process_checks():
                 for wb in workbooks
             }
 
-            # as_completed() yields results in the order they finish, not the
-            # order they were submitted. This keeps the log output responsive.
+            # Collect results from futures. as_completed() yields in finish order,
+            # so we buffer into a dict instead of writing directly to state.
+            results = {}
+            any_changed = False
             for future in as_completed(future_to_wb):
                 config_name, updated_entry, changed = future.result()
-
                 if updated_entry is not None:
-                    # Commit the updated state entry for this workbook.
-                    ss_state["workbooks"][config_name] = updated_entry
-
-                    # If any workbook in this spreadsheet changed, the entire
-                    # spreadsheet's wishlist is stale (we cannot easily map
-                    # which weapon came from which tab without re-scraping all).
+                    results[config_name] = updated_entry
                     if changed:
-                        ss_state["wishlist_update_required"] = True
+                        any_changed = True
+
+            # Rebuild workbooks dict in config order so the JSON state file
+            # preserves the same ordering as config.yaml.
+            ordered_workbooks = {}
+            for wb in workbooks:
+                config_name = wb.get("name")
+                if config_name in results:
+                    ordered_workbooks[config_name] = results[config_name]
+                elif config_name in ss_state["workbooks"]:
+                    # Preserve existing entry if download failed
+                    ordered_workbooks[config_name] = ss_state["workbooks"][config_name]
+            ss_state["workbooks"] = ordered_workbooks
+
+            if any_changed:
+                ss_state["wishlist_update_required"] = True
 
     # ------------------------------------------------------------------
     # Final state commit
     # ------------------------------------------------------------------
-    section_logger.info("=" * 50)
+    section_logger.info("=" * 80)
+
+    # ------------------------------------------------------------------
+    # Stale entry cleanup
+    # ------------------------------------------------------------------
+    configured_sheets = set(config.get("spreadsheets", {}).keys())
+    for ss_key in list(state.get("spreadsheets", {}).keys()):
+        if ss_key not in configured_sheets:
+            del state["spreadsheets"][ss_key]
+            continue
+        configured_workbooks = {wb.get("name") for wb in config.get("spreadsheets", {}).get(ss_key, {}).get("workbooks", [])}
+        stale_workbooks = [wb for wb in state["spreadsheets"][ss_key].get("workbooks", {}).keys() if wb not in configured_workbooks]
+        for wb in stale_workbooks:
+            del state["spreadsheets"][ss_key]["workbooks"][wb]
+
     section_logger.info("Synchronization check complete. Pipeline gating flags successfully set.")
 
     # Atomic(ish) write via pipeline_utils helper.

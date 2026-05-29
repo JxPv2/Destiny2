@@ -227,13 +227,10 @@ class AegisEndgameScraper(BaseSpreadsheetScraper):
 
         rows = self._read_file_as_dicts(file_path, skip_rows=skip_rows)
 
-        # Translation tables for the symbolic shorthand used by sheet authors.
-        tier_translations = {
-            "✔": "Optimal", "▲": "Viable", "!": "Situational", "✖": "Wasted"
-        }
-        type_translations = {
-            "N": "Neutral", "S": "Swap", "H": "Hybrid", "M": "Movement"
-        }
+        # Load translation tables from config.yaml so sheet authors can adjust
+        # symbols without code changes. Falls back to empty dict if config missing.
+        tier_translations = self.config.get("rank_mappings", {}).get("aegis_endgame_exotic", {})
+        type_translations = self.config.get("rank_mappings", {}).get("aegis_endgame_exotic_type", {})
 
         for row in rows:
             # Enforce clean lowercase key maps to normalize BOM inconsistencies.
