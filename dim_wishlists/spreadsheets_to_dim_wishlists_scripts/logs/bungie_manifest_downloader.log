@@ -194,3 +194,7 @@
 2026-06-05 11:19:18,260 [INFO] -> 🚀 Initializing Destiny 2 Live Manifest Downloader...
 2026-06-05 11:19:18,260 [INFO] -> ================================================================================
   2026-06-05 11:19:18,260 [INFO] -> 🟩 Manifest state up to date. No fresh database download required. Exiting pipeline stage.
+2026-06-05 17:48:15,007 [INFO] -> ================================================================================
+2026-06-05 17:48:15,007 [INFO] -> 🚀 Initializing Destiny 2 Live Manifest Downloader...
+2026-06-05 17:48:15,007 [INFO] -> ================================================================================
+  2026-06-05 17:48:15,007 [INFO] -> 🟩 Manifest state up to date. No fresh database download required. Exiting pipeline stage.
