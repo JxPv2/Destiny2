@@ -6,7 +6,7 @@
       "patch": "Pantheon 2.0"
     },
     "link": "https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY",
-    "scrape_date": "2026-06-10 02:38:05"
+    "scrape_date": "2026-06-10 11:32:05"
   },
   "workbooks": {
     "Shopping List": {
@@ -7369,6 +7369,54 @@
           }
         }
       },
+      "Trust": {
+        "weapon_name": "Trust",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Flared Magwell",
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Firefly"
+          ],
+          "perk2": [
+            "Incandescent",
+            "Dragonfly",
+            "Explosive Payload"
+          ],
+          "origin_trait": [
+            "Gun and Run"
+          ]
+        },
+        "info": {
+          "rank": "22",
+          "tier": "A",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Firefly + decent splash options, good frame",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
       "Fatebringer": {
         "weapon_name": "Fatebringer",
         "version": "",
@@ -7394,7 +7442,7 @@
           ]
         },
         "info": {
-          "rank": "22",
+          "rank": "23",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -7442,7 +7490,7 @@
           ]
         },
         "info": {
-          "rank": "23",
+          "rank": "24",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -7452,6 +7500,54 @@
           "usage": "",
           "source": "",
           "notes": "held back by awful reload with Void combo",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Seventh Seraph Officer Revolver": {
+        "weapon_name": "Seventh Seraph Officer Revolver",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Flared Magwell",
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Bewildering Burst",
+            "Shoot to Loot"
+          ],
+          "perk2": [
+            "Redirection",
+            "Explosive Payload"
+          ],
+          "origin_trait": [
+            "Eyes Up"
+          ]
+        },
+        "info": {
+          "rank": "25",
+          "tier": "B",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "very good StL + EP kinetic option, not much else though",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -7490,7 +7586,7 @@
           ]
         },
         "info": {
-          "rank": "24",
+          "rank": "26",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -7539,7 +7635,7 @@
           ]
         },
         "info": {
-          "rank": "25",
+          "rank": "27",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -7588,7 +7684,7 @@
           ]
         },
         "info": {
-          "rank": "26",
+          "rank": "28",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -7634,7 +7730,7 @@
           ]
         },
         "info": {
-          "rank": "27",
+          "rank": "29",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -7683,7 +7779,7 @@
           ]
         },
         "info": {
-          "rank": "28",
+          "rank": "30",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -7720,16 +7816,18 @@
             "Tactical Mag"
           ],
           "perk1": [
+            "Headstone",
+            "Rimestealer",
             "Shoot to Loot"
           ],
           "perk2": [
-            "Explosive Payload",
-            "Headstone"
+            "Crystalline Corpsebloom",
+            "Explosive Payload"
           ],
           "origin_trait": []
         },
         "info": {
-          "rank": "29",
+          "rank": "31",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -7777,7 +7875,7 @@
           ]
         },
         "info": {
-          "rank": "30",
+          "rank": "32",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -7825,7 +7923,7 @@
           ]
         },
         "info": {
-          "rank": "31",
+          "rank": "33",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -7835,6 +7933,54 @@
           "usage": "",
           "source": "",
           "notes": "similar to Crimil's but Incandescent for worse origin",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Spare Rations": {
+        "weapon_name": "Spare Rations",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Flared Magwell",
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Firefly",
+            "Crystalline Corpsebloom"
+          ],
+          "perk2": [
+            "Explosive Payload",
+            "Desperate Measures"
+          ],
+          "origin_trait": [
+            "Gun and Run"
+          ]
+        },
+        "info": {
+          "rank": "34",
+          "tier": "C",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "if only Crystalline was in 2nd column, otherwise just Fatebringer roll",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -7869,7 +8015,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "32",
+          "rank": "35",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -7915,7 +8061,7 @@
           ]
         },
         "info": {
-          "rank": "33",
+          "rank": "36",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -7962,7 +8108,7 @@
           ]
         },
         "info": {
-          "rank": "34",
+          "rank": "37",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -8010,7 +8156,7 @@
           ]
         },
         "info": {
-          "rank": "35",
+          "rank": "38",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -8020,55 +8166,6 @@
           "usage": "",
           "source": "",
           "notes": "pretty mediocre perks in both columns",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Trust": {
-        "weapon_name": "Trust",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel"
-          ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Rapid Hit",
-            "Stats for All"
-          ],
-          "perk2": [
-            "Incandescent",
-            "Dragonfly",
-            "Explosive Payload"
-          ],
-          "origin_trait": [
-            "Gun and Run"
-          ]
-        },
-        "info": {
-          "rank": "36",
-          "tier": "C",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "single splash + solid reload perks and archetype, mediocre origin",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -8107,7 +8204,7 @@
           ]
         },
         "info": {
-          "rank": "37",
+          "rank": "39",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -8155,7 +8252,7 @@
           ]
         },
         "info": {
-          "rank": "38",
+          "rank": "40",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -8192,18 +8289,18 @@
           ],
           "perk1": [
             "Explosive Payload",
-            "Recycled Energy"
+            "Collective Demolition"
           ],
           "perk2": [
             "Rolling Storm",
-            "Desperate Measures"
+            "Master of Arms"
           ],
           "origin_trait": [
             "Wild Card"
           ]
         },
         "info": {
-          "rank": "39",
+          "rank": "41",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -8252,7 +8349,7 @@
           ]
         },
         "info": {
-          "rank": "40",
+          "rank": "42",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -8300,7 +8397,7 @@
           ]
         },
         "info": {
-          "rank": "41",
+          "rank": "43",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -8348,7 +8445,7 @@
           ]
         },
         "info": {
-          "rank": "42",
+          "rank": "44",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -8397,7 +8494,7 @@
           ]
         },
         "info": {
-          "rank": "43",
+          "rank": "45",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -8442,7 +8539,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "44",
+          "rank": "46",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -8490,7 +8587,7 @@
           ]
         },
         "info": {
-          "rank": "45",
+          "rank": "47",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -8514,8 +8611,8 @@
           }
         }
       },
-      "Spare Rations": {
-        "weapon_name": "Spare Rations",
+      "Solemn Lie": {
+        "weapon_name": "Solemn Lie",
         "version": "",
         "perks": {
           "column1": [
@@ -8526,18 +8623,15 @@
             "Alloy Magazine"
           ],
           "perk1": [
-            "Rapid Hit"
+            "Trickle Charge"
           ],
           "perk2": [
-            "Kinetic Tremors",
-            "Kill Clip"
+            "Rolling Storm"
           ],
-          "origin_trait": [
-            "Disaster Plan"
-          ]
+          "origin_trait": []
         },
         "info": {
-          "rank": "46",
+          "rank": "48",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -8546,7 +8640,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "KT not great on HCs but not terrible",
+          "notes": "okay frame but very limited perks and no origin",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -8584,7 +8678,7 @@
           ]
         },
         "info": {
-          "rank": "47",
+          "rank": "49",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -8594,6 +8688,55 @@
           "usage": "",
           "source": "",
           "notes": "Destabilizing access but mediocre reload perk and bad archetype",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "True Prophecy": {
+        "weapon_name": "True Prophecy",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Flared Magwell",
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Light Touch",
+            "Trickle Charge"
+          ],
+          "perk2": [
+            "Explosive Payload",
+            "Jolting Feedback",
+            "Dragonfly"
+          ],
+          "origin_trait": [
+            "Fail-deadly"
+          ]
+        },
+        "info": {
+          "rank": "50",
+          "tier": "D",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "mediocre 1st column, bad frame, only EP for HC perks",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -8630,7 +8773,7 @@
           ]
         },
         "info": {
-          "rank": "48",
+          "rank": "51",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -8678,7 +8821,7 @@
           ]
         },
         "info": {
-          "rank": "49",
+          "rank": "52",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -8688,6 +8831,54 @@
           "usage": "",
           "source": "",
           "notes": "origin decent but rest of package not that appealing",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Survivor's Epitaph": {
+        "weapon_name": "Survivor's Epitaph",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Flared Magwell",
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Rapid Hit"
+          ],
+          "perk2": [
+            "Explosive Payload",
+            "Frenzy",
+            "One for All"
+          ],
+          "origin_trait": [
+            "Accelerated Assault"
+          ]
+        },
+        "info": {
+          "rank": "53",
+          "tier": "E",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "reload perk + Frenzy",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -8724,7 +8915,7 @@
           ]
         },
         "info": {
-          "rank": "50",
+          "rank": "54",
           "tier": "E",
           "priority": "",
           "role": "",
@@ -8773,7 +8964,7 @@
           ]
         },
         "info": {
-          "rank": "51",
+          "rank": "55",
           "tier": "E",
           "priority": "",
           "role": "",
@@ -8821,7 +9012,7 @@
           ]
         },
         "info": {
-          "rank": "52",
+          "rank": "56",
           "tier": "E",
           "priority": "",
           "role": "",
@@ -8868,7 +9059,7 @@
           ]
         },
         "info": {
-          "rank": "53",
+          "rank": "57",
           "tier": "E",
           "priority": "",
           "role": "",
@@ -8878,52 +9069,6 @@
           "usage": "",
           "source": "",
           "notes": "reload perk + splash/EP/TP",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "True Prophecy": {
-        "weapon_name": "True Prophecy",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fastdraw HCS"
-          ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Grave Robber",
-            "Field Prep"
-          ],
-          "perk2": [
-            "Explosive Payload",
-            "Timed Payload"
-          ],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "54",
-          "tier": "E",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "reload perk + EP/TP",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -8959,7 +9104,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "55",
+          "rank": "58",
           "tier": "E",
           "priority": "",
           "role": "",
@@ -8969,54 +9114,6 @@
           "usage": "",
           "source": "",
           "notes": "reload perk + splash/EP/TP",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Seventh Seraph Officer Revolver": {
-        "weapon_name": "Seventh Seraph Officer Revolver",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel"
-          ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Reconstruction",
-            "Fourth Time's the Charm"
-          ],
-          "perk2": [
-            "Vorpal Weapon",
-            "Redirection"
-          ],
-          "origin_trait": [
-            "Rasputin's Arsenal"
-          ]
-        },
-        "info": {
-          "rank": "56",
-          "tier": "F",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "no reload boost + no consistent damage perk",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -9055,7 +9152,7 @@
           ]
         },
         "info": {
-          "rank": "57",
+          "rank": "59",
           "tier": "F",
           "priority": "",
           "role": "",
@@ -9065,53 +9162,6 @@
           "usage": "",
           "source": "",
           "notes": "reload perk + dated damage perks",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Survivor's Epitaph": {
-        "weapon_name": "Survivor's Epitaph",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel"
-          ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Rapid Hit"
-          ],
-          "perk2": [
-            "Frenzy",
-            "One for All"
-          ],
-          "origin_trait": [
-            "One Quiet Moment"
-          ]
-        },
-        "info": {
-          "rank": "58",
-          "tier": "F",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "reload perk + Frenzy",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -9149,7 +9199,7 @@
           ]
         },
         "info": {
-          "rank": "59",
+          "rank": "60",
           "tier": "F",
           "priority": "",
           "role": "",
@@ -9193,7 +9243,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "60",
+          "rank": "61",
           "tier": "F",
           "priority": "",
           "role": "",
@@ -9241,7 +9291,7 @@
           ]
         },
         "info": {
-          "rank": "61",
+          "rank": "62",
           "tier": "F",
           "priority": "",
           "role": "",
@@ -9287,7 +9337,7 @@
           ]
         },
         "info": {
-          "rank": "62",
+          "rank": "63",
           "tier": "F",
           "priority": "",
           "role": "",
@@ -9331,7 +9381,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "63",
+          "rank": "64",
           "tier": "F",
           "priority": "",
           "role": "",
@@ -9375,7 +9425,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "64",
+          "rank": "65",
           "tier": "F",
           "priority": "",
           "role": "",
@@ -9421,7 +9471,7 @@
           ]
         },
         "info": {
-          "rank": "65",
+          "rank": "66",
           "tier": "F",
           "priority": "",
           "role": "",
@@ -35639,6 +35689,56 @@
           }
         }
       },
+      "Night Terror": {
+        "weapon_name": "Night Terror",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Jagged Edge",
+            "Tempered Edge"
+          ],
+          "column2": [
+            "Swordmaster's Guard",
+            "Heavy Guard"
+          ],
+          "perk1": [
+            "Relentless Strikes",
+            "Eager Edge"
+          ],
+          "perk2": [
+            "Aggregate Charge",
+            "Elemental Honing",
+            "Whirlwind Blade"
+          ],
+          "origin_trait": [
+            "Loss"
+          ]
+        },
+        "info": {
+          "rank": "16",
+          "tier": "A",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "standard good damage perks with Eager light option",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
       "Abide the Return": {
         "weapon_name": "Abide the Return",
         "version": "",
@@ -35665,7 +35765,7 @@
           ]
         },
         "info": {
-          "rank": "16",
+          "rank": "17",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -35715,7 +35815,7 @@
           ]
         },
         "info": {
-          "rank": "17",
+          "rank": "18",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -35766,7 +35866,7 @@
           ]
         },
         "info": {
-          "rank": "18",
+          "rank": "19",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -35812,7 +35912,7 @@
           ]
         },
         "info": {
-          "rank": "19",
+          "rank": "20",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -35860,7 +35960,7 @@
           ]
         },
         "info": {
-          "rank": "20",
+          "rank": "21",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -35909,7 +36009,7 @@
           ]
         },
         "info": {
-          "rank": "21",
+          "rank": "22",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -35959,7 +36059,7 @@
           ]
         },
         "info": {
-          "rank": "22",
+          "rank": "23",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -36008,7 +36108,7 @@
           ]
         },
         "info": {
-          "rank": "23",
+          "rank": "24",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -36053,7 +36153,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "24",
+          "rank": "25",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -36101,7 +36201,7 @@
           ]
         },
         "info": {
-          "rank": "25",
+          "rank": "26",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -36127,52 +36227,6 @@
       },
       "Negative Space": {
         "weapon_name": "Negative Space",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Jagged Edge",
-            "Tempered Edge"
-          ],
-          "column2": [
-            "Swordmaster's Guard",
-            "Heavy Guard"
-          ],
-          "perk1": [
-            "Relentless Strikes"
-          ],
-          "perk2": [
-            "Surrounded",
-            "Whirlwind Blade"
-          ],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "26",
-          "tier": "B",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "Relentless + Whirlwind/Surrounded adaptive core",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Night Terror": {
-        "weapon_name": "Night Terror",
         "version": "",
         "perks": {
           "column1": [

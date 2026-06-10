@@ -95,59 +95,61 @@ Sharp Harvest
 Collective Demolition","Destabilizing Rounds
 Whirlwind Blade
 Eager Edge",One Quiet Moment,Eager caster with opposing utility perks,15,A
+,Night Terror,29,Arc,Caster,20,60,Yes,"Jagged Edge
+Tempered Edge","Swordmaster's Guard
+Heavy Guard","Relentless Strikes
+Eager Edge","Aggregate Charge
+Elemental Honing
+Whirlwind Blade",Loss,standard good damage perks with Eager light option,16,A
 ,Abide the Return,29,Solar,Adaptive,20,60,Yes,"Jagged Edge
 Tempered Edge","Swordmaster's Guard
 Heavy Guard","Relentless Strikes
 Sharp Harvest","Whirlwind Blade
 Elemental Honing
-Eager Edge",Advanced Reflexes,"guard requirement for origin is bad, otherwise standard Eager adaptive",16,A
+Eager Edge",Advanced Reflexes,"guard requirement for origin is bad, otherwise standard Eager adaptive",17,A
 ,The Other Half,15,Void,Adaptive,20,60,Yes,"Jagged Edge
 Tempered Edge","Swordmaster's Guard
 Heavy Guard","Eager Edge
 Relentless Strikes","Surrounded
 Frenzy
-Whirlwind Blade",Hot Swap,good roam option for Eager + Surrounded heavy attacks,17,A
+Whirlwind Blade",Hot Swap,good roam option for Eager + Surrounded heavy attacks,18,A
 ,Eighty-Six,28,Strand,Vortex,20,60,Yes,"Jagged Edge
 Tempered Edge","Swordmaster's Guard
 Heavy Guard","Relentless Strikes
 Sharp Harvest
 Slice","Elemental Honing
 Redirection
-Attrition Orbs",Bray Legacy,"okay perks but worst frame, notable ability regen niche",18,A
+Attrition Orbs",Bray Legacy,"okay perks but worst frame, notable ability regen niche",19,A
 ,Goldtusk,20,Arc,Lightweight,20,60,Yes,"Jagged Edge
-Tempered Edge",Swordmaster's Guard,Relentless Strikes,Whirlwind Blade,Veist Stinger,"interesting frame, arguably most consistent light spammer",19,A
+Tempered Edge",Swordmaster's Guard,Relentless Strikes,Whirlwind Blade,Veist Stinger,"interesting frame, arguably most consistent light spammer",20,A
 ,Temptation's Hook,29,Arc,Caster,50,60,Yes,"Jagged Edge
 Tempered Edge","Swordmaster's Guard
 Heavy Guard","Relentless Strikes
-Attrition Orbs",Whirlwind Blade,Paracausal Fluid,"worse ammo than Ill Omen, no Surrounded, better origin",20,A
+Attrition Orbs",Whirlwind Blade,Paracausal Fluid,"worse ammo than Ill Omen, no Surrounded, better origin",21,A
 TBA,Stryker's Sure-Hand,29,Void,Aggressive,20,73,Yes,"Jagged Edge
 Tempered Edge",Heavy Guard,"Relentless Strikes
 Sharp Harvest","Whirlwind Blade
 Surrounded
-Redirection",Forge's Kin,"good frame for Redirection roam, otherwise normal aggressive",21,A
+Redirection",Forge's Kin,"good frame for Redirection roam, otherwise normal aggressive",22,A
 ,Dragoncult Sickle,29,Strand,Caster,50,60,Yes,"Jagged Edge
 Tempered Edge","Swordmaster's Guard
 Heavy Guard","Eager Edge
 Slice","Whirlwind Blade
 Elemental Honing
-Surrounded",Sundering,"no Relentless, but has Eager and Slice with some damage options",22,B
-,Hero of Ages,29,Arc,Vortex,25,60,Yes,"Jagged Edge
+Surrounded",Sundering,"no Relentless, but has Eager and Slice with some damage options",23,B
+,Hero of Ages,29,Arc,Aggressive,25,60,Yes,"Jagged Edge
 Tempered Edge","Swordmaster's Guard
 Heavy Guard","Relentless Strikes
 Sharp Harvest","Whirlwind Blade
-Elemental Honing",Unburied Treasure,"similar to Crown-Splitter, no Redirection to push A",23,B
+Elemental Honing",Unburied Treasure,"similar to Crown-Splitter, no Redirection to push A",24,B
 ,Crown-Splitter,14,Void,Aggressive,20,73,No,"Jagged Edge
 Tempered Edge",Heavy Guard,Relentless Strikes,"Surrounded
-Whirlwind Blade",None,"consistent light spammer, worse than Goldtusk though",24,B
+Whirlwind Blade",None,"consistent light spammer, worse than Goldtusk though",25,B
 ,Double-Edged Answer,23,Void,Adaptive,20,60,Yes,"Jagged Edge
 Tempered Edge","Swordmaster's Guard
 Heavy Guard",Relentless Strikes,"Surrounded
-Whirlwind Blade",Nadir Focus,Relentless + Whirlwind/Surrounded adaptive core,25,B
+Whirlwind Blade",Nadir Focus,Relentless + Whirlwind/Surrounded adaptive core,26,B
 ,Negative Space,11,Solar,Adaptive,20,60,No,"Jagged Edge
-Tempered Edge","Swordmaster's Guard
-Heavy Guard",Relentless Strikes,"Surrounded
-Whirlwind Blade",None,Relentless + Whirlwind/Surrounded adaptive core,26,B
-,Night Terror,8,Arc,Adaptive,20,60,No,"Jagged Edge
 Tempered Edge","Swordmaster's Guard
 Heavy Guard",Relentless Strikes,"Surrounded
 Whirlwind Blade",None,Relentless + Whirlwind/Surrounded adaptive core,27,B
