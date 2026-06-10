@@ -1,76 +1,92 @@
 WEAPON,,INFO,,,,,PERKS,,,,,ANALYSIS,,
 🖼️,Name,Season,Energy,Frame,Ammo,⬆️,Barrel,Mag,Perk 1,Perk 2,Origin Trait,Notes,Rank,Tier
-,VS Chill Inhibitor,25,Stasis,Rapid,50,Yes,Quick Launch,Spike Grenades,"Envious Arsenal
+,VS Chill Inhibitor,29,Stasis,Rapid,50,Yes,Quick Launch,Spike Grenades,"Envious Arsenal
 Cascade Point
-Attrition Orbs","Bait and Switch
-Explosive Light
+Chill Clip","Aggregate Charge
+Elemental Honing
 Surrounded",Bray Legacy,"almost every possible BiS perk on a heavy GL, origin decent too",1,S
+,"Edge Transit
+BRAVE version",29,Void,Adaptive,38,Yes,Quick Launch,"Spike Grenades
+Sticky Grenades","Envious Arsenal
+Cascade Point
+Chain Reaction","Elemental Honing
+Explosive Light
+Bait and Switch",Indomitability,"has sticky + EL access, also Cascade",2,S
 ,The Ever-Present,27,Strand,Rapid,49,Yes,Quick Launch,"Spike Grenades
 Mini Frags",Envious Arsenal,"Aggregate Charge
 Bait and Switch
-Elemental Honing",Frame of Reference,best non-Cascade + damage perk rapid HGL option,2,S
+Elemental Honing",Frame of Reference,best non-Cascade + damage perk rapid HGL option,3,S
 ,Outrageous Fortune,27,Solar,Rapid,40,Yes,Quick Launch,Spike Grenades,"Envious Arsenal
 Incandescent","Bait and Switch
 Explosive Light
-Chain Reaction",Problem Solver,free exhaust origin + solid damage perks + good archetype,3,S
+Chain Reaction",Problem Solver,free exhaust origin + solid damage perks + good archetype,4,S
+,Love and Death,29,Solar,Compressed Wave,40,Yes,Quick Launch,Spike Grenades,"Envious Arsenal
+Cascade Point
+Impromptu Ammunition","Aggregate Charge
+Elemental Honing
+Chain Reaction",Loss,"great staple perk pool, alt perks for add clear",5,S
+,Canis Major,29,Solar,Rapid,36,Yes,Quick Launch,"Spike Grenades
+Mini Frags","Reconstruction
+Incandescent
+Rampage","Aggregate Charge
+Bait and Switch
+Chain Reaction",Ignoble Deeds,no Envious but has good add clear options for speedrunning stuff,6,A
+TBA,Doomsday,29,Arc,Adaptive,33,Yes,Quick Launch,Spike Grenades,Envious Arsenal,"Bait and Switch
+Explosive Light
+Chain Reaction",Gun and Run,very similar to other top of A adaptives,7,A
 ,Bitter/Sweet,25,Arc,Adaptive,29,Yes,Quick Launch,Spike Grenades,Envious Arsenal,"Bait and Switch
 Cascade Point
-Explosive Light",Dark Ether Reaper,classic Envious/Bait adaptive combo,4,A
+Explosive Light",Dark Ether Reaper,classic Envious/Bait adaptive combo,8,A
 ,Wicked Sister,25,Strand,Adaptive,24,Yes,Quick Launch,Spike Grenades,Envious Arsenal,"Bait and Switch
 Cascade Point
-Explosive Light",Nadir Focus,classic Envious/Bait adaptive combo,5,A
-,"Edge Transit
-BRAVE version",23,Void,Adaptive,38,Yes,Quick Launch,Spike Grenades,"Envious Assassin
-Cascade Point
-Chain Reaction","Bait and Switch
-Explosive Light
-Deconstruct",Indomitability,"Envious Assassin worse than Arsenal, but has sticky + EL access",6,A
+Explosive Light",Nadir Focus,classic Envious/Bait adaptive combo,9,A
 ,Cataphract GL3,28,Strand,Adaptive,55,Yes,Quick Launch,Spike Grenades,"Envious Arsenal
 Auto-Loading Holster","Bait and Switch
-Explosive Light",Roar of Battle,run of the mill Envious/BnS adaptive,7,A
+Explosive Light",Roar of Battle,run of the mill Envious/BnS adaptive,10,A
 ,Koraxis's Distress,20,Strand,Rapid,50,Yes,Quick Launch,"Spike Grenades
 Mini Frags","Envious Assassin
 Reconstruction","Surrounded
 Frenzy
-Full Court",Harmonic Resonance,best Surrounded dump GL,8,B
-,Hullabaloo,26,Arc,Compressed Wave,27,Yes,Quick Launch,High-Velocity Rounds,"Field Prep
+Full Court",Harmonic Resonance,best Surrounded dump GL,11,B
+,Hullabaloo,29,Arc,Compressed Wave,27,Yes,Quick Launch,High-Velocity Rounds,"Field Prep
 Demolitionist
 Voltshot
 ","Chain Reaction
 One for All
-Rolling Storm",Classy Contender,"solid ammo generation perks, underrated add clear archetype",9,B
+Rolling Storm",Classy Contender,"solid ammo generation perks, underrated add clear archetype",12,B
 ,Regnant,20,Void,Adaptive,34,Yes,Quick Launch,Spike Grenades,"Envious Assassin
 Auto-Loading Holster","Cascade Point
-Explosive Light",Noble Deeds,"one of two sticky EL heavy GLs, otherwise unremarkable",10,B
+Explosive Light",Noble Deeds,"one of two sticky EL heavy GLs, otherwise unremarkable",13,B
 ,Dimensional Hypotrochoid,20,Stasis,Compressed Wave,32,Yes,Quick Launch,High-Velocity Rounds,"Field Prep
 Envious Assassin","Chain Reaction
 One for All
-Vorpal Weapon",Nanotech Tracer Missiles,"similar perks to Hullabaloo, decent origin too",11,B
-,Acosmic,25,Void,Rapid,50,Yes,Quick Launch,"Spike Grenades
+Vorpal Weapon",Nanotech Tracer Missiles,"similar perks to Hullabaloo, decent origin too",14,B
+,Acosmic,29,Void,Rapid,50,Yes,Quick Launch,"Spike Grenades
 Mini Frags","Clown Cartridge
 Withering Gaze","Bait and Switch
 Cascade Point
-Explosive Light",Nadir Focus,no really solid DPS reload perk but good otherwise,12,C
+Explosive Light",Nadir Focus,no really solid DPS reload perk but good otherwise,15,C
 ,Marsilion-C,20,Solar,Rapid,30,Yes,Quick Launch,Spike Grenades,Envious Assassin,"Cascade Point
-Full Court",Häkke Breach Armaments,irrelevant due to Cascade in wrong column and no good damage perk,13,C
-,Wendigo GL3,20,Arc,Adaptive,43,No,Quick Launch,Spike Grenades,Auto-Loading Holster,"Cascade Point
-Explosive Light",Vanguard's Vindication,okay for burst but completely outdated,14,C
-,Love and Death,8,Solar,Rapid,40,No,Quick Launch,Spike Grenades,"Auto-Loading Holster
-Clown Cartridge",Full Court,None,no real consistent damage perk,15,D
+Full Court",Häkke Breach Armaments,irrelevant due to Cascade in wrong column and no good damage perk,16,C
+,Wendigo GL3,29,Arc,Adaptive,43,Yes,Quick Launch,Spike Grenades,"Auto-Loading Holster
+Chain Reaction","Cascade Point
+Explosive Light",Problem Solver,okay for burst but completely outdated,17,C
+,Cry Mutiny,29,Solar,Adaptive,48,Yes,Quick Launch,Spike Grenades,"Incandescent
+Blast Distributor
+Demolitionist","Aggregate Charge
+Mega Kill Clip
+Surrounded",Vanguard Determination,strictly for add clear but pretty decent for it,18,D
 ,Swarm of the Raven,21,Void,Rapid,31,No,Quick Launch,Spike Grenades,"Auto-Loading Holster
-Clown Cartridge",Cascade Point,Skulking Wolf,no real consistent damage perk,16,D
+Clown Cartridge",Cascade Point,Skulking Wolf,no real consistent damage perk,19,D
 ,Interference VI,10,Arc,Adaptive,36,No,Quick Launch,Spike Grenades,"Auto-Loading Holster
-Clown Cartridge",Full Court,None,no real consistent damage perk,17,D
-,Typhon GL5,16,Stasis,Adaptive,45,No,Quick Launch,Spike Grenades,Demolitionist,Explosive Light,Omolon Fluid Dynamics,1 mag damage perk,18,D
-,Cry Mutiny,18,Solar,Adaptive,48,No,Volatile Launch,Mini Frags,Demolitionist,Vorpal Weapon,Gun and Run,bad damage perk,19,E
-,Canis Major,15,Solar,Rapid,36,No,Quick Launch,"Spike Grenades
-Mini Frags",Clown Cartridge,Vorpal Weapon,None,bad damage perk,20,E
+Clown Cartridge",Full Court,None,no real consistent damage perk,20,D
+,Typhon GL5,16,Stasis,Adaptive,45,No,Quick Launch,Spike Grenades,Demolitionist,Explosive Light,Omolon Fluid Dynamics,1 mag damage perk,21,D
 ,Tarnation,16,Arc,Rapid,33,Yes,Quick Launch,"Spike Grenades
-Mini Frags",Clown Cartridge,One for All,Psychohack,purely add clear perks,21,F
+Mini Frags",Clown Cartridge,One for All,Psychohack,purely add clear perks,22,E
 ,Memory Interdict,14,Void,Adaptive,23,No,Quick Launch,Spike Grenades,"Auto-Loading Holster
-Clown Cartridge",Chain Reaction,None,purely add clear perks,22,F
+Clown Cartridge",Chain Reaction,None,purely add clear perks,23,E
 ,Blast Battue,12,Arc,Adaptive,48,No,Quick Launch,Spike Grenades,"Clown Cartridge
 Quickdraw","Chain Reaction
-Auto-Loading Holster",None,purely add clear perks,23,F
-,Crowd Pleaser,12,Void,Adaptive,22,No,Quick Launch,Spike Grenades,Clown Cartridge,Demolitionist,Gun and Run,double loader perks,24,F
-,Berenger's Memory,11,Void,Rapid,28,No,Quick Launch,Spike Grenades,Field Prep,Auto-Loading Holster,None,ALH in 2nd column and useless 1st column,25,F
+Auto-Loading Holster",None,purely add clear perks,24,E
+,Crowd Pleaser,12,Void,Adaptive,22,No,Quick Launch,Spike Grenades,Clown Cartridge,Demolitionist,Gun and Run,double loader perks,25,E
+,Berenger's Memory,11,Void,Rapid,28,No,Quick Launch,Spike Grenades,Field Prep,Auto-Loading Holster,None,ALH in 2nd column and useless 1st column,26,E

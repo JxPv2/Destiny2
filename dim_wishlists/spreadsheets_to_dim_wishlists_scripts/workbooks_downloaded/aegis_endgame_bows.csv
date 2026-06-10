@@ -1,76 +1,87 @@
 WEAPON,,INFO,,,,,PERKS,,,,,ANALYSIS,,
 🖼️,Name,Season,Energy,Frame,Ammo,⬆️,Barrel,Mag,Perk 1,Perk 2,Origin Trait,Notes,Rank,Tier
+,Point of the Stag,29,Arc,Precision,53,Yes,Elastic String,Compact Arrow Shaft,Dragonfly,"Voltshot
+Archer's Gambit",Wild Card,Non-Denouement except with Wild Card,1,S
+,Biting Winds,29,Kinetic,Precision,54,Yes,Elastic String,Compact Arrow Shaft,"Bewildering Burst
+Impromptu Ammunition
+Archer's Tempo","Kinetic Tremors
+Explosive Head",Winterized Gear,somehow even better than Accrued,2,S
+TBA,The Spiteful Fang,29,Stasis,Lightweight,66,Yes,Elastic String,Compact Arrow Shaft,"Headstone
+Rimestealer","Firefly
+Crystalline Corpsebloom
+Archer's Gambit",Forge's Kin,the fire and ice combo but on a bow,3,S
 ,Non-Denouement,24,Arc,Precision,58,Yes,Elastic String,Compact Arrow Shaft,"Dragonfly
 Archer's Tempo
 Shoot to Loot","Voltshot
 Explosive Head
-Chaos Reshaped",Collective Purpose,prime example of double splash over arrow uptime usefulness,1,S
+Chaos Reshaped",Collective Purpose,prime example of double splash over arrow uptime usefulness,4,S
 ,Accrued Redemption,25,Kinetic,Precision,60,Yes,Elastic String,Compact Arrow Shaft,Archer's Tempo,"Kinetic Tremors
-Firefly",Photoinhibition,excellent in-slot with KT enhancement,2,A
+Firefly",Photoinhibition,excellent in-slot with KT enhancement,5,A
 ,Fortunate Star,27,Void,Lightweight,70,Yes,Elastic String,Compact Arrow Shaft,"Dragonfly
 Repulsor Brace
 Impromptu Ammunition","Destabilizing Rounds
 Demoralize
-Explosive Head",Veist Stinger,double splash + utility options,3,A
+Explosive Head",Veist Stinger,double splash + utility options,6,A
 ,Anamnesis,26,Void,Lightweight,62,Yes,Elastic String,Compact Arrow Shaft,"Repulsor Brace
 Dragonfly
 Archer's Tempo","Destabilizing Rounds
 Demoralize
-Explosive Head",Runneth Over,"double splash + utility options, worse origin than Fortunate",4,A
+Explosive Head",Runneth Over,"double splash + utility options, worse origin than Fortunate",7,A
+,Hush,29,Solar,Precision,55,Yes,Elastic String,Compact Arrow Shaft,"Burning Ambition
+Firefly","Incandescent
+Meganeura
+Archer's Gambit",Gun and Run,BiS double splash solar bow,8,A
 ,Pre Astyanax IV,27,Solar,Precision,53,Yes,Elastic String,Compact Arrow Shaft,"Incandescent
 Firefly","Burning Ambition
 Explosive Head
-Elemental Honing",Wild Card,double splash where Burning Ambition actually has use,5,A
+Elemental Honing",Wild Card,double splash where Burning Ambition actually has use,9,A
 ,King Orfeo,28,Arc,Precision,52,Yes,Elastic String,Compact Arrow Shaft,"Explosive Head
 Archer's Tempo
 Shoot to Loot","Meganeura
-Jolting Feedback","Nail, Meet Hammer","only Meganeura bow, okay first column, worse than Non-Denouement",6,A
+Jolting Feedback","Nail, Meet Hammer","only Meganeura bow, okay first column, worse than Non-Denouement",10,A
 ,Tyranny of Heaven,21,Solar,Lightweight,68,Yes,Elastic String,Compact Arrow Shaft,"Dragonfly
 Explosive Head
 Archer's Tempo","Incandescent
-One for All",Explosive Pact,double splash but worse frame than Astyanax,7,A
+One for All",Explosive Pact,double splash but worse frame than Astyanax,11,A
+,Vengeful Whisper,29,Strand,Precision,53,Yes,Elastic String,Compact Arrow Shaft,"Explosive Head
+Archer's Tempo
+Slice","Meganeura
+Hatchling
+Archer's Gambit",Sundering,middling double splash,12,A
 ,Mercury-A,27,Kinetic,High-Impact Longbow,50,Yes,Elastic String,Compact Arrow Shaft,"Attrition Orbs
-Successful Warm-Up",Kinetic Tremors,Tenacity,excessive draw time but still unique roll,8,A
+Successful Warm-Up",Kinetic Tremors,Tenacity,excessive draw time but still unique roll,13,A
 ,Strident Whistle,17,Solar,Precision,59,No,Elastic String,Compact Arrow Shaft,"Archer's Tempo
 Shoot to Loot","Incandescent
 Explosive Head
-Dragonfly",Vanguard's Vindication,Archer's + Incandescent core,9,B
-,Hush,24,Solar,Precision,55,Yes,Elastic String,Compact Arrow Shaft,"Archer's Tempo
-Shoot to Loot","Incandescent
-Explosive Head",Gun and Run,Archer's + Incandescent core,10,B
+Dragonfly",Vanguard's Vindication,Archer's + Incandescent core,14,B
 ,Hushed Whisper,27,Strand,Precision,49,Yes,Elastic String,Compact Arrow Shaft,"Tear
 Slice
 Lead from Light","Hatchling
 Archer's Gambit
-Explosive Head",Wild Card,"Tear interesting on a bow, otherwise held back by Strand limitations",11,B
+Explosive Head",Wild Card,"Tear interesting on a bow, otherwise held back by Strand limitations",15,B
 ,Tripwire Canary,19,Arc,Lightweight,63,Yes,Elastic String,Compact Arrow Shaft,"Dragonfly
-Archer's Tempo",Explosive Head,Ambush,technically double splash but a weaker version,12,B
-,Arsenic Bite-4B,4,Arc,Lightweight,70,No,Elastic String,Compact Arrow Shaft,Dragonfly,Explosive Head,None,technically double splash but a weaker version,13,B
+Archer's Tempo",Explosive Head,Ambush,technically double splash but a weaker version,16,B
+,Arsenic Bite-4B,4,Arc,Lightweight,70,No,Elastic String,Compact Arrow Shaft,Dragonfly,Explosive Head,None,technically double splash but a weaker version,17,B
 ,Under Your Skin,16,Void,Precision,51,Yes,Elastic String,Compact Arrow Shaft,Archer's Tempo,"Explosive Head
-Dragonfly",Land Tank,classic Archer's + Explosive/weaker splash,14,C
+Dragonfly",Land Tank,classic Archer's + Explosive/weaker splash,18,C
 ,Raconteur,20,Stasis,Precision,54,Yes,Elastic String,Compact Arrow Shaft,"Archer's Tempo
 Shoot to Loot","Headstone
-Explosive Head",Noble Deeds,classic Archer's + Explosive/weaker splash,15,C
-,Vengeful Whisper,23,Strand,Precision,53,No,Elastic String,Compact Arrow Shaft,"Explosive Head
-Archer's Tempo
-Slice",Hatchling,Sundering,double splash but a very weak version,16,C
-,Point of the Stag,24,Arc,Precision,53,Yes,Elastic String,Compact Arrow Shaft,Archer's Tempo,Dragonfly,Wild Card,classic Archer's + Explosive/weaker splash,17,C
+Explosive Head",Noble Deeds,classic Archer's + Explosive/weaker splash,19,C
 ,Wolftone Draw,15,Arc,Precision,55,No,Elastic String,Compact Arrow Shaft,"Archer's Tempo
 Shoot to Loot","Dragonfly
-Frenzy",None,classic Archer's + Explosive/weaker splash,18,C
+Frenzy",None,classic Archer's + Explosive/weaker splash,20,C
 ,Fel Taradiddle,16,Kinetic,Lightweight,59,Yes,Elastic String,Compact Arrow Shaft,"Archer's Tempo
-Shoot to Loot",Explosive Head,Psychohack,classic Archer's + Explosive/weaker splash,19,C
-,Imperial Needle,13,Void,Lightweight,60,No,Elastic String,Compact Arrow Shaft,Archer's Tempo,Frenzy,None,Archer's + weak damage perk,20,D
-,Lunulata-4B,17,Stasis,Lightweight,64,No,Elastic String,Compact Arrow Shaft,Shoot to Loot,Headstone,Veist Stinger,no Archer's + weaker splash perk,21,D
-,Biting Winds,12,Kinetic,Precision,54,No,Elastic String,Compact Arrow Shaft,Rapid Hit,Explosive Head,None,"Rapid Hit notably worse than Archer's, still has Explosive Head",22,D
+Shoot to Loot",Explosive Head,Psychohack,classic Archer's + Explosive/weaker splash,21,C
+,Imperial Needle,13,Void,Lightweight,60,No,Elastic String,Compact Arrow Shaft,Archer's Tempo,Frenzy,None,Archer's + weak damage perk,22,D
+,Lunulata-4B,17,Stasis,Lightweight,64,No,Elastic String,Compact Arrow Shaft,Shoot to Loot,Headstone,Veist Stinger,no Archer's + weaker splash perk,23,D
 ,Lethophobia,23,Void,Lightweight,63,Yes,Elastic String,Compact Arrow Shaft,"Repulsor Brace
-Impulse Amplifier",Explosive Head,Dragon's Vengeance,similar to Biting Winds but worse frame,23,D
+Impulse Amplifier",Explosive Head,Dragon's Vengeance,similar to Biting Winds but worse frame,24,D
 ,Whispering Slab,26,Kinetic,Lightweight,59,Yes,Elastic String,Compact Arrow Shaft,"Archer's Tempo
 Demolitionist
 Pugilist","High Ground
 Swashbuckler
-Vorpal Weapon",Paracausal Fluid,single target perks on a bow,24,E
+Vorpal Weapon",Paracausal Fluid,single target perks on a bow,25,E
 ,Whistler's Whim,20,Kinetic,Lightweight,64,No,Elastic String,Compact Arrow Shaft,"Rapid Hit
 Cornered","Archer's Tempo
-Kill Clip",Veist Stinger,single target perks on a bow,25,E
-,Neoptolemus II,25,Kinetic,Precision,54,Yes,Elastic String,Compact Arrow Shaft,Pugilist,Vorpal Weapon,Wild Card,no draw perks and only single target damage perks,26,E
+Kill Clip",Veist Stinger,single target perks on a bow,26,E
+,Neoptolemus II,25,Kinetic,Precision,54,Yes,Elastic String,Compact Arrow Shaft,Pugilist,Vorpal Weapon,Wild Card,no draw perks and only single target damage perks,27,E

@@ -1,5 +1,11 @@
 WEAPON,,INFO,,,,PERKS,,,,,ANALYSIS,,
 🖼️,Name,Season,Energy,Ammo,⬆️,Barrel,Mag,Perk 1,Perk 2,Origin Trait,Notes,Rank,Tier
+,Lotus-Eater,29,Void,42,Yes,"Quick Launch
+Volatile Launch",Flared Magwell,"Repulsor Brace
+Dimensional Shift
+Air Trigger","Destabilizing Rounds
+Withering Gaze
+Surrounded",Vanguard Determination,"best elemental perk combo, some other utility options as well",1,S
 ,Returned Memory,27,Solar,40,Yes,"Quick Launch
 Volatile Launch","Tactical Mag
 High-Explosive Ordnance
@@ -7,37 +13,38 @@ Flared Magwell","Heal Clip
 Lead from Gold
 Impromptu Ammunition","Incandescent
 Redirection
-Desperate Measures",Tenacity,excellent perks all around with solid origin,1,S
-,Lotus-Eater,26,Void,42,Yes,"Quick Launch
-Volatile Launch",Flared Magwell,"Repulsor Brace
-Reconstruction
-Shoot to Loot","Destabilizing Rounds
-Withering Gaze
-High Ground",Stunning Recovery,"excellent perks, only StL rocket sidearm, mediocre origin",2,S
-,Tinasha's Mastery,25,Stasis,46,Yes,"Quick Launch
-Volatile Launch",High-Explosive Ordnance,"Air Trigger
-Impulse Amplifier
-Loose Change","Chill Clip
-Surrounded
-Desperate Measures",Skulking Wolf,"great ammo generator, solid perks and decent origin",3,S
+Desperate Measures",Tenacity,excellent perks all around with solid origin,2,S
+TBA,High Albedo,29,Kinetic,47,Yes,"Quick Launch
+Volatile Launch",Tactical Mag,"Lead from Gold
+Stopping Power
+Blast Distributor","Kinetic Tremors
+All-Star
+Recombination",Winterized Gear,"Ancillary Ordinance also good, very solid perk spread",3,S
 ,Aberrant Action,24,Solar,37,Yes,"Quick Launch
 Volatile Launch",High-Explosive Ordnance,"Heal Clip
 Field Prep","Incandescent
 Demolitionist",Radiolaria Transposer,better origin than Returned but worse alternative perks,4,S
-,Indebted Kindness,23,Arc,37,No,"Quick Launch
-Volatile Launch",High-Explosive Ordnance,"Impulse Amplifier
-Lead from Gold","Voltshot
+,Tinasha's Mastery,29,Stasis,46,Yes,"Quick Launch
+Volatile Launch",High-Explosive Ordnance,"Air Trigger
+Impulse Amplifier
+Loose Change","Chill Clip
 Surrounded
-Adagio",Sundering,"good Voltshot user, Lead also appreciated, situational origin",5,A
+Desperate Measures",Skulking Wolf,"great ammo generator, solid perks and decent origin",5,S
+,Indebted Kindness,29,Arc,37,Yes,"Quick Launch
+Volatile Launch",High-Explosive Ordnance,"Air Trigger
+Beacon Rounds
+Deconstruct","Voltshot
+Chain Reaction
+Gear Shift",Sundering,"good Voltshot user, Lead also appreciated, situational origin",6,A
 ,The Call,24,Strand,25,Yes,"Quick Launch
 Volatile Launch",Tactical Mag,"Slice
 Lead from Gold
 Demolitionist","Desperate Measures
 Golden Tricorn
-One for All",Dealer's Choice,"only Slice rocket sidearm, good origin and utility perks",6,A
+One for All",Dealer's Choice,"only Slice rocket sidearm, good origin and utility perks",7,A
 ,Unfall,27,Arc,37,Yes,"Quick Launch
 Volatile Launch",Appended Mag,"Lead from Gold
 Impulse Amplifier
 Beacon Rounds","Jolting Feedback
 Rolling Storm
-Master of Arms",Vanguard Determination,worse than Indebted besides enhanceable perks,7,A
+Master of Arms",Vanguard Determination,worse than Indebted besides enhanceable perks,8,A
