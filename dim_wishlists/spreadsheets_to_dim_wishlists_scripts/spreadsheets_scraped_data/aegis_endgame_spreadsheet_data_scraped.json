@@ -6,7 +6,7 @@
       "patch": "Pantheon 2.0"
     },
     "link": "https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY",
-    "scrape_date": "2026-06-10 11:32:05"
+    "scrape_date": "2026-06-10 18:25:25"
   },
   "workbooks": {
     "Shopping List": {
@@ -4225,7 +4225,7 @@
             "Enlightened Action"
           ],
           "perk2": [
-            "Hatchilng",
+            "Hatchling",
             "Desperate Measures"
           ],
           "origin_trait": [
@@ -6690,6 +6690,55 @@
           }
         }
       },
+      "Eyasluna": {
+        "weapon_name": "Eyasluna",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Flared Magwell",
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Firefly",
+            "Meganeura"
+          ],
+          "perk2": [
+            "Crystalline Corpsebloom",
+            "Headstone",
+            "Chaos Reshaped"
+          ],
+          "origin_trait": [
+            "Unburied Treasure"
+          ]
+        },
+        "info": {
+          "rank": "8",
+          "tier": "A",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "best non-spread double splash stasis HC",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
       "Sightline Survey": {
         "weapon_name": "Sightline Survey",
         "version": "",
@@ -6712,7 +6761,7 @@
           ]
         },
         "info": {
-          "rank": "8",
+          "rank": "9",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -6762,7 +6811,7 @@
           ]
         },
         "info": {
-          "rank": "9",
+          "rank": "10",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -6813,7 +6862,7 @@
           ]
         },
         "info": {
-          "rank": "10",
+          "rank": "11",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -6862,7 +6911,7 @@
           ]
         },
         "info": {
-          "rank": "11",
+          "rank": "12",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -6912,7 +6961,7 @@
           ]
         },
         "info": {
-          "rank": "12",
+          "rank": "13",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -6962,7 +7011,7 @@
           ]
         },
         "info": {
-          "rank": "13",
+          "rank": "14",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -7007,7 +7056,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "14",
+          "rank": "15",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -7053,7 +7102,7 @@
           ]
         },
         "info": {
-          "rank": "15",
+          "rank": "16",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -7101,7 +7150,7 @@
           ]
         },
         "info": {
-          "rank": "16",
+          "rank": "17",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -7148,7 +7197,7 @@
           ]
         },
         "info": {
-          "rank": "17",
+          "rank": "18",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -7198,7 +7247,7 @@
           ]
         },
         "info": {
-          "rank": "18",
+          "rank": "19",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -7248,7 +7297,7 @@
           ]
         },
         "info": {
-          "rank": "19",
+          "rank": "20",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -7296,7 +7345,7 @@
           ]
         },
         "info": {
-          "rank": "20",
+          "rank": "21",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -7345,7 +7394,7 @@
           ]
         },
         "info": {
-          "rank": "21",
+          "rank": "22",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -7393,7 +7442,7 @@
           ]
         },
         "info": {
-          "rank": "22",
+          "rank": "23",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -7403,6 +7452,56 @@
           "usage": "",
           "source": "",
           "notes": "Firefly + decent splash options, good frame",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Vulpecula": {
+        "weapon_name": "Vulpecula",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Flared Magwell",
+            "Alloy Magazine",
+            "Tactical Mag"
+          ],
+          "perk1": [
+            "Headstone",
+            "Rimestealer",
+            "Shoot to Loot"
+          ],
+          "perk2": [
+            "Crystalline Corpsebloom",
+            "Explosive Payload"
+          ],
+          "origin_trait": [
+            "Ignoble Deeds"
+          ]
+        },
+        "info": {
+          "rank": "24",
+          "tier": "A",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "classic stasis combo with StL + EP access, better frame than Loud Lullaby",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -7442,7 +7541,7 @@
           ]
         },
         "info": {
-          "rank": "23",
+          "rank": "25",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -7490,7 +7589,7 @@
           ]
         },
         "info": {
-          "rank": "24",
+          "rank": "26",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -7538,7 +7637,7 @@
           ]
         },
         "info": {
-          "rank": "25",
+          "rank": "27",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -7586,7 +7685,7 @@
           ]
         },
         "info": {
-          "rank": "26",
+          "rank": "28",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -7635,7 +7734,7 @@
           ]
         },
         "info": {
-          "rank": "27",
+          "rank": "29",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -7684,7 +7783,7 @@
           ]
         },
         "info": {
-          "rank": "28",
+          "rank": "30",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -7730,7 +7829,7 @@
           ]
         },
         "info": {
-          "rank": "29",
+          "rank": "31",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -7779,7 +7878,7 @@
           ]
         },
         "info": {
-          "rank": "30",
+          "rank": "32",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -7789,54 +7888,6 @@
           "usage": "",
           "source": "",
           "notes": "basically only useful for LP usage, and third best at that",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Vulpecula": {
-        "weapon_name": "Vulpecula",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel"
-          ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine",
-            "Tactical Mag"
-          ],
-          "perk1": [
-            "Headstone",
-            "Rimestealer",
-            "Shoot to Loot"
-          ],
-          "perk2": [
-            "Crystalline Corpsebloom",
-            "Explosive Payload"
-          ],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "31",
-          "tier": "B",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "only StL + EP HC in this slot, no other redeeming qualities",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -7875,7 +7926,7 @@
           ]
         },
         "info": {
-          "rank": "32",
+          "rank": "33",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -7923,7 +7974,7 @@
           ]
         },
         "info": {
-          "rank": "33",
+          "rank": "34",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -7971,7 +8022,7 @@
           ]
         },
         "info": {
-          "rank": "34",
+          "rank": "35",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -8015,7 +8066,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "35",
+          "rank": "36",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -8061,7 +8112,7 @@
           ]
         },
         "info": {
-          "rank": "36",
+          "rank": "37",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -8108,7 +8159,7 @@
           ]
         },
         "info": {
-          "rank": "37",
+          "rank": "38",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -8156,7 +8207,7 @@
           ]
         },
         "info": {
-          "rank": "38",
+          "rank": "39",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -8204,7 +8255,7 @@
           ]
         },
         "info": {
-          "rank": "39",
+          "rank": "40",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -8240,19 +8291,18 @@
             "Alloy Magazine"
           ],
           "perk1": [
-            "Rapid Hit",
-            "Shoot to Loot"
+            "Light Touch"
           ],
           "perk2": [
-            "Voltshot",
-            "Dragonfly"
+            "Meganeura",
+            "Voltshot"
           ],
           "origin_trait": [
             "Advanced Reflexes"
           ]
         },
         "info": {
-          "rank": "40",
+          "rank": "41",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -8261,7 +8311,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "single splash + solid reload perk, okay archetype",
+          "notes": "decent archetype with mediocre 1st column and decent 2nd",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -8300,7 +8350,7 @@
           ]
         },
         "info": {
-          "rank": "41",
+          "rank": "42",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -8349,7 +8399,7 @@
           ]
         },
         "info": {
-          "rank": "42",
+          "rank": "43",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -8397,7 +8447,7 @@
           ]
         },
         "info": {
-          "rank": "43",
+          "rank": "44",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -8445,7 +8495,7 @@
           ]
         },
         "info": {
-          "rank": "44",
+          "rank": "45",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -8494,51 +8544,6 @@
           ]
         },
         "info": {
-          "rank": "45",
-          "tier": "D",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "like Exuviae but none of the cool stuff",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Eyasluna": {
-        "weapon_name": "Eyasluna",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fastdraw HCS"
-          ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Rapid Hit",
-            "Unrelenting"
-          ],
-          "perk2": [
-            "Headstone"
-          ],
-          "origin_trait": []
-        },
-        "info": {
           "rank": "46",
           "tier": "D",
           "priority": "",
@@ -8548,7 +8553,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "better archetype than Something New but no origin/enhancement",
+          "notes": "like Exuviae but none of the cool stuff",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -24645,7 +24650,7 @@
           "perk2": [
             "Trench Barrel",
             "Chain Reaction",
-            "Crystalling Corpsebloom"
+            "Crystalline Corpsebloom"
           ],
           "origin_trait": [
             "Ignoble Deeds"
@@ -25453,7 +25458,7 @@
           ],
           "perk2": [
             "Trench Barrel",
-            "All Star"
+            "All-Star"
           ],
           "origin_trait": [
             "Vanguard Determination"
@@ -33514,8 +33519,8 @@
           }
         }
       },
-      "Crux Celertias IV": {
-        "weapon_name": "Crux Celertias IV",
+      "Crux Celeritas IV": {
+        "weapon_name": "Crux Celeritas IV",
         "version": "",
         "perks": {
           "column1": [
