@@ -64,6 +64,21 @@ logger = setup_module_logger(
 )
 
 # =============================================================================
+# Attach warnings handler (setup_module_logger creates it but forgets to add it)
+# =============================================================================
+# The warnings log captures WARNING+ records for easy tailing. setup_module_logger
+# builds the handler internally for DuplicateInfoFilter but never adds it to the
+# logger's handler list, so WARNING records never reach it. We attach it here.
+_script_stem = os.path.splitext(os.path.basename(__file__))[0]
+warnings_handler = logging.FileHandler(
+    os.path.join(LOG_DIR, f"{_script_stem}_warnings.log"),
+    encoding="utf-8"
+)
+warnings_handler.setFormatter(custom_formatter)
+warnings_handler.setLevel(logging.WARNING)
+logger.addHandler(warnings_handler)
+
+# =============================================================================
 # LoggerAdapters for hierarchical indentation
 # =============================================================================
 # IndentAdapter injects an "indent" key into the LogRecord's extra dict.
