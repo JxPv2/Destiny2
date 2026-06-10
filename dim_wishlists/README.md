@@ -8,7 +8,7 @@
 4. +Add Wish List
 ---
 
-## raw links:
+### Raw links:
 
 | Author | DIM Wishlist Raw Link | What is included? |
 |----------|----------|----------|
@@ -28,6 +28,10 @@
 | [Aegis' Speedrunner (Rank: 1)](https://docs.google.com/spreadsheets/d/1is4sNUesy--7Zm6SCCWEP9PAXomxaSj5xlJGCsSj_qs/edit?gid=0#gid=0) | [`aegis speedrunner rank 1 dim raw link`](https://raw.githubusercontent.com/JxPv2/D2-Stuff/refs/heads/main/dim_wishlists/aegis_speedrunner_spreadsheet_dim_wishlist_rank_1.txt) | only rank 1 |
 | [Aegis' Speedrunner (Rank: 1-2)](https://docs.google.com/spreadsheets/d/1is4sNUesy--7Zm6SCCWEP9PAXomxaSj5xlJGCsSj_qs/edit?gid=0#gid=0) | [`aegis speedrunner rank 1-2 dim raw link`](https://raw.githubusercontent.com/JxPv2/D2-Stuff/refs/heads/main/dim_wishlists/aegis_speedrunner_spreadsheet_dim_wishlist_rank_1-2.txt) | only rank 1-2 |
 | [Aegis' Speedrunner (Rank: 1-3)](https://docs.google.com/spreadsheets/d/1is4sNUesy--7Zm6SCCWEP9PAXomxaSj5xlJGCsSj_qs/edit?gid=0#gid=0) | [`aegis speedrunner rank 1-3 dim raw link`](https://raw.githubusercontent.com/JxPv2/D2-Stuff/refs/heads/main/dim_wishlists/aegis_speedrunner_spreadsheet_dim_wishlist_rank_1-3.txt) | only rank 1-3 |
+
+### Unrelated to this project:
+| Author | DIM Wishlist Raw Link | What is included? |
+|----------|----------|----------|
 | 2Pillows MKB_PvE | [`2pillows mkb_pve dim raw link`](https://raw.githubusercontent.com/2Pillows/dim_wishlist_splitter/main/wishlists/MKB_PvE.txt) | [check the repo](https://github.com/2Pillows/dim_wishlist_splitter/tree/main/wishlists) |
 
 ### Open an issue, or DM me on Discord (jxp), for problems (missing weapon or perks combination) and/or if you have a particular desired wishlist to be added/created.
