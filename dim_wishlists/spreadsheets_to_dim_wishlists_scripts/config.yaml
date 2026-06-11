@@ -193,7 +193,7 @@ ignore_manifest_perk_pool:
   - "Relativism"
   - "Stoicism"
   - "Solipsism"
-  - "Ergo Sum"
+#  - "Ergo Sum"
 
 # ==============================================================================
 # SECTION 3.5: RANK TRANSLATION TABLES
