@@ -494,7 +494,10 @@ class DIMWishlistGenerator:
                 hash_bucket = []
                 for perk_name in name_bucket:
                     possible_hashes = self.perk_map.get(perk_name, [])
-                    valid_hashes = [h for h in possible_hashes if h in valid_manifest_perks]
+                    if pool_bypass:
+                        valid_hashes = possible_hashes
+                    else:
+                        valid_hashes = [h for h in possible_hashes if h in valid_manifest_perks]
 
                     if valid_hashes:
                         hash_bucket.extend(valid_hashes)
