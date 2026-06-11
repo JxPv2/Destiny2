@@ -3,45 +3,48 @@ WEAPON,,INFO,,,,,PERKS,,,,,ANALYSIS,,
 ,Eyes Unveiled,29,Void,Precision,45,Yes,Fluted Barrel,"Accelerated Coils
 Enhanced Battery","Fourth Time's the Charm
 Mega Kill Clip",Elemental Honing,Heretical Behavior,excellent perks and origin for LFR damage,1,S
+,Cataclysmic,29,Solar,Precision,37,Yes,Fluted Barrel,"Accelerated Coils
+Enhanced Battery",Fourth Time's the Charm,"Aggregate Charge
+Elemental Honing
+Bait and Switch",Souldrinker,excellent damage perk spread for a precision linear,2,S
+,Briar's Contempt,29,Solar,Adaptive Burst,39,Yes,Arrowhead Brake,"Accelerated Coils
+Enhanced Battery",Rewind Rounds,"Aggregate Charge
+Chaos Reshaped
+Surrounded",Harmonic Resonance,best adaptive burst linear,3,S
 ,Scintillation,29,Strand,Adaptive Burst,36,Yes,Arrowhead Brake,"Accelerated Coils
 Enhanced Battery","Rewind Rounds
 Cornered","Bait and Switch
-Surrounded",Veist Stinger,"basically perfect LFR roll, maybe Honing one day",2,S
+Surrounded",Veist Stinger,"basically perfect LFR roll, maybe Honing one day",4,S
 ,Mistral Lift,28,Void,Adaptive Burst,33,Yes,Arrowhead Brake,"Accelerated Coils
 Enhanced Battery","Envious Arsenal
 Reconstruction
 Withering Gaze","Bait and Switch
-Precision Instrument",Veist Stinger,Arsenal worse than Rewind for dump-style weapon,3,S
+Precision Instrument",Veist Stinger,Arsenal worse than Rewind for dump-style weapon,5,S
 ,Stormchaser,29,Arc,Adaptive Burst,32,Yes,Arrowhead Brake,"Accelerated Coils
 Enhanced Battery","Auto-Loading Holster
 Clown Cartridge","Aggregate Charge
-Elemental Honing",Bitterspite,"no Rewind, decent 2nd column though",4,A
+Elemental Honing",Bitterspite,"no Rewind, decent 2nd column though",6,A
 ,Boomslang-4fr,27,Arc,Adaptive Burst,31,Yes,Arrowhead Brake,"Accelerated Coils
 Enhanced Battery","Envious Arsenal
 Rapid Hit","Precision Instrument
-Reservoir Burst",Veist Stinger,worse damage perks than S tier options,5,A
-,Doomed Petitioner,23,Void,Adaptive Burst,34,Yes,Arrowhead Brake,"Accelerated Coils
+Reservoir Burst",Veist Stinger,worse damage perks than S tier options,7,A
+,Doomed Petitioner,29,Void,Adaptive Burst,34,Yes,Arrowhead Brake,"Accelerated Coils
 Enhanced Battery","Envious Assassin
 Reconstruction","Surrounded
-Precision Instrument",Dragon's Vengeance,Assassin worse than Arsenal on Boomslang,6,A
-,Cataclysmic,16,Solar,Precision,37,Yes,Fluted Barrel,"Accelerated Coils
-Enhanced Battery",Fourth Time's the Charm,Bait and Switch,Souldrinker,"still highest total damage linear, excellent FTTC user",7,A
-,Briar's Contempt,20,Solar,Adaptive Burst,39,Yes,Arrowhead Brake,"Accelerated Coils
-Enhanced Battery",Rewind Rounds,"Surrounded
-Focused Fury",Harmonic Resonance,"more situational Rewind linear, but still solid",8,A
+Precision Instrument",Dragon's Vengeance,Assassin worse than Arsenal on Boomslang,8,A
 ,Line in the Sand,24,Arc,Precision,28,Yes,Fluted Barrel,"Accelerated Coils
 Enhanced Battery","Clown Cartridge
 Deconstruct",Bait and Switch,Cast No Shadows,worse archetype than Stormchaser but better damage perk,9,B
-,Taipan-4fr,18,Void,Precision,33,Yes,Fluted Barrel,"Accelerated Coils
+,Taipan-4fr,29,Void,Precision,33,Yes,Fluted Barrel,"Accelerated Coils
 Enhanced Battery",Triple Tap,Firing Line,Veist Stinger,enhanced Triple Tap for reloads,10,C
 ,Reed's Regret,29,Stasis,Precision,40,Yes,Fluted Barrel,"Accelerated Coils
 Enhanced Battery",Triple Tap,Firing Line,Veist Stinger,slightly worse than Taipan,11,C
-,Fire and Forget,19,Stasis,Adaptive Burst,33,Yes,Arrowhead Brake,"Accelerated Coils
+,Fire and Forget,29,Stasis,Adaptive Burst,33,Yes,Arrowhead Brake,"Accelerated Coils
 Enhanced Battery",Field Prep,Frenzy,Veist Stinger,worse damage perk than Taipan but better archetype,12,C
 ,Suspectum-4fr,24,Stasis,Precision,32,Yes,Fluted Barrel,"Accelerated Coils
 Enhanced Battery",Envious Assassin,"Precision Instrument
 Firing Line",Veist Stinger,"no ammo gen precision, okay damage perks",13,C
-,Sailspy Pitchglass,18,Arc,Precision,26,Yes,Fluted Barrel,"Accelerated Coils
+,Sailspy Pitchglass,29,Arc,Precision,26,Yes,Fluted Barrel,"Accelerated Coils
 Enhanced Battery",Clown Cartridge,"Focused Fury
 Frenzy",Right Hook,no ammo gen precision and mediocre damage perks,14,D
 ,Laser Painter,29,Strand,Precision,26,Yes,Fluted Barrel,"Accelerated Coils

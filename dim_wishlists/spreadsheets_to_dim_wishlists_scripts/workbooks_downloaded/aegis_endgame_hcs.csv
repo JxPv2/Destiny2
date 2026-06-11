@@ -1,6 +1,6 @@
 WEAPON,,INFO,,,,,PERKS,,,,,ANALYSIS,,
 🖼️,Name,Season,Energy,Frame,Ammo,⬆️,Barrel,Mag,Perk 1,Perk 2,Origin Trait,Notes,Rank,Tier
-,Word of Crota,22,Void,Precision,52,Yes,Fluted Barrel,"Flared Magwell
+,Word of Crota,29,Void,Precision,52,Yes,Fluted Barrel,"Flared Magwell
 Alloy Magazine","Repulsor Brace
 Dragonfly",Destabilizing Rounds,Cursed Thrall,"great frame, excellent perks, amazing origin",1,S
 TBA,IRONWOOD 03,29,Void,Spread Shot,50,Yes,Barrel Shroud,"Flared Magwell
@@ -9,9 +9,10 @@ Dimensional Shift
 Demolitionist","Destabilizing Rounds
 Surrounded
 Master of Arms",Carrion Munitions,great void combo and other alternative perks on great frame,2,S
-,Posterity,12,Arc,Precision,53,Yes,Fluted Barrel,"Flared Magwell
+,Posterity,29,Arc,Precision,53,Yes,Fluted Barrel,"Flared Magwell
 Alloy Magazine",Voltshot,"Frenzy
-Redirection",Bray Inheritance,"great frame, splash + damage, solid origin",3,S
+Redirection
+Explosive Payload",Bray Inheritance,"great frame, splash + damage, solid origin",3,S
 ,Modified B-7 Pistol,28,Stasis,Dynamic (180RPM),54,Yes,Fluted Barrel,"Light Heatsink
 Overclocked Heatsink","Firefly
 Rimestealer
@@ -22,64 +23,70 @@ Alloy Magazine","Repulsor Brace
 Shoot to Loot","Destabilizing Rounds
 Demoralize
 Explosive Payload",Forge's Kin,"classic void combo, StL + EP, and decent frame",5,A
+,Zaouli's Bane,29,Solar,Adaptive,50,Yes,Fluted Barrel,"Flared Magwell
+Alloy Magazine","Firefly
+Burning Ambition
+Explosive Payload","Chaos Reshaped
+Meganeura
+Incandescent",Elliptical Orbit,slow reload animation but very lethal perk combos,6,A
 ,Exalted Truth,29,Void,Adaptive,58,Yes,Fluted Barrel,"Flared Magwell
 Alloy Magazine","Destabilizing Rounds
 Withering Gaze","Repulsor Brace
-Demoralize",Fleet Footed,"classic void combo, also has Withering access",6,A
+Demoralize",Fleet Footed,"classic void combo, also has Withering access",7,A
 ,Aureus Neutralizer,27,Kinetic,Spread Shot,60,Yes,Barrel Shroud,"Flared Magwell
 Alloy Magazine","Vorpal Weapon
 Grave Robber","Cascade Point
 One-Two Punch
-Trench Barrel",Häkke Breach Armaments,"BiS LP damage option, decent for neutral too",7,A
+Trench Barrel",Häkke Breach Armaments,"BiS LP damage option, decent for neutral too",8,A
 ,Eyasluna,29,Stasis,Adaptive,54,Yes,Fluted Barrel,"Flared Magwell
 Alloy Magazine","Firefly
 Meganeura","Crystalline Corpsebloom
 Headstone
-Chaos Reshaped",Unburied Treasure,best non-spread double splash stasis HC,8,A
-,Sightline Survey,24,Arc,Precision,52,Yes,Fluted Barrel,"Flared Magwell
-Alloy Magazine",Enlightened Action,Voltshot,Radiolaria Transposer,doesn't scale as well as Posterity into upper-tier content,9,A
+Chaos Reshaped",Unburied Treasure,best non-spread double splash stasis HC,9,A
+,Sightline Survey,29,Arc,Precision,52,Yes,Fluted Barrel,"Flared Magwell
+Alloy Magazine",Enlightened Action,Voltshot,Radiolaria Transposer,doesn't scale as well as Posterity into upper-tier content,10,A
 ,Agape,27,Solar,Heavy Burst,55,Yes,Fluted Barrel,"Flared Magwell
 Alloy Magazine
 Appended Mag","Heal Clip
 Rewind Rounds","Incandescent
 Firefly
-Precision Instrument",Exhaustive Research,"best energy slot heavy burst LP option, good neutral perks too",10,A
+Precision Instrument",Exhaustive Research,"best energy slot heavy burst LP option, good neutral perks too",11,A
 ,Corundum Hammer,28,Strand,Adaptive,51,Yes,Fluted Barrel,"Flared Magwell
 Alloy Magazine
 Tactical Mag","Firefly
 Slice
 Shoot to Loot","Tear
 Explosive Payload
-Elemental Honing",Fleet Footed,"Vulpecula replacement, cool double splash combo too, okay archetype",11,A
+Elemental Honing",Fleet Footed,"Vulpecula replacement, cool double splash combo too, okay archetype",12,A
 TBA,Service Revolver,29,Kinetic,Precision,29,Yes,Fluted Barrel,"Flared Magwell
 Alloy Magazine","Stopping Power
 Shoot to Loot","Mega Kill Clip
 Kinetic Tremors
-Explosive Payload",Accelerated Assault,probably best StL + EP kinetic hand cannon,12,A
-,Unloved,26,Strand,Heavy Burst,60,Yes,Fluted Barrel,"Flared Magwell
+Explosive Payload",Accelerated Assault,probably best StL + EP kinetic hand cannon,13,A
+,Unloved,29,Strand,Heavy Burst,60,Yes,Fluted Barrel,"Flared Magwell
 Alloy Magazine
-Appended Mag","Rapid Hit
-Dragonfly
-Hatchling","Elemental Honing
-Frenzy",Subjugation,"amazing origin, splash + damage option as well",13,A
+Appended Mag","Dragonfly
+Hatchling
+Rapid Hit","Elemental Honing
+Frenzy
+Tear",Subjugation,"amazing origin, splash + damage option as well",14,A
 ,Midnight Coup,29,Kinetic,Adaptive,60,Yes,Fluted Barrel,"Flared Magwell
 Alloy Magazine","Firefly
 Bewildering Burst
 Explosive Payload","Kinetic Tremors
 Ancillary Ordinance
-One for All",Indomitability,"only kinetic HC with new combo, otherwise decent too",14,A
+One for All",Indomitability,"only kinetic HC with new combo, otherwise decent too",15,A
 ,Solemn Remembrance,27,Stasis,Precision,55,Yes,Fluted Barrel,"Flared Magwell
 Alloy Magazine",Headstone,"Firefly
-Rimestealer",None,only held back slightly by archetype and lack of origin,15,A
-,Ancient Gospel,25,Void,Adaptive,57,Yes,Fluted Barrel,"Flared Magwell
-Alloy Magazine",Destabilizing Rounds,Explosive Payload,Photoinhibition,interesting pairing with Destabilizing,16,A
+Rimestealer",None,only held back slightly by archetype and lack of origin,16,A
+,Ancient Gospel,29,Void,Adaptive,57,Yes,Fluted Barrel,"Flared Magwell
+Alloy Magazine","Destabilizing Rounds
+Repulsor Brace","Explosive Payload
+Demoralize",Photoinhibition,interesting pairing with Destabilizing,17,A
 ,Triple Laureate,28,Stasis,Spread Shot,53,Yes,Barrel Shroud,"Flared Magwell
 Alloy Magazine","Crystalline Corpsebloom
 Grave Robber","Chaos Reshaped
-One-Two Punch",Häkke Breach Armaments,Chaos Reshaped interesting pairing with Crystalline,17,A
-,Zaouli's Bane,18,Solar,Adaptive,50,Yes,Fluted Barrel,"Flared Magwell
-Alloy Magazine",Explosive Payload,"Incandescent
-One for All",Runneth Over,slow reload animation but arguably best perk pairing with EP,18,A
+One-Two Punch",Häkke Breach Armaments,Chaos Reshaped interesting pairing with Crystalline,18,A
 ,Sarpedon-D,28,Arc,Spread Shot,52,Yes,Barrel Shroud,"Flared Magwell
 Alloy Magazine","Lead From Light
 Eddy Current
@@ -112,23 +119,26 @@ Tactical Mag","Headstone
 Rimestealer
 Shoot to Loot","Crystalline Corpsebloom
 Explosive Payload",Ignoble Deeds,"classic stasis combo with StL + EP access, better frame than Loud Lullaby",24,A
-,Fatebringer,26,Kinetic,Adaptive,53,Yes,Fluted Barrel,"Flared Magwell
+,Nation of Beasts,29,Arc,Adaptive,51,Yes,Fluted Barrel,"Flared Magwell
+Alloy Magazine","Gear Shift
+Dragonfly
+Eddy Current","Voltshot
+Jolting Feedback
+Explosive Payload",Explosive Pact,"great damage perk to have in 3rd column, otherwise decent too",25,A
+,Fatebringer,29,Kinetic,Adaptive,53,Yes,Fluted Barrel,"Flared Magwell
 Alloy Magazine","Explosive Payload
-Kinetic Tremors","Firefly
+Kinetic Tremors
+Stopping Power","Firefly
 One for All
-Frenzy",Timelost Magazine,"classic EP + Frenzy/Firefly combo, still pretty decent",25,A
+All-Star",Timelost Magazine,"classic EP + Frenzy/Firefly combo, still pretty decent",26,A
 ,Maahes HC4,29,Void,Heavy Burst,50,Yes,Fluted Barrel,"Flared Magwell
 Alloy Magazine","Repulsor Brace
 Enlightened Action","Destabilizing Rounds
-Dragonfly",Omolon Fluid Dynamics,held back by awful reload with Void combo,26,A
+Dragonfly",Omolon Fluid Dynamics,held back by awful reload with Void combo,27,A
 ,Seventh Seraph Officer Revolver,29,Kinetic,Precision,52,Yes,Fluted Barrel,"Flared Magwell
 Alloy Magazine","Bewildering Burst
 Shoot to Loot","Redirection
-Explosive Payload",Eyes Up,"very good StL + EP kinetic option, not much else though",27,B
-,Nation of Beasts,21,Arc,Adaptive,51,Yes,Fluted Barrel,"Flared Magwell
-Alloy Magazine","Dragonfly
-Eddy Current","Voltshot
-Explosive Payload",Explosive Pact,double splash on suboptimal archetype,28,B
+Explosive Payload",Eyes Up,"very good StL + EP kinetic option, not much else though",28,B
 ,Yesterday's Question,29,Arc,Heavy Burst,55,Yes,Fluted Barrel,"Flared Magwell
 Alloy Magazine
 Appended Mag","Dragonfly
@@ -139,8 +149,10 @@ Alloy Magazine","Headstone
 Rimestealer
 Shoot to Loot","Crystalline Corpsebloom
 Explosive Payload",Loss,"bad origin and frame, but good stasis combo and StL + EP",30,B
-,Bold Endings,24,Stasis,Heavy Burst,49,Yes,Fluted Barrel,"Flared Magwell
-Alloy Magazine",Headstone,Dragonfly,Dealer's Choice,like Solemn Remembrance but lower QoL archetype and Dragonfly worse,31,B
+,Bold Endings,29,Stasis,Heavy Burst,49,Yes,Fluted Barrel,"Flared Magwell
+Alloy Magazine","Headstone
+Rimestealer","Crystalline Corpsebloom
+Dragonfly",Dealer's Choice,like Solemn Remembrance but lower QoL archetype and Dragonfly worse,31,B
 ,Warden's Law,29,Kinetic,Heavy Burst,52,Yes,Fluted Barrel,"Flared Magwell
 Alloy Magazine
 Appended Mag","Demolitionist
@@ -173,91 +185,91 @@ Hatchling",Accelerated Assault,pretty mediocre perks in both columns,39,C
 Alloy Magazine","Stats for All
 Rimestealer","Headstone
 Explosive Payload",Dark Ether Reaper,Headstone + origin carries despite bad archetype and mid 1st column,40,C
+TBA,Something New,29,Stasis,Aggressive,51,Yes,Fluted Barrel,"Flared Magwell
+Alloy Magazine",Rimestealer,Headstone,Dream Work,like Exuviae but none of the cool stuff,41,C
 ,Waking Vigil,29,Arc,Adaptive,46,Yes,Fluted Barrel,"Flared Magwell
 Alloy Magazine",Light Touch,"Meganeura
-Voltshot",Advanced Reflexes,decent archetype with mediocre 1st column and decent 2nd,41,C
+Voltshot",Advanced Reflexes,decent archetype with mediocre 1st column and decent 2nd,42,C
+,Round Robin,29,Strand,Aggressive,52,Yes,Fluted Barrel,"Flared Magwell
+Alloy Magazine",Tear,"Hatchling
+Golden Tricorn",Nanotech Tracer Missiles,"Tear + Hatchling not bad, good origin, bad frame",43,C
+TBA,Sixth Sense,29,Strand,Aggressive,54,Yes,Fluted Barrel,"Flared Magwell
+Alloy Magazine",Explosive Payload,"Meganeura
+Hatchling
+Tear",Wild Card,"EP + decent splash perks, bad frame, bad perk diversity in 1st column",44,C
 ,The Palindrome,29,Arc,Adaptive,50,Yes,Fluted Barrel,"Flared Magwell
 Alloy Magazine","Explosive Payload
 Collective Demolition","Rolling Storm
-Master of Arms",Wild Card,no good splash perks on okay archetype,42,C
+Master of Arms",Wild Card,no good splash perks on okay archetype,45,C
 ,"Judgment
 RotN version",26,Stasis,Adaptive,50,Yes,Fastdraw HCS,"Flared Magwell
 Alloy Magazine","Headstone
 Demolitionist
 Rapid Hit","Timed Payload
-Rimestealer",Gravity Well,EP + Headstone on okay archetype,43,C
-,Judgment,23,Stasis,Adaptive,50,Yes,Fastdraw HCS,"Flared Magwell
+Rimestealer",Gravity Well,EP + Headstone on okay archetype,46,C
+,Judgment,29,Stasis,Adaptive,50,Yes,Fluted Barrel,"Flared Magwell
 Alloy Magazine","Headstone
-Demolitionist
-Enlightened Action",Timed Payload,Crossing Over,slightly worse perks and origin than RotN version,44,C
+Crystalline Corpsebloom","Rimestealer
+Timed Payload",Crossing Over,slightly worse perks and origin than RotN version,47,C
 ,D.F.A.,29,Kinetic,Adaptive,58,Yes,Fluted Barrel,"Flared Magwell
 Alloy Magazine","Explosive Payload
 Adhesive Ordnance","Frenzy
-Attrition Orbs",Accelerated Assault,very outdated perk combo design,45,D
-,Something New,24,Stasis,Aggressive,51,Yes,Fluted Barrel,"Flared Magwell
-Alloy Magazine","Rapid Hit
-Demolitionist","Headstone
-Explosive Payload
-Frenzy",Dream Work,like Exuviae but none of the cool stuff,46,D
+Attrition Orbs",Accelerated Assault,very outdated perk combo design,48,D
 ,Finite Impactor,27,Solar,Adaptive,49,Yes,Fluted Barrel,"Flared Magwell
 Alloy Magazine","Heal Clip
 Enlightened Action","Burning Ambition
-Precision Instrument",Skulking Wolf,bad HC damage perk,47,D
+Precision Instrument",Skulking Wolf,bad HC damage perk,49,D
 TBA,Solemn Lie,29,Arc,Lightweight,60,Yes,Fluted Barrel,"Flared Magwell
-Alloy Magazine",Trickle Charge,Rolling Storm,None,okay frame but very limited perks and no origin,48,D
-,Targeted Redaction,21,Void,Aggressive,49,Yes,Fluted Barrel,"Flared Magwell
+Alloy Magazine",Trickle Charge,Rolling Storm,None,okay frame but very limited perks and no origin,50,D
+,Targeted Redaction,29,Void,Aggressive,49,Yes,Fluted Barrel,"Flared Magwell
 Alloy Magazine",Outlaw,"Destabilizing Rounds
-Explosive Payload",Unsated Hunger,Destabilizing access but mediocre reload perk and bad archetype,49,D
+Explosive Payload",Unsated Hunger,Destabilizing access but mediocre reload perk and bad archetype,51,D
 ,True Prophecy,29,Arc,Aggressive,52,Yes,Fluted Barrel,"Flared Magwell
 Alloy Magazine","Light Touch
 Trickle Charge","Explosive Payload
 Jolting Feedback
-Dragonfly",Fail-deadly,"mediocre 1st column, bad frame, only EP for HC perks",50,D
+Dragonfly",Fail-deadly,"mediocre 1st column, bad frame, only EP for HC perks",52,D
 ,Combined Action,21,Arc,Aggressive,53,Yes,Fluted Barrel,"Flared Magwell
-Alloy Magazine",Eddy Current,Voltshot,Field-Tested,good reload perk but Voltshot on awful reload archetype,51,D
-,Round Robin,20,Strand,Aggressive,52,Yes,Fluted Barrel,"Flared Magwell
-Alloy Magazine","Keep Away
-Subsistence","Hatchling
-Golden Tricorn",Nanotech Tracer Missiles,origin decent but rest of package not that appealing,52,D
+Alloy Magazine",Eddy Current,Voltshot,Field-Tested,good reload perk but Voltshot on awful reload archetype,53,D
 ,Survivor's Epitaph,29,Kinetic,Precision,47,Yes,Fluted Barrel,"Flared Magwell
 Alloy Magazine",Rapid Hit,"Explosive Payload
 Frenzy
-One for All",Accelerated Assault,reload perk + Frenzy,53,E
+One for All",Accelerated Assault,reload perk + Frenzy,54,E
 ,Cantata-57,16,Arc,Adaptive,45,No,Fluted Barrel,"Flared Magwell
-Alloy Magazine",Rapid Hit,Timed Payload,Suros Synergy,reload perk + EP/TP,54,E
-,Optative,23,Void,Precision,54,Yes,Fluted Barrel,"Flared Magwell
+Alloy Magazine",Rapid Hit,Timed Payload,Suros Synergy,reload perk + EP/TP,55,E
+,Optative,29,Void,Precision,54,Yes,Fluted Barrel,"Flared Magwell
 Alloy Magazine","Repulsor Brace
 Demolitionist
 Attrition Orbs","Golden Tricorn
-Wellspring",Nano-Munitions,good origin and unique perks but not very impactful,55,E
-,IKELOS_HC_V1.0.3,19,Void,Precision,53,Yes,Fluted Barrel,"Flared Magwell
+Wellspring",Nano-Munitions,good origin and unique perks but not very impactful,56,E
+,IKELOS_HC_V1.0.3,29,Void,Precision,53,Yes,Fluted Barrel,"Flared Magwell
 Alloy Magazine",Rapid Hit,"Repulsor Brace
 Golden Tricorn
-Frenzy",Rasputin's Arsenal,"uptime-focused single target perks, not great",56,E
+Frenzy",Rasputin's Arsenal,"uptime-focused single target perks, not great",57,E
 ,Bottom Dollar,29,Void,Aggressive,59,Yes,Fluted Barrel,"Flared Magwell
 Alloy Magazine",Rapid Hit,"Dragonfly
-Explosive Payload",Gun and Run,reload perk + splash/EP/TP,57,E
+Explosive Payload",Gun and Run,reload perk + splash/EP/TP,58,E
 ,Annual Skate,15,Solar,Adaptive,52,No,Fastdraw HCS,"Flared Magwell
 Alloy Magazine",Outlaw,"Dragonfly
-Timed Payload",None,reload perk + splash/EP/TP,58,E
+Timed Payload",None,reload perk + splash/EP/TP,59,E
 ,Frontier's Cry,29,Solar,Precision,48,Yes,Fluted Barrel,"Flared Magwell
 Alloy Magazine","Rapid Hit
 Stats for All","One for All
-Kill Clip",Skulking Wolf,reload perk + dated damage perks,59,F
-,Austringer,17,Kinetic,Adaptive,53,Yes,Fluted Barrel,"Flared Magwell
+Kill Clip",Skulking Wolf,reload perk + dated damage perks,60,F
+,Austringer,29,Kinetic,Adaptive,53,Yes,Fluted Barrel,"Flared Magwell
 Alloy Magazine","Compulsive Reloader
-Outlaw",Frenzy,To Excess,reload perk + Frenzy,60,F
+Outlaw",Frenzy,To Excess,reload perk + Frenzy,61,F
 ,Nature of the Beast,11,Arc,Precision,57,No,Fastdraw HCS,"Flared Magwell
-Alloy Magazine",Subsistence,Dragonfly,None,bad reload perk + weak splash,61,F
+Alloy Magazine",Subsistence,Dragonfly,None,bad reload perk + weak splash,62,F
 ,Crisis Inverted,16,Arc,Adaptive,52,No,Fluted Barrel,"Flared Magwell
 Alloy Magazine","Demolitionist
 Shoot to Loot
-Rapid Hit",One for All,Suros Synergy,bad HC damage perk,62,F
+Rapid Hit",One for All,Suros Synergy,bad HC damage perk,63,F
 ,Pure Poetry,18,Kinetic,Aggressive,50,No,Fluted Barrel,"Flared Magwell
-Alloy Magazine",Shoot to Loot,Frenzy,Häkke Breach Armaments,basically just Frenzy on bad archetype,63,F
+Alloy Magazine",Shoot to Loot,Frenzy,Häkke Breach Armaments,basically just Frenzy on bad archetype,64,F
 ,Dire Promise,10,Kinetic,Adaptive,60,No,Fastdraw HCS,"Flared Magwell
-Alloy Magazine",Auto-Loading Holster,Swashbuckler,None,niche damage perk,64,F
+Alloy Magazine",Auto-Loading Holster,Swashbuckler,None,niche damage perk,65,F
 ,The Steady Hand,12,Kinetic,Aggressive,40,No,Fastdraw HCS,"Flared Magwell
-Alloy Magazine",Outlaw,Swashbuckler,None,niche damage perk,65,F
-,Kept Confidence,22,Strand,Adaptive,55,Yes,Fluted Barrel,"Flared Magwell
-Alloy Magazine",Loose Change,Collective Action,Head Rush,nothing redeeming,66,F
+Alloy Magazine",Outlaw,Swashbuckler,None,niche damage perk,66,F
+,Kept Confidence,29,Strand,Adaptive,55,Yes,Fluted Barrel,"Flared Magwell
+Alloy Magazine",Loose Change,Collective Action,Head Rush,nothing redeeming,67,F

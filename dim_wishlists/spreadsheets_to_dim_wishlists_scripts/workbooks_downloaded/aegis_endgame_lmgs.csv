@@ -1,8 +1,10 @@
 WEAPON,,INFO,,,,,PERKS,,,,,ANALYSIS,,
 🖼️,Name,Season,Energy,Frame,Ammo,⬆️,Barrel,Mag,Perk 1,Perk 2,Origin Trait,Notes,Rank,Tier
-,Song of Ir Yût,22,Arc,Adaptive,53,Yes,"Arrowhead Brake
+,Song of Ir Yût,29,Arc,Adaptive,53,Yes,"Arrowhead Brake
 Fluted Barrel",Appended Mag,"Demolitionist
-Reconstruction","High Ground
+Reconstruction
+Jolting Feedback","Mega Kill Clip
+High Ground
 Bait and Switch",Cursed Thrall,excellent origin trait and great neutral perks,1,S
 ,Qua Vinctus IV,28,Strand,High-Impact,38,Yes,"Arrowhead Brake
 Fluted Barrel",Extended Mag,"Demolitionist
@@ -14,12 +16,12 @@ Fluted Barrel",Appended Mag,"Demolitionist
 Incandescent","Meganeura
 Burning Ambition
 Mega Kill Clip",Winterized Gear,"very solid overall, just needs better origin",3,S
-,Pro Memoria,24,Strand,Aggressive,45,Yes,"Arrowhead Brake
+,Pro Memoria,29,Strand,Aggressive,45,Yes,"Arrowhead Brake
 Fluted Barrel",Extended Mag,"Demolitionist
 Reconstruction
-Hatchling","Desperate Measures
+Tear","Desperate Measures
 Bait and Switch
-Dragonfly",Dealer's Choice,solid origin and great neutral perks,4,S
+Mega Kill Clip",Dealer's Choice,solid origin and great neutral perks,4,S
 ,Circular Logic,29,Strand,Adaptive,51,Yes,"Arrowhead Brake
 Fluted Barrel",Extended Mag,"Firefly
 Demolitionist
@@ -32,7 +34,7 @@ Headstone
 Envious Arsenal","Dragonfly
 Rimestealer
 Killing Tally",Exhaustive Research,solid origin and great neutral perks,6,S
-,Corrective Measure,26,Void,Aggressive,50,Yes,"Arrowhead Brake
+,Corrective Measure,29,Void,Aggressive,50,Yes,"Arrowhead Brake
 Fluted Barrel",Tactical Mag,"Destabilizing Rounds
 Firefly
 Demolitionist","One for All
@@ -49,132 +51,138 @@ Dimensional Shift
 Collective Demolition","Mega Kill Clip
 Meganeura
 Killing Tally",Elliptical Orbit,best non-Demo LMG,9,S
+,Qullim's Terminus,29,Stasis,High-Impact,46,Yes,"Arrowhead Brake
+Fluted Barrel",Tactical Mag,Demolitionist,"Mega Kill Clip
+Crystalline Corpsebloom
+Headstone",Runneth Over,"finally got usable 1st column, solid package otherwise",10,S
 ,"Terminus Horizon
 RotN version",26,Arc,High-Impact,48,Yes,"Arrowhead Brake
 Fluted Barrel",Alloy Magazine,"Demolitionist
 Reconstruction
 Dragonfly","Rolling Storm
 Killing Tally
-Jolting Feedback",Gravity Well,"Arc splash perks mediocre on LMGs, great first column though",10,A
+Jolting Feedback",Gravity Well,"Arc splash perks mediocre on LMGs, great first column though",11,A
 ,Seventh Seraph SAW,29,Arc,High-Impact,40,Yes,"Arrowhead Brake
 Fluted Barrel",Appended Mag,"Reconstruction
 Trickle Charge","Meganeura
 Mega Kill Clip
-Rolling Storm",Eyes Up,no Demo but core perk combo is solid,11,A
+Rolling Storm",Eyes Up,no Demo but core perk combo is solid,12,A
 ,Terminus Horizon,29,Arc,High-Impact,48,Yes,"Arrowhead Brake
 Fluted Barrel",Alloy Magazine,"Meganeura
 Reconstruction
 Fourth Time's the Charm","Mega Kill Clip
-Rolling Storm",Tex Balanced Stock,"splash + damage perk option, Recon as well, no Demo",12,A
-,Commemoration,12,Void,Adaptive,55,Yes,"Arrowhead Brake
+Rolling Storm",Tex Balanced Stock,"splash + damage perk option, Recon as well, no Demo",13,A
+,Commemoration,29,Void,Adaptive,55,Yes,"Arrowhead Brake
 Fluted Barrel",Appended Mag,"Reconstruction
 Dragonfly
 Subsistence","Killing Tally
-Repulsor Brace",Bray Inheritance,solid neutral combos but nothing special,13,A
+Repulsor Brace
+Redirection",Bray Inheritance,solid neutral combos but nothing special,14,A
 TBA,DIABLERETS 06,29,Strand,Rapid,33,Yes,"Arrowhead Brake
 Fluted Barrel",Appended Mag,"Auto-Loading Holster
 Hatchling","Meganeura
 Redirection
-Killing Tally",Carrion Munitions,"not bad, first column a little lacking",14,A
+Killing Tally",Carrion Munitions,"not bad, first column a little lacking",15,A
 ,Avalanche,25,Solar,Adaptive,40,Yes,"Arrowhead Brake
 Fluted Barrel",Tactical Mag,"Auto-Loading Holster
 Subsistence
 Dragonfly","Incandescent
 Cascade Point
-Golden Tricorn",Dawning Surprise,"decent first column, splash in second but no consistent damage perk",15,A
+Golden Tricorn",Dawning Surprise,"decent first column, splash in second but no consistent damage perk",16,A
 ,Unwavering Duty,27,Solar,Adaptive,58,Yes,"Arrowhead Brake
 Fluted Barrel",Extended Mag,"Incandescent
 Fourth Time's the Charm
 Auto-Loading Holster","Killing Tally
 Target Lock
-Burning Ambition",Roar of Battle,"no Demo in first column, splash in first is interesting but combos aren't great",16,A
+Burning Ambition",Roar of Battle,"no Demo in first column, splash in first is interesting but combos aren't great",17,A
 TBA,Temporal Clause,29,Solar,Aggressive,36,Yes,"Arrowhead Brake
 Fluted Barrel",Extended Mag,"Demolitionist
 Meganeura
 Incandescent","Mega Kill Clip
 Burning Ambition
-Killing Tally",Fail-deadly,"similar to Hammerhead, lethal double damage perk combos",17,A
+Killing Tally",Fail-deadly,"similar to Hammerhead, lethal double damage perk combos",18,A
 TBA,"Hammerhead
 BRAVE version",29,Void,Adaptive,40,Yes,"Arrowhead Brake
 Fluted Barrel",Extended Mag,"Demolitionist
 Destabilizing Rounds
 Dimensional Shift","Mega Kill Clip
-Desperate Measures",Forge's Kin,"decent, just lacks a splash perk to pair with Demo",18,A
-,Speleologist,24,Solar,Rapid,29,Yes,"Arrowhead Brake
+Desperate Measures",Forge's Kin,"decent, just lacks a splash perk to pair with Demo",19,A
+TBA,Dawn Far Off,29,Solar,Aggressive,35,Yes,"Arrowhead Brake
+Fluted Barrel",Extended Mag,"Burning Ambition
+Impromptu Ammunition
+Subsistence","Incandescent
+Meganeura
+Redirection",Dream Work,"no reload perk hurts, but origin helps and other perks are lethal",20,A
+,Speleologist,29,Solar,Rapid,29,Yes,"Arrowhead Brake
 Fluted Barrel",Appended Mag,"Envious Assassin
 Heal Clip
 Deconstruct","Incandescent
 Killing Tally
-One For All",Radiolaria Transposer,"Envious usable on LMGs, great origin, just missing good loader perk",19,A
+One For All",Radiolaria Transposer,"Envious usable on LMGs, great origin, just missing good loader perk",21,A
 ,Archon's Thunder,29,Stasis,High-Impact,41,Yes,"Arrowhead Brake
 Fluted Barrel",Tactical Mag,"Rimestealer
 Air Trigger
 Fourth Time's the Charm","Headstone
 Desperate Measures
-Killing Tally",Skulking Wolf,"classic stasis perk combo, just no good loader perk",20,A
+Killing Tally",Skulking Wolf,"classic stasis perk combo, just no good loader perk",22,A
 ,Watchful Eye,29,Arc,Aggressive,36,Yes,"Arrowhead Brake
 Fluted Barrel",Appended Mag,"Overflow
 Field Prep","Jolting Feedback
 Killing Tally
-Rolling Storm",Runneth Over,"Arc splash perks mediocre on LMGs, okay first column",21,A
+Rolling Storm",Runneth Over,"Arc splash perks mediocre on LMGs, okay first column",23,A
 ,Marcato-45,23,Strand,Adaptive,60,Yes,"Arrowhead Brake
 Fluted Barrel",Extended Mag,Demolitionist,"Hatchling
 Golden Tricorn
-Onslaught",Suros Synergy,Demo + decent second column on okay archetype,22,B
+Onslaught",Suros Synergy,Demo + decent second column on okay archetype,24,B
 TBA,21% Delirium,29,Arc,Rapid,45,Yes,"Arrowhead Brake
 Fluted Barrel",Appended Mag,"Reconstruction
 Overflow
 Fourth Time's the Charm","Mega Kill Clip
-Killing Tally",Gun and Run,no Demo and no good splash perks but solid QoL performance,23,B
-,Recurrent Impact,16,Stasis,Rapid,43,Yes,"Arrowhead Brake
+Killing Tally",Gun and Run,no Demo and no good splash perks but solid QoL performance,25,B
+,Recurrent Impact,29,Stasis,Rapid,43,Yes,"Arrowhead Brake
 Fluted Barrel",Tactical Mag,"Subsistence
 Field Prep","One for All
-Headstone",Land Tank,great origin + mediocre first column,24,B
+Headstone",Land Tank,great origin + mediocre first column,26,B
 ,A Fine Memorial,29,Arc,Adaptive,46,Yes,"Arrowhead Brake
 Fluted Barrel",Extended Mag,"Auto-Loading Holster
 Impromptu Ammunition
 Lead from Light","Meganeura
-Mega Kill Clip",Loss,"okay first column, Meganeura in 2nd but not much else",25,B
+Mega Kill Clip",Loss,"okay first column, Meganeura in 2nd but not much else",27,B
 ,Qua Xaphan V,22,Void,High-Impact,42,Yes,"Arrowhead Brake
 Fluted Barrel",Alloy Magazine,"Field Prep
 Triple Tap
 Slideways","Destabilizing Rounds
 Adrenaline Junkie
-Dragonfly",Wild Card,good origin but bad first column,26,B
-,Fixed Odds,17,Solar,High-Impact,37,Yes,"Arrowhead Brake
+Dragonfly",Wild Card,good origin but bad first column,28,B
+,Fixed Odds,29,Solar,High-Impact,37,Yes,"Arrowhead Brake
 Fluted Barrel",Extended Mag,Field Prep,"Incandescent
-Killing Tally",To Excess,"no loader perk, good archetype + splash perk though",27,B
+Killing Tally",To Excess,"no loader perk, good archetype + splash perk though",29,B
 ,Bitter End,28,Arc,Balanced (900RPM),12,Yes,"Arrowhead Brake
 Fluted Barrel",Light Heatsink,"Trickle Charge
 Cooling Baubles
 Eddy Current","Rolling Storm
 Killing Tally
-Jolting Feedback",Imperial Allegiance,"questionable first column but solid 2nd column for arc, awful ammo gen",28,B
+Jolting Feedback",Imperial Allegiance,"questionable first column but solid 2nd column for arc, awful ammo gen",30,B
 ,Qua Furor V,26,Stasis,Aggressive,39,Yes,"Arrowhead Brake
 Fluted Barrel",Extended Mag,"Feeding Frenzy
 Rimestealer","Dragonfly
 Golden Tricorn
-One for All",Wild Card,good origin but mediocre perks,29,B
-,Planck's Stride,18,Arc,Rapid,36,Yes,"Arrowhead Brake
+One for All",Wild Card,good origin but mediocre perks,31,B
+,Planck's Stride,29,Arc,Rapid,36,Yes,"Arrowhead Brake
 Fluted Barrel",Appended Mag,Grave Robber,"Swashbuckler
-Pugilist",Right Hook,decent melee combo but overshadowed by plenty of other options,30,C
+Pugilist",Right Hook,decent melee combo but overshadowed by plenty of other options,32,C
 ,Shattered Cipher,14,Void,Rapid,37,No,"Arrowhead Brake
 Fluted Barrel",Extended Mag,"Auto-Loading Holster
 Field Prep","Adrenaline Junkie
-Surrounded",None,ALH but mediocre second column with awful recoil,31,C
-,Retrofit Escapade,19,Void,Rapid,29,Yes,"Arrowhead Brake
+Surrounded",None,ALH but mediocre second column with awful recoil,33,C
+,Retrofit Escapade,29,Void,Rapid,29,Yes,"Arrowhead Brake
 Fluted Barrel",Appended Mag,"Fourth Time's the Charm
 Field Prep
 Feeding Frenzy","One for All
-Golden Tricorn",Ambush,mediocre first and second column,32,C
-,Qullim's Terminus,18,Stasis,High-Impact,46,Yes,"Arrowhead Brake
-Fluted Barrel",Tactical Mag,"Ensemble
-Unrelenting","Firefly
-Headstone
-Killing Tally",Runneth Over,would've been decent with any other first column,33,D
+Golden Tricorn",Ambush,mediocre first and second column,34,C
 ,THE SWARM,20,Arc,High-Impact,49,No,"Arrowhead Brake
 Fluted Barrel",Appended Mag,Feeding Frenzy,"Dragonfly
-Golden Tricorn",Vanguard's Vindication,no loader perk and mediocre splash perk + damage perk,34,E
-,Eleatic Principle,22,Arc,Rapid,43,Yes,"Arrowhead Brake
+Golden Tricorn",Vanguard's Vindication,no loader perk and mediocre splash perk + damage perk,35,E
+,Eleatic Principle,29,Arc,Rapid,43,Yes,"Arrowhead Brake
 Fluted Barrel",Appended Mag,Ensemble,"Golden Tricorn
-Target Lock",Head Rush,awful all around,35,F
+Target Lock",Head Rush,awful all around,36,F

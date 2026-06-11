@@ -13,13 +13,13 @@ Close to Melee
 Chain Reaction","Chaos Reshaped
 Mega Kill Clip
 Replenishing Aegis",Heretical Behavior,"only Slice glaive, very unique perk combos",2,S
-,Forthcoming Deviance,24,Void,Rapid,65,28,Yes,"Lightweight Emitter
+,Forthcoming Deviance,29,Void,Rapid,65,28,Yes,"Lightweight Emitter
 Auxiliary Reserves","Appended Mag
-Swap Mag","Impulse Amplifier
-Grave Robber
-Demolitionist","Close to Melee
-Chaos Reshaped
-Destabilizing Rounds",Collective Purpose,"only glaive with Chaos Reshaped access, solid neutral perks too",3,S
+Swap Mag","Repulsor Brace
+Dimensional Shift
+Impulse Amplifier","Destabilizing Rounds
+Close to Melee
+Chaos Reshaped",Collective Purpose,"only glaive with Chaos Reshaped access, solid neutral perks too",3,S
 ,The Heron,28,Void,Aggressive,52,39,Yes,"Lightweight Emitter
 Auxiliary Reserves","Appended Mag
 Swap Mag","Repulsor Brace
@@ -27,42 +27,51 @@ Disruption Break
 Lead from Gold","Destabilizing Rounds
 Close to Melee
 Redirection","Nail, Meet Hammer",probably BiS pairing with Techsec 4pc,4,S
-,Nezarec's Whisper,17,Arc,Adaptive,50,42,Yes,"Lightweight Emitter
+,Lubrae's Ruin,29,Solar,Adaptive,40,40,Yes,"Lightweight Emitter
+Auxiliary Reserves","Appended Mag
+Swap Mag","Close to Melee
+Grave Robber
+Frenzy","Chaos Reshaped
+Incandescent
+Unrelenting",Souldrinker,"not the best Souldrinker user, decent package though",5,S
+,Nezarec's Whisper,29,Arc,Adaptive,50,42,Yes,"Lightweight Emitter
 Auxiliary Reserves","Appended Mag
 Swap Mag","Demolitionist
 Impulse Amplifier
-Lead from Gold",Frenzy,Extrovert,"Extrovert triggers on melee kills, decent neutral perks too",5,S
+Lead from Gold",Frenzy,Extrovert,"Extrovert triggers on melee kills, decent neutral perks too",6,S
 ,Ecliptic Distaff,29,Void,Adaptive,41,47,Yes,"Lightweight Emitter
 Auxiliary Reserves","Appended Mag
 Swap Mag","Repulsor Brace
 Impulse Amplifier
 Disruption Break","Close to Melee
 Destabilizing Rounds
-Chaos Reshaped",Vanguard Determination,"jack of all trades, also has Withering Gaze access",6,S
+Chaos Reshaped",Vanguard Determination,"jack of all trades, also has Withering Gaze access",7,S
 ,Greasy Luck,29,Solar,Rapid,64,18,Yes,"Lightweight Emitter
 Auxiliary Reserves","Appended Mag
 Swap Mag","Chaos Reshaped
 Reconstruction
 Heal Clip","Close to Melee
 Mega Kill Clip
-Chain Reaction",Restoration Ritual,Chaos Reshaped and solid 2nd column,7,S
+Chain Reaction",Restoration Ritual,Chaos Reshaped and solid 2nd column,8,S
+,The Enigma,29,Void,Adaptive,45,45,Yes,"Lightweight Emitter
+Auxiliary Reserves","Appended Mag
+Swap Mag","Impulse Amplifier
+Lead from Gold","Close to Melee
+Frenzy",Psychohack,"solid origin and straightforward QoL perks, great shield duration",9,S
 ,Unexpected Resurgence,21,Arc,Adaptive,51,50,No,"Lightweight Emitter
 Auxiliary Reserves","Appended Mag
 Swap Mag","Auto-Loading Holster
 Impulse Amplifier
 Replenishing Aegis","Frenzy
 Close to Melee
-Voltshot",Alacrity,"ALH is interesting but perks aren't stellar, best shield duration though",8,A
-,The Enigma,16,Void,Adaptive,45,45,Yes,"Lightweight Emitter
-Auxiliary Reserves","Appended Mag
-Swap Mag",Impulse Amplifier,Frenzy,Psychohack,"solid origin and straightforward QoL perks, great shield duration",9,A
+Voltshot",Alacrity,"ALH is interesting but perks aren't stellar, best shield duration though",10,A
 ,Backfang,29,Arc,Rapid,65,27,Yes,"Lightweight Emitter
 Auxiliary Reserves","Appended Mag
 Swap Mag","Impulse Amplifier
 Grave Robber
 Lead from Gold","Surrounded
 Close to Melee
-Voltshot",Gun and Run,better shield duration than Greasy with similar perks/origin,10,A
+Voltshot",Gun and Run,better shield duration than Greasy with similar perks/origin,11,A
 ,"Greasy Luck
 RotN version",26,Solar,Rapid,64,18,Yes,"Lightweight Emitter
 Auxiliary Reserves","Appended Mag
@@ -70,15 +79,8 @@ Swap Mag","Reconstruction
 Lead from Gold
 Heal Clip","Incandescent
 Redirection
-Close to Melee",Restoration Ritual,"interesting utility perks in both columns, awful shield duration",11,A
-,Lubrae's Ruin,16,Solar,Adaptive,40,40,Yes,"Lightweight Emitter
-Auxiliary Reserves","Appended Mag
-Swap Mag","Immovable Object
-Sleight of Hand
-Grave Robber","Unstoppable Force
-Surrounded
-Swashbuckler",Souldrinker,"not the best Souldrinker user, decent package though",12,B
-,Judgment of Kelgorath,19,Solar,Aggressive,35,25,Yes,"Lightweight Emitter
+Close to Melee",Restoration Ritual,"interesting utility perks in both columns, awful shield duration",12,A
+,Judgment of Kelgorath,29,Solar,Aggressive,35,25,Yes,"Lightweight Emitter
 Auxiliary Reserves","Appended Mag
 Swap Mag","Overflow
 Demolitionist

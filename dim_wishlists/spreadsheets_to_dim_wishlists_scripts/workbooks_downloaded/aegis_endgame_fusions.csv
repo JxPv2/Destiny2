@@ -38,32 +38,36 @@ Enhanced Battery","Overflow
 Slice","Aggregate Charge
 Controlled Burst
 Surrounded",Featherweight,Scatter Signal with a better frame and 2nd column,6,S
-,Scatter Signal,23,Strand,Rapid,52,Yes,"Fluted Barrel
+,Scatter Signal,29,Strand,Rapid,52,Yes,"Fluted Barrel
 Arrowhead Brake","Accelerated Coils
 Enhanced Battery","Overflow
 Slice",Controlled Burst,Dragon's Vengeance,"Slice utility helpful in some cases, e. Overflow still good synergy",7,S
+,Techeun Force,29,Arc,Adaptive,29,Yes,"Fluted Barrel
+Arrowhead Brake","Accelerated Coils
+Enhanced Battery","Rewind Rounds
+Demolitionist
+Collective Demolition","Controlled Burst
+Aggregate Charge",Explosive Pact,arguably highest QoL dump fusion,8,A
 ,Finite Maybe,27,Solar,Aggressive,33,Yes,Fluted Barrel,"Accelerated Coils
 Enhanced Battery","Reconstruction
 Incandescent
 Demolitionist","Bait and Switch
 Controlled Burst
-Discord",Frame of Reference,"range limitations, but great perks, also best user of unique minor scalar",8,A
+Discord",Frame of Reference,"range limitations, but great perks, also best user of unique minor scalar",9,A
 TBA,TAHOMA 01,29,Strand,Aggressive,38,Yes,"Fluted Barrel
 Arrowhead Brake","Accelerated Coils
 Enhanced Battery","Overflow
 Collective Demolition
 Lead from Gold","Aggregate Charge
 Controlled Burst
-Collective Pugilism",Carrion Munitions,"mediocre frame, perks are alright for damage, interesting ability gen",9,A
-,Zealot's Reward,25,Void,Rapid,52,Yes,"Fluted Barrel
+Collective Pugilism",Carrion Munitions,"mediocre frame, perks are alright for damage, interesting ability gen",10,A
+,Zealot's Reward,29,Void,Rapid,52,Yes,"Fluted Barrel
 Arrowhead Brake","Accelerated Coils
 Enhanced Battery","Auto-Loading Holster
 Lead from Gold
 Destabilizing Rounds","Controlled Burst
-Reservoir Burst",Photoinhibition,"high QoL swap weapon for Tractor fusion loadouts, not amazing",10,A
-,Techeun Force,21,Arc,Adaptive,29,Yes,"Fluted Barrel
-Arrowhead Brake","Accelerated Coils
-Enhanced Battery",Rewind Rounds,Controlled Burst,Explosive Pact,arguably highest QoL dump fusion,11,A
+Reservoir Burst
+Withering Gaze",Photoinhibition,"mediocre setup for damage perks, has roam stuff and Withering",11,A
 ,Glacioclasm,25,Void,High-Impact,26,Yes,"Fluted Barrel
 Arrowhead Brake","Accelerated Coils
 Enhanced Battery","Envious Assassin
@@ -107,7 +111,7 @@ Enhanced Battery","Reconstruction
 Slideways","Reservoir Burst
 Controlled Burst
 Voltshot",Stunning Recovery,"worst frame, solid perks on recent release",18,B
-,Axial Lacuna,24,Solar,Precision,30,Yes,"Fluted Barrel
+,Axial Lacuna,29,Solar,Precision,30,Yes,"Fluted Barrel
 Arrowhead Brake","Accelerated Coils
 Enhanced Battery","Reconstruction
 Demolitionist
@@ -125,7 +129,7 @@ Arrowhead Brake","Accelerated Coils
 Enhanced Battery","Rewind Rounds
 Impromptu Ammunition","Discord
 Gear Shift",Forge's Kin,"confusing perk pool, not really strong in any one thing",21,B
-,Royal Executioner,20,Solar,Adaptive,34,Yes,"Fluted Barrel
+,Royal Executioner,29,Solar,Adaptive,34,Yes,"Fluted Barrel
 Arrowhead Brake","Accelerated Coils
 Enhanced Battery","Envious Assassin
 Lead from Gold","Reservoir Burst
@@ -136,7 +140,7 @@ Enhanced Battery","Envious Assassin
 Overflow
 Demolitionist","Controlled Burst
 Reservoir Burst",Stunning Recovery,overflow perk + consistent damage perk + low QoL frame,23,B
-,The Eremite,22,Solar,High-Impact,21,Yes,"Fluted Barrel
+,The Eremite,29,Solar,High-Impact,21,Yes,"Fluted Barrel
 Arrowhead Brake","Accelerated Coils
 Enhanced Battery","Envious Assassin
 Lead from Gold","Controlled Burst
@@ -149,9 +153,12 @@ Lead from Gold",Controlled Burst,Wild Card,overflow perk + consistent damage per
 Arrowhead Brake","Accelerated Coils
 Enhanced Battery","Auto-Loading Holster
 Discord",Vorpal Weapon,Skulking Wolf,good loader perk but decent frame and mediocre damage perk,26,B
-,Deliverance,16,Stasis,Precision,39,Yes,"Fluted Barrel
+,Deliverance,29,Stasis,Precision,39,Yes,"Fluted Barrel
 Arrowhead Brake","Accelerated Coils
-Enhanced Battery",Demolitionist,Chill Clip,Souldrinker,"decent grenade returns, slow charge but still 2 shot freeze",27,C
+Enhanced Battery","Demolitionist
+Crystalline Corpsebloom","Chill Clip
+Controlled Burst
+Chain Reaction",Souldrinker,"decent grenade returns, slow charge but still 2 shot freeze",27,C
 ,Main Ingredient,29,Arc,Precision,40,Yes,"Fluted Barrel
 Arrowhead Brake","Accelerated Coils
 Enhanced Battery","Trickle Charge
@@ -166,9 +173,10 @@ Crystalline Corpsebloom",Accelerated Assault,"outdated damage perks, mediocre ro
 ,Resounding,29,Strand,Aggressive,38,Yes,Fluted Barrel,"Accelerated Coils
 Enhanced Battery",Slice,"Aggregate Charge
 Hatchling",Vanguard's Vindication,doesn't know what it wants to do,30,C
-,Midha's Reckoning,18,Arc,High-Impact,28,Yes,"Fluted Barrel
+,Midha's Reckoning,29,Arc,High-Impact,28,Yes,"Fluted Barrel
 Arrowhead Brake","Accelerated Coils
-Enhanced Battery",Field Prep,Reservoir Burst,Runneth Over,no ammo gen add clear fusion,31,C
+Enhanced Battery",Field Prep,"Reservoir Burst
+Gear Shift",Runneth Over,no ammo gen add clear fusion,31,C
 ,Aurvandil FR6,29,Stasis,High-Impact,19,Yes,"Fluted Barrel
 Arrowhead Brake","Accelerated Coils
 Enhanced Battery",Reconstruction,Chill Clip,Omolon Fluid Dynamics,bad QoL for a Chill Clip fusion even if perk combo is decent,32,D
@@ -177,15 +185,16 @@ Enhanced Battery","Dimensional Shift
 Lead from Gold
 Impromptu Ammunition","Destabilizing Rounds
 Controlled Burst",Winterized Gear,"no good reload perk, no Repulsor, bad frame",33,D
+,Iterative Loop,29,Arc,Rapid,50,Yes,"Fluted Barrel
+Arrowhead Brake","Accelerated Coils
+Enhanced Battery",Lead from Gold,"Controlled Burst
+Voltshot
+Demolitionist",Nanotech Tracer Missiles,"awful 1st column, mostly irrelevant 2nd column",34,D
 ,Exile's Curse,29,Arc,High-Impact,26,Yes,"Fluted Barrel
 Arrowhead Brake","Accelerated Coils
 Enhanced Battery","Heal Clip
 Slideshot","Incandescent
-Vorpal Weapon",Wild Card,"awful frame for Heal Clip, non-starter for damage",34,D
-,Iterative Loop,20,Arc,Rapid,50,Yes,"Fluted Barrel
-Arrowhead Brake","Accelerated Coils
-Enhanced Battery",Lead from Gold,"Voltshot
-Demolitionist",Nanotech Tracer Missiles,Lead + mediocre add clear perk,35,D
+Vorpal Weapon",Wild Card,"awful frame for Heal Clip, non-starter for damage",35,D
 ,Hollow Words,26,Arc,Precision,26,Yes,"Fluted Barrel
 Arrowhead Brake","Accelerated Coils
 Enhanced Battery",Lead from Gold,Vorpal Weapon,Paracausal Fluid,worst frame with Lead + okay damage perk,36,E
@@ -199,9 +208,10 @@ Enhanced Battery",Lead from Gold,Frenzy,None,Lead + less consistent damage perk 
 Arrowhead Brake","Accelerated Coils
 Enhanced Battery",Surplus,"Frenzy
 Reservoir Burst",Omolon Fluid Dynamics,worst frame with bad 1st column and inconsistent damage perk,39,E
-,Likely Suspect,16,Void,Rapid,52,Yes,"Fluted Barrel
+,Likely Suspect,29,Void,Rapid,52,Yes,"Fluted Barrel
 Arrowhead Brake","Accelerated Coils
-Enhanced Battery",Slideways,Golden Tricorn,Psychohack,awful boss damage perk even if craftable and good frame,40,F
+Enhanced Battery","Repulsor Brace
+Dimensional Shift",Destabilizing Rounds,Psychohack,add clear fusion with no ammo perk,40,F
 ,Trinary System,13,Solar,Adaptive,40,No,"Fluted Barrel
 Arrowhead Brake","Accelerated Coils
 Enhanced Battery",Auto-Loading Holster,"High-Impact Reserves
@@ -210,6 +220,6 @@ Demolitionist",Gun and Run,bad damage perk on okay frame,41,F
 Enhanced Battery","Lead from Gold
 Auto-Loading Holster
 Field Prep",Demolitionist,None,no damage perk on okay frame,42,F
-,The Epicurean,17,Void,Precision,39,Yes,"Fluted Barrel
+,The Epicurean,29,Void,Precision,39,Yes,"Fluted Barrel
 Arrowhead Brake","Accelerated Coils
 Enhanced Battery",Ensemble,Repulsor Brace,To Excess,no damage perk on bad frame,43,F
