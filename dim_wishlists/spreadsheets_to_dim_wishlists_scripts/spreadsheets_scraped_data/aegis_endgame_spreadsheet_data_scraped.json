@@ -6,7 +6,7 @@
       "patch": "Pantheon 2.0"
     },
     "link": "https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY",
-    "scrape_date": "2026-06-11 20:06:02"
+    "scrape_date": "2026-06-12 02:44:34"
   },
   "workbooks": {
     "Shopping List": {
@@ -26505,7 +26505,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
+          "notes": "NEED TESTING",
           "description": "",
           "alternatives": "",
           "analysis": {
