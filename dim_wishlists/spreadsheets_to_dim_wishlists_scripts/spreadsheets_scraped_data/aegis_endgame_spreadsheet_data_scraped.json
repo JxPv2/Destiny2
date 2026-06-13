@@ -6,7 +6,7 @@
       "patch": "Pantheon 2.0"
     },
     "link": "https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY",
-    "scrape_date": "2026-06-12 02:44:34"
+    "scrape_date": "2026-06-13 17:13:35"
   },
   "workbooks": {
     "Shopping List": {
@@ -8544,7 +8544,8 @@
           ],
           "perk2": [
             "Rolling Storm",
-            "Master of Arms"
+            "Master of Arms",
+            "Voltshot"
           ],
           "origin_trait": [
             "Wild Card"
@@ -31778,6 +31779,53 @@
           }
         }
       },
+      "Willful Hamartia": {
+        "weapon_name": "Willful Hamartia",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Arrowhead Brake"
+          ],
+          "column2": [
+            "Accelerated Coils",
+            "Enhanced Battery"
+          ],
+          "perk1": [
+            "Envious Assassin"
+          ],
+          "perk2": [
+            "Bait and Switch",
+            "Precision Instrument"
+          ],
+          "origin_trait": [
+            "Wild Card"
+          ]
+        },
+        "info": {
+          "rank": "10",
+          "tier": "B",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "bad reload perk and subpar main damage perks",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
       "Taipan-4fr": {
         "weapon_name": "Taipan-4fr",
         "version": "",
@@ -31800,7 +31848,7 @@
           ]
         },
         "info": {
-          "rank": "10",
+          "rank": "11",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -31846,7 +31894,7 @@
           ]
         },
         "info": {
-          "rank": "11",
+          "rank": "12",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -31892,7 +31940,7 @@
           ]
         },
         "info": {
-          "rank": "12",
+          "rank": "13",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -31939,7 +31987,7 @@
           ]
         },
         "info": {
-          "rank": "13",
+          "rank": "14",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -31986,7 +32034,7 @@
           ]
         },
         "info": {
-          "rank": "14",
+          "rank": "15",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -32033,7 +32081,7 @@
           ]
         },
         "info": {
-          "rank": "15",
+          "rank": "16",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -32077,7 +32125,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "16",
+          "rank": "17",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -32121,7 +32169,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "17",
+          "rank": "18",
           "tier": "E",
           "priority": "",
           "role": "",
@@ -32165,7 +32213,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "18",
+          "rank": "19",
           "tier": "E",
           "priority": "",
           "role": "",
