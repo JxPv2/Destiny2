@@ -100,14 +100,6 @@ Destiny 2's loadout grid is **4 columns × 5 rows** (20 loadouts total).
 
 The script calculates the click position from `start_x`, `start_y`, and `offset`.
 
-## Finding Your Coordinates
-
-1. Open Destiny 2 and display the loadout menu.
-2. Use any screen coordinate tool (e.g. built-in Windows Magnifier, or a simple Python script with `pyautogui.displayMousePosition()`).
-3. Hover over **loadout 1** (top-left) and note the X, Y values.
-4. Hover over **loadout 2** (to the right) and note the difference in X — that's your `offset`.
-5. Update `config.json` and restart.
-
 ## Usage
 
 ```bash
