@@ -1,0 +1,61 @@
+{
+    // --- UI Navigation Keys ---
+    // Keys used to open/close the in-game loadout menu.
+    // NOTE: menu_key / nav_key / exit_key use pyautogui key names.
+    "menu_key": "f1",
+    "nav_key": "left",
+    "exit_key": "pause",
+
+    // --- Grid Position ---
+    // Starting coordinates for loadout 1 (top-left) and pixel spacing.
+    // 1920*1080: start_x=115 | start_y=384 | offset=97
+    "start_x": 115,
+    "start_y": 384,
+    "offset": 97,
+
+    // --- Timing (seconds) ---
+    // Increase these if your system or game is running at low FPS.
+    "delay_menu_open": 0.45,
+    "delay_nav": 0.45,
+    "delay_click": 0.45,
+
+    // --- Window Focus Guard ---
+    // The macro only fires if the active window title contains ANY of these.
+    "window_title_substrings": ["Destiny 2"],
+
+    // --- Keybind Format Guide ---
+    // Modifiers must be written in this exact order: ctrl, shift, alt, cmd
+    //   "1" to "0"                 = top-row number keys
+    //   "numpad_1" to "numpad_0"   = numpad keys
+    //   "-" or "+"                 = minus / plus keys
+    //   "ctrl_1"                   = hold Ctrl + press 1
+    //   "shift_numpad_1"           = hold Shift + press numpad 1
+    //   "alt_q"                    = hold Alt + press q
+    //   "ctrl_shift_1"             = hold Ctrl+Shift + press 1
+    "keybinds": {
+        "loadout1":  "numpad_1",
+        "loadout2":  "numpad_2",
+        "loadout3":  "numpad_3",
+        "loadout4":  "",
+        "loadout5":  "numpad_4",
+        "loadout6":  "numpad_5",
+        "loadout7":  "numpad_6",
+        "loadout8":  "",
+        "loadout9":  "numpad_7",
+        "loadout10": "numpad_8",
+        "loadout11": "numpad_9",
+        "loadout12": "",
+        "loadout13": "/",
+        "loadout14": "*",
+        "loadout15": "-",
+        "loadout16": "",
+        "loadout17": "",
+        "loadout18": "",
+        "loadout19": "",
+        "loadout20": ""
+    },
+
+    // --- Extra ---
+    "reload_key": "home",
+    "debug": false
+}
