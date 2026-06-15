@@ -1,3 +1,5 @@
+# NOT WORKING WITH LAST VERSION OF THE GAME (MACRO WRITTEN FOR 10 SLOT ONLY)
+
 ## Requirements
 install python in system path
 
