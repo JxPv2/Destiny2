@@ -4,7 +4,7 @@ WEAPON,,INFO,,,,,PERKS,,,,,ANALYSIS,,
 Burning Ambition","Chaos Reshaped
 Attrition Orbs
 Incandescent",Dealer's Choice,"on-demand survivability on any class, Benevolence synergy",1,S
-TBA,DECATUR 02,29,Stasis,Support,54,Yes,Full Bore,Accurized Rounds,"Physic
+,DECATUR 02,29,Stasis,Support,54,Yes,Full Bore,Accurized Rounds,"Physic
 Attrition Orbs
 Crystalline Corpsebloom","Reciprocity
 Master of Arms
@@ -16,11 +16,15 @@ Desperate Measures
 Tear",Heretical Behavior,"no self-healing if Physic taken, but basically Navigator at home",3,S
 ,Reckless Oracle,29,Void,Rapid,54,Yes,"Fluted Barrel
 Arrowhead Brake","Flared Magwell
+Alloy Magazine",,,,,4,S
+,"Reckless Oracle
+Pantheon version",29,Void,Rapid,54,Yes,"Fluted Barrel
+Arrowhead Brake","Flared Magwell
 Alloy Magazine","Destabilizing Rounds
 Dimensional Shift
 Collective Demolition","Repulsor Brace
 Chaos Reshaped
-Withering Gaze",Elliptical Orbit,"every relevant void perk and Chaos to boot, great all around",4,S
+Withering Gaze",Elliptical Orbit,"every relevant void perk and Chaos to boot, great all around",,
 ,Cusp Sempiternal,27,Void,Support,51,Yes,Full Bore,Accurized Rounds,"Reciprocity
 Repulsor Brace
 Attrition Orbs","Destabilizing Rounds
@@ -43,7 +47,7 @@ Alloy Magazine","Incandescent
 Heal Clip
 Demolitionist","Burning Ambition
 Frenzy",Winterized Gear,"solid double splash, just a disappointing origin",8,A
-TBA,The Ringing Nail,29,Solar,Precision,50,Yes,"Fluted Barrel
+,The Ringing Nail,29,Solar,Precision,50,Yes,"Fluted Barrel
 Arrowhead Brake","Flared Magwell
 Alloy Magazine","Incandescent
 Heal Clip
@@ -97,7 +101,7 @@ Alloy Magazine","Bewildering Burst
 Stopping Power","Kinetic Tremors
 Ancillary Ordinance
 All-Star",Splicer Surge,"class kinetic combos, okay origin, good frame",18,A
-TBA,Snipehunt Mk. 47,29,Arc,Lightweight,48,Yes,"Fluted Barrel
+,Snipehunt Mk. 47,29,Arc,Lightweight,48,Yes,"Fluted Barrel
 Arrowhead Brake","Flared Magwell
 Alloy Magazine",Jolting Feedback,"Chaos Reshaped
 Voltshot
@@ -117,13 +121,13 @@ Arrowhead Brake","Flared Magwell
 Alloy Magazine","Rewind Rounds
 Shoot to Loot
 Impromptu Ammunition",Kinetic Tremors,Exhaustive Research,would be excellent with Attrition Orbs but still great,22,B
-TBA,Pluperfect,29,Kinetic,High-Impact,50,Yes,"Fluted Barrel
+,Pluperfect,29,Kinetic,High-Impact,50,Yes,"Fluted Barrel
 Arrowhead Brake","Flared Magwell
 Alloy Magazine","Stopping Power
 Demolitionist
 Rewind Rounds","Kinetic Tremors
 All-Star",Fail-deadly,worse archetype than Giver's Blessing but Stopping Power option,23,B
-TBA,Steelfeather Repeater,29,Kinetic,Rapid,53,Yes,"Fluted Barrel
+,Steelfeather Repeater,29,Kinetic,Rapid,53,Yes,"Fluted Barrel
 Arrowhead Brake","Flared Magwell
 Alloy Magazine","Bewildering Burst
 Proximity Power",Ancillary Ordinance,Cast No Shadows,"awful perks outside of kinetic combo, origin not great on weapon type",24,B
@@ -146,7 +150,7 @@ Demolitionist","Jolting Feedback
 Gear Shift
 Master of Arms
 ",Loss,"decent double damage/splash option, good roam perks",27,B
-TBA,Trendsetter,29,Arc,Adaptive,60,Yes,"Fluted Barrel
+,Trendsetter,29,Arc,Adaptive,60,Yes,"Fluted Barrel
 Arrowhead Brake","Flared Magwell
 Alloy Magazine","Trickle Charge
 Light Touch

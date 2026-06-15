@@ -35,7 +35,7 @@ Vorpal Weapon
 Relentless Strikes","Assassin's Blade
 Whirlwind Blade
 Destabilizing Rounds",Imperial Allegiance,best light attack neutral + okay damage with bumped impact,5,S
-TBA,Terciopelo-4bl,29,Solar,Lightweight,50,58,Yes,"Jagged Edge
+,Terciopelo-4bl,29,Solar,Lightweight,50,58,Yes,"Jagged Edge
 Tempered Edge","Swordmaster's Guard
 Heavy Guard","Relentless Strikes
 Burning Ambition
@@ -110,7 +110,7 @@ Heavy Guard","Relentless Strikes
 Eager Edge","Aggregate Charge
 Elemental Honing
 Whirlwind Blade",Loss,standard good damage perks with Eager light option,17,A
-TBA,Hardline Cut,29,Arc,Adaptive,50,62,Yes,"Jagged Edge
+,Hardline Cut,29,Arc,Adaptive,50,62,Yes,"Jagged Edge
 Tempered Edge","Swordmaster's Guard
 Heavy Guard","Relentless Strikes
 Attrition Orbs
@@ -142,7 +142,7 @@ Tempered Edge",Swordmaster's Guard,Relentless Strikes,Whirlwind Blade,Veist Stin
 Tempered Edge","Swordmaster's Guard
 Heavy Guard","Relentless Strikes
 Attrition Orbs",Whirlwind Blade,Paracausal Fluid,"worse ammo than Ill Omen, no Surrounded, better origin",23,A
-TBA,Stryker's Sure-Hand,29,Void,Aggressive,20,73,Yes,"Jagged Edge
+,Stryker's Sure-Hand,29,Void,Aggressive,20,73,Yes,"Jagged Edge
 Tempered Edge",Heavy Guard,"Relentless Strikes
 Sharp Harvest","Whirlwind Blade
 Surrounded

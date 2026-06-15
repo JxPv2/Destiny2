@@ -6,7 +6,7 @@
       "patch": "Pantheon 2.0"
     },
     "link": "https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY",
-    "scrape_date": "2026-06-14 02:48:46"
+    "scrape_date": "2026-06-15 02:53:17"
   },
   "workbooks": {
     "Shopping List": {
@@ -2289,6 +2289,47 @@
             "Flared Magwell",
             "Alloy Magazine"
           ],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "4",
+          "tier": "S",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Reckless Oracle_2": {
+        "weapon_name": "Reckless Oracle",
+        "version": "Pantheon",
+        "perks": {
+          "column1": [
+            "Fluted Barrel",
+            "Arrowhead Brake"
+          ],
+          "column2": [
+            "Flared Magwell",
+            "Alloy Magazine"
+          ],
           "perk1": [
             "Destabilizing Rounds",
             "Dimensional Shift",
@@ -2304,8 +2345,8 @@
           ]
         },
         "info": {
-          "rank": "4",
-          "tier": "S",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -6653,6 +6694,46 @@
             "Flared Magwell",
             "Alloy Magazine"
           ],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "6",
+          "tier": "A",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Zaouli's Bane_2": {
+        "weapon_name": "Zaouli's Bane",
+        "version": "Pantheon",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Flared Magwell",
+            "Alloy Magazine"
+          ],
           "perk1": [
             "Firefly",
             "Burning Ambition",
@@ -6668,8 +6749,8 @@
           ]
         },
         "info": {
-          "rank": "6",
-          "tier": "A",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -10698,6 +10779,47 @@
             "Flared Magwell",
             "Alloy Magazine"
           ],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "23",
+          "tier": "A",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Chattering Bone_2": {
+        "weapon_name": "Chattering Bone",
+        "version": "Pantheon",
+        "perks": {
+          "column1": [
+            "Fluted Barrel",
+            "Arrowhead Brake"
+          ],
+          "column2": [
+            "Flared Magwell",
+            "Alloy Magazine"
+          ],
           "perk1": [
             "Attrition Orbs",
             "Bewildering Burst",
@@ -10713,8 +10835,8 @@
           ]
         },
         "info": {
-          "rank": "23",
-          "tier": "A",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -33133,7 +33255,7 @@
       },
       "Hammerhead": {
         "weapon_name": "Hammerhead",
-        "version": "BRAVE",
+        "version": "",
         "perks": {
           "column1": [
             "Arrowhead Brake",
@@ -38223,6 +38345,111 @@
             "day1": "Optimal",
             "chall": "Optimal",
             "speed": "Situational",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Turncoat": {
+        "weapon_name": "Turncoat",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "add clear",
+          "type": "primary",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Fafnir": {
+        "weapon_name": "Fafnir",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "utility",
+          "type": "power",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Cull's Shadow": {
+        "weapon_name": "Cull's Shadow",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "special",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
             "effect": "",
             "flex": "",
             "power": ""

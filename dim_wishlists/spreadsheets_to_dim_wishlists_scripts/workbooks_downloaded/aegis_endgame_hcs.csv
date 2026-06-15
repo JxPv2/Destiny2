@@ -3,7 +3,7 @@ WEAPON,,INFO,,,,,PERKS,,,,,ANALYSIS,,
 ,Word of Crota,29,Void,Precision,52,Yes,Fluted Barrel,"Flared Magwell
 Alloy Magazine","Repulsor Brace
 Dragonfly",Destabilizing Rounds,Cursed Thrall,"great frame, excellent perks, amazing origin",1,S
-TBA,IRONWOOD 03,29,Void,Spread Shot,50,Yes,Barrel Shroud,"Flared Magwell
+,IRONWOOD 03,29,Void,Spread Shot,50,Yes,Barrel Shroud,"Flared Magwell
 Alloy Magazine","Repulsor Brace
 Dimensional Shift
 Demolitionist","Destabilizing Rounds
@@ -18,17 +18,20 @@ Overclocked Heatsink","Firefly
 Rimestealer
 Rapid Hit","Headstone
 Crystalline Corpsebloom",Accelerated Assault,better version of Solemn Remembrance with Crystalline access,4,S
-TBA,Kindled Orchid,29,Void,Adaptive,60,Yes,Fluted Barrel,"Flared Magwell
+,Kindled Orchid,29,Void,Adaptive,60,Yes,Fluted Barrel,"Flared Magwell
 Alloy Magazine","Repulsor Brace
 Shoot to Loot","Destabilizing Rounds
 Demoralize
 Explosive Payload",Forge's Kin,"classic void combo, StL + EP, and decent frame",5,A
 ,Zaouli's Bane,29,Solar,Adaptive,50,Yes,Fluted Barrel,"Flared Magwell
+Alloy Magazine",,,,,6,A
+,"Zaouli's Bane
+Pantheon version",29,Solar,Adaptive,50,Yes,Fluted Barrel,"Flared Magwell
 Alloy Magazine","Firefly
 Burning Ambition
 Explosive Payload","Chaos Reshaped
 Meganeura
-Incandescent",Elliptical Orbit,slow reload animation but very lethal perk combos,6,A
+Incandescent",Elliptical Orbit,slow reload animation but very lethal perk combos,,
 ,Exalted Truth,29,Void,Adaptive,58,Yes,Fluted Barrel,"Flared Magwell
 Alloy Magazine","Destabilizing Rounds
 Withering Gaze","Repulsor Brace
@@ -62,7 +65,7 @@ Elemental Honing",Fleet Footed,"Vulpecula replacement, cool double splash combo 
 Alloy Magazine","Explosive Payload
 Adhesive Ordnance","Attrition Orbs
 Frenzy",Accelerated Assault,fastest HC orb generator due to EP + AO combo,13,A
-TBA,Service Revolver,29,Kinetic,Precision,29,Yes,Fluted Barrel,"Flared Magwell
+,Service Revolver,29,Kinetic,Precision,29,Yes,Fluted Barrel,"Flared Magwell
 Alloy Magazine","Stopping Power
 Shoot to Loot","Mega Kill Clip
 Kinetic Tremors
@@ -189,7 +192,7 @@ Hatchling",Accelerated Assault,pretty mediocre perks in both columns,40,C
 Alloy Magazine","Stats for All
 Rimestealer","Headstone
 Explosive Payload",Dark Ether Reaper,Headstone + origin carries despite bad archetype and mid 1st column,41,C
-TBA,Something New,29,Stasis,Aggressive,51,Yes,Fluted Barrel,"Flared Magwell
+,Something New,29,Stasis,Aggressive,51,Yes,Fluted Barrel,"Flared Magwell
 Alloy Magazine",Rimestealer,Headstone,Dream Work,like Exuviae but none of the cool stuff,42,C
 ,Waking Vigil,29,Arc,Adaptive,46,Yes,Fluted Barrel,"Flared Magwell
 Alloy Magazine",Light Touch,"Meganeura
@@ -197,7 +200,7 @@ Voltshot",Advanced Reflexes,decent archetype with mediocre 1st column and decent
 ,Round Robin,29,Strand,Aggressive,52,Yes,Fluted Barrel,"Flared Magwell
 Alloy Magazine",Tear,"Hatchling
 Golden Tricorn",Nanotech Tracer Missiles,"Tear + Hatchling not bad, good origin, bad frame",44,C
-TBA,Sixth Sense,29,Strand,Aggressive,54,Yes,Fluted Barrel,"Flared Magwell
+,Sixth Sense,29,Strand,Aggressive,54,Yes,Fluted Barrel,"Flared Magwell
 Alloy Magazine",Explosive Payload,"Meganeura
 Hatchling
 Tear",Wild Card,"EP + decent splash perks, bad frame, bad perk diversity in 1st column",45,C
@@ -220,7 +223,7 @@ Timed Payload",Crossing Over,slightly worse perks and origin than RotN version,4
 Alloy Magazine","Heal Clip
 Enlightened Action","Burning Ambition
 Precision Instrument",Skulking Wolf,bad HC damage perk,49,D
-TBA,Solemn Lie,29,Arc,Lightweight,60,Yes,Fluted Barrel,"Flared Magwell
+,Solemn Lie,29,Arc,Lightweight,60,Yes,Fluted Barrel,"Flared Magwell
 Alloy Magazine",Trickle Charge,Rolling Storm,None,okay frame but very limited perks and no origin,50,D
 ,Targeted Redaction,29,Void,Aggressive,49,Yes,Fluted Barrel,"Flared Magwell
 Alloy Magazine",Outlaw,"Destabilizing Rounds
