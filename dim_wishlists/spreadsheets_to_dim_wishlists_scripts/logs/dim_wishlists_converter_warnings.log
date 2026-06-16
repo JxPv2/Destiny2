@@ -734,3 +734,6 @@
       2026-06-16 02:54:20,115 [WARNING] -> FINAL RESULT: Item 'Cull's Shadow' yielded 0 lines.
       2026-06-16 02:54:20,115 [WARNING] ->   Reason: Item not found in manifest (cleaned name: 'cull's shadow')
     2026-06-16 02:54:20,123 [INFO] -> Parsing nested ledger tab: 'Exotic Armor (ignore)'
+2026-06-16 12:46:58,584 [INFO] -> ================================================================================
+2026-06-16 12:46:58,584 [INFO] -> 🚀 Launching Isolated DIM Wishlist Text Generation Pipeline...
+2026-06-16 12:46:58,584 [INFO] -> ================================================================================
