@@ -150,7 +150,7 @@ Explosive Payload",Eyes Up,"very good StL + EP kinetic option, not much else tho
 Alloy Magazine
 Appended Mag","Dragonfly
 Rapid Hit","Voltshot
-Vorpal Weapon",One Quiet Moment,"double splash on awkward archetype, also doubles as LP backup",30,B
+Vorpal Weapon",Fleet Footed,"double splash on awkward archetype, also doubles as LP backup",30,B
 ,Loud Lullaby,29,Stasis,Aggressive,48,Yes,Fluted Barrel,"Flared Magwell
 Alloy Magazine","Headstone
 Rimestealer
@@ -164,7 +164,7 @@ Dragonfly",Dealer's Choice,like Solemn Remembrance but lower QoL archetype and D
 Alloy Magazine
 Appended Mag","Demolitionist
 Enlightened Action","Vorpal Weapon
-Frenzy",Stunning Recovery,"basically only useful for LP usage, and third best at that",33,B
+Frenzy",Problem Solver,"basically only useful for LP usage, and third best at that",33,B
 ,Malediction,29,Kinetic,Aggressive,60,Yes,Fluted Barrel,"Flared Magwell
 Alloy Magazine","Shoot to Loot
 Enlightened Action","Explosive Payload
@@ -237,8 +237,7 @@ Dragonfly",Fail-deadly,"mediocre 1st column, bad frame, only EP for HC perks",52
 Alloy Magazine",Eddy Current,Voltshot,Field-Tested,good reload perk but Voltshot on awful reload archetype,53,D
 ,Survivor's Epitaph,29,Kinetic,Precision,47,Yes,Fluted Barrel,"Flared Magwell
 Alloy Magazine",Rapid Hit,"Explosive Payload
-Frenzy
-One for All",Accelerated Assault,reload perk + Frenzy,54,E
+Precision Instrument",Accelerated Assault,reload perk + EP and PI,54,E
 ,Cantata-57,16,Arc,Adaptive,45,No,Fluted Barrel,"Flared Magwell
 Alloy Magazine",Rapid Hit,Timed Payload,Suros Synergy,reload perk + EP/TP,55,E
 ,Optative,29,Void,Precision,54,Yes,Fluted Barrel,"Flared Magwell
@@ -268,7 +267,7 @@ Alloy Magazine",Subsistence,Dragonfly,None,bad reload perk + weak splash,62,F
 ,Crisis Inverted,16,Arc,Adaptive,52,No,Fluted Barrel,"Flared Magwell
 Alloy Magazine","Demolitionist
 Shoot to Loot
-Rapid Hit",One for All,Suros Synergy,bad HC damage perk,63,F
+Rapid Hit",One for All,Omolon Fluid Dynamics,bad HC damage perk,63,F
 ,Pure Poetry,18,Kinetic,Aggressive,50,No,Fluted Barrel,"Flared Magwell
 Alloy Magazine",Shoot to Loot,Frenzy,Häkke Breach Armaments,basically just Frenzy on bad archetype,64,F
 ,Dire Promise,10,Kinetic,Adaptive,60,No,Fastdraw HCS,"Flared Magwell

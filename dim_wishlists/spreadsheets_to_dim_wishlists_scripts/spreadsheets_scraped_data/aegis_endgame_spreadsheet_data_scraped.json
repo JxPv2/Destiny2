@@ -6,7 +6,7 @@
       "patch": "Pantheon 2.0"
     },
     "link": "https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY",
-    "scrape_date": "2026-06-15 19:38:29"
+    "scrape_date": "2026-06-16 02:54:19"
   },
   "workbooks": {
     "Shopping List": {
@@ -7917,7 +7917,7 @@
             "Vorpal Weapon"
           ],
           "origin_trait": [
-            "One Quiet Moment"
+            "Fleet Footed"
           ]
         },
         "info": {
@@ -8063,7 +8063,7 @@
             "Frenzy"
           ],
           "origin_trait": [
-            "Stunning Recovery"
+            "Problem Solver"
           ]
         },
         "info": {
@@ -9052,8 +9052,7 @@
           ],
           "perk2": [
             "Explosive Payload",
-            "Frenzy",
-            "One for All"
+            "Precision Instrument"
           ],
           "origin_trait": [
             "Accelerated Assault"
@@ -9069,7 +9068,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "reload perk + Frenzy",
+          "notes": "reload perk + EP and PI",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -9478,7 +9477,7 @@
             "One for All"
           ],
           "origin_trait": [
-            "Suros Synergy"
+            "Omolon Fluid Dynamics"
           ]
         },
         "info": {
@@ -11852,8 +11851,7 @@
             "Slice"
           ],
           "perk2": [
-            "Hatchling",
-            "Golden Tricorn"
+            "Hatchling"
           ],
           "origin_trait": [
             "Omolon Fluid Dynamics"
@@ -12565,7 +12563,7 @@
           "perk2": [
             "Voltshot",
             "Frenzy",
-            "Paracausal Affinity"
+            "Gear Shift"
           ],
           "origin_trait": [
             "Subjugation"
@@ -20037,9 +20035,9 @@
             "High-Velocity Rounds"
           ],
           "perk1": [
-            "Rolling Storm",
-            "Unrelenting",
-            "Demolitionist"
+            "Redirection",
+            "Air Trigger",
+            "Unrelenting"
           ],
           "perk2": [
             "Chain Reaction",
@@ -21799,7 +21797,7 @@
             "Voltshot"
           ],
           "origin_trait": [
-            "Stunning Recovery"
+            "Problem Solver"
           ]
         },
         "info": {
@@ -22048,7 +22046,7 @@
             "Reservoir Burst"
           ],
           "origin_trait": [
-            "Stunning Recovery"
+            "Problem Solver"
           ]
         },
         "info": {
@@ -22389,7 +22387,7 @@
             "Hatchling"
           ],
           "origin_trait": [
-            "Vanguard's Vindication"
+            "Wild Card"
           ]
         },
         "info": {
@@ -25733,7 +25731,7 @@
             "Trench Barrel"
           ],
           "origin_trait": [
-            "One Quiet Moment"
+            "Roar of Battle"
           ]
         },
         "info": {
@@ -28324,7 +28322,7 @@
             "Cascade Point"
           ],
           "origin_trait": [
-            "One Quiet Moment"
+            "Roar of Battle"
           ]
         },
         "info": {
@@ -36522,7 +36520,7 @@
             "Eager Edge"
           ],
           "origin_trait": [
-            "One Quiet Moment"
+            "Vanguard Determination"
           ]
         },
         "info": {

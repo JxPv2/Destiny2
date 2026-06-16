@@ -3090,3 +3090,50 @@
     2026-06-15 19:38:29,361 [INFO] -> 🟩 UP TO DATE [GID 1087089423]: Specifications data lines for sheet component 'Exotic Armor (ignore)' match cache records perfectly.
   2026-06-15 19:38:29,362 [INFO] -> ================================================================================
   2026-06-15 19:38:29,363 [INFO] -> Synchronization check complete. Pipeline gating flags successfully set.
+2026-06-16 02:54:14,499 [INFO] -> ================================================================================
+2026-06-16 02:54:14,499 [INFO] -> 🚀 Starting version check and synchronization loop...
+2026-06-16 02:54:14,499 [INFO] -> ================================================================================
+  2026-06-16 02:54:14,508 [INFO] -> Checking live Destiny 2 Manifest version from Bungie...
+    2026-06-16 02:54:14,508 [INFO] -> Requesting live Bungie Manifest version (Attempt 1/3)...
+    2026-06-16 02:54:14,652 [INFO] -> 🟩 Up to date: Bungie Manifest version matches local cache. No structural compilation changes needed.
+  2026-06-16 02:54:14,652 [INFO] -> Processing spreadsheet engine resource target profile: 'aegis_boss-damage'
+    2026-06-16 02:54:15,124 [INFO] -> 🟩 UP TO DATE [GID 1268483240]: Specifications data lines for sheet component 'Changelog' match cache records perfectly.
+    2026-06-16 02:54:15,153 [INFO] -> 🟩 UP TO DATE [GID 639621230]: Specifications data lines for sheet component 'Equipment (WIP)' match cache records perfectly.
+  2026-06-16 02:54:15,154 [INFO] -> Processing spreadsheet engine resource target profile: 'aegis_speedrunner'
+    2026-06-16 02:54:15,586 [INFO] -> 🟩 UP TO DATE [GID 0]: Specifications data lines for sheet component 'Weapons' match cache records perfectly.
+  2026-06-16 02:54:15,587 [INFO] -> Processing spreadsheet engine resource target profile: 'aegis_endgame'
+    2026-06-16 02:54:16,109 [INFO] -> 🟩 UP TO DATE [GID 1439671777]: Specifications data lines for sheet component 'Changelog' match cache records perfectly.
+    2026-06-16 02:54:16,112 [INFO] -> 🟩 UP TO DATE [GID 1062099834]: Specifications data lines for sheet component 'Shopping List' match cache records perfectly.
+    2026-06-16 02:54:16,160 [INFO] -> 🟩 UP TO DATE [GID 1890042119]: Specifications data lines for sheet component 'Autos' match cache records perfectly.
+    2026-06-16 02:54:16,163 [INFO] -> 🟩 UP TO DATE [GID 346832350]: Specifications data lines for sheet component 'Status' match cache records perfectly.
+    2026-06-16 02:54:16,588 [INFO] -> 🟩 UP TO DATE [GID 324500912]: Specifications data lines for sheet component 'Bows' match cache records perfectly.
+    2026-06-16 02:54:16,606 [INFO] -> 🚨 UPDATE DETECTED [GID 1315046624]: Content mutated for tracking tab row object 'HCs' inside workbook profile 'aegis_endgame'.
+    2026-06-16 02:54:16,607 [INFO] -> 💾 Delimited flat data text structure stream written safely down to disk layout target space: workbooks_downloaded/aegis_endgame_hcs.csv
+    2026-06-16 02:54:16,640 [INFO] -> 🚨 UPDATE DETECTED [GID 1712537582]: Content mutated for tracking tab row object 'Pulses' inside workbook profile 'aegis_endgame'.
+    2026-06-16 02:54:16,640 [INFO] -> 💾 Delimited flat data text structure stream written safely down to disk layout target space: workbooks_downloaded/aegis_endgame_pulses.csv
+    2026-06-16 02:54:16,654 [INFO] -> 🚨 UPDATE DETECTED [GID 946843299]: Content mutated for tracking tab row object 'Scouts' inside workbook profile 'aegis_endgame'.
+    2026-06-16 02:54:16,654 [INFO] -> 💾 Delimited flat data text structure stream written safely down to disk layout target space: workbooks_downloaded/aegis_endgame_scouts.csv
+    2026-06-16 02:54:17,038 [INFO] -> 🟩 UP TO DATE [GID 1405969509]: Specifications data lines for sheet component 'SMGs' match cache records perfectly.
+    2026-06-16 02:54:17,048 [INFO] -> 🟩 UP TO DATE [GID 1594008157]: Specifications data lines for sheet component 'Sidearms' match cache records perfectly.
+    2026-06-16 02:54:17,088 [INFO] -> 🚨 UPDATE DETECTED [GID 1318165198]: Content mutated for tracking tab row object 'Fusions' inside workbook profile 'aegis_endgame'.
+    2026-06-16 02:54:17,088 [INFO] -> 💾 Delimited flat data text structure stream written safely down to disk layout target space: workbooks_downloaded/aegis_endgame_fusions.csv
+    2026-06-16 02:54:17,101 [INFO] -> 🚨 UPDATE DETECTED [GID 657764751]: Content mutated for tracking tab row object 'BGLs' inside workbook profile 'aegis_endgame'.
+    2026-06-16 02:54:17,102 [INFO] -> 💾 Delimited flat data text structure stream written safely down to disk layout target space: workbooks_downloaded/aegis_endgame_bgls.csv
+    2026-06-16 02:54:17,499 [INFO] -> 🟩 UP TO DATE [GID 1239299765]: Specifications data lines for sheet component 'Glaives' match cache records perfectly.
+    2026-06-16 02:54:17,518 [INFO] -> 🚨 UPDATE DETECTED [GID 1595979957]: Content mutated for tracking tab row object 'Shotguns' inside workbook profile 'aegis_endgame'.
+    2026-06-16 02:54:17,518 [INFO] -> 💾 Delimited flat data text structure stream written safely down to disk layout target space: workbooks_downloaded/aegis_endgame_shotguns.csv
+    2026-06-16 02:54:17,544 [INFO] -> 🚨 UPDATE DETECTED [GID 1090554564]: Content mutated for tracking tab row object 'Snipers' inside workbook profile 'aegis_endgame'.
+    2026-06-16 02:54:17,544 [INFO] -> 💾 Delimited flat data text structure stream written safely down to disk layout target space: workbooks_downloaded/aegis_endgame_snipers.csv
+    2026-06-16 02:54:17,554 [INFO] -> 🟩 UP TO DATE [GID 550485113]: Specifications data lines for sheet component 'Rocket Sidearms' match cache records perfectly.
+    2026-06-16 02:54:17,945 [INFO] -> 🟩 UP TO DATE [GID 288998351]: Specifications data lines for sheet component 'Traces' match cache records perfectly.
+    2026-06-16 02:54:17,997 [INFO] -> 🟩 UP TO DATE [GID 439751986]: Specifications data lines for sheet component 'HGLs' match cache records perfectly.
+    2026-06-16 02:54:18,012 [INFO] -> 🟩 UP TO DATE [GID 1919916707]: Specifications data lines for sheet component 'LMGs' match cache records perfectly.
+    2026-06-16 02:54:18,022 [INFO] -> 🟩 UP TO DATE [GID 29008106]: Specifications data lines for sheet component 'LFRs' match cache records perfectly.
+    2026-06-16 02:54:18,395 [INFO] -> 🟩 UP TO DATE [GID 981030684]: Specifications data lines for sheet component 'Rockets' match cache records perfectly.
+    2026-06-16 02:54:18,464 [INFO] -> 🟩 UP TO DATE [GID 1789798057]: Specifications data lines for sheet component 'Exotic Weapons' match cache records perfectly.
+    2026-06-16 02:54:18,473 [INFO] -> 🚨 UPDATE DETECTED [GID 473850359]: Content mutated for tracking tab row object 'Swords' inside workbook profile 'aegis_endgame'.
+    2026-06-16 02:54:18,474 [INFO] -> 💾 Delimited flat data text structure stream written safely down to disk layout target space: workbooks_downloaded/aegis_endgame_swords.csv
+    2026-06-16 02:54:18,484 [INFO] -> 🟩 UP TO DATE [GID 266663572]: Specifications data lines for sheet component 'Other' match cache records perfectly.
+    2026-06-16 02:54:18,850 [INFO] -> 🟩 UP TO DATE [GID 1087089423]: Specifications data lines for sheet component 'Exotic Armor (ignore)' match cache records perfectly.
+  2026-06-16 02:54:18,851 [INFO] -> ================================================================================
+  2026-06-16 02:54:18,851 [INFO] -> Synchronization check complete. Pipeline gating flags successfully set.
