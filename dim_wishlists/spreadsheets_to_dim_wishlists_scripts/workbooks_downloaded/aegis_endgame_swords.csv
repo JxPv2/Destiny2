@@ -85,79 +85,80 @@ Tempered Edge","Swordmaster's Guard
 Heavy Guard","Relentless Strikes
 Attrition Orbs","Whirlwind Blade
 Surrounded",Radiolaria Transposer,BiS consistent caster option,13,A
+,Hero of Ages,29,Arc,Aggressive,25,60,Yes,"Jagged Edge
+Tempered Edge","Swordmaster's Guard
+Heavy Guard","Collective Action
+Relentless Strikes
+Sharp Harvest","Whirlwind Blade
+Elemental Honing",Unburied Treasure,"double damage perks, even if Collective isn't the best",14,A
 ,Nasreddin,29,Arc,Lightweight,20,60,Yes,"Jagged Edge
 Tempered Edge","Swordmaster's Guard
 Heavy Guard","Relentless Strikes
 Sharp Harvest","Surrounded
 Whirlwind Blade
-Eager Edge",Veteran's Wisdom,Sullen Claw alternative with different column Eager,14,A
+Eager Edge",Veteran's Wisdom,Sullen Claw alternative with different column Eager,15,A
 ,Sola's Scar,29,Solar,Caster,50,60,Yes,"Jagged Edge
 Tempered Edge","Swordmaster's Guard
 Heavy Guard","Relentless Strikes
 Eager Edge","Elemental Honing
 Whirlwind Blade
-Redirection",Fleet Footed,Eager caster with decent damage perks,15,A
+Redirection",Fleet Footed,Eager caster with decent damage perks,16,A
 ,Chivalric Fire,29,Void,Caster,50,60,Yes,"Jagged Edge
 Tempered Edge","Swordmaster's Guard
 Heavy Guard","Relentless Strikes
 Sharp Harvest
 Collective Demolition","Destabilizing Rounds
 Whirlwind Blade
-Eager Edge",Vanguard Determination,Eager caster with opposing utility perks,16,A
+Eager Edge",Vanguard Determination,Eager caster with opposing utility perks,17,A
 ,Night Terror,29,Arc,Caster,20,60,Yes,"Jagged Edge
 Tempered Edge","Swordmaster's Guard
 Heavy Guard","Relentless Strikes
 Eager Edge","Aggregate Charge
 Elemental Honing
-Whirlwind Blade",Loss,standard good damage perks with Eager light option,17,A
+Whirlwind Blade",Loss,standard good damage perks with Eager light option,18,A
 ,Hardline Cut,29,Arc,Adaptive,50,62,Yes,"Jagged Edge
 Tempered Edge","Swordmaster's Guard
 Heavy Guard","Relentless Strikes
 Attrition Orbs
 Sharp Harvest","Whirlwind Blade
 Surrounded
-Eager Edge","Nail, Meet Hammer","similar to Abide, has AO access though",18,A
+Eager Edge","Nail, Meet Hammer","similar to Abide, has AO access though",19,A
 ,Abide the Return,29,Solar,Adaptive,20,60,Yes,"Jagged Edge
 Tempered Edge","Swordmaster's Guard
 Heavy Guard","Relentless Strikes
 Sharp Harvest","Whirlwind Blade
 Elemental Honing
-Eager Edge",Advanced Reflexes,"guard requirement for origin is bad, otherwise standard Eager adaptive",19,A
+Eager Edge",Advanced Reflexes,"guard requirement for origin is bad, otherwise standard Eager adaptive",20,A
 ,The Other Half,29,Void,Adaptive,20,60,Yes,"Jagged Edge
 Tempered Edge","Swordmaster's Guard
 Heavy Guard","Eager Edge
 Relentless Strikes","Surrounded
 Frenzy
-Whirlwind Blade",Hot Swap,good roam option for Eager + Surrounded heavy attacks,20,A
+Whirlwind Blade",Hot Swap,good roam option for Eager + Surrounded heavy attacks,21,A
 ,Eighty-Six,28,Strand,Vortex,20,60,Yes,"Jagged Edge
 Tempered Edge","Swordmaster's Guard
 Heavy Guard","Relentless Strikes
 Sharp Harvest
 Slice","Elemental Honing
 Redirection
-Attrition Orbs",Bray Legacy,"okay perks but worst frame, notable ability regen niche",21,A
+Attrition Orbs",Bray Legacy,"okay perks but worst frame, notable ability regen niche",22,A
 ,Goldtusk,29,Arc,Lightweight,20,60,Yes,"Jagged Edge
-Tempered Edge",Swordmaster's Guard,Relentless Strikes,Whirlwind Blade,Veist Stinger,"interesting frame, arguably most consistent light spammer",22,A
+Tempered Edge",Swordmaster's Guard,Relentless Strikes,Whirlwind Blade,Veist Stinger,"interesting frame, arguably most consistent light spammer",23,A
 ,Temptation's Hook,29,Arc,Caster,50,60,Yes,"Jagged Edge
 Tempered Edge","Swordmaster's Guard
 Heavy Guard","Relentless Strikes
-Attrition Orbs",Whirlwind Blade,Paracausal Fluid,"worse ammo than Ill Omen, no Surrounded, better origin",23,A
+Attrition Orbs",Whirlwind Blade,Paracausal Fluid,"worse ammo than Ill Omen, no Surrounded, better origin",24,A
 ,Stryker's Sure-Hand,29,Void,Aggressive,20,73,Yes,"Jagged Edge
 Tempered Edge",Heavy Guard,"Relentless Strikes
 Sharp Harvest","Whirlwind Blade
 Surrounded
-Redirection",Forge's Kin,"good frame for Redirection roam, otherwise normal aggressive",24,A
+Redirection",Forge's Kin,"good frame for Redirection roam, otherwise normal aggressive",25,A
 ,Dragoncult Sickle,29,Strand,Caster,50,60,Yes,"Jagged Edge
 Tempered Edge","Swordmaster's Guard
 Heavy Guard","Eager Edge
 Slice","Whirlwind Blade
 Elemental Honing
-Surrounded",Sundering,"no Relentless, but has Eager and Slice with some damage options",25,B
-,Hero of Ages,29,Arc,Aggressive,25,60,Yes,"Jagged Edge
-Tempered Edge","Swordmaster's Guard
-Heavy Guard","Relentless Strikes
-Sharp Harvest","Whirlwind Blade
-Elemental Honing",Unburied Treasure,"similar to Crown-Splitter, no Redirection to push A",26,B
+Surrounded",Sundering,"no Relentless, but has Eager and Slice with some damage options",26,B
 ,Crown-Splitter,14,Void,Aggressive,20,73,No,"Jagged Edge
 Tempered Edge",Heavy Guard,Relentless Strikes,"Surrounded
 Whirlwind Blade",None,"consistent light spammer, worse than Goldtusk though",27,B

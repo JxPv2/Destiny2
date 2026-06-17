@@ -6,7 +6,7 @@
       "patch": "Pantheon 2.0"
     },
     "link": "https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY",
-    "scrape_date": "2026-06-16 02:54:19"
+    "scrape_date": "2026-06-17 18:09:38"
   },
   "workbooks": {
     "Shopping List": {
@@ -36397,6 +36397,56 @@
           }
         }
       },
+      "Hero of Ages": {
+        "weapon_name": "Hero of Ages",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Jagged Edge",
+            "Tempered Edge"
+          ],
+          "column2": [
+            "Swordmaster's Guard",
+            "Heavy Guard"
+          ],
+          "perk1": [
+            "Collective Action",
+            "Relentless Strikes",
+            "Sharp Harvest"
+          ],
+          "perk2": [
+            "Whirlwind Blade",
+            "Elemental Honing"
+          ],
+          "origin_trait": [
+            "Unburied Treasure"
+          ]
+        },
+        "info": {
+          "rank": "14",
+          "tier": "A",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "double damage perks, even if Collective isn't the best",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
       "Nasreddin": {
         "weapon_name": "Nasreddin",
         "version": "",
@@ -36423,7 +36473,7 @@
           ]
         },
         "info": {
-          "rank": "14",
+          "rank": "15",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -36473,7 +36523,7 @@
           ]
         },
         "info": {
-          "rank": "15",
+          "rank": "16",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -36524,7 +36574,7 @@
           ]
         },
         "info": {
-          "rank": "16",
+          "rank": "17",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -36574,7 +36624,7 @@
           ]
         },
         "info": {
-          "rank": "17",
+          "rank": "18",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -36625,7 +36675,7 @@
           ]
         },
         "info": {
-          "rank": "18",
+          "rank": "19",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -36675,7 +36725,7 @@
           ]
         },
         "info": {
-          "rank": "19",
+          "rank": "20",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -36725,7 +36775,7 @@
           ]
         },
         "info": {
-          "rank": "20",
+          "rank": "21",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -36776,7 +36826,7 @@
           ]
         },
         "info": {
-          "rank": "21",
+          "rank": "22",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -36822,7 +36872,7 @@
           ]
         },
         "info": {
-          "rank": "22",
+          "rank": "23",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -36870,7 +36920,7 @@
           ]
         },
         "info": {
-          "rank": "23",
+          "rank": "24",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -36919,7 +36969,7 @@
           ]
         },
         "info": {
-          "rank": "24",
+          "rank": "25",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -36969,55 +37019,6 @@
           ]
         },
         "info": {
-          "rank": "25",
-          "tier": "B",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "no Relentless, but has Eager and Slice with some damage options",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Hero of Ages": {
-        "weapon_name": "Hero of Ages",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Jagged Edge",
-            "Tempered Edge"
-          ],
-          "column2": [
-            "Swordmaster's Guard",
-            "Heavy Guard"
-          ],
-          "perk1": [
-            "Relentless Strikes",
-            "Sharp Harvest"
-          ],
-          "perk2": [
-            "Whirlwind Blade",
-            "Elemental Honing"
-          ],
-          "origin_trait": [
-            "Unburied Treasure"
-          ]
-        },
-        "info": {
           "rank": "26",
           "tier": "B",
           "priority": "",
@@ -37027,7 +37028,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "similar to Crown-Splitter, no Redirection to push A",
+          "notes": "no Relentless, but has Eager and Slice with some damage options",
           "description": "",
           "alternatives": "",
           "analysis": {
