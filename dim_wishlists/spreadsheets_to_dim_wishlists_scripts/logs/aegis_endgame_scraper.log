@@ -895,3 +895,7 @@
 2026-06-20 10:27:34,034 [INFO] [aegis_endgame] -> 🚀 Initializing Data Extraction Pipeline Engine: [aegis_endgame]
 2026-06-20 10:27:34,034 [INFO] [aegis_endgame] -> ================================================================================
   2026-06-20 10:27:34,036 [INFO] [aegis_endgame] -> 🟩 All endgame workbook profiles match local registry maps. Scraping skipped.
+2026-06-20 17:17:15,258 [INFO] [aegis_endgame] -> ================================================================================
+2026-06-20 17:17:15,258 [INFO] [aegis_endgame] -> 🚀 Initializing Data Extraction Pipeline Engine: [aegis_endgame]
+2026-06-20 17:17:15,258 [INFO] [aegis_endgame] -> ================================================================================
+  2026-06-20 17:17:15,260 [INFO] [aegis_endgame] -> 🟩 All endgame workbook profiles match local registry maps. Scraping skipped.
