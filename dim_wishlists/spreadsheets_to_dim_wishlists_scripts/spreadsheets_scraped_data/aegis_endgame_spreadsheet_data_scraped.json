@@ -6,7 +6,7 @@
       "patch": "Pantheon 2.0"
     },
     "link": "https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY",
-    "scrape_date": "2026-06-21 02:52:17"
+    "scrape_date": "2026-06-22 02:54:44"
   },
   "workbooks": {
     "Shopping List": {
@@ -26845,7 +26845,8 @@
             "Envious Arsenal"
           ],
           "perk2": [
-            "Elemental Honing"
+            "Elemental Honing",
+            "Precision Instrument"
           ],
           "origin_trait": [
             "Photoinhibition"
