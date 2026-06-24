@@ -6,7 +6,7 @@
       "patch": "Pantheon 2.0"
     },
     "link": "https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY",
-    "scrape_date": "2026-06-22 02:54:44"
+    "scrape_date": "2026-06-24 02:31:02"
   },
   "workbooks": {
     "Shopping List": {
@@ -25091,50 +25091,6 @@
           }
         }
       },
-      "Deadlock": {
-        "weapon_name": "Deadlock",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Barrel Shroud"
-          ],
-          "column2": [
-            "Assault Mag"
-          ],
-          "perk1": [
-            "Grave Robber"
-          ],
-          "perk2": [
-            "One-Two Punch",
-            "Cascade Point"
-          ],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "29",
-          "tier": "B",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "bad frame, but enhanceable Grave + 12P",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
       "Precipial": {
         "weapon_name": "Precipial",
         "version": "",
@@ -26328,14 +26284,8 @@
           "column2": [
             "Assault Mag"
           ],
-          "perk1": [
-            "Lead from Gold",
-            "Stopping Power"
-          ],
-          "perk2": [
-            "One-Two Punch",
-            "Vorpal Weapon"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Wild Card"
           ]
@@ -26350,7 +26300,46 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "very outdated PvE perks",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Deadlock": {
+        "weapon_name": "Deadlock",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Barrel Shroud"
+          ],
+          "column2": [
+            "Assault Mag"
+          ],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "56",
+          "tier": "D",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -26389,7 +26378,7 @@
           ]
         },
         "info": {
-          "rank": "56",
+          "rank": "57",
           "tier": "E",
           "priority": "",
           "role": "",
@@ -26435,7 +26424,7 @@
           ]
         },
         "info": {
-          "rank": "57",
+          "rank": "58",
           "tier": "E",
           "priority": "",
           "role": "",
@@ -26481,7 +26470,7 @@
           ]
         },
         "info": {
-          "rank": "58",
+          "rank": "59",
           "tier": "E",
           "priority": "",
           "role": "",
@@ -26524,7 +26513,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "59",
+          "rank": "60",
           "tier": "F",
           "priority": "",
           "role": "",
@@ -26567,7 +26556,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "60",
+          "rank": "61",
           "tier": "F",
           "priority": "",
           "role": "",
@@ -26651,7 +26640,6 @@
             "Tactical Mag"
           ],
           "perk1": [
-            "Aggregate Charge",
             "Fourth Time's the Charm",
             "Kinetic Tremors"
           ],
@@ -35754,22 +35742,14 @@
             "Swordmaster's Guard",
             "Heavy Guard"
           ],
-          "perk1": [
-            "Surrounded",
-            "Cold Steel",
-            "Whirlwind Blade"
-          ],
-          "perk2": [
-            "Surrounded",
-            "Cold Steel",
-            "Whirlwind Blade"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Dawning Surprise"
           ]
         },
         "info": {
-          "rank": "1",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -35778,7 +35758,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "assumed unintended, otherwise best DPS sword in the game",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {

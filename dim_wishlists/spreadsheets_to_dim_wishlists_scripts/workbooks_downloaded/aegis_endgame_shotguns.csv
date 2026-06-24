@@ -115,8 +115,6 @@ Cascade Point",Photoinhibition,mediocre archetype but relevant perks,27,B
 ,MIDA Macro-Tool,27,Arc,MIDA Synergy,44,Yes,Barrel Shroud,Assault Mag,"Grave Robber
 Discord","One-Two Punch
 Trench Barrel",Roar of Battle,mediocre archetype but relevant perks,28,B
-,Deadlock,29,Stasis,Precision,48,Yes,Barrel Shroud,Assault Mag,Grave Robber,"One-Two Punch
-Cascade Point",None,"bad frame, but enhanceable Grave + 12P",29,B
 ,Precipial,27,Void,Precision,45,Yes,Barrel Shroud,Assault Mag,"One-Two Punch
 Reconstruction","Vorpal Weapon
 Discord",Exhaustive Research,"double damage 12P, bad frame but funny ranged 12P interaction",30,B
@@ -203,16 +201,15 @@ Demolitionist",None,outdated swap option,53,D
 Repulsor Brace","Destabilizing Rounds
 Surrounded
 Frenzy",Dark Ether Reaper,Discord on worst frame + okay perks,54,D
-,Astral Horizon,28,Kinetic,Aggressive,40,Yes,Barrel Shroud,Assault Mag,"Lead from Gold
-Stopping Power","One-Two Punch
-Vorpal Weapon",Wild Card,very outdated PvE perks,55,D
+,Astral Horizon,28,Kinetic,Aggressive,40,Yes,Barrel Shroud,Assault Mag,,,Wild Card,,55,D
+,Deadlock,29,Stasis,Precision,48,Yes,Barrel Shroud,Assault Mag,,,None,,56,D
 ,Gunnora's Axe,29,Solar,Pinpoint Slug,42,Yes,Fluted Barrel,"Extended Mag
 Ricochet Rounds",Heal Clip,"Incandescent
 Precision Instrument
-Cascade Point",Suros Synergy,"no loader perk in 1st column, weird 2nd column to match",56,E
+Cascade Point",Suros Synergy,"no loader perk in 1st column, weird 2nd column to match",57,E
 ,No Reprieve,29,Stasis,Pinpoint Slug,41,Yes,Fluted Barrel,Assault Mag,Triple Tap,"Surrounded
-Focused Fury",Right Hook,entirely irrelevant slug perks,57,E
+Focused Fury",Right Hook,entirely irrelevant slug perks,58,E
 ,The Inquisitor,29,Arc,Pinpoint Slug,52,Yes,Fluted Barrel,Assault Mag,Grave Robber,"Cascade Point
-Vorpal Weapon",Roar of Battle,"downgrade from previous version, awful perk pool",58,E
-,Wishbringer,5,Solar,Rapid,64,No,Barrel Shroud,Tactical Mag,Threat Detector,Auto-Loading Holster,None,no damage perk but good frame,59,F
-,Toil and Trouble,4,Kinetic,Aggressive,40,No,Barrel Shroud,Assault Mag,Threat Detector,Auto-Loading Holster,None,no damage perk but okay frame,60,F
+Vorpal Weapon",Roar of Battle,"downgrade from previous version, awful perk pool",59,E
+,Wishbringer,5,Solar,Rapid,64,No,Barrel Shroud,Tactical Mag,Threat Detector,Auto-Loading Holster,None,no damage perk but good frame,60,F
+,Toil and Trouble,4,Kinetic,Aggressive,40,No,Barrel Shroud,Assault Mag,Threat Detector,Auto-Loading Holster,None,no damage perk but okay frame,61,F
