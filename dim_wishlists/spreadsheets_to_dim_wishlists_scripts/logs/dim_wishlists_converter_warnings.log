@@ -1155,3 +1155,33 @@
 2026-07-01 17:47:23,453 [INFO] -> ================================================================================
 2026-07-01 17:47:23,453 [INFO] -> 🚀 Launching Isolated DIM Wishlist Text Generation Pipeline...
 2026-07-01 17:47:23,453 [INFO] -> ================================================================================
+2026-07-02 02:31:03,160 [INFO] -> ================================================================================
+2026-07-02 02:31:03,160 [INFO] -> 🚀 Launching Isolated DIM Wishlist Text Generation Pipeline...
+2026-07-02 02:31:03,161 [INFO] -> ================================================================================
+  2026-07-02 02:31:03,211 [INFO] -> Processing 'aegis_endgame_spreadsheet_data_scraped.json' (Reason: wishlist_update_required is set to true)...
+    2026-07-02 02:31:03,220 [INFO] -> Parsing nested ledger tab: 'Shopping List'
+    2026-07-02 02:31:03,243 [INFO] -> Parsing nested ledger tab: 'Autos'
+    2026-07-02 02:31:03,340 [INFO] -> Parsing nested ledger tab: 'Bows'
+    2026-07-02 02:31:03,362 [INFO] -> Parsing nested ledger tab: 'HCs'
+    2026-07-02 02:31:03,430 [INFO] -> Parsing nested ledger tab: 'Pulses'
+    2026-07-02 02:31:03,523 [INFO] -> Parsing nested ledger tab: 'Scouts'
+    2026-07-02 02:31:03,588 [INFO] -> Parsing nested ledger tab: 'Sidearms'
+    2026-07-02 02:31:03,641 [INFO] -> Parsing nested ledger tab: 'SMGs'
+    2026-07-02 02:31:03,692 [INFO] -> Parsing nested ledger tab: 'BGLs'
+    2026-07-02 02:31:03,726 [INFO] -> Parsing nested ledger tab: 'Fusions'
+    2026-07-02 02:31:03,774 [INFO] -> Parsing nested ledger tab: 'Glaives'
+    2026-07-02 02:31:03,801 [INFO] -> Parsing nested ledger tab: 'Shotguns'
+    2026-07-02 02:31:03,838 [INFO] -> Parsing nested ledger tab: 'Snipers'
+    2026-07-02 02:31:03,874 [INFO] -> Parsing nested ledger tab: 'Rocket Sidearms'
+    2026-07-02 02:31:03,891 [INFO] -> Parsing nested ledger tab: 'Traces'
+    2026-07-02 02:31:03,904 [INFO] -> Parsing nested ledger tab: 'HGLs'
+      2026-07-02 02:31:03,920 [WARNING] -> FINAL RESULT: Item 'Love and Death' (ID: 3690523502, 3482299617) yielded 0 lines.
+        2026-07-02 02:31:03,921 [WARNING] ->   Reasons:
+        2026-07-02 02:31:03,921 [WARNING] ->     - All 18 combinations rejected by pool validation
+    2026-07-02 02:31:03,928 [INFO] -> Parsing nested ledger tab: 'LFRs'
+    2026-07-02 02:31:03,948 [INFO] -> Parsing nested ledger tab: 'LMGs'
+    2026-07-02 02:31:03,998 [INFO] -> Parsing nested ledger tab: 'Rockets'
+    2026-07-02 02:31:04,027 [INFO] -> Parsing nested ledger tab: 'Swords'
+    2026-07-02 02:31:04,068 [INFO] -> Parsing nested ledger tab: 'Other'
+    2026-07-02 02:31:04,083 [INFO] -> Parsing nested ledger tab: 'Exotic Weapons'
+    2026-07-02 02:31:04,106 [INFO] -> Parsing nested ledger tab: 'Exotic Armor (ignore)'
