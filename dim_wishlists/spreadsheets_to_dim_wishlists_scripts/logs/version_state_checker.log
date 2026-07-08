@@ -5775,3 +5775,44 @@
     2026-07-08 10:08:45,312 [INFO] -> 🟩 UP TO DATE [GID 1087089423]: Specifications data lines for sheet component 'Exotic Armor (ignore)' match cache records perfectly.
   2026-07-08 10:08:45,313 [INFO] -> ================================================================================
   2026-07-08 10:08:45,314 [INFO] -> Synchronization check complete. Pipeline gating flags successfully set.
+2026-07-08 17:20:56,102 [INFO] -> ================================================================================
+2026-07-08 17:20:56,102 [INFO] -> 🚀 Starting version check and synchronization loop...
+2026-07-08 17:20:56,102 [INFO] -> ================================================================================
+  2026-07-08 17:20:56,115 [INFO] -> Checking live Destiny 2 Manifest version from Bungie...
+    2026-07-08 17:20:56,115 [INFO] -> Requesting live Bungie Manifest version (Attempt 1/3)...
+    2026-07-08 17:20:56,314 [WARNING] -> ⚠️ Connection exception encountered on attempt 1/3 hitting Bungie API: 500 Server Error: Internal Server Error for url: https://www.bungie.net/Platform/Destiny2/Manifest/
+    2026-07-08 17:21:01,314 [INFO] -> Requesting live Bungie Manifest version (Attempt 2/3)...
+    2026-07-08 17:21:01,480 [INFO] -> 🟩 Up to date: Bungie Manifest version matches local cache. No structural compilation changes needed.
+  2026-07-08 17:21:01,481 [INFO] -> Processing spreadsheet engine resource target profile: 'aegis_boss-damage'
+    2026-07-08 17:21:01,932 [INFO] -> 🟩 UP TO DATE [GID 1268483240]: Specifications data lines for sheet component 'Changelog' match cache records perfectly.
+    2026-07-08 17:21:01,941 [INFO] -> 🟩 UP TO DATE [GID 639621230]: Specifications data lines for sheet component 'Equipment (WIP)' match cache records perfectly.
+  2026-07-08 17:21:01,942 [INFO] -> Processing spreadsheet engine resource target profile: 'aegis_speedrunner'
+    2026-07-08 17:21:02,464 [INFO] -> 🟩 UP TO DATE [GID 0]: Specifications data lines for sheet component 'Weapons' match cache records perfectly.
+  2026-07-08 17:21:02,465 [INFO] -> Processing spreadsheet engine resource target profile: 'aegis_endgame'
+    2026-07-08 17:21:03,055 [INFO] -> 🟩 UP TO DATE [GID 1439671777]: Specifications data lines for sheet component 'Changelog' match cache records perfectly.
+    2026-07-08 17:21:03,120 [INFO] -> 🟩 UP TO DATE [GID 1062099834]: Specifications data lines for sheet component 'Shopping List' match cache records perfectly.
+    2026-07-08 17:21:03,123 [INFO] -> 🟩 UP TO DATE [GID 1890042119]: Specifications data lines for sheet component 'Autos' match cache records perfectly.
+    2026-07-08 17:21:03,127 [INFO] -> 🟩 UP TO DATE [GID 346832350]: Specifications data lines for sheet component 'Status' match cache records perfectly.
+    2026-07-08 17:21:03,435 [INFO] -> 🟩 UP TO DATE [GID 324500912]: Specifications data lines for sheet component 'Bows' match cache records perfectly.
+    2026-07-08 17:21:03,497 [INFO] -> 🟩 UP TO DATE [GID 1712537582]: Specifications data lines for sheet component 'Pulses' match cache records perfectly.
+    2026-07-08 17:21:03,510 [INFO] -> 🟩 UP TO DATE [GID 1315046624]: Specifications data lines for sheet component 'HCs' match cache records perfectly.
+    2026-07-08 17:21:03,539 [INFO] -> 🟩 UP TO DATE [GID 946843299]: Specifications data lines for sheet component 'Scouts' match cache records perfectly.
+    2026-07-08 17:21:03,791 [INFO] -> 🟩 UP TO DATE [GID 1594008157]: Specifications data lines for sheet component 'Sidearms' match cache records perfectly.
+    2026-07-08 17:21:03,851 [INFO] -> 🟩 UP TO DATE [GID 1405969509]: Specifications data lines for sheet component 'SMGs' match cache records perfectly.
+    2026-07-08 17:21:03,895 [INFO] -> 🟩 UP TO DATE [GID 1318165198]: Specifications data lines for sheet component 'Fusions' match cache records perfectly.
+    2026-07-08 17:21:03,904 [INFO] -> 🟩 UP TO DATE [GID 657764751]: Specifications data lines for sheet component 'BGLs' match cache records perfectly.
+    2026-07-08 17:21:04,155 [INFO] -> 🟩 UP TO DATE [GID 1239299765]: Specifications data lines for sheet component 'Glaives' match cache records perfectly.
+    2026-07-08 17:21:04,198 [INFO] -> 🟩 UP TO DATE [GID 1595979957]: Specifications data lines for sheet component 'Shotguns' match cache records perfectly.
+    2026-07-08 17:21:04,261 [INFO] -> 🟩 UP TO DATE [GID 1090554564]: Specifications data lines for sheet component 'Snipers' match cache records perfectly.
+    2026-07-08 17:21:04,289 [INFO] -> 🟩 UP TO DATE [GID 550485113]: Specifications data lines for sheet component 'Rocket Sidearms' match cache records perfectly.
+    2026-07-08 17:21:04,513 [INFO] -> 🟩 UP TO DATE [GID 288998351]: Specifications data lines for sheet component 'Traces' match cache records perfectly.
+    2026-07-08 17:21:04,567 [INFO] -> 🟩 UP TO DATE [GID 439751986]: Specifications data lines for sheet component 'HGLs' match cache records perfectly.
+    2026-07-08 17:21:04,629 [INFO] -> 🟩 UP TO DATE [GID 1919916707]: Specifications data lines for sheet component 'LMGs' match cache records perfectly.
+    2026-07-08 17:21:04,641 [INFO] -> 🟩 UP TO DATE [GID 29008106]: Specifications data lines for sheet component 'LFRs' match cache records perfectly.
+    2026-07-08 17:21:04,839 [INFO] -> 🟩 UP TO DATE [GID 981030684]: Specifications data lines for sheet component 'Rockets' match cache records perfectly.
+    2026-07-08 17:21:04,898 [INFO] -> 🟩 UP TO DATE [GID 473850359]: Specifications data lines for sheet component 'Swords' match cache records perfectly.
+    2026-07-08 17:21:04,978 [INFO] -> 🟩 UP TO DATE [GID 266663572]: Specifications data lines for sheet component 'Other' match cache records perfectly.
+    2026-07-08 17:21:05,106 [INFO] -> 🟩 UP TO DATE [GID 1789798057]: Specifications data lines for sheet component 'Exotic Weapons' match cache records perfectly.
+    2026-07-08 17:21:05,192 [INFO] -> 🟩 UP TO DATE [GID 1087089423]: Specifications data lines for sheet component 'Exotic Armor (ignore)' match cache records perfectly.
+  2026-07-08 17:21:05,193 [INFO] -> ================================================================================
+  2026-07-08 17:21:05,193 [INFO] -> Synchronization check complete. Pipeline gating flags successfully set.
