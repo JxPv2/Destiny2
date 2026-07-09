@@ -1,215 +1,214 @@
-WEAPON,,INFO,,,,,PERKS,,,,,ANALYSIS,,
-🖼️,Name,Season,Energy,Frame,Ammo,⬆️,Barrel,Mag,Perk 1,Perk 2,Origin Trait,Notes,Rank,Tier
-,Perfect Paradox,29,Kinetic,Rapid,54,Yes,Barrel Shroud,Tactical Mag,"Pugilist
+WEAPON,,INFO,,,,,,,PERKS,,,,,ANALYSIS,,
+🖼️,Name,Season,Energy,Frame,Source,Stun,Ammo,⬆️,Barrel,Mag,Perk 1,Perk 2,Origin Trait,Notes,Rank,Tier
+,Perfect Paradox,29,Kinetic,Rapid,"World, Banshee",,54,Yes,Barrel Shroud,Tactical Mag,"Pugilist
 Stopping Power
 Bewildering Burst","One-Two Punch
 Trench Barrel
 All-Star",Cast No Shadows,BiS shotgun for most common shotgun use case,1,S
-,Heritage,12,Kinetic,Pinpoint Slug,49,Yes,Fluted Barrel,Assault Mag,"Redirection
+,Heritage,12,Kinetic,Pinpoint Slug,Deep Stone Crypt,,49,Yes,Fluted Barrel,Assault Mag,"Redirection
 Reconstruction
 Demolitionist","Recombination
 Aggregate Charge
 Cascade Point",Bray Inheritance,highest burst shotgun in the game,2,S
-,Unvoiced,29,Void,Pinpoint Slug,46,Yes,Fluted Barrel,Assault Mag,"Redirection
+,Unvoiced,29,Void,Pinpoint Slug,Sundered Doctrine,,46,Yes,Fluted Barrel,Assault Mag,"Redirection
 Fourth Time's the Charm","Bait and Switch
 Vorpal Weapon",Subjugation,niche Redirection burst + total damage slug,3,S
-,Found Verdict,29,Arc,Aggressive,34,Yes,Barrel Shroud,Assault Mag,"Aggregate Charge
+,Found Verdict,29,Arc,Aggressive,Vault of Glass,,34,Yes,Barrel Shroud,Assault Mag,"Aggregate Charge
 Discord","Trench Barrel
 Elemental Honing
 Gear Shift",Timelost Magazine,best Trench double damage spam aggressive,4,S
-,Basso Ostinato,29,Void,Rapid,50,Yes,Barrel Shroud,Tactical Mag,"Grave Robber
+,Basso Ostinato,29,Void,Rapid,Neomuna,,50,Yes,Barrel Shroud,Tactical Mag,"Grave Robber
 Discord
 Demolitionist","One-Two Punch
 Destabilizing Rounds
 Trench Barrel",Nanotech Tracer Missiles,"free damage on origin, best energy 12P option, Discord alternative",5,S
-,One Small Step,29,Stasis,Rapid,53,Yes,Barrel Shroud,Tactical Mag,"Grave Robber
+,One Small Step,29,Stasis,Rapid,Moon,,53,Yes,Barrel Shroud,Tactical Mag,"Grave Robber
 Lead from Gold","One-Two Punch
 Trench Barrel",Loss,Perfect Paradox alternative,6,S
-,Threat Level,29,Kinetic,Rapid,52,Yes,Barrel Shroud,Tactical Mag,"Grave Robber
+,Threat Level,29,Kinetic,Rapid,Pantheon,,52,Yes,Barrel Shroud,Tactical Mag,"Grave Robber
 One-Two Punch
 Cascade Point","Chaos Reshaped
 Trench Barrel
 Elemental Honing",Elliptical Orbit,BiS kinetic pellet dump and 1 mag melee-based damage,7,S
-,IKELOS_SG_v1.0.3,29,Solar,Rapid,60,Yes,Barrel Shroud,Tactical Mag,"Grave Robber
+,IKELOS_SG_v1.0.3,29,Solar,Rapid,Seraph's Shield,,60,Yes,Barrel Shroud,Tactical Mag,"Grave Robber
 Threat Detector
 Pugilist","One-Two Punch
 Surrounded
 Cascade Point",Rasputin's Arsenal,excellent perks for 12P and roam,8,S
-,Arcane Embrace,27,Arc,Heavy Burst,42,Yes,Fluted Barrel,Appended Mag,"Fourth Time's the Charm
+,Arcane Embrace,27,Arc,Heavy Burst,Tenet of Bravery,,42,Yes,Fluted Barrel,Appended Mag,"Fourth Time's the Charm
 Dual Loader
 Grave Robber","Aggregate Charge
 Precision Instrument
 Surrounded",Search Party,niche legendary shotgun dump roll,9,A
-,Until Its Return,29,Strand,Rapid,54,Yes,Barrel Shroud,Tactical Mag,"Auto-Loading Holster
+,Until Its Return,29,Strand,Rapid,Xur,,54,Yes,Barrel Shroud,Tactical Mag,"Auto-Loading Holster
 Overflow","Cascade Point
 Surrounded
 Vorpal Weapon",Unsated Hunger,"legendary Horseman-esque burst, uncommon",10,A
-,Blasphemer,29,Kinetic,Pinpoint Slug,48,Yes,Fluted Barrel,Assault Mag,Fourth Time's the Charm,All-Star,Loss,"carried by a single roll, not bad though",11,A
+,Blasphemer,29,Kinetic,Pinpoint Slug,Moon,,48,Yes,Fluted Barrel,Assault Mag,Fourth Time's the Charm,All-Star,Loss,"carried by a single roll, not bad though",11,A
 ,"A Sudden Death
-RotN version",26,Void,Aggressive,38,Yes,Barrel Shroud,Assault Mag,"Discord
+RotN version",26,Void,Aggressive,Rite of the Nine,,38,Yes,Barrel Shroud,Assault Mag,"Discord
 One-Two Punch","Trench Barrel
 Redirection",Gravity Well,decent roam potential + double damage option,12,A
-,Imperial Decree,29,Kinetic,Aggressive,39,Yes,Barrel Shroud,Assault Mag,Auto-Loading Holster,"Trench Barrel
+,Imperial Decree,29,Kinetic,Aggressive,Xur,,39,Yes,Barrel Shroud,Assault Mag,Auto-Loading Holster,"Trench Barrel
 Surrounded",To Excess,go-to QoL Trench aggressive,13,A
-,Pure Recollection,27,Void,Heavy Burst,40,Yes,Fluted Barrel,"Appended Mag
+,Pure Recollection,27,Void,Heavy Burst,Crucible,,40,Yes,Fluted Barrel,"Appended Mag
 Ricochet Rounds","Envious Arsenal
 High-Impact Reserves","Bait and Switch
 Withering Gaze",Roar of Battle,probably BiS close range Withering special,14,A
-,Starscape Null,27,Solar,Lightweight,29,Yes,Barrel Shroud,Assault Mag,"Reconstruction
+,Starscape Null,27,Solar,Lightweight,Epic Desert Perpetual,,29,Yes,Barrel Shroud,Assault Mag,"Reconstruction
 Lead from Gold
 Rewind Rounds","One-Two Punch
 Trench Barrel
 Aggregate Charge",Frame of Reference,very odd perk pool that can't really decide on what it wants,15,B
-,Swordbreaker,29,Strand,Lightweight,25,Yes,Barrel Shroud,Assault Mag,"Demolitionist
+,Swordbreaker,29,Strand,Lightweight,Crota's End,,25,Yes,Barrel Shroud,Assault Mag,"Demolitionist
 Slice","One-Two Punch
 Chaos Reshaped",Cursed Thrall,"highest QoL lightweight 12P option, has Sever option too",16,B
-,Xenoclast IV,29,Arc,Lightweight,23,Yes,Barrel Shroud,Assault Mag,"Grave Robber
+,Xenoclast IV,29,Arc,Lightweight,Zavala,,23,Yes,Barrel Shroud,Assault Mag,"Grave Robber
 Auto-Loading Holster
 Lead from Gold","One-Two Punch
 Vorpal Weapon
 Demolitionist",Vanguard Determination,enhanceable Grave 12P lightweight,17,B
-,A Sudden Death,29,Void,Aggressive,38,Yes,Barrel Shroud,Assault Mag,"One-Two Punch
+,A Sudden Death,29,Void,Aggressive,Prophecy,,38,Yes,Barrel Shroud,Assault Mag,"One-Two Punch
 Reconstruction
 Discord","Trench Barrel
 Destabilizing Rounds",Crossing Over,"interesting Discord option, still has double melee perk combo",18,B
-,Seventh Seraph CQC-12,29,Solar,Lightweight,27,Yes,Barrel Shroud,Assault Mag,"Discord
+,Seventh Seraph CQC-12,29,Solar,Lightweight,Cosmodrome,,27,Yes,Barrel Shroud,Assault Mag,"Discord
 Heal Clip
 Disruption Break","Incandescent
 Chain Reaction
 Trench Barrel",Eyes Up,"probably best Discord shotgun, okay origin",19,B
-,Someday,29,Kinetic,Precision,37,Yes,Barrel Shroud,Assault Mag,"One-Two Punch
+,Someday,29,Kinetic,Precision,Pale Heart,,37,Yes,Barrel Shroud,Assault Mag,"One-Two Punch
 Lead from Gold","Recombination
 Cascade Point
 Vorpal Weapon",Dealer's Choice,"double damage 12P, otherwise unremarkable",20,B
-,Wastelander M5,29,Kinetic,Lightweight,26,Yes,Barrel Shroud,Assault Mag,"Lead from Gold
+,Wastelander M5,29,Kinetic,Lightweight,Dares,,26,Yes,Barrel Shroud,Assault Mag,"Lead from Gold
 Pugilist","One-Two Punch
 Vorpal Weapon",Hot Swap,"Swordbreaker alternative, mostly unused",21,B
-,Retold Tale,29,Void,Precision,38,Yes,Barrel Shroud,Assault Mag,"Repulsor Brace
+,Retold Tale,29,Void,Precision,Dreaming City,,38,Yes,Barrel Shroud,Assault Mag,"Repulsor Brace
 Slideshot","Destabilizing Rounds
 Withering Gaze
 One-Two Punch",Advanced Reflexes,"another pellet Withering Gaze option, otherwise not very good",22,B
-TBA,Python,29,Void,Aggressive,37,Yes,Barrel Shroud,Assault Mag,"Overflow
+TBA,Python,29,Void,Aggressive,Gambit,,37,Yes,Barrel Shroud,Assault Mag,"Overflow
 Dimensional Shift
 Repulsor Brace","Withering Gaze
 Destabilizing Rounds
 One-Two Punch",Gun and Run,"pellet-based Withering Gaze, otherwise not great",23,B
-,The Deicide,29,Arc,Rapid,51,Yes,Barrel Shroud,Tactical Mag,"Auto-Loading Holster
+,The Deicide,29,Arc,Rapid,Nessus,,51,Yes,Barrel Shroud,Tactical Mag,"Auto-Loading Holster
 Discord
 Lead from Gold","One-Two Punch
 Trench Barrel
 Collective Demolition",Fail-deadly,"bad Discord pairings, maybe good with Collective",24,B
-,Dead Weight,17,Arc,Rapid,49,No,Barrel Shroud,Tactical Mag,"Grave Robber
+,Dead Weight,17,Arc,Rapid,Gambit,,49,No,Barrel Shroud,Tactical Mag,"Grave Robber
 Auto-Loading Holster
 Lead from Gold","One-Two Punch
 Frenzy
 Surrounded",Field-Tested,no enhanced 12P but solid perk diversity,25,B
-,Compass Rose,29,Solar,Precision,45,Yes,Barrel Shroud,Assault Mag,"Grave Robber
+,Compass Rose,29,Solar,Precision,Tenet of Bravery,,45,Yes,Barrel Shroud,Assault Mag,"Grave Robber
 Dual Loader","One-Two Punch
 Trench Barrel
 Vorpal Weapon",Dream Work,mediocre archetype but relevant perks,26,B
-,Prophet of Doom,29,Arc,Precision,48,Yes,Barrel Shroud,Assault Mag,"Reconstruction
+,Prophet of Doom,29,Arc,Precision,Garden of Salvation,,48,Yes,Barrel Shroud,Assault Mag,"Reconstruction
 Envious Arsenal
 Pugilist","One-Two Punch
 Trench Barrel
 Cascade Point",Photoinhibition,mediocre archetype but relevant perks,27,B
-,MIDA Macro-Tool,27,Arc,MIDA Synergy,44,Yes,Barrel Shroud,Assault Mag,"Grave Robber
+,MIDA Macro-Tool,27,Arc,MIDA Synergy,Crucible,,44,Yes,Barrel Shroud,Assault Mag,"Grave Robber
 Discord","One-Two Punch
 Trench Barrel",Roar of Battle,mediocre archetype but relevant perks,28,B
-,Precipial,27,Void,Precision,45,Yes,Barrel Shroud,Assault Mag,"One-Two Punch
+,Precipial,27,Void,Precision,Kepler,,45,Yes,Barrel Shroud,Assault Mag,"One-Two Punch
 Reconstruction","Vorpal Weapon
 Discord",Exhaustive Research,"double damage 12P, bad frame but funny ranged 12P interaction",30,B
-,Last Man Standing,29,Solar,Aggressive,33,Yes,Barrel Shroud,Assault Mag,"Grave Robber
+,Last Man Standing,29,Solar,Aggressive,Gambit,,33,Yes,Barrel Shroud,Assault Mag,"Grave Robber
 Lead from Gold
 Heal Clip","One-Two Punch
 Trench Barrel
 Discord",Gun and Run,"no splash to pair with Discord, awkward frame from melee",31,B
-,Without Remorse,29,Solar,Lightweight,22,Yes,Barrel Shroud,Assault Mag,"Threat Detector
+,Without Remorse,29,Solar,Lightweight,Presage,,22,Yes,Barrel Shroud,Assault Mag,"Threat Detector
 Field Prep","One-Two Punch
 Vorpal Weapon",Extrovert,"high stats 1 mag 12P, also swap option",32,B
-,Supercluster,29,Strand,Pinpoint Slug,46,Yes,Fluted Barrel,Assault Mag,"Reconstruction
+,Supercluster,29,Strand,Pinpoint Slug,Starcrossed,,46,Yes,Fluted Barrel,Assault Mag,"Reconstruction
 Fourth Time's the Charm","Vorpal Weapon
 Surrounded
 Cascade Point",Dragon's Vengeance,best dump/swap kinetic slug,33,B
-,Fractethyst,29,Stasis,Precision,45,Yes,Barrel Shroud,Assault Mag,"One-Two Punch
+,Fractethyst,29,Stasis,Precision,Shattered Throne,,45,Yes,Barrel Shroud,Assault Mag,"One-Two Punch
 Lead from Gold","Trench Barrel
 Chain Reaction
 Crystalline Corpsebloom",Ignoble Deeds,"A Sudden Death roll with some splash in 2nd column, bad frame",34,B
-,Nessa's Oblation,29,Void,Pinpoint Slug,49,Yes,Fluted Barrel,Assault Mag,"Reconstruction
+,Nessa's Oblation,29,Void,Pinpoint Slug,Root of Nightmares,,49,Yes,Fluted Barrel,Assault Mag,"Reconstruction
 Fourth Time's the Charm
 Demolitionist","Frenzy
 Vorpal Weapon
 Focused Fury",Harmonic Resonance,worse Unvoiced but still okay for swaps,35,B
-,Fortissimo-11,29,Kinetic,Pinpoint Slug,45,Yes,Fluted Barrel,Assault Mag,"Fourth Time's the Charm
+,Fortissimo-11,29,Kinetic,Pinpoint Slug,Zavala,,45,Yes,Fluted Barrel,Assault Mag,"Fourth Time's the Charm
 Demolitionist
 Threat Detector
 ","Vorpal Weapon
 Frenzy
 Surrounded",Vanguard Determination,decent dump slug,36,B
-,Trachinus,27,Stasis,Rapid Slug,50,Yes,Fluted Barrel,Assault Mag,"Lead from Gold
+,Trachinus,27,Stasis,Rapid Slug,Tenet of Bravery,,50,Yes,Fluted Barrel,Assault Mag,"Lead from Gold
 Rapid Hit","Chill Clip
 Precision Instrument",Tenacity,awkward archetype but Chill Clip niche,37,C
-,Hawthorne's Field-Forged Shotgun,28,Stasis,Lightweight,10,Yes,Barrel Shroud,Assault Mag,"Grave Robber
+,Hawthorne's Field-Forged Shotgun,28,Stasis,Lightweight,Zavala,,10,Yes,Barrel Shroud,Assault Mag,"Grave Robber
 Lead from Gold",Chill Clip,Field-Tested,high QoL Chill Clip option but pretty niche,38,C
-TBA,Felwinter's Lie,29,Solar,Shot Package,34,Yes,Barrel Shroud,Assault Mag,"Cascade Point
+TBA,Felwinter's Lie,29,Solar,Shot Package,Iron Banner,,34,Yes,Barrel Shroud,Assault Mag,"Cascade Point
 Heal Clip","Trench Barrel
 Bait and Switch",Skulking Wolf,"Cascade + damage aggressive, good origin",39,C
-,Bonechiller,29,Void,Pinpoint Slug,40,Yes,Fluted Barrel,Assault Mag,"Triple Tap
+,Bonechiller,29,Void,Pinpoint Slug,Europa,,40,Yes,Fluted Barrel,Assault Mag,"Triple Tap
 Butterfly
 Repulsor Brace","Precision Instrument
 Meganeura
 Destabilizing Rounds",Winterized Gear,"no FTTC, mediocre damage perks, no Discord support",40,C
-,Sojourner's Tale,25,Solar,Pinpoint Slug,43,Yes,Fluted Barrel,Assault Mag,"Discord
+,Sojourner's Tale,25,Solar,Pinpoint Slug,"Xur, Dares",,43,Yes,Fluted Barrel,Assault Mag,"Discord
 Auto-Loading Holster
 Heal Clip","Incandescent
 Precision Instrument",Splicer Surge,only Discord slug,41,C
-,Retrofuturist,29,Void,Lightweight,20,Yes,Barrel Shroud,Assault Mag,"Quickdraw
+,Retrofuturist,29,Void,Lightweight,Crucible,,20,Yes,Barrel Shroud,Assault Mag,"Quickdraw
 Slickdraw
 Auto-Loading Holster","Frenzy
 Vorpal Weapon
 Trench Barrel",Roar of Battle,solid for lightweight swaps but irrelevant,42,C
-,Ded Gramarye IV,29,Arc,Lightweight,19,Yes,Barrel Shroud,Assault Mag,"Discord
+,Ded Gramarye IV,29,Arc,Lightweight,Banshee,,19,Yes,Barrel Shroud,Assault Mag,"Discord
 Slickdraw","Chain Reaction
 Voltshot
 Vorpal Weapon",Wild Card,"interesting roam option, but niche",43,C
-,Deadpan Delivery,22,Arc,Aggressive,28,No,Barrel Shroud,Assault Mag,"Surplus
+,Deadpan Delivery,22,Arc,Aggressive,Zavala,,28,No,Barrel Shroud,Assault Mag,"Surplus
 Overflow
 Discord","Trench Barrel
 Frenzy",Nadir Focus,barebones Trench aggressive,44,C
-,Legato-11,25,Solar,Pinpoint Slug,38,Yes,Fluted Barrel,Assault Mag,"Auto-Loading Holster
+,Legato-11,25,Solar,Pinpoint Slug,Banshee,,38,Yes,Fluted Barrel,Assault Mag,"Auto-Loading Holster
 Heal Clip
 Deconstruct","Vorpal Weapon
 Cascade Point
 Incandescent",Suros Synergy,"decent for slug swaps, no FTTC",45,C
-,The Comedian,15,Void,Aggressive,40,No,Barrel Shroud,Assault Mag,"Ensemble
+,The Comedian,15,Void,Aggressive,Zavala,,40,No,Barrel Shroud,Assault Mag,"Ensemble
 Lead from Gold","Trench Barrel
 Vorpal Weapon",Stunning Recovery,barebones Trench aggressive,46,C
-,Hand in Hand,20,Arc,Aggressive,32,No,Barrel Shroud,Assault Mag,Ensemble,"Trench Barrel
+,Hand in Hand,20,Arc,Aggressive,Banshee,,32,No,Barrel Shroud,Assault Mag,Ensemble,"Trench Barrel
 Cascade Point",Field-Tested,barebones Trench aggressive,47,C
-,Ragnhild-D,29,Kinetic,Aggressive,37,Yes,Barrel Shroud,Assault Mag,Auto-Loading Holster,"Frenzy
+,Ragnhild-D,29,Kinetic,Aggressive,Banshee,,37,Yes,Barrel Shroud,Assault Mag,Auto-Loading Holster,"Frenzy
 One-Two Punch",Häkke Breach Armaments,usable for 12P but awful QoL,48,C
-,Mindbender's Ambition,29,Solar,Aggressive,40,Yes,Barrel Shroud,Assault Mag,Threat Detector,"Vorpal Weapon
+,Mindbender's Ambition,29,Solar,Aggressive,Zavala,,40,Yes,Barrel Shroud,Assault Mag,Threat Detector,"Vorpal Weapon
 One-Two Punch",Problem Solver,bad 12P frame and no Trench,49,C
-,Reckless Endangerment,29,Kinetic,Lightweight,26,Yes,Fluted Barrel,Assault Mag,Grave Robber,"Trench Barrel
-All-Star",Vanguard Determination,"bad frame for Trench, has Grave though",50,C
-,Matador 64,29,Arc,Precision,45,Yes,Barrel Shroud,Assault Mag,Lead from Gold,One-Two Punch,Unburied Treasure,"carried by 12P, awful otherwise",51,C
-,Riiswalker,29,Kinetic,Lightweight,25,Yes,Barrel Shroud,Assault Mag,"Slickdraw
+,Reckless Endangerment,29,Kinetic,Lightweight,Solo Ops,,26,Yes,Fluted Barrel,Assault Mag,,,Vanguard Determination,"bad frame for Trench, has Grave though",50,C
+,Matador 64,29,Arc,Precision,Grasp of Avarice,,45,Yes,Barrel Shroud,Assault Mag,Lead from Gold,One-Two Punch,Unburied Treasure,"carried by 12P, awful otherwise",51,C
+,Riiswalker,29,Kinetic,Lightweight,Iron Banner,,25,Yes,Barrel Shroud,Assault Mag,"Slickdraw
 Discord",Vorpal Weapon,Skulking Wolf,swap-exclusive lightweight,52,D
-,"First In, Last Out",11,Arc,Pinpoint Slug,40,No,Fluted Barrel,Assault Mag,Auto-Loading Holster,"Vorpal Weapon
+,"First In, Last Out",11,Arc,Pinpoint Slug,Xur,,40,No,Fluted Barrel,Assault Mag,Auto-Loading Holster,"Vorpal Weapon
 Surrounded
 Demolitionist",None,outdated swap option,53,D
-,Scavenger's Fate,25,Void,Precision,42,Yes,Barrel Shroud,Assault Mag,"Discord
+,Scavenger's Fate,25,Void,Precision,"Xur, Kell's Fall?",,42,Yes,Barrel Shroud,Assault Mag,"Discord
 Repulsor Brace","Destabilizing Rounds
 Surrounded
 Frenzy",Dark Ether Reaper,Discord on worst frame + okay perks,54,D
-,Astral Horizon,28,Kinetic,Aggressive,40,Yes,Barrel Shroud,Assault Mag,,,Wild Card,,55,D
-,Deadlock,29,Stasis,Precision,48,Yes,Barrel Shroud,Assault Mag,,,None,,56,D
-,Gunnora's Axe,29,Solar,Pinpoint Slug,42,Yes,Fluted Barrel,"Extended Mag
+,Astral Horizon,28,Kinetic,Aggressive,Trials,,40,Yes,Barrel Shroud,Assault Mag,,,Wild Card,,55,D
+,Deadlock,29,Stasis,Precision,Crucible,,48,Yes,Barrel Shroud,Assault Mag,,,None,,56,D
+,Gunnora's Axe,29,Solar,Pinpoint Slug,Iron Banner,,42,Yes,Fluted Barrel,"Extended Mag
 Ricochet Rounds",Heal Clip,"Incandescent
 Precision Instrument
 Cascade Point",Suros Synergy,"no loader perk in 1st column, weird 2nd column to match",57,E
-,No Reprieve,29,Stasis,Pinpoint Slug,41,Yes,Fluted Barrel,Assault Mag,Triple Tap,"Surrounded
+,No Reprieve,29,Stasis,Pinpoint Slug,Xur,,41,Yes,Fluted Barrel,Assault Mag,Triple Tap,"Surrounded
 Focused Fury",Right Hook,entirely irrelevant slug perks,58,E
-,The Inquisitor,29,Arc,Pinpoint Slug,52,Yes,Fluted Barrel,Assault Mag,Grave Robber,"Cascade Point
+,The Inquisitor,29,Arc,Pinpoint Slug,Trials,,52,Yes,Fluted Barrel,Assault Mag,Grave Robber,"Cascade Point
 Vorpal Weapon",Roar of Battle,"downgrade from previous version, awful perk pool",59,E
-,Wishbringer,5,Solar,Rapid,64,No,Barrel Shroud,Tactical Mag,Threat Detector,Auto-Loading Holster,None,no damage perk but good frame,60,F
-,Toil and Trouble,4,Kinetic,Aggressive,40,No,Barrel Shroud,Assault Mag,Threat Detector,Auto-Loading Holster,None,no damage perk but okay frame,61,F
+,Wishbringer,5,Solar,Rapid,Shaxx,,64,No,Barrel Shroud,Tactical Mag,Threat Detector,Auto-Loading Holster,None,no damage perk but good frame,60,F
+,Toil and Trouble,4,Kinetic,Aggressive,Zavala,,40,No,Barrel Shroud,Assault Mag,Threat Detector,Auto-Loading Holster,None,no damage perk but okay frame,61,F

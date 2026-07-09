@@ -6,7 +6,7 @@
       "patch": "Pantheon 2.0"
     },
     "link": "https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY",
-    "scrape_date": "2026-07-09 02:06:37"
+    "scrape_date": "2026-07-09 10:46:58"
   },
   "workbooks": {
     "Shopping List": {
@@ -4826,54 +4826,6 @@
           }
         }
       },
-      "Lodbrok-C": {
-        "weapon_name": "Lodbrok-C",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel",
-            "Arrowhead Brake"
-          ],
-          "column2": [
-            "High-Caliber Rounds",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Demolitionist"
-          ],
-          "perk2": [
-            "Kill Clip",
-            "Adrenaline Junkie"
-          ],
-          "origin_trait": [
-            "Häkke Breach Armaments"
-          ]
-        },
-        "info": {
-          "rank": "59",
-          "tier": "E",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "completely outdated, technically has double stagger combo though",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
       "Sweet Sorrow": {
         "weapon_name": "Sweet Sorrow",
         "version": "",
@@ -4953,6 +4905,54 @@
           "usage": "",
           "source": "",
           "notes": "extremely outdated perk pool, good frame but not even close to redeemable",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Lodbrok-C": {
+        "weapon_name": "Lodbrok-C",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel",
+            "Arrowhead Brake"
+          ],
+          "column2": [
+            "High-Caliber Rounds",
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Demolitionist"
+          ],
+          "perk2": [
+            "Kill Clip",
+            "Adrenaline Junkie"
+          ],
+          "origin_trait": [
+            "Häkke Breach Armaments"
+          ]
+        },
+        "info": {
+          "rank": "59",
+          "tier": "E",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "completely outdated, technically has double stagger combo though",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -6629,56 +6629,6 @@
           "usage": "",
           "source": "",
           "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Zaouli's Bane_2": {
-        "weapon_name": "Zaouli's Bane",
-        "version": "Pantheon",
-        "perks": {
-          "column1": [
-            "Fluted Barrel"
-          ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Firefly",
-            "Burning Ambition",
-            "Explosive Payload"
-          ],
-          "perk2": [
-            "Chaos Reshaped",
-            "Meganeura",
-            "Incandescent"
-          ],
-          "origin_trait": [
-            "Elliptical Orbit"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "slow reload animation but very lethal perk combos",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -9604,6 +9554,48 @@
             "power": ""
           }
         }
+      },
+      "Zaouli's Bane_2": {
+        "weapon_name": "Zaouli's Bane",
+        "version": "Pantheon",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Flared Magwell",
+            "Alloy Magazine"
+          ],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": [
+            "Elliptical Orbit"
+          ]
+        },
+        "info": {
+          "rank": "",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "slow reload animation but very lethal perk combos",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
       }
     },
     "Pulses": {
@@ -10713,57 +10705,6 @@
           "usage": "",
           "source": "",
           "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Chattering Bone_2": {
-        "weapon_name": "Chattering Bone",
-        "version": "Pantheon",
-        "perks": {
-          "column1": [
-            "Fluted Barrel",
-            "Arrowhead Brake"
-          ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Attrition Orbs",
-            "Bewildering Burst",
-            "Kill Clip"
-          ],
-          "perk2": [
-            "Kinetic Tremors",
-            "Ancillary Ordinance",
-            "Chaos Reshaped"
-          ],
-          "origin_trait": [
-            "Elliptical Orbit"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "AO + KT, good kinetic perks, awkward Chaos pairing, good frame",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -12449,6 +12390,49 @@
           "usage": "",
           "source": "",
           "notes": "OFA style perk on bad weapon type, bad perks otherwise",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Chattering Bone_2": {
+        "weapon_name": "Chattering Bone",
+        "version": "Pantheon",
+        "perks": {
+          "column1": [
+            "Fluted Barrel",
+            "Arrowhead Brake"
+          ],
+          "column2": [
+            "Flared Magwell",
+            "Alloy Magazine"
+          ],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": [
+            "Elliptical Orbit"
+          ]
+        },
+        "info": {
+          "rank": "",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "AO + KT, good kinetic perks, awkward Chaos pairing, good frame",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -22636,12 +22620,8 @@
             "Accelerated Coils",
             "Enhanced Battery"
           ],
-          "perk1": [
-            "Steady Hands"
-          ],
-          "perk2": [
-            "Vorpal Weapon"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Skulking Wolf"
           ]
@@ -25975,13 +25955,8 @@
           "column2": [
             "Assault Mag"
           ],
-          "perk1": [
-            "Grave Robber"
-          ],
-          "perk2": [
-            "Trench Barrel",
-            "All-Star"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Vanguard Determination"
           ]
@@ -26503,53 +26478,6 @@
       }
     },
     "Snipers": {
-      "The Helmsman": {
-        "weapon_name": "The Helmsman",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel"
-          ],
-          "column2": [
-            "Extended Mag"
-          ],
-          "perk1": [
-            "Explosive Payload",
-            "Discord"
-          ],
-          "perk2": [
-            "Elemental Honing",
-            "Gear Shift"
-          ],
-          "origin_trait": [
-            "Accelerated Assault"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "NEED TESTING",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
       "Praedyth's Revenge": {
         "weapon_name": "Praedyth's Revenge",
         "version": "",
@@ -29174,6 +29102,53 @@
             "power": ""
           }
         }
+      },
+      "The Helmsman": {
+        "weapon_name": "The Helmsman",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Extended Mag"
+          ],
+          "perk1": [
+            "Explosive Payload",
+            "Discord"
+          ],
+          "perk2": [
+            "Elemental Honing",
+            "Gear Shift"
+          ],
+          "origin_trait": [
+            "Accelerated Assault"
+          ]
+        },
+        "info": {
+          "rank": "",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "NEED TESTING",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
       }
     },
     "Rocket Sidearms": {
@@ -30402,7 +30377,7 @@
             "Quick Launch"
           ],
           "column2": [
-            "Spike Grenades"
+            "High-Velocity Rounds"
           ],
           "perk1": [
             "Envious Arsenal",
@@ -34467,54 +34442,6 @@
           }
         }
       },
-      "Heretic": {
-        "weapon_name": "Heretic",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Quick Launch"
-          ],
-          "column2": [
-            "Impact Casing"
-          ],
-          "perk1": [
-            "Envious Arsenal",
-            "Cluster Bomb"
-          ],
-          "perk2": [
-            "Explosive Light",
-            "Gear Shift",
-            "Bipod"
-          ],
-          "origin_trait": [
-            "Loss"
-          ]
-        },
-        "info": {
-          "rank": "11",
-          "tier": "A",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "worse origin than Cold Comfort, but Cluster option and worse damage perks",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
       "Tomorrow's Answer": {
         "weapon_name": "Tomorrow's Answer",
         "version": "",
@@ -34549,6 +34476,54 @@
           "usage": "",
           "source": "",
           "notes": "interesting option post-reserve nerf, frame difference",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Heretic": {
+        "weapon_name": "Heretic",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "Impact Casing"
+          ],
+          "perk1": [
+            "Envious Arsenal",
+            "Cluster Bomb"
+          ],
+          "perk2": [
+            "Explosive Light",
+            "Gear Shift",
+            "Bipod"
+          ],
+          "origin_trait": [
+            "Loss"
+          ]
+        },
+        "info": {
+          "rank": "11",
+          "tier": "A",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "worse origin than Cold Comfort, but Cluster option and worse damage perks",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -35651,49 +35626,6 @@
       }
     },
     "Swords": {
-      "Zephyr": {
-        "weapon_name": "Zephyr",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Jagged Edge",
-            "Tempered Edge"
-          ],
-          "column2": [
-            "Swordmaster's Guard",
-            "Heavy Guard"
-          ],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": [
-            "Dawning Surprise"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "S",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
       "Synanceia": {
         "weapon_name": "Synanceia",
         "version": "",
@@ -37623,6 +37555,49 @@
           "usage": "",
           "source": "",
           "notes": "no real boss damage perk",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Zephyr": {
+        "weapon_name": "Zephyr",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Jagged Edge",
+            "Tempered Edge"
+          ],
+          "column2": [
+            "Swordmaster's Guard",
+            "Heavy Guard"
+          ],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": [
+            "Dawning Surprise"
+          ]
+        },
+        "info": {
+          "rank": "",
+          "tier": "S",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {

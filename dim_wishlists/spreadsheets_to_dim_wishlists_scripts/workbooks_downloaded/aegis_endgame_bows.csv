@@ -1,73 +1,73 @@
-WEAPON,,INFO,,,,,PERKS,,,,,ANALYSIS,,
-🖼️,Name,Season,Energy,Frame,Ammo,⬆️,Barrel,Mag,Perk 1,Perk 2,Origin Trait,Notes,Rank,Tier
-,Biting Winds,29,Kinetic,Precision,54,Yes,Elastic String,Compact Arrow Shaft,"Bewildering Burst
+WEAPON,,INFO,,,,,,,PERKS,,,,,ANALYSIS,,
+🖼️,Name,Season,Energy,Frame,Source,Stun,Ammo,⬆️,Barrel,Mag,Perk 1,Perk 2,Origin Trait,Notes,Rank,Tier
+,Biting Winds,29,Kinetic,Precision,Europa,,54,Yes,Elastic String,Compact Arrow Shaft,"Bewildering Burst
 Impromptu Ammunition",Kinetic Tremors,Winterized Gear,"Bewildering isn't great on most primaries, but on a bow it's excellent",1,S
-,The Spiteful Fang,29,Stasis,Lightweight,66,Yes,Elastic String,Compact Arrow Shaft,"Headstone
+,The Spiteful Fang,29,Stasis,Lightweight,Arena Ops,,66,Yes,Elastic String,Compact Arrow Shaft,"Headstone
 Rimestealer","Firefly
 Crystalline Corpsebloom",Forge's Kin,"the fire and ice combo but on a bow, great origin too, just not the best frame",2,S
-,Point of the Stag,29,Arc,Precision,53,Yes,Elastic String,Compact Arrow Shaft,Dragonfly,"Voltshot
+,Point of the Stag,29,Arc,Precision,Iron Banner,,53,Yes,Elastic String,Compact Arrow Shaft,Dragonfly,"Voltshot
 Archer's Gambit",Skulking Wolf,Non-Denouement with better origin traits,3,S
-,Non-Denouement,29,Arc,Precision,58,Yes,Elastic String,Compact Arrow Shaft,"Dragonfly
+,Non-Denouement,29,Arc,Precision,Salvation's Edge,,58,Yes,Elastic String,Compact Arrow Shaft,"Dragonfly
 Successful Warm-Up
 Shoot to Loot","Voltshot
 Chaos Reshaped
 Meganeura",Collective Purpose,interesting perk diversity but probably just worse than Point of the Stag,4,S
-,Accrued Redemption,29,Kinetic,Precision,60,Yes,Elastic String,Compact Arrow Shaft,Attrition Orbs,"Kinetic Tremors
+,Accrued Redemption,29,Kinetic,Precision,Garden of Salvation,,60,Yes,Elastic String,Compact Arrow Shaft,Attrition Orbs,"Kinetic Tremors
 Archer's Gambit",Photoinhibition,"classic AO + KT combo, good frame, decent origin",5,S
-,Fortunate Star,27,Void,Lightweight,70,Yes,Elastic String,Compact Arrow Shaft,"Repulsor Brace
+,Fortunate Star,27,Void,Lightweight,Tenet of Bravery,,70,Yes,Elastic String,Compact Arrow Shaft,"Repulsor Brace
 Dragonfly
 Impromptu Ammunition","Destabilizing Rounds
 Demoralize",Veist Stinger,"classic void combo, origin trait not the best, frame not the best either",6,A
-,Anamnesis,26,Void,Lightweight,62,Yes,Elastic String,Compact Arrow Shaft,"Repulsor Brace
+,Anamnesis,26,Void,Lightweight,Xur,,62,Yes,Elastic String,Compact Arrow Shaft,"Repulsor Brace
 Dragonfly","Destabilizing Rounds
 Demoralize",Runneth Over,essentially the same as Fortunate except worse origin,7,A
-,Pre Astyanax IV,27,Solar,Precision,53,Yes,Elastic String,Compact Arrow Shaft,"Incandescent
+,Pre Astyanax IV,27,Solar,Precision,Pinnacle Ops,,53,Yes,Elastic String,Compact Arrow Shaft,"Incandescent
 Firefly",Burning Ambition,Wild Card,BiS double splash solar bow,8,A
-,Hush,29,Solar,Precision,55,Yes,Elastic String,Compact Arrow Shaft,"Burning Ambition
+,Hush,29,Solar,Precision,Gambit,,55,Yes,Elastic String,Compact Arrow Shaft,"Burning Ambition
 Firefly","Incandescent
 Meganeura
 Archer's Gambit",Gun and Run,higher perk diversity than Pre Astyanax IV but worse origin,9,A
-,Convened Recurve,29,Void,High-Impact Longbow,41,Yes,Elastic String,Compact Arrow Shaft,"Repulsor Brace
+,Convened Recurve,29,Void,High-Impact Longbow,Fireteam Ops,,41,Yes,Elastic String,Compact Arrow Shaft,"Repulsor Brace
 Dimensional Shift
 Withering Gaze","Destabilizing Rounds
 Demoralize",Accelerated Assault,"very solid overall package, just has a mediocre frame due to extended draw time",10,A
-,Tyranny of Heaven,29,Solar,Lightweight,68,Yes,Elastic String,Compact Arrow Shaft,"Burning Ambition
+,Tyranny of Heaven,29,Solar,Lightweight,Last Wish,,68,Yes,Elastic String,Compact Arrow Shaft,"Burning Ambition
 Meganeura","Incandescent
 Archer's Gambit",Explosive Pact,"solid solar double splash overall, just worse frame than higher A placements",11,A
-,King Orfeo,28,Arc,Precision,52,Yes,Elastic String,Compact Arrow Shaft,"Explosive Head
+,King Orfeo,28,Arc,Precision,Tenet of Bravery,,52,Yes,Elastic String,Compact Arrow Shaft,"Explosive Head
 Shoot to Loot","Meganeura
 Jolting Feedback","Nail, Meet Hammer","only Jolting Feedback bow, overall pretty decent package, just underwhelming first column",12,B
-,Hushed Whisper,27,Strand,Precision,49,Yes,Elastic String,Compact Arrow Shaft,"Tear
+,Hushed Whisper,27,Strand,Precision,Tenet of Bravery,,49,Yes,Elastic String,Compact Arrow Shaft,"Tear
 Slice","Hatchling
 Archer's Gambit",Wild Card,"Tear interesting on a bow, otherwise held back by Strand limitations",13,B
-,Vengeful Whisper,29,Strand,Precision,53,Yes,Elastic String,Compact Arrow Shaft,"Tear
+,Vengeful Whisper,29,Strand,Precision,Warlord's Ruin,,53,Yes,Elastic String,Compact Arrow Shaft,"Tear
 Slice
 Explosive Head","Meganeura
 Hatchling
 Archer's Gambit",Sundering,middling double splash,14,B
-,Mercury-A,27,Kinetic,High-Impact Longbow,50,Yes,Elastic String,Compact Arrow Shaft,"Attrition Orbs
+,Mercury-A,27,Kinetic,High-Impact Longbow,Zavala,,50,Yes,Elastic String,Compact Arrow Shaft,"Attrition Orbs
 Successful Warm-Up",Kinetic Tremors,Tenacity,outclassed by Accrued Redemption,15,B
-,Lethophobia,29,Void,Lightweight,63,Yes,Elastic String,Compact Arrow Shaft,"Repulsor Brace
+,Lethophobia,29,Void,Lightweight,Starcrossed,,63,Yes,Elastic String,Compact Arrow Shaft,"Repulsor Brace
 Impulse Amplifier",Explosive Head,Dragon's Vengeance,can technically benefit from Repulsor through artifact but otherwise very mediocre,16,B
-,Tripwire Canary,29,Arc,Lightweight,63,Yes,Elastic String,Compact Arrow Shaft,Dragonfly,Explosive Head,Ambush,very weak version of double splash,17,C
-,Arsenic Bite-4B,4,Arc,Lightweight,70,No,Elastic String,Compact Arrow Shaft,Dragonfly,Explosive Head,None,like Tripwire Canary but no origin,18,C
-,Raconteur,29,Stasis,Precision,54,Yes,Elastic String,Compact Arrow Shaft,"Archer's Tempo
+,Tripwire Canary,29,Arc,Lightweight,Seraph's Shield,,63,Yes,Elastic String,Compact Arrow Shaft,Dragonfly,Explosive Head,Ambush,very weak version of double splash,17,C
+,Arsenic Bite-4B,4,Arc,Lightweight,Xur,,70,No,Elastic String,Compact Arrow Shaft,Dragonfly,Explosive Head,None,like Tripwire Canary but no origin,18,C
+,Raconteur,29,Stasis,Precision,NODE.OVRD.AVALON,,54,Yes,Elastic String,Compact Arrow Shaft,"Archer's Tempo
 Shoot to Loot","Headstone
 Explosive Head",Noble Deeds,bit more perk diversity than bows from the same era,19,C
-,Strident Whistle,17,Solar,Precision,59,No,Elastic String,Compact Arrow Shaft,"Archer's Tempo
+,Strident Whistle,17,Solar,Precision,Zavala,,59,No,Elastic String,Compact Arrow Shaft,"Archer's Tempo
 Shoot to Loot",Incandescent,Vanguard's Vindication,outdated Archer's + Incandescent core,20,C
-,Under Your Skin,29,Void,Precision,51,Yes,Elastic String,Compact Arrow Shaft,Archer's Tempo,"Explosive Head
+,Under Your Skin,29,Void,Precision,Vox Obscura,,51,Yes,Elastic String,Compact Arrow Shaft,Archer's Tempo,"Explosive Head
 Dragonfly",Land Tank,excellent origin but very outdated perk spread,21,C
-,Fel Taradiddle,29,Kinetic,Lightweight,59,Yes,Elastic String,Compact Arrow Shaft,"Archer's Tempo
+,Fel Taradiddle,29,Kinetic,Lightweight,Wellspring,,59,Yes,Elastic String,Compact Arrow Shaft,"Archer's Tempo
 Shoot to Loot",Explosive Head,Psychohack,"similar to Under Your Skin in origin quality, has StL instead of Dragonfly",22,C
-,Wolftone Draw,15,Arc,Precision,55,No,Elastic String,Compact Arrow Shaft,"Archer's Tempo
+,Wolftone Draw,15,Arc,Precision,Xur,,55,No,Elastic String,Compact Arrow Shaft,"Archer's Tempo
 Shoot to Loot",Dragonfly,None,very weak splash option,23,C
-,Lunulata-4B,17,Stasis,Lightweight,64,No,Elastic String,Compact Arrow Shaft,Shoot to Loot,Headstone,Veist Stinger,no Archer's + weaker splash perk,24,D
-,Neoptolemus II,25,Kinetic,Precision,54,Yes,Elastic String,Compact Arrow Shaft,Air Trigger,Wellspring,Wild Card,origin trait is the only redeeming quality,25,D
-,Whispering Slab,26,Kinetic,Lightweight,59,Yes,Elastic String,Compact Arrow Shaft,"Archer's Tempo
+,Lunulata-4B,17,Stasis,Lightweight,Banshee,,64,No,Elastic String,Compact Arrow Shaft,Shoot to Loot,Headstone,Veist Stinger,no Archer's + weaker splash perk,24,D
+,Neoptolemus II,25,Kinetic,Precision,Banshee,,54,Yes,Elastic String,Compact Arrow Shaft,Air Trigger,Wellspring,Wild Card,origin trait is the only redeeming quality,25,D
+,Whispering Slab,26,Kinetic,Lightweight,Xur,,59,Yes,Elastic String,Compact Arrow Shaft,"Archer's Tempo
 Demolitionist",High Ground,Paracausal Fluid,single target perks on a bow,26,D
-,Imperial Needle,13,Void,Lightweight,60,No,Elastic String,Compact Arrow Shaft,Archer's Tempo,Frenzy,None,Archer's + weak damage perk,27,D
-,Whistler's Whim,20,Kinetic,Lightweight,64,No,Elastic String,Compact Arrow Shaft,"Rapid Hit
+,Imperial Needle,13,Void,Lightweight,"Xur, Dares",,60,No,Elastic String,Compact Arrow Shaft,Archer's Tempo,Frenzy,None,Archer's + weak damage perk,27,D
+,Whistler's Whim,20,Kinetic,Lightweight,Trials,,64,No,Elastic String,Compact Arrow Shaft,"Rapid Hit
 Cornered","Archer's Tempo
 Kill Clip
 Successful Warm-Up",Veist Stinger,single target perks on a bow,28,D

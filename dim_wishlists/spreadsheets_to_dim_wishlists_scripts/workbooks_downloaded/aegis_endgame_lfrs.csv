@@ -1,61 +1,61 @@
-WEAPON,,INFO,,,,,PERKS,,,,,ANALYSIS,,
-🖼️,Name,Season,Energy,Frame,Ammo,⬆️,Barrel,Mag,Perk 1,Perk 2,Origin Trait,Notes,Rank,Tier
-,Eyes Unveiled,29,Void,Precision,45,Yes,Fluted Barrel,"Accelerated Coils
+WEAPON,,INFO,,,,,,,PERKS,,,,,ANALYSIS,,
+🖼️,Name,Season,Energy,Frame,Source,Stun,Ammo,⬆️,Barrel,Mag,Perk 1,Perk 2,Origin Trait,Notes,Rank,Tier
+,Eyes Unveiled,29,Void,Precision,Pit of Heresy,,45,Yes,Fluted Barrel,"Accelerated Coils
 Enhanced Battery","Fourth Time's the Charm
 Mega Kill Clip",Elemental Honing,Heretical Behavior,excellent perks and origin for LFR damage,1,S
-,Cataclysmic,29,Solar,Precision,37,Yes,Fluted Barrel,"Accelerated Coils
+,Cataclysmic,29,Solar,Precision,Vow of the Disciple,,37,Yes,Fluted Barrel,"Accelerated Coils
 Enhanced Battery",Fourth Time's the Charm,"Aggregate Charge
 Elemental Honing
 Bait and Switch",Souldrinker,excellent damage perk spread for a precision linear,2,S
-,Briar's Contempt,29,Solar,Adaptive Burst,39,Yes,Arrowhead Brake,"Accelerated Coils
+,Briar's Contempt,29,Solar,Adaptive Burst,Root of Nightmares,,39,Yes,Arrowhead Brake,"Accelerated Coils
 Enhanced Battery",Rewind Rounds,"Aggregate Charge
 Chaos Reshaped
 Surrounded",Harmonic Resonance,best adaptive burst linear,3,S
-,Scintillation,29,Strand,Adaptive Burst,36,Yes,Arrowhead Brake,"Accelerated Coils
+,Scintillation,29,Strand,Adaptive Burst,Zavala,,36,Yes,Arrowhead Brake,"Accelerated Coils
 Enhanced Battery","Rewind Rounds
 Cornered","Bait and Switch
 Surrounded",Veist Stinger,"basically perfect LFR roll, maybe Honing one day",4,S
-,Mistral Lift,28,Void,Adaptive Burst,33,Yes,Arrowhead Brake,"Accelerated Coils
+,Mistral Lift,28,Void,Adaptive Burst,Tenet of Bravery,,33,Yes,Arrowhead Brake,"Accelerated Coils
 Enhanced Battery","Envious Arsenal
 Reconstruction
 Withering Gaze","Bait and Switch
 Precision Instrument",Veist Stinger,Arsenal worse than Rewind for dump-style weapon,5,S
-,Stormchaser,29,Arc,Adaptive Burst,32,Yes,Arrowhead Brake,"Accelerated Coils
+,Stormchaser,29,Arc,Adaptive Burst,Duality,,32,Yes,Arrowhead Brake,"Accelerated Coils
 Enhanced Battery","Auto-Loading Holster
 Clown Cartridge","Aggregate Charge
 Elemental Honing",Bitterspite,"no Rewind, decent 2nd column though",6,A
-,Boomslang-4fr,27,Arc,Adaptive Burst,31,Yes,Arrowhead Brake,"Accelerated Coils
+,Boomslang-4fr,27,Arc,Adaptive Burst,Tenet of Bravery,,31,Yes,Arrowhead Brake,"Accelerated Coils
 Enhanced Battery","Envious Arsenal
 Rapid Hit","Precision Instrument
 Reservoir Burst",Veist Stinger,worse damage perks than S tier options,7,A
-,Doomed Petitioner,29,Void,Adaptive Burst,34,Yes,Arrowhead Brake,"Accelerated Coils
+,Doomed Petitioner,29,Void,Adaptive Burst,Starcrossed,,34,Yes,Arrowhead Brake,"Accelerated Coils
 Enhanced Battery","Envious Assassin
 Reconstruction","Surrounded
 Precision Instrument",Dragon's Vengeance,Assassin worse than Arsenal on Boomslang,8,A
-,Line in the Sand,24,Arc,Precision,28,Yes,Fluted Barrel,"Accelerated Coils
+,Line in the Sand,24,Arc,Precision,Xur,,28,Yes,Fluted Barrel,"Accelerated Coils
 Enhanced Battery","Clown Cartridge
 Deconstruct",Bait and Switch,Cast No Shadows,worse archetype than Stormchaser but better damage perk,9,B
-,Willful Hamartia,29,Arc,Adaptive Burst,37,Yes,Arrowhead Brake,"Accelerated Coils
+,Willful Hamartia,29,Arc,Adaptive Burst,Trials,,37,Yes,Arrowhead Brake,"Accelerated Coils
 Enhanced Battery",Envious Assassin,"Bait and Switch
 Precision Instrument",Wild Card,bad reload perk and subpar main damage perks,10,B
-,Taipan-4fr,29,Void,Precision,33,Yes,Fluted Barrel,"Accelerated Coils
+,Taipan-4fr,29,Void,Precision,Banshee,,33,Yes,Fluted Barrel,"Accelerated Coils
 Enhanced Battery",Triple Tap,Firing Line,Veist Stinger,enhanced Triple Tap for reloads,11,C
-,Reed's Regret,29,Stasis,Precision,40,Yes,Fluted Barrel,"Accelerated Coils
+,Reed's Regret,29,Stasis,Precision,Trials,,40,Yes,Fluted Barrel,"Accelerated Coils
 Enhanced Battery",Triple Tap,Firing Line,Veist Stinger,slightly worse than Taipan,12,C
-,Fire and Forget,29,Stasis,Adaptive Burst,33,Yes,Arrowhead Brake,"Accelerated Coils
+,Fire and Forget,29,Stasis,Adaptive Burst,Seraph's Shield,,33,Yes,Arrowhead Brake,"Accelerated Coils
 Enhanced Battery",Field Prep,Frenzy,Veist Stinger,worse damage perk than Taipan but better archetype,13,C
-,Suspectum-4fr,24,Stasis,Precision,32,Yes,Fluted Barrel,"Accelerated Coils
+,Suspectum-4fr,24,Stasis,Precision,Banshee,,32,Yes,Fluted Barrel,"Accelerated Coils
 Enhanced Battery",Envious Assassin,"Precision Instrument
 Firing Line",Veist Stinger,"no ammo gen precision, okay damage perks",14,C
-,Sailspy Pitchglass,29,Arc,Precision,26,Yes,Fluted Barrel,"Accelerated Coils
+,Sailspy Pitchglass,29,Arc,Precision,Xur,,26,Yes,Fluted Barrel,"Accelerated Coils
 Enhanced Battery",Clown Cartridge,"Focused Fury
 Frenzy",Right Hook,no ammo gen precision and mediocre damage perks,15,D
-,Laser Painter,29,Strand,Precision,26,Yes,Fluted Barrel,"Accelerated Coils
+,Laser Painter,29,Strand,Precision,Gambit,,26,Yes,Fluted Barrel,"Accelerated Coils
 Enhanced Battery","Clown Cartridge
 Auto-Loading Holster",Focused Fury,Veist Stinger,no ammo gen precision and mediocre damage perks,16,D
-,Threaded Needle,13,Void,Precision,35,No,Fluted Barrel,"Accelerated Coils
+,Threaded Needle,13,Void,Precision,Xur,,35,No,Fluted Barrel,"Accelerated Coils
 Enhanced Battery",Clown Cartridge,Frenzy,None,no ammo gen precision and mediocre damage perks,17,D
-,Tarantula,13,Arc,Precision,30,No,Fluted Barrel,"Accelerated Coils
+,Tarantula,13,Arc,Precision,Xur,,30,No,Fluted Barrel,"Accelerated Coils
 Enhanced Battery",Field Prep,Box Breathing,None,bad damage perk and no ammo gen,18,E
-,Corsair's Wrath,12,Solar,Precision,26,No,Fluted Barrel,"Accelerated Coils
+,Corsair's Wrath,12,Solar,Precision,Xur,,26,No,Fluted Barrel,"Accelerated Coils
 Enhanced Battery",Moving Target,High-Impact Reserves,None,bad damage perk and no ammo gen,19,E

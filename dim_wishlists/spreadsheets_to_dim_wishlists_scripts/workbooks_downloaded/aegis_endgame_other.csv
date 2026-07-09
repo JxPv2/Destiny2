@@ -1,33 +1,33 @@
-WEAPON,,INFO,,,,,PERKS,,,,,ANALYSIS,,
-🖼️,Name,Season,Energy,Frame,Ammo,⬆️,Barrel,Mag,Perk 1,Perk 2,Origin Trait,Notes,Rank,Tier
-,Opaque Hourglass,27,Arc,High-Impact,47,Yes,Ultralight Rail,"Charged Bolts
+WEAPON,,INFO,,,,,,,PERKS,,,,,ANALYSIS,,
+🖼️,Name,Season,Energy,Frame,Source,Stun,Ammo,⬆️,Barrel,Mag,Perk 1,Perk 2,Origin Trait,Notes,Rank,Tier
+,Opaque Hourglass,27,Arc,High-Impact,Desert Perpetual,,47,Yes,Ultralight Rail,"Charged Bolts
 Serrated Bolts
 Heavy Bolts","Impulse Amplifier
 Firefly
 Bolt Scavenger","Elemental Honing
 Dragonfly
 Firing Line",Frame of Reference,no double damage but solid reload/damage perks,,
-,Submersion,27,Stasis,High-Impact,26,Yes,Ultralight Rail,"Charged Bolts
+,Submersion,27,Stasis,High-Impact,Tenet of Bravery,,26,Yes,Ultralight Rail,"Charged Bolts
 Serrated Bolts
 Heavy Bolts","Auto-Loading Holster
 Bolt Scavenger
 Lead from Light","Aggregate Charge
 Headstone
 Chill Clip",Contending Cascade,cool add clear option,,
-,A Good Shout,28,Void,High-Impact,60,Yes,Ultralight Rail,"Charged Bolts
+,A Good Shout,28,Void,High-Impact,Zavala,,60,Yes,Ultralight Rail,"Charged Bolts
 Serrated Bolts
 Heavy Bolts","Envious Arsenal
 Bolt Scavenger
 Withering Gaze","High Ground
 Box Breathing",Accelerated Assault,potential damage option if High Ground is usable on a boss,,
-,Uncivil Discourse,28,Arc,Dynamic (180RPM),65,Yes,Fluted Barrel,"Ionized Heatsink
+,Uncivil Discourse,28,Arc,Dynamic (180RPM),Lawless Frontier,,65,Yes,Fluted Barrel,"Ionized Heatsink
 Overclocked Heatsink","Air Trigger
 Cooling Baubles","Precision Instrument
 Desperate Measures",Accelerated Assault,BiS for LP for now,,
-,Refurbished A499,28,Kinetic,Disruption,26,Yes,Fluted Barrel,Flared Magwell,"Snapshot Sights
+,Refurbished A499,28,Kinetic,Disruption,Tharsis Outpost,,26,Yes,Fluted Barrel,Flared Magwell,"Snapshot Sights
 Moving Target
 Bewildering Burst",Aggregate Charge,Accelerated Assault,first of its kind; powerful archetype with mediocre 1st column,,
-,Psi Aeterna IV,28,Arc,Micro-Missile,11,Yes,"Quick Launch
+,Psi Aeterna IV,28,Arc,Micro-Missile,Zavala,,11,Yes,"Quick Launch
 Volatile Launch","Extended Mag
 Tactical Mag","Trickle Charge
 Blast Distributor
@@ -35,14 +35,14 @@ Eddy Current","Elemental Honing
 One For All
 Jolting Feedback
 ",Accelerated Assault,worse reload perks than Mint but still usable,,
-,Veillantif-D,29,Solar,Micro-Missile,25,Yes,"Quick Launch
+,Veillantif-D,29,Solar,Micro-Missile,SRL,,25,Yes,"Quick Launch
 Volatile Launch","Extended Mag
 Tactical Mag","Air Trigger
 Heal Clip
 Blast Distributor","Incandescent
 Desperate Measures
 Burning Ambition",Häkke Breach Armaments,better perks than Psi for roam,,
-,Mint Retrograde,29,Strand,Micro-Missile,9,Yes,"Quick Launch
+,Mint Retrograde,29,Strand,Micro-Missile,Pinnacle Ops,,9,Yes,"Quick Launch
 Volatile Launch","Extended Mag
 Tactical Mag","Field Prep
 Beacon Rounds

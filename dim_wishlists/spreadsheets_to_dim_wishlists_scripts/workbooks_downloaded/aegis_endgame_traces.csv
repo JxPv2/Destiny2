@@ -1,45 +1,45 @@
-WEAPON,,INFO,,,,PERKS,,,,,ANALYSIS,,
-🖼️,Name,Season,Energy,Ammo,⬆️,Barrel,Mag,Perk 1,Perk 2,Origin Trait,Notes,Rank,Tier
-,Unsworn,29,Strand,47,Yes,Fluted Barrel,Enhanced Battery,"Shoot to Loot
+WEAPON,,INFO,,,,,PERKS,,,,,ANALYSIS,,
+🖼️,Name,Season,Energy,Source,Ammo,⬆️,Barrel,Mag,Perk 1,Perk 2,Origin Trait,Notes,Rank,Tier
+,Unsworn,29,Strand,Sundered Doctrine,47,Yes,Fluted Barrel,Enhanced Battery,"Shoot to Loot
 Tear
 Collective Pugilism","Chaos Reshaped
 Detonator Beam
 Hatchling",Subjugation,"probably as good as it gets for the kinetic slot, perks + origin excellent",1,S
-,Chronophage,29,Void,37,Yes,Fluted Barrel,Enhanced Battery,"Shoot to Loot
+,Chronophage,29,Void,Encore,37,Yes,Fluted Barrel,Enhanced Battery,"Shoot to Loot
 Repulsor Brace","Destabilizing Rounds
 Demolitionist
 Desperate Measures",Radiolaria Transposer,"StL + utility/splash options, great origin trait for low-tier content",2,S
-,Keraunios,28,Arc,44,Yes,Fluted Barrel,Enhanced Battery,"Shoot to Loot
+,Keraunios,28,Arc,Tenet of Bravery,44,Yes,Fluted Barrel,Enhanced Battery,"Shoot to Loot
 Fourth Time's the Charm","Chain Reaction
 Rolling Storm
 Detonator Beam",Classy Contender,"StL + Chain best overall trace roll, also FTTC + TL for ""damage""",3,S
-,Retraced Path,15,Solar,47,Yes,Fluted Barrel,Enhanced Battery,Shoot to Loot,"Demolitionist
+,Retraced Path,15,Solar,Dares,47,Yes,Fluted Barrel,Enhanced Battery,Shoot to Loot,"Demolitionist
 Frenzy
 Incandescent",Hot Swap,"overshadowed by Chronophage, still decent perks",4,A
-,Acasia's Dejection,29,Solar,49,Yes,Fluted Barrel,Enhanced Battery,"Burning Ambition
+,Acasia's Dejection,29,Solar,Root of Nightmares,49,Yes,Fluted Barrel,Enhanced Battery,"Burning Ambition
 Reconstruction
 Field Prep","Chaos Reshaped
 Incandescent
 Detonator Beam",Harmonic Resonance,best non-StL trace in the game,5,A
-,Path of Least Resistance,19,Arc,41,Yes,Fluted Barrel,Enhanced Battery,Shoot to Loot,Voltshot,Ambush,feels excellent but objectively worse than Chronophage,6,A
-,Incisor,24,Strand,60,Yes,Fluted Barrel,Enhanced Battery,Slice,"Attrition Orbs
+,Path of Least Resistance,19,Arc,Seraph's Shield,41,Yes,Fluted Barrel,Enhanced Battery,Shoot to Loot,Voltshot,Ambush,feels excellent but objectively worse than Chronophage,6,A
+,Incisor,24,Strand,Trials,60,Yes,Fluted Barrel,Enhanced Battery,Slice,"Attrition Orbs
 Hatchling",One Quiet Moment,"only Slice trace, usable in niche endgame scenarios",7,A
-,Action Item,28,Stasis,41,Yes,Fluted Barrel,Enhanced Battery,"Deconstruct
+,Action Item,28,Stasis,Tenet of Bravery,41,Yes,Fluted Barrel,Enhanced Battery,"Deconstruct
 Demolitionist
 Rimestealer","Crystalline Corpsebloom
 Detonator Beam
 Headstone
 ","Nail, Meet Hammer","best Stasis synergy trace, not much utility otherwise",8,A
-,Hollow Denial,17,Void,65,Yes,Fluted Barrel,Enhanced Battery,Lead from Gold,Repulsor Brace,Extrovert,"only Lead trace, otherwise not very good",9,B
-,Warlord's Spear,26,Arc,54,Yes,Fluted Barrel,Enhanced Battery,"Rewind Rounds
+,Hollow Denial,17,Void,Presage,65,Yes,Fluted Barrel,Enhanced Battery,Lead from Gold,Repulsor Brace,Extrovert,"only Lead trace, otherwise not very good",9,B
+,Warlord's Spear,26,Arc,Iron Banner,54,Yes,Fluted Barrel,Enhanced Battery,"Rewind Rounds
 Loose Change","Detonator Beam
 Jolting Feedback
 Desperate Measures",Skulking Wolf,"same issues as Keraunios, slightly better origin and worse perks",10,B
-,Appetence,29,Stasis,43,Yes,Fluted Barrel,Enhanced Battery,"Demolitionist
+,Appetence,29,Stasis,Starcrossed,43,Yes,Fluted Barrel,Enhanced Battery,"Demolitionist
 Overflow","Headstone
 Deconstruct
 Attrition Orbs",Dragon's Vengeance,"Headstone not bad on traces, but nothing special",11,B
-,Ribbontail,27,Strand,48,Yes,Fluted Barrel,Enhanced Battery,"Envious Arsenal
+,Ribbontail,27,Strand,Tenet of Bravery,48,Yes,Fluted Barrel,Enhanced Battery,"Envious Arsenal
 Wellspring","Detonator Beam
 Tear
 Redirection",Tenacity,"okay splash/utility perks, mediocre otherwise",12,B
