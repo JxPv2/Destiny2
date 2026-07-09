@@ -6,7 +6,7 @@
       "patch": "Pantheon 2.0"
     },
     "link": "https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY",
-    "scrape_date": "2026-07-04 02:04:25"
+    "scrape_date": "2026-07-09 02:06:37"
   },
   "workbooks": {
     "Shopping List": {
@@ -2164,148 +2164,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "on-demand survivability on any class, Benevolence synergy",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "DECATUR 02": {
-        "weapon_name": "DECATUR 02",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Full Bore"
-          ],
-          "column2": [
-            "Accurized Rounds"
-          ],
-          "perk1": [
-            "Physic",
-            "Attrition Orbs",
-            "Crystalline Corpsebloom"
-          ],
-          "perk2": [
-            "Reciprocity",
-            "Master of Arms",
-            "Redirection"
-          ],
-          "origin_trait": [
-            "Carrion Munitions"
-          ]
-        },
-        "info": {
-          "rank": "2",
-          "tier": "S",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "Frost Armor not as good as Restoration, but good perk spread",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Reckless Oracle": {
-        "weapon_name": "Reckless Oracle",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel",
-            "Arrowhead Brake"
-          ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "4",
-          "tier": "S",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Reckless Oracle_2": {
-        "weapon_name": "Reckless Oracle",
-        "version": "Pantheon",
-        "perks": {
-          "column1": [
-            "Fluted Barrel",
-            "Arrowhead Brake"
-          ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Destabilizing Rounds",
-            "Dimensional Shift",
-            "Collective Demolition"
-          ],
-          "perk2": [
-            "Repulsor Brace",
-            "Chaos Reshaped",
-            "Withering Gaze"
-          ],
-          "origin_trait": [
-            "Elliptical Orbit"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "every relevant void perk and Chaos to boot, great all around",
+          "notes": "best survivability support auto, also insane with Elemental Supercharger due to origin trait",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -2336,17 +2195,17 @@
             "Attrition Orbs"
           ],
           "perk2": [
+            "Withering Gaze",
             "Destabilizing Rounds",
-            "Master of Arms",
-            "Withering Gaze"
+            "Master of Arms"
           ],
           "origin_trait": [
             "Frame of Reference"
           ]
         },
         "info": {
-          "rank": "5",
-          "tier": "A",
+          "rank": "2",
+          "tier": "S",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -2354,7 +2213,107 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "Void Overshield to allies, great perk pool",
+          "notes": "would be insane with Physic, has great slot efficiency for debuff extension + support",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "DECATUR 02": {
+        "weapon_name": "DECATUR 02",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Full Bore"
+          ],
+          "column2": [
+            "Accurized Rounds"
+          ],
+          "perk1": [
+            "Physic",
+            "Crystalline Corpsebloom",
+            "Attrition Orbs"
+          ],
+          "perk2": [
+            "Reciprocity",
+            "Master of Arms",
+            "Redirection"
+          ],
+          "origin_trait": [
+            "Carrion Munitions"
+          ]
+        },
+        "info": {
+          "rank": "3",
+          "tier": "S",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Frost Armor not as good as Restoration, but still the best kinetic slot option",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Reckless Oracle": {
+        "weapon_name": "Reckless Oracle",
+        "version": "Pantheon",
+        "perks": {
+          "column1": [
+            "Fluted Barrel",
+            "Arrowhead Brake"
+          ],
+          "column2": [
+            "High-Caliber Rounds",
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Destabilizing Rounds",
+            "Dimensional Shift",
+            "Collective Demolition"
+          ],
+          "perk2": [
+            "Repulsor Brace",
+            "Chaos Reshaped",
+            "Withering Gaze"
+          ],
+          "origin_trait": [
+            "Elliptical Orbit"
+          ]
+        },
+        "info": {
+          "rank": "4",
+          "tier": "S",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "every relevant void perk and Chaos to boot, great all around",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -2378,12 +2337,10 @@
             "Arrowhead Brake"
           ],
           "column2": [
-            "Flared Magwell",
             "Alloy Magazine"
           ],
           "perk1": [
             "Repulsor Brace",
-            "Demolitionist",
             "Withering Gaze"
           ],
           "perk2": [
@@ -2395,8 +2352,8 @@
           ]
         },
         "info": {
-          "rank": "6",
-          "tier": "A",
+          "rank": "5",
+          "tier": "S",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -2404,206 +2361,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "best general combo, also has Withering access",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Positive Outlook": {
-        "weapon_name": "Positive Outlook",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel",
-            "Arrowhead Brake"
-          ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Repulsor Brace",
-            "Withering Gaze"
-          ],
-          "perk2": [
-            "Destabilizing Rounds",
-            "Mega Kill Clip"
-          ],
-          "origin_trait": [
-            "Accelerated Assault"
-          ]
-        },
-        "info": {
-          "rank": "7",
-          "tier": "A",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "classic void combo, Withering access, good origin",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Arctic Haze": {
-        "weapon_name": "Arctic Haze",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel",
-            "Arrowhead Brake"
-          ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Incandescent",
-            "Heal Clip",
-            "Demolitionist"
-          ],
-          "perk2": [
-            "Burning Ambition",
-            "Frenzy"
-          ],
-          "origin_trait": [
-            "Winterized Gear"
-          ]
-        },
-        "info": {
-          "rank": "8",
-          "tier": "A",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "solid double splash, just a disappointing origin",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "The Ringing Nail": {
-        "weapon_name": "The Ringing Nail",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel",
-            "Arrowhead Brake"
-          ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Incandescent",
-            "Heal Clip",
-            "Impromptu Ammunition"
-          ],
-          "perk2": [
-            "Burning Ambition",
-            "Firefly",
-            "Onslaught"
-          ],
-          "origin_trait": [
-            "Forge's Kin"
-          ]
-        },
-        "info": {
-          "rank": "9",
-          "tier": "A",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "great ignition auto, but mediocre frame and origin",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Zealous Ideal": {
-        "weapon_name": "Zealous Ideal",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel",
-            "Arrowhead Brake"
-          ],
-          "column2": [
-            "Light Heatsink",
-            "Overclocked Heatsink"
-          ],
-          "perk1": [
-            "Heal Clip",
-            "Attrition Orbs"
-          ],
-          "perk2": [
-            "Incandescent",
-            "Burning Ambition"
-          ],
-          "origin_trait": [
-            "Imperial Allegiance"
-          ]
-        },
-        "info": {
-          "rank": "10",
-          "tier": "A",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "similar to Ahab Char, has Incandescent/Attrition/blaster access though",
+          "notes": "better archetype than normal Reckless Oracle, but origin trait is pretty mediocre",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -2627,25 +2385,24 @@
             "Arrowhead Brake"
           ],
           "column2": [
-            "Flared Magwell",
             "Alloy Magazine"
           ],
           "perk1": [
             "Destabilizing Rounds",
-            "Demoralize"
+            "Impromptu Ammunition"
           ],
           "perk2": [
             "Repulsor Brace",
-            "Golden Tricorn",
-            "Attrition Orbs"
+            "Attrition Orbs",
+            "Golden Tricorn"
           ],
           "origin_trait": [
             "Skulking Wolf"
           ]
         },
         "info": {
-          "rank": "11",
-          "tier": "A",
+          "rank": "6",
+          "tier": "S",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -2668,8 +2425,8 @@
           }
         }
       },
-      "Abyss Defiant": {
-        "weapon_name": "Abyss Defiant",
+      "Positive Outlook": {
+        "weapon_name": "Positive Outlook",
         "version": "",
         "perks": {
           "column1": [
@@ -2677,168 +2434,24 @@
             "Arrowhead Brake"
           ],
           "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Heal Clip",
-            "Burning Ambition"
-          ],
-          "perk2": [
-            "Incandescent"
-          ],
-          "origin_trait": [
-            "Cursed Thrall"
-          ]
-        },
-        "info": {
-          "rank": "12",
-          "tier": "A",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "excellent origin and solid perks held back by frame",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "The Summoner": {
-        "weapon_name": "The Summoner",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel",
-            "Arrowhead Brake"
-          ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Heal Clip"
-          ],
-          "perk2": [
-            "Incandescent",
-            "Burning Ambition"
-          ],
-          "origin_trait": [
-            "Wild Card"
-          ]
-        },
-        "info": {
-          "rank": "13",
-          "tier": "A",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "solid origin and perks with better archetype than Abyss",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "The Riposte": {
-        "weapon_name": "The Riposte",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel",
-            "Arrowhead Brake"
-          ],
-          "column2": [
-            "Flared Magwell",
+            "High-Caliber Rounds",
             "Alloy Magazine"
           ],
           "perk1": [
             "Repulsor Brace",
-            "Dimensional Shift",
-            "Demoralize"
+            "Withering Gaze"
           ],
           "perk2": [
             "Destabilizing Rounds",
-            "Desperate Measures"
-          ],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "14",
-          "tier": "A",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "great perk pairing and archetype, just no origin",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Scathelocke": {
-        "weapon_name": "Scathelocke",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel",
-            "Arrowhead Brake"
-          ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Attrition Orbs",
-            "Shoot to Loot"
-          ],
-          "perk2": [
-            "Kinetic Tremors",
-            "Ancillary Ordinance"
+            "Mega Kill Clip"
           ],
           "origin_trait": [
-            "Veteran's Wisdom"
+            "Accelerated Assault"
           ]
         },
         "info": {
-          "rank": "15",
-          "tier": "A",
+          "rank": "7",
+          "tier": "S",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -2846,253 +2459,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "great origin for use case, classic kinetic combo",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Everburning Glitz": {
-        "weapon_name": "Everburning Glitz",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel",
-            "Arrowhead Brake"
-          ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Attrition Orbs",
-            "Bewildering Burst"
-          ],
-          "perk2": [
-            "Kinetic Tremors",
-            "Ancillary Ordinance"
-          ],
-          "origin_trait": [
-            "Fleet Footed"
-          ]
-        },
-        "info": {
-          "rank": "16",
-          "tier": "A",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "perks need playtime, but general package looks great",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "VS Pyroelectric Propellant": {
-        "weapon_name": "VS Pyroelectric Propellant",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel",
-            "Arrowhead Brake"
-          ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Attrition Orbs",
-            "Eddy Current",
-            "Strategist"
-          ],
-          "perk2": [
-            "Jolting Feedback",
-            "Gear Shift"
-          ],
-          "origin_trait": [
-            "Bray Legacy"
-          ]
-        },
-        "info": {
-          "rank": "17",
-          "tier": "A",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "one of the best Jolting users, great utility and origin",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Chroma Rush": {
-        "weapon_name": "Chroma Rush",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel",
-            "Arrowhead Brake"
-          ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Bewildering Burst",
-            "Stopping Power"
-          ],
-          "perk2": [
-            "Kinetic Tremors",
-            "Ancillary Ordinance",
-            "All-Star"
-          ],
-          "origin_trait": [
-            "Splicer Surge"
-          ]
-        },
-        "info": {
-          "rank": "18",
-          "tier": "A",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "class kinetic combos, okay origin, good frame",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Snipehunt Mk. 47": {
-        "weapon_name": "Snipehunt Mk. 47",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel",
-            "Arrowhead Brake"
-          ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Jolting Feedback"
-          ],
-          "perk2": [
-            "Chaos Reshaped",
-            "Voltshot",
-            "Attrition Orbs"
-          ],
-          "origin_trait": [
-            "Featherweight"
-          ]
-        },
-        "info": {
-          "rank": "19",
-          "tier": "A",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "worse origin than Pyroelectric, but has Chaos",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Adamantite": {
-        "weapon_name": "Adamantite",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Full Bore"
-          ],
-          "column2": [
-            "Accurized Rounds"
-          ],
-          "perk1": [
-            "Reciprocity",
-            "Demolitionist"
-          ],
-          "perk2": [
-            "Hatchling",
-            "Desperate Measures",
-            "Tear"
-          ],
-          "origin_trait": [
-            "Heretical Behavior"
-          ]
-        },
-        "info": {
-          "rank": "20",
-          "tier": "B",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "Physic is sadly useless, completely overshadowed by DECATUR",
+          "notes": "one of the less favorable auto archetypes, but perk combos are solid and origin trait is pretty decent",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -3116,7 +2483,6 @@
             "Arrowhead Brake"
           ],
           "column2": [
-            "Flared Magwell",
             "Alloy Magazine"
           ],
           "perk1": [
@@ -3131,8 +2497,8 @@
           ]
         },
         "info": {
-          "rank": "21",
-          "tier": "B",
+          "rank": "8",
+          "tier": "S",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -3140,7 +2506,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "classic Void combo, just bad frame and mediocre origin",
+          "notes": "solid archetype, classic void combo, has double splash access, no High-Cal and terrible origin",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -3155,8 +2521,8 @@
           }
         }
       },
-      "Seventh Seraph Carbine": {
-        "weapon_name": "Seventh Seraph Carbine",
+      "Reckless Oracle_2": {
+        "weapon_name": "Reckless Oracle",
         "version": "",
         "perks": {
           "column1": [
@@ -3164,25 +2530,166 @@
             "Arrowhead Brake"
           ],
           "column2": [
-            "Flared Magwell",
+            "High-Caliber Rounds",
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Destabilizing Rounds",
+            "Dimensional Shift"
+          ],
+          "perk2": [
+            "Repulsor Brace"
+          ],
+          "origin_trait": [
+            "Photoinhibition"
+          ]
+        },
+        "info": {
+          "rank": "9",
+          "tier": "S",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "very solid void auto overall, not best archetype but has core perks",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "The Riposte": {
+        "weapon_name": "The Riposte",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel",
+            "Arrowhead Brake"
+          ],
+          "column2": [
+            "High-Caliber Rounds",
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Repulsor Brace",
+            "Dimensional Shift",
+            "Demoralize"
+          ],
+          "perk2": [
+            "Destabilizing Rounds",
+            "Desperate Measures"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "10",
+          "tier": "S",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "great perk pairing and archetype, just no origin",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Abyss Defiant": {
+        "weapon_name": "Abyss Defiant",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel",
+            "Arrowhead Brake"
+          ],
+          "column2": [
+            "High-Caliber Rounds"
+          ],
+          "perk1": [
+            "Burning Ambition",
+            "Heal Clip"
+          ],
+          "perk2": [
+            "Incandescent"
+          ],
+          "origin_trait": [
+            "Cursed Thrall"
+          ]
+        },
+        "info": {
+          "rank": "11",
+          "tier": "A",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "High-Caliber + Unstoppable intrinsic access, good solar double splash, solid origin",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Scathelocke": {
+        "weapon_name": "Scathelocke",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel",
+            "Arrowhead Brake"
+          ],
+          "column2": [
             "Alloy Magazine"
           ],
           "perk1": [
             "Attrition Orbs",
-            "Stopping Power",
-            "Enlightened Action"
+            "Shoot to Loot"
           ],
           "perk2": [
             "Kinetic Tremors",
             "Ancillary Ordinance"
           ],
           "origin_trait": [
-            "Eyes Up"
+            "Veteran's Wisdom"
           ]
         },
         "info": {
-          "rank": "22",
-          "tier": "B",
+          "rank": "12",
+          "tier": "A",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -3190,56 +2697,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "Everburning Glitz but worse frame",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Giver's Blessing": {
-        "weapon_name": "Giver's Blessing",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel",
-            "Arrowhead Brake"
-          ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Rewind Rounds",
-            "Shoot to Loot",
-            "Impromptu Ammunition"
-          ],
-          "perk2": [
-            "Kinetic Tremors"
-          ],
-          "origin_trait": [
-            "Exhaustive Research"
-          ]
-        },
-        "info": {
-          "rank": "23",
-          "tier": "B",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "would be excellent with Attrition Orbs but still great",
+          "notes": "very strong origin trait in context, class kinetic combo, best archetype",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -3263,25 +2721,22 @@
             "Arrowhead Brake"
           ],
           "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
+            "High-Caliber Rounds"
           ],
           "perk1": [
-            "Stopping Power",
-            "Demolitionist",
-            "Rewind Rounds"
+            "Stopping Power"
           ],
           "perk2": [
             "Kinetic Tremors",
-            "All-Star"
+            "Rampage"
           ],
           "origin_trait": [
             "Fail-deadly"
           ]
         },
         "info": {
-          "rank": "24",
-          "tier": "B",
+          "rank": "13",
+          "tier": "A",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -3289,7 +2744,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "worse archetype than Giver's Blessing but Stopping Power option",
+          "notes": "combines all four possible stagger modifiers, otherwise still pretty good: frame, 2nd column, origin",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -3304,8 +2759,8 @@
           }
         }
       },
-      "Steelfeather Repeater": {
-        "weapon_name": "Steelfeather Repeater",
+      "The Ringing Nail": {
+        "weapon_name": "The Ringing Nail",
         "version": "",
         "perks": {
           "column1": [
@@ -3313,23 +2768,26 @@
             "Arrowhead Brake"
           ],
           "column2": [
-            "Flared Magwell",
+            "High-Caliber Rounds",
             "Alloy Magazine"
           ],
           "perk1": [
-            "Bewildering Burst",
-            "Proximity Power"
+            "Incandescent",
+            "Heal Clip",
+            "Impromptu Ammunition"
           ],
           "perk2": [
-            "Ancillary Ordinance"
+            "Burning Ambition",
+            "Firefly",
+            "Onslaught"
           ],
           "origin_trait": [
-            "Cast No Shadows"
+            "Forge's Kin"
           ]
         },
         "info": {
-          "rank": "25",
-          "tier": "B",
+          "rank": "14",
+          "tier": "A",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -3337,7 +2795,103 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "awful perks outside of kinetic combo, origin not great on weapon type",
+          "notes": "worse damage profile than Arctic Haze but has better origin trait and breaker access",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "VS Pyroelectric Propellant": {
+        "weapon_name": "VS Pyroelectric Propellant",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel",
+            "Arrowhead Brake"
+          ],
+          "column2": [
+            "High-Caliber Rounds",
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Attrition Orbs"
+          ],
+          "perk2": [
+            "Jolting Feedback",
+            "Gear Shift"
+          ],
+          "origin_trait": [
+            "Bray Legacy"
+          ]
+        },
+        "info": {
+          "rank": "15",
+          "tier": "A",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "excellent archetype, origin, splash access, just not as lethal as some surrounding options",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Seventh Seraph Carbine": {
+        "weapon_name": "Seventh Seraph Carbine",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel",
+            "Arrowhead Brake"
+          ],
+          "column2": [
+            "Seraph Rounds"
+          ],
+          "perk1": [
+            "Attrition Orbs",
+            "Stopping Power"
+          ],
+          "perk2": [
+            "Kinetic Tremors",
+            "Ancillary Ordinance"
+          ],
+          "origin_trait": [
+            "Eyes Up"
+          ]
+        },
+        "info": {
+          "rank": "16",
+          "tier": "A",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Seraph Rounds access, solid kinetic combos, decent origin, alright frame",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -3364,21 +2918,19 @@
           ],
           "perk1": [
             "Physic",
-            "Impulse Amplifier",
             "Jolting Feedback"
           ],
           "perk2": [
             "Voltshot",
-            "Attrition Orbs",
-            "Rolling Storm"
+            "Attrition Orbs"
           ],
           "origin_trait": [
             "Ignoble Deeds"
           ]
         },
         "info": {
-          "rank": "26",
-          "tier": "B",
+          "rank": "17",
+          "tier": "A",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -3386,7 +2938,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "Amplified, sustain worst of all support autos, good add clear though",
+          "notes": "only legendary access to Amplified without subclass, also has double splash on decent frame",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -3401,34 +2953,130 @@
           }
         }
       },
-      "Prosecutor": {
-        "weapon_name": "Prosecutor",
-        "version": "RotN",
+      "The Summoner": {
+        "weapon_name": "The Summoner",
+        "version": "",
         "perks": {
           "column1": [
             "Fluted Barrel",
             "Arrowhead Brake"
           ],
           "column2": [
-            "Flared Magwell",
+            "High-Caliber Rounds",
             "Alloy Magazine"
           ],
           "perk1": [
-            "Dragonfly",
+            "Heal Clip"
+          ],
+          "perk2": [
+            "Incandescent",
+            "Burning Ambition"
+          ],
+          "origin_trait": [
+            "Wild Card"
+          ]
+        },
+        "info": {
+          "rank": "18",
+          "tier": "A",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "lacks double splash but otherwise excellent all around for a solar auto",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Everburning Glitz": {
+        "weapon_name": "Everburning Glitz",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel",
+            "Arrowhead Brake"
+          ],
+          "column2": [
+            "High-Caliber Rounds",
+            "Alloy Magazine"
+          ],
+          "perk1": [
             "Attrition Orbs",
-            "Eddy Current"
+            "Bewildering Burst"
           ],
           "perk2": [
+            "Kinetic Tremors",
+            "Ancillary Ordinance"
+          ],
+          "origin_trait": [
+            "Fleet Footed"
+          ]
+        },
+        "info": {
+          "rank": "19",
+          "tier": "A",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "decent orb generator, solid archetype, but definitely a downgrade from Scathelocke",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Snipehunt Mk. 47": {
+        "weapon_name": "Snipehunt Mk. 47",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel",
+            "Arrowhead Brake"
+          ],
+          "column2": [
+            "High-Caliber Rounds",
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Jolting Feedback"
+          ],
+          "perk2": [
+            "Chaos Reshaped",
             "Voltshot",
-            "Rolling Storm"
+            "Attrition Orbs"
           ],
           "origin_trait": [
-            "Gravity Well"
+            "Tex Balanced Stock"
           ]
         },
         "info": {
-          "rank": "27",
-          "tier": "B",
+          "rank": "20",
+          "tier": "A",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -3436,7 +3084,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "double splash options vs. Pyroelectric, but worse frame",
+          "notes": "double splash on arc is not that strong, JF + Chaos is unique, origin is pretty mediocre",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -3451,8 +3099,8 @@
           }
         }
       },
-      "Arc Logic": {
-        "weapon_name": "Arc Logic",
+      "Arctic Haze": {
+        "weapon_name": "Arctic Haze",
         "version": "",
         "perks": {
           "column1": [
@@ -3460,25 +3108,23 @@
             "Arrowhead Brake"
           ],
           "column2": [
-            "Flared Magwell",
             "Alloy Magazine"
           ],
           "perk1": [
-            "Rolling Storm",
-            "Demolitionist"
+            "Incandescent",
+            "Heal Clip"
           ],
           "perk2": [
-            "Jolting Feedback",
-            "Gear Shift",
-            "Master of Arms"
+            "Burning Ambition",
+            "Rampage"
           ],
           "origin_trait": [
-            "Loss"
+            "Winterized Gear"
           ]
         },
         "info": {
-          "rank": "28",
-          "tier": "B",
+          "rank": "21",
+          "tier": "A",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -3486,57 +3132,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "decent double damage/splash option, good roam perks",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Trendsetter": {
-        "weapon_name": "Trendsetter",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel",
-            "Arrowhead Brake"
-          ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Trickle Charge",
-            "Light Touch",
-            "Ambitious Assassin"
-          ],
-          "perk2": [
-            "Jolting Feedback",
-            "Rolling Storm"
-          ],
-          "origin_trait": [
-            "Nail, Meet Hammer"
-          ]
-        },
-        "info": {
-          "rank": "29",
-          "tier": "B",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "okay frame, no real utility perks, but has Jolting",
+          "notes": "decent archetype and double solar splash, weaker than void options though",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -3560,23 +3156,21 @@
             "Arrowhead Brake"
           ],
           "column2": [
-            "Flared Magwell",
+            "High-Caliber Rounds",
             "Alloy Magazine"
           ],
           "perk1": [
-            "Attrition Orbs",
-            "Demolitionist"
+            "Attrition Orbs"
           ],
           "perk2": [
-            "Kinetic Tremors",
-            "Onslaught"
+            "Kinetic Tremors"
           ],
           "origin_trait": [
             "Vanguard Determination"
           ]
         },
         "info": {
-          "rank": "30",
+          "rank": "22",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -3585,7 +3179,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "solid perk combo but mediocre frame and bad origin",
+          "notes": "classic AO + KT combo, decent archetype, alright origin",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -3609,7 +3203,7 @@
             "Arrowhead Brake"
           ],
           "column2": [
-            "Flared Magwell",
+            "High-Caliber Rounds",
             "Alloy Magazine"
           ],
           "perk1": [
@@ -3618,12 +3212,396 @@
             "Shoot to Loot"
           ],
           "perk2": [
-            "Kinetic Tremors",
-            "All-Star",
-            "Onslaught"
+            "Kinetic Tremors"
           ],
           "origin_trait": [
             "Advanced Reflexes"
+          ]
+        },
+        "info": {
+          "rank": "23",
+          "tier": "B",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "similar to Chroma Rush with barrier access archetype, similar origin, High-Cal access",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Chroma Rush": {
+        "weapon_name": "Chroma Rush",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel",
+            "Arrowhead Brake"
+          ],
+          "column2": [
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Bewildering Burst",
+            "Stopping Power"
+          ],
+          "perk2": [
+            "Kinetic Tremors",
+            "Ancillary Ordinance"
+          ],
+          "origin_trait": [
+            "Splicer Surge"
+          ]
+        },
+        "info": {
+          "rank": "24",
+          "tier": "B",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "decent archetype, mediocre origin, no Attrition Orbs, lacking some things",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Zealous Ideal": {
+        "weapon_name": "Zealous Ideal",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel",
+            "Arrowhead Brake"
+          ],
+          "column2": [
+            "Enhanced Heatsink"
+          ],
+          "perk1": [
+            "Heal Clip",
+            "Attrition Orbs"
+          ],
+          "perk2": [
+            "Incandescent",
+            "Burning Ambition"
+          ],
+          "origin_trait": [
+            "Imperial Allegiance"
+          ]
+        },
+        "info": {
+          "rank": "25",
+          "tier": "B",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "lacks double splash, archetype is okay, origin trait isn't that great",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Intercalary": {
+        "weapon_name": "Intercalary",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel",
+            "Arrowhead Brake"
+          ],
+          "column2": [
+            "High-Caliber Rounds",
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Headstone"
+          ],
+          "perk2": [
+            "Desperate Measures",
+            "Rimestealer",
+            "One for All"
+          ],
+          "origin_trait": [
+            "Frame of Reference"
+          ]
+        },
+        "info": {
+          "rank": "26",
+          "tier": "B",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "best archetype, High-Cal access, splash + single target",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Ros Arago IV": {
+        "weapon_name": "Ros Arago IV",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel",
+            "Arrowhead Brake"
+          ],
+          "column2": [
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Repulsor Brace"
+          ],
+          "perk2": [
+            "Onslaught",
+            "Attrition Orbs",
+            "Golden Tricorn"
+          ],
+          "origin_trait": [
+            "Wild Card"
+          ]
+        },
+        "info": {
+          "rank": "27",
+          "tier": "B",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "would be pretty good with Destabilizing access, good frame, great origin",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Adamantite": {
+        "weapon_name": "Adamantite",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Full Bore"
+          ],
+          "column2": [
+            "Accurized Rounds"
+          ],
+          "perk1": [
+            "Reciprocity",
+            "Redirection"
+          ],
+          "perk2": [
+            "Hatchling",
+            "Tear"
+          ],
+          "origin_trait": [
+            "Heretical Behavior"
+          ]
+        },
+        "info": {
+          "rank": "28",
+          "tier": "B",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Physic is sadly useless, completely overshadowed by DECATUR",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "The Forward Path": {
+        "weapon_name": "The Forward Path",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel",
+            "Arrowhead Brake"
+          ],
+          "column2": [
+            "Flared Magwell",
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Slice"
+          ],
+          "perk2": [
+            "Tear",
+            "Hatchling"
+          ],
+          "origin_trait": [
+            "Skulking Wolf"
+          ]
+        },
+        "info": {
+          "rank": "29",
+          "tier": "B",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "decent strand auto, best archetype, good origin, decent strand perks",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Lethal Abundance": {
+        "weapon_name": "Lethal Abundance",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel",
+            "Arrowhead Brake"
+          ],
+          "column2": [
+            "Flared Magwell",
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Tear",
+            "Slice"
+          ],
+          "perk2": [
+            "Hatchling",
+            "Desperate Measures",
+            "One for All"
+          ],
+          "origin_trait": [
+            "Skulking Wolf"
+          ]
+        },
+        "info": {
+          "rank": "30",
+          "tier": "B",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "bad frame + good 1st column + okay 2nd column",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Rufus's Fury": {
+        "weapon_name": "Rufus's Fury",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel",
+            "Arrowhead Brake"
+          ],
+          "column2": [
+            "High-Caliber Rounds",
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Slice"
+          ],
+          "perk2": [
+            "Chaos Reshaped",
+            "Hatchling"
+          ],
+          "origin_trait": [
+            "Harmonic Resonance"
           ]
         },
         "info": {
@@ -3636,7 +3614,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "no AO but decent utility in 1st instead",
+          "notes": "good single target-focused auto, otherwise not very good",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -3651,8 +3629,8 @@
           }
         }
       },
-      "Duty Bound": {
-        "weapon_name": "Duty Bound",
+      "Auric Disabler": {
+        "weapon_name": "Auric Disabler",
         "version": "",
         "perks": {
           "column1": [
@@ -3660,25 +3638,25 @@
             "Arrowhead Brake"
           ],
           "column2": [
-            "Flared Magwell",
+            "High-Caliber Rounds",
             "Alloy Magazine"
           ],
           "perk1": [
-            "Bewildering Burst",
-            "Stopping Power",
-            "Enlightened Action"
+            "Hatchling",
+            "Slice"
           ],
           "perk2": [
-            "Rampage",
+            "Tear",
+            "Desperate Measures",
             "Onslaught"
           ],
           "origin_trait": [
-            "Accelerated Assault"
+            "Omolon Fluid Dynamics"
           ]
         },
         "info": {
           "rank": "32",
-          "tier": "B",
+          "tier": "C",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -3686,7 +3664,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "lower utility than AO+KT but post-buff Rampage isn't bad with Bewildering",
+          "notes": "splash + damage option but relatively weak vs. B tier options",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -3701,8 +3679,8 @@
           }
         }
       },
-      "Breakneck": {
-        "weapon_name": "Breakneck",
+      "Trendsetter": {
+        "weapon_name": "Trendsetter",
         "version": "",
         "perks": {
           "column1": [
@@ -3710,26 +3688,24 @@
             "Arrowhead Brake"
           ],
           "column2": [
-            "Flared Magwell",
             "Alloy Magazine"
           ],
           "perk1": [
-            "Enlightened Action",
-            "Shoot to Loot",
-            "Pugilist"
+            "Supercharged Magazine",
+            "Light Touch"
           ],
           "perk2": [
-            "Kinetic Tremors",
-            "Onslaught",
-            "Attrition Orbs"
+            "Jolting Feedback",
+            "Rolling Storm",
+            "Gear Shift"
           ],
           "origin_trait": [
-            "Gun and Run"
+            "Nail, Meet Hammer"
           ]
         },
         "info": {
           "rank": "33",
-          "tier": "B",
+          "tier": "C",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -3737,7 +3713,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "solid reload perk + KT but no Attrition and mediocre origin + frame",
+          "notes": "best archetype but very mediocre 1st column, arc splash is underwhelming, niche origin",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -3752,8 +3728,8 @@
           }
         }
       },
-      "Braytech Werewolf": {
-        "weapon_name": "Braytech Werewolf",
+      "Come to Pass": {
+        "weapon_name": "Come to Pass",
         "version": "",
         "perks": {
           "column1": [
@@ -3761,24 +3737,22 @@
             "Arrowhead Brake"
           ],
           "column2": [
-            "Flared Magwell",
             "Alloy Magazine"
           ],
           "perk1": [
-            "Rewind Rounds",
-            "Pugilist"
+            "Supercharged Magazine",
+            "Shoot to Loot"
           ],
           "perk2": [
-            "Kinetic Tremors",
-            "Onslaught"
+            "Jolting Feedback"
           ],
           "origin_trait": [
-            "Search Party"
+            "Psychohack"
           ]
         },
         "info": {
           "rank": "34",
-          "tier": "B",
+          "tier": "C",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -3786,7 +3760,55 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "Rewind + KT but bad origin and okay frame",
+          "notes": "great origin and archetype, no double stagger combo and mediocre 1st column",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Prosecutor": {
+        "weapon_name": "Prosecutor",
+        "version": "RotN",
+        "perks": {
+          "column1": [
+            "Fluted Barrel",
+            "Arrowhead Brake"
+          ],
+          "column2": [
+            "High-Caliber Rounds",
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Attrition Orbs",
+            "Dragonfly"
+          ],
+          "perk2": [
+            "Voltshot"
+          ],
+          "origin_trait": [
+            "Gravity Well"
+          ]
+        },
+        "info": {
+          "rank": "35",
+          "tier": "C",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "mediocre double splash, okay archetype, Gravity Well access",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -3814,20 +3836,18 @@
             "Alloy Magazine"
           ],
           "perk1": [
-            "Attrition Orbs",
-            "Stats for All"
+            "Attrition Orbs"
           ],
           "perk2": [
-            "Voltshot",
-            "One for All"
+            "Voltshot"
           ],
           "origin_trait": [
             "Vanguard Determination"
           ]
         },
         "info": {
-          "rank": "35",
-          "tier": "B",
+          "rank": "36",
+          "tier": "C",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -3835,7 +3855,55 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "Attrition + Voltshot pairing but nothing else special",
+          "notes": "AO + Voltshot, alright origin, okay frame",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Sorrow's Verse": {
+        "weapon_name": "Sorrow's Verse",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel",
+            "Arrowhead Brake"
+          ],
+          "column2": [
+            "Flared Magwell",
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Recycled Energy",
+            "Rewind Rounds"
+          ],
+          "perk2": [
+            "Voltshot"
+          ],
+          "origin_trait": [
+            "Accelerated Assault"
+          ]
+        },
+        "info": {
+          "rank": "37",
+          "tier": "C",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "best frame, no double splash, good origin",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -3875,8 +3943,8 @@
           ]
         },
         "info": {
-          "rank": "36",
-          "tier": "B",
+          "rank": "38",
+          "tier": "C",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -3885,55 +3953,6 @@
           "usage": "",
           "source": "",
           "notes": "Attrition + Headstone + great origin + frame but sadly stasis",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Intercalary": {
-        "weapon_name": "Intercalary",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel",
-            "Arrowhead Brake"
-          ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Headstone"
-          ],
-          "perk2": [
-            "Desperate Measures",
-            "One for All",
-            "Onslaught"
-          ],
-          "origin_trait": [
-            "Frame of Reference"
-          ]
-        },
-        "info": {
-          "rank": "37",
-          "tier": "B",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "worse overall vs. Veiled despite offering splash + damage combo",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -3957,7 +3976,7 @@
             "Arrowhead Brake"
           ],
           "column2": [
-            "Flared Magwell",
+            "High-Caliber Rounds",
             "Alloy Magazine"
           ],
           "perk1": [
@@ -3966,60 +3985,10 @@
           ],
           "perk2": [
             "Voltshot",
-            "Rolling Storm",
             "Gear Shift"
           ],
           "origin_trait": [
             "Crossing Over"
-          ]
-        },
-        "info": {
-          "rank": "38",
-          "tier": "B",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "mediocre perk columns",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "The Forward Path": {
-        "weapon_name": "The Forward Path",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel",
-            "Arrowhead Brake"
-          ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Slice",
-            "Demolitionist"
-          ],
-          "perk2": [
-            "Tear",
-            "Hatchling"
-          ],
-          "origin_trait": [
-            "Skulking Wolf"
           ]
         },
         "info": {
@@ -4032,108 +4001,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "good survivability auto, solid origin too",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Ammit AR2": {
-        "weapon_name": "Ammit AR2",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel",
-            "Arrowhead Brake"
-          ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Stats for All",
-            "Turnabout"
-          ],
-          "perk2": [
-            "Incandescent",
-            "One for All",
-            "Adaptive Munitions"
-          ],
-          "origin_trait": [
-            "Omolon Fluid Dynamics"
-          ]
-        },
-        "info": {
-          "rank": "40",
-          "tier": "C",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "Incandescent vs. Destab on Positive Outlook",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Auric Disabler": {
-        "weapon_name": "Auric Disabler",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel",
-            "Arrowhead Brake"
-          ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Dragonfly",
-            "Hatchling",
-            "Slice"
-          ],
-          "perk2": [
-            "Desperate Measures",
-            "Tear",
-            "Onslaught"
-          ],
-          "origin_trait": [
-            "Omolon Fluid Dynamics"
-          ]
-        },
-        "info": {
-          "rank": "41",
-          "tier": "C",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "splash + damage option but relatively weak vs. B tier options",
+          "notes": "mediocre double splash, okay archetype, no Gravity Well",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -4157,25 +4025,21 @@
             "Arrowhead Brake"
           ],
           "column2": [
-            "Flared Magwell",
+            "High-Caliber Rounds",
             "Alloy Magazine"
           ],
           "perk1": [
-            "Heal Clip",
-            "Proximity Power",
-            "Recycled Energy"
+            "Heal Clip"
           ],
           "perk2": [
-            "Burning Ambition",
-            "Binary Orbit",
-            "Kill Clip"
+            "Burning Ambition"
           ],
           "origin_trait": [
             "Bray Legacy"
           ]
         },
         "info": {
-          "rank": "42",
+          "rank": "40",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -4199,6 +4063,199 @@
           }
         }
       },
+      "Arc Logic": {
+        "weapon_name": "Arc Logic",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel",
+            "Arrowhead Brake"
+          ],
+          "column2": [
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Rolling Storm",
+            "Supercharged Magazine"
+          ],
+          "perk2": [
+            "Jolting Feedback",
+            "Gear Shift"
+          ],
+          "origin_trait": [
+            "Loss"
+          ]
+        },
+        "info": {
+          "rank": "41",
+          "tier": "C",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "disappointing 1st column, decent 2nd column, bad origin, good archetype",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Giver's Blessing": {
+        "weapon_name": "Giver's Blessing",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel",
+            "Arrowhead Brake"
+          ],
+          "column2": [
+            "High-Caliber Rounds",
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Rewind Rounds",
+            "Shoot to Loot",
+            "Impromptu Ammunition"
+          ],
+          "perk2": [
+            "Kinetic Tremors"
+          ],
+          "origin_trait": [
+            "Exhaustive Research"
+          ]
+        },
+        "info": {
+          "rank": "42",
+          "tier": "C",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "very disappointing first column, decent archetype, origin trait usually not great",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Breakneck": {
+        "weapon_name": "Breakneck",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel",
+            "Arrowhead Brake"
+          ],
+          "column2": [
+            "High-Caliber Rounds",
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Enlightened Action",
+            "Shoot to Loot"
+          ],
+          "perk2": [
+            "Kinetic Tremors"
+          ],
+          "origin_trait": [
+            "Gun and Run"
+          ]
+        },
+        "info": {
+          "rank": "43",
+          "tier": "C",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "decent archetype but nothing good to pair with KT, origin not very good either",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Braytech Werewolf": {
+        "weapon_name": "Braytech Werewolf",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel",
+            "Arrowhead Brake"
+          ],
+          "column2": [
+            "High-Caliber Rounds",
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Rewind Rounds",
+            "Pugilist"
+          ],
+          "perk2": [
+            "Kinetic Tremors"
+          ],
+          "origin_trait": [
+            "Search Party"
+          ]
+        },
+        "info": {
+          "rank": "44",
+          "tier": "C",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "basically Breakneck but worse",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
       "Fair Judgment": {
         "weapon_name": "Fair Judgment",
         "version": "",
@@ -4208,7 +4265,7 @@
             "Arrowhead Brake"
           ],
           "column2": [
-            "Flared Magwell",
+            "High-Caliber Rounds",
             "Alloy Magazine"
           ],
           "perk1": [
@@ -4223,107 +4280,8 @@
           ]
         },
         "info": {
-          "rank": "43",
-          "tier": "C",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "classic Stasis combo but mediocre frame",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Lethal Abundance": {
-        "weapon_name": "Lethal Abundance",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel",
-            "Arrowhead Brake"
-          ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Slice",
-            "Tear",
-            "Enlightened Action"
-          ],
-          "perk2": [
-            "Hatchling",
-            "Desperate Measures"
-          ],
-          "origin_trait": [
-            "Skulking Wolf"
-          ]
-        },
-        "info": {
-          "rank": "44",
-          "tier": "C",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "bad frame + good 1st column + okay 2nd column",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Rufus's Fury": {
-        "weapon_name": "Rufus's Fury",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel",
-            "Arrowhead Brake"
-          ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Slice",
-            "Rewind Rounds"
-          ],
-          "perk2": [
-            "Chaos Reshaped",
-            "Hatchling"
-          ],
-          "origin_trait": [
-            "Harmonic Resonance"
-          ]
-        },
-        "info": {
           "rank": "45",
-          "tier": "C",
+          "tier": "D",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -4331,7 +4289,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "good single target-focused auto, otherwise not very good",
+          "notes": "mediocre Headstone auto, nothing special about frame or origin",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -4346,8 +4304,8 @@
           }
         }
       },
-      "Sorrow's Verse": {
-        "weapon_name": "Sorrow's Verse",
+      "Steelfeather Repeater": {
+        "weapon_name": "Steelfeather Repeater",
         "version": "",
         "perks": {
           "column1": [
@@ -4355,23 +4313,22 @@
             "Arrowhead Brake"
           ],
           "column2": [
-            "Flared Magwell",
+            "High-Caliber Rounds",
             "Alloy Magazine"
           ],
           "perk1": [
-            "Rewind Rounds",
-            "Recycled Energy"
+            "Bewildering Burst"
           ],
           "perk2": [
-            "Voltshot"
+            "Ancillary Ordinance"
           ],
           "origin_trait": [
-            "Accelerated Assault"
+            "Cast No Shadows"
           ]
         },
         "info": {
           "rank": "46",
-          "tier": "C",
+          "tier": "D",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -4379,399 +4336,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "good reload support and origin but not very potent",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Krait": {
-        "weapon_name": "Krait",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel",
-            "Arrowhead Brake"
-          ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Stats for All",
-            "Auto-Loading Holster",
-            "Subsistence"
-          ],
-          "perk2": [
-            "Headstone",
-            "One for All"
-          ],
-          "origin_trait": [
-            "Veist Stinger"
-          ]
-        },
-        "info": {
-          "rank": "47",
-          "tier": "C",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "decent Headstone auto, just missing utility perk",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Horror Story": {
-        "weapon_name": "Horror Story",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel",
-            "Arrowhead Brake"
-          ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Enlightened Action",
-            "Demolitionist",
-            "Under-Over"
-          ],
-          "perk2": [
-            "Headstone",
-            "Frenzy"
-          ],
-          "origin_trait": [
-            "Nadir Focus"
-          ]
-        },
-        "info": {
-          "rank": "48",
-          "tier": "C",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "similar to Fair Judgment but not enhanceable",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "False Promises": {
-        "weapon_name": "False Promises",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel",
-            "Arrowhead Brake"
-          ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Enlightened Action"
-          ],
-          "perk2": [
-            "Headstone"
-          ],
-          "origin_trait": [
-            "Paracausal Fluid"
-          ]
-        },
-        "info": {
-          "rank": "49",
-          "tier": "C",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "similar to Fair Judgment but worse frame",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Herod-C": {
-        "weapon_name": "Herod-C",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel",
-            "Arrowhead Brake"
-          ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Shoot to Loot",
-            "Stats for All",
-            "Auto-Loading Holster"
-          ],
-          "perk2": [
-            "Headstone",
-            "One for All",
-            "Frenzy"
-          ],
-          "origin_trait": [
-            "Häkke Breach Armaments"
-          ]
-        },
-        "info": {
-          "rank": "50",
-          "tier": "C",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "similar to False Promises but not enhanceable and worse reload perk",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Dark Decider": {
-        "weapon_name": "Dark Decider",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel",
-            "Arrowhead Brake"
-          ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Auto-Loading Holster",
-            "Subsistence"
-          ],
-          "perk2": [
-            "Voltshot",
-            "Dragonfly"
-          ],
-          "origin_trait": [
-            "Veist Stinger"
-          ]
-        },
-        "info": {
-          "rank": "51",
-          "tier": "C",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "weird 1st column + Voltshot anti-synergy",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Come to Pass": {
-        "weapon_name": "Come to Pass",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel",
-            "Arrowhead Brake"
-          ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Trickle Charge",
-            "Shoot to Loot"
-          ],
-          "perk2": [
-            "Jolting Feedback",
-            "Rolling Storm"
-          ],
-          "origin_trait": [
-            "Psychohack"
-          ]
-        },
-        "info": {
-          "rank": "52",
-          "tier": "C",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "solid origin but bad frame and okay 2nd column",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Ros Arago IV": {
-        "weapon_name": "Ros Arago IV",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel",
-            "Arrowhead Brake"
-          ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Repulsor Brace",
-            "Rewind Rounds"
-          ],
-          "perk2": [
-            "Onslaught",
-            "Attrition Orbs"
-          ],
-          "origin_trait": [
-            "Wild Card"
-          ]
-        },
-        "info": {
-          "rank": "53",
-          "tier": "C",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "would be pretty good with Destabilizing access",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Coronach-22": {
-        "weapon_name": "Coronach-22",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel",
-            "Arrowhead Brake"
-          ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Feeding Frenzy"
-          ],
-          "perk2": [
-            "Incandescent"
-          ],
-          "origin_trait": [
-            "Suros Synergy"
-          ]
-        },
-        "info": {
-          "rank": "54",
-          "tier": "C",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "worst Incandescent auto",
+          "notes": "awful perks outside of kinetic combo, origin not great on weapon type",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -4802,7 +4367,6 @@
             "Rewind Rounds"
           ],
           "perk2": [
-            "Frenzy",
             "Hatchling"
           ],
           "origin_trait": [
@@ -4810,7 +4374,7 @@
           ]
         },
         "info": {
-          "rank": "55",
+          "rank": "47",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -4819,7 +4383,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "similar to Rufus's Fury but worse archetype and no Demo in 1st column",
+          "notes": "best frame, terrible 1st column, decent origin",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -4834,8 +4398,8 @@
           }
         }
       },
-      "Sweet Sorrow": {
-        "weapon_name": "Sweet Sorrow",
+      "Herod-C": {
+        "weapon_name": "Herod-C",
         "version": "",
         "perks": {
           "column1": [
@@ -4843,22 +4407,22 @@
             "Arrowhead Brake"
           ],
           "column2": [
-            "Flared Magwell",
+            "High-Caliber Rounds",
             "Alloy Magazine"
           ],
           "perk1": [
-            "Stats for All",
-            "Auto-Loading Holster"
+            "Shoot to Loot",
+            "Stats for All"
           ],
           "perk2": [
-            "One for All"
+            "Headstone"
           ],
           "origin_trait": [
-            "Land Tank"
+            "Häkke Breach Armaments"
           ]
         },
         "info": {
-          "rank": "56",
+          "rank": "48",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -4867,7 +4431,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "SFA + OFA combo on good frame and origin, no splash available",
+          "notes": "has stagger combo access, unremarkable stasis auto, good frame",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -4882,8 +4446,8 @@
           }
         }
       },
-      "The Last Breath": {
-        "weapon_name": "The Last Breath",
+      "False Promises": {
+        "weapon_name": "False Promises",
         "version": "",
         "perks": {
           "column1": [
@@ -4891,21 +4455,211 @@
             "Arrowhead Brake"
           ],
           "column2": [
-            "Flared Magwell",
+            "High-Caliber Rounds",
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Enlightened Action"
+          ],
+          "perk2": [
+            "Headstone"
+          ],
+          "origin_trait": [
+            "Paracausal Fluid"
+          ]
+        },
+        "info": {
+          "rank": "49",
+          "tier": "D",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "has High-Cal + high-impact stagger combo, otherwise very mediocre",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Duty Bound": {
+        "weapon_name": "Duty Bound",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel",
+            "Arrowhead Brake"
+          ],
+          "column2": [
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Bewildering Burst",
+            "Stopping Power"
+          ],
+          "perk2": [
+            "Rampage",
+            "Onslaught"
+          ],
+          "origin_trait": [
+            "Accelerated Assault"
+          ]
+        },
+        "info": {
+          "rank": "50",
+          "tier": "D",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "no KT or Ancillary, no AO access, good archetype and origin but really lacking in perks",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Dark Decider": {
+        "weapon_name": "Dark Decider",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel",
+            "Arrowhead Brake"
+          ],
+          "column2": [
+            "High-Caliber Rounds",
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Auto-Loading Holster",
+            "Subsistence"
+          ],
+          "perk2": [
+            "Voltshot"
+          ],
+          "origin_trait": [
+            "Skulking Wolf"
+          ]
+        },
+        "info": {
+          "rank": "51",
+          "tier": "D",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "awful 1st column, okay frame, good origin, pretty bad overall",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Coronach-22": {
+        "weapon_name": "Coronach-22",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel",
+            "Arrowhead Brake"
+          ],
+          "column2": [
+            "High-Caliber Rounds",
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Feeding Frenzy"
+          ],
+          "perk2": [
+            "Incandescent"
+          ],
+          "origin_trait": [
+            "Suros Synergy"
+          ]
+        },
+        "info": {
+          "rank": "52",
+          "tier": "D",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Incandescent is the only redeeming quality",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Horror Story": {
+        "weapon_name": "Horror Story",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel",
+            "Arrowhead Brake"
+          ],
+          "column2": [
             "Alloy Magazine"
           ],
           "perk1": [
             "Demolitionist",
-            "Subsistence"
+            "Enlightened Action"
           ],
           "perk2": [
-            "Frenzy",
-            "One for All"
+            "Headstone"
           ],
-          "origin_trait": []
+          "origin_trait": [
+            "Nadir Focus"
+          ]
         },
         "info": {
-          "rank": "57",
+          "rank": "53",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -4914,7 +4668,54 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "consistency-focused single target perks",
+          "notes": "decent archetype, bad 1st column, bad origin",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Krait": {
+        "weapon_name": "Krait",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel",
+            "Arrowhead Brake"
+          ],
+          "column2": [
+            "High-Caliber Rounds",
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Stats for All"
+          ],
+          "perk2": [
+            "Headstone"
+          ],
+          "origin_trait": [
+            "Veist Stinger"
+          ]
+        },
+        "info": {
+          "rank": "54",
+          "tier": "D",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "terrible 1st column, okay frame and origin, nothing special",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -4942,19 +4743,18 @@
             "Alloy Magazine"
           ],
           "perk1": [
-            "Keep Away"
+            "Envious Assassin"
           ],
           "perk2": [
-            "Hatchling",
-            "Golden Tricorn"
+            "Hatchling"
           ],
           "origin_trait": [
             "Noble Deeds"
           ]
         },
         "info": {
-          "rank": "58",
-          "tier": "E",
+          "rank": "55",
+          "tier": "D",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -4962,7 +4762,56 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "outdated reload perks + mediocre splash",
+          "notes": "terrible 1st column, mediocre splash, middling origin, good frame",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Ammit AR2": {
+        "weapon_name": "Ammit AR2",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel",
+            "Arrowhead Brake"
+          ],
+          "column2": [
+            "High-Caliber Rounds",
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Ambitious Assassin",
+            "Stats for All"
+          ],
+          "perk2": [
+            "Incandescent",
+            "One for All"
+          ],
+          "origin_trait": [
+            "Omolon Fluid Dynamics"
+          ]
+        },
+        "info": {
+          "rank": "56",
+          "tier": "D",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "worst Incandescent auto",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -4986,7 +4835,7 @@
             "Arrowhead Brake"
           ],
           "column2": [
-            "Flared Magwell",
+            "High-Caliber Rounds",
             "Alloy Magazine"
           ],
           "perk1": [
@@ -5002,7 +4851,7 @@
         },
         "info": {
           "rank": "59",
-          "tier": "F",
+          "tier": "E",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -5010,7 +4859,100 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "bad frame + outdated perks",
+          "notes": "completely outdated, technically has double stagger combo though",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Sweet Sorrow": {
+        "weapon_name": "Sweet Sorrow",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel",
+            "Arrowhead Brake"
+          ],
+          "column2": [
+            "Flared Magwell",
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Stats for All"
+          ],
+          "perk2": [
+            "One for All"
+          ],
+          "origin_trait": [
+            "Land Tank"
+          ]
+        },
+        "info": {
+          "rank": "57",
+          "tier": "E",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "no splash whatsoever, great origin and decent archetype but everything else is terrible",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "The Last Breath": {
+        "weapon_name": "The Last Breath",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel",
+            "Arrowhead Brake"
+          ],
+          "column2": [
+            "High-Caliber Rounds",
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Demolitionist"
+          ],
+          "perk2": [
+            "Frenzy",
+            "One for All"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "58",
+          "tier": "E",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "extremely outdated perk pool, good frame but not even close to redeemable",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -5034,7 +4976,7 @@
             "Arrowhead Brake"
           ],
           "column2": [
-            "Flared Magwell",
+            "High-Caliber Rounds",
             "Alloy Magazine"
           ],
           "perk1": [
@@ -5049,7 +4991,7 @@
         },
         "info": {
           "rank": "60",
-          "tier": "F",
+          "tier": "E",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -5057,7 +4999,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "Surrounded on an auto",
+          "notes": "garbage all around except origin trait",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -5081,12 +5023,11 @@
             "Arrowhead Brake"
           ],
           "column2": [
-            "Flared Magwell",
+            "High-Caliber Rounds",
             "Alloy Magazine"
           ],
           "perk1": [
-            "Field Prep",
-            "Surplus"
+            "Field Prep"
           ],
           "perk2": [
             "One for All"
@@ -5095,7 +5036,7 @@
         },
         "info": {
           "rank": "61",
-          "tier": "F",
+          "tier": "E",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -5103,7 +5044,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "weird reload perks + OFA not great especially with no pairing",
+          "notes": "Field Prep technically gives ammo gen but besides that completely irredeemable",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -5120,52 +5061,6 @@
       }
     },
     "Bows": {
-      "Point of the Stag": {
-        "weapon_name": "Point of the Stag",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Elastic String"
-          ],
-          "column2": [
-            "Compact Arrow Shaft"
-          ],
-          "perk1": [
-            "Dragonfly"
-          ],
-          "perk2": [
-            "Voltshot",
-            "Archer's Gambit"
-          ],
-          "origin_trait": [
-            "Wild Card"
-          ]
-        },
-        "info": {
-          "rank": "1",
-          "tier": "S",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "Non-Denouement except with Wild Card",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
       "Biting Winds": {
         "weapon_name": "Biting Winds",
         "version": "",
@@ -5178,19 +5073,17 @@
           ],
           "perk1": [
             "Bewildering Burst",
-            "Impromptu Ammunition",
-            "Archer's Tempo"
+            "Impromptu Ammunition"
           ],
           "perk2": [
-            "Kinetic Tremors",
-            "Explosive Head"
+            "Kinetic Tremors"
           ],
           "origin_trait": [
             "Winterized Gear"
           ]
         },
         "info": {
-          "rank": "2",
+          "rank": "1",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -5199,7 +5092,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "somehow even better than Accrued",
+          "notes": "Bewildering isn't great on most primaries, but on a bow it's excellent",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -5230,11 +5123,56 @@
           ],
           "perk2": [
             "Firefly",
-            "Crystalline Corpsebloom",
-            "Archer's Gambit"
+            "Crystalline Corpsebloom"
           ],
           "origin_trait": [
             "Forge's Kin"
+          ]
+        },
+        "info": {
+          "rank": "2",
+          "tier": "S",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "the fire and ice combo but on a bow, great origin too, just not the best frame",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Point of the Stag": {
+        "weapon_name": "Point of the Stag",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Elastic String"
+          ],
+          "column2": [
+            "Compact Arrow Shaft"
+          ],
+          "perk1": [
+            "Dragonfly"
+          ],
+          "perk2": [
+            "Voltshot",
+            "Archer's Gambit"
+          ],
+          "origin_trait": [
+            "Skulking Wolf"
           ]
         },
         "info": {
@@ -5247,7 +5185,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "the fire and ice combo but on a bow",
+          "notes": "Non-Denouement with better origin traits",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -5274,7 +5212,7 @@
           ],
           "perk1": [
             "Dragonfly",
-            "Rolling Storm",
+            "Successful Warm-Up",
             "Shoot to Loot"
           ],
           "perk2": [
@@ -5296,7 +5234,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "prime example of double splash over arrow uptime usefulness",
+          "notes": "interesting perk diversity but probably just worse than Point of the Stag",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -5322,12 +5260,10 @@
             "Compact Arrow Shaft"
           ],
           "perk1": [
-            "Attrition Orbs",
-            "Archer's Tempo"
+            "Attrition Orbs"
           ],
           "perk2": [
             "Kinetic Tremors",
-            "Firefly",
             "Archer's Gambit"
           ],
           "origin_trait": [
@@ -5344,7 +5280,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "good orb generator, solid KT scaling too",
+          "notes": "classic AO + KT combo, good frame, decent origin",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -5370,14 +5306,13 @@
             "Compact Arrow Shaft"
           ],
           "perk1": [
-            "Dragonfly",
             "Repulsor Brace",
+            "Dragonfly",
             "Impromptu Ammunition"
           ],
           "perk2": [
             "Destabilizing Rounds",
-            "Demoralize",
-            "Explosive Head"
+            "Demoralize"
           ],
           "origin_trait": [
             "Veist Stinger"
@@ -5393,7 +5328,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "double splash + utility options",
+          "notes": "classic void combo, origin trait not the best, frame not the best either",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -5420,13 +5355,11 @@
           ],
           "perk1": [
             "Repulsor Brace",
-            "Dragonfly",
-            "Archer's Tempo"
+            "Dragonfly"
           ],
           "perk2": [
             "Destabilizing Rounds",
-            "Demoralize",
-            "Explosive Head"
+            "Demoralize"
           ],
           "origin_trait": [
             "Runneth Over"
@@ -5442,7 +5375,53 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "double splash + utility options, worse origin than Fortunate",
+          "notes": "essentially the same as Fortunate except worse origin",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Pre Astyanax IV": {
+        "weapon_name": "Pre Astyanax IV",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Elastic String"
+          ],
+          "column2": [
+            "Compact Arrow Shaft"
+          ],
+          "perk1": [
+            "Incandescent",
+            "Firefly"
+          ],
+          "perk2": [
+            "Burning Ambition"
+          ],
+          "origin_trait": [
+            "Wild Card"
+          ]
+        },
+        "info": {
+          "rank": "8",
+          "tier": "A",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "BiS double splash solar bow",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -5481,54 +5460,6 @@
           ]
         },
         "info": {
-          "rank": "8",
-          "tier": "A",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "BiS double splash solar bow",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Pre Astyanax IV": {
-        "weapon_name": "Pre Astyanax IV",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Elastic String"
-          ],
-          "column2": [
-            "Compact Arrow Shaft"
-          ],
-          "perk1": [
-            "Incandescent",
-            "Firefly"
-          ],
-          "perk2": [
-            "Burning Ambition",
-            "Explosive Head",
-            "Elemental Honing"
-          ],
-          "origin_trait": [
-            "Wild Card"
-          ]
-        },
-        "info": {
           "rank": "9",
           "tier": "A",
           "priority": "",
@@ -5538,55 +5469,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "double splash where Burning Ambition actually has use",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Tyranny of Heaven": {
-        "weapon_name": "Tyranny of Heaven",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Elastic String"
-          ],
-          "column2": [
-            "Compact Arrow Shaft"
-          ],
-          "perk1": [
-            "Dragonfly",
-            "Meganeura",
-            "Burning Ambition"
-          ],
-          "perk2": [
-            "Incandescent",
-            "Archer's Gambit"
-          ],
-          "origin_trait": [
-            "Explosive Pact"
-          ]
-        },
-        "info": {
-          "rank": "10",
-          "tier": "A",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "great solar double splash, decent frame",
+          "notes": "higher perk diversity than Pre Astyanax IV but worse origin",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -5625,6 +5508,53 @@
           ]
         },
         "info": {
+          "rank": "10",
+          "tier": "A",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "very solid overall package, just has a mediocre frame due to extended draw time",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Tyranny of Heaven": {
+        "weapon_name": "Tyranny of Heaven",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Elastic String"
+          ],
+          "column2": [
+            "Compact Arrow Shaft"
+          ],
+          "perk1": [
+            "Burning Ambition",
+            "Meganeura"
+          ],
+          "perk2": [
+            "Incandescent",
+            "Archer's Gambit"
+          ],
+          "origin_trait": [
+            "Explosive Pact"
+          ]
+        },
+        "info": {
           "rank": "11",
           "tier": "A",
           "priority": "",
@@ -5634,7 +5564,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "draw time too long for typical add clear purposes, usable though",
+          "notes": "solid solar double splash overall, just worse frame than higher A placements",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -5661,7 +5591,6 @@
           ],
           "perk1": [
             "Explosive Head",
-            "Archer's Tempo",
             "Shoot to Loot"
           ],
           "perk2": [
@@ -5674,7 +5603,7 @@
         },
         "info": {
           "rank": "12",
-          "tier": "A",
+          "tier": "B",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -5682,7 +5611,54 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "only Meganeura bow, okay first column, worse than Non-Denouement",
+          "notes": "only Jolting Feedback bow, overall pretty decent package, just underwhelming first column",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Hushed Whisper": {
+        "weapon_name": "Hushed Whisper",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Elastic String"
+          ],
+          "column2": [
+            "Compact Arrow Shaft"
+          ],
+          "perk1": [
+            "Tear",
+            "Slice"
+          ],
+          "perk2": [
+            "Hatchling",
+            "Archer's Gambit"
+          ],
+          "origin_trait": [
+            "Wild Card"
+          ]
+        },
+        "info": {
+          "rank": "13",
+          "tier": "B",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Tear interesting on a bow, otherwise held back by Strand limitations",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -5708,9 +5684,9 @@
             "Compact Arrow Shaft"
           ],
           "perk1": [
-            "Explosive Head",
-            "Archer's Tempo",
-            "Slice"
+            "Tear",
+            "Slice",
+            "Explosive Head"
           ],
           "perk2": [
             "Meganeura",
@@ -5722,8 +5698,8 @@
           ]
         },
         "info": {
-          "rank": "13",
-          "tier": "A",
+          "rank": "14",
+          "tier": "B",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -5768,54 +5744,6 @@
           ]
         },
         "info": {
-          "rank": "14",
-          "tier": "A",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "excessive draw time but still unique roll",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Strident Whistle": {
-        "weapon_name": "Strident Whistle",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Elastic String"
-          ],
-          "column2": [
-            "Compact Arrow Shaft"
-          ],
-          "perk1": [
-            "Archer's Tempo",
-            "Shoot to Loot"
-          ],
-          "perk2": [
-            "Incandescent",
-            "Explosive Head",
-            "Dragonfly"
-          ],
-          "origin_trait": [
-            "Vanguard's Vindication"
-          ]
-        },
-        "info": {
           "rank": "15",
           "tier": "B",
           "priority": "",
@@ -5825,7 +5753,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "Archer's + Incandescent core",
+          "notes": "outclassed by Accrued Redemption",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -5840,8 +5768,8 @@
           }
         }
       },
-      "Hushed Whisper": {
-        "weapon_name": "Hushed Whisper",
+      "Lethophobia": {
+        "weapon_name": "Lethophobia",
         "version": "",
         "perks": {
           "column1": [
@@ -5851,17 +5779,14 @@
             "Compact Arrow Shaft"
           ],
           "perk1": [
-            "Tear",
-            "Slice",
-            "Lead from Light"
+            "Repulsor Brace",
+            "Impulse Amplifier"
           ],
           "perk2": [
-            "Hatchling",
-            "Archer's Gambit",
             "Explosive Head"
           ],
           "origin_trait": [
-            "Wild Card"
+            "Dragon's Vengeance"
           ]
         },
         "info": {
@@ -5874,7 +5799,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "Tear interesting on a bow, otherwise held back by Strand limitations",
+          "notes": "can technically benefit from Repulsor through artifact but otherwise very mediocre",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -5900,8 +5825,7 @@
             "Compact Arrow Shaft"
           ],
           "perk1": [
-            "Dragonfly",
-            "Archer's Tempo"
+            "Dragonfly"
           ],
           "perk2": [
             "Explosive Head"
@@ -5912,7 +5836,7 @@
         },
         "info": {
           "rank": "17",
-          "tier": "B",
+          "tier": "C",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -5920,7 +5844,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "technically double splash but a weaker version",
+          "notes": "very weak version of double splash",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -5955,52 +5879,6 @@
         },
         "info": {
           "rank": "18",
-          "tier": "B",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "technically double splash but a weaker version",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Under Your Skin": {
-        "weapon_name": "Under Your Skin",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Elastic String"
-          ],
-          "column2": [
-            "Compact Arrow Shaft"
-          ],
-          "perk1": [
-            "Archer's Tempo"
-          ],
-          "perk2": [
-            "Explosive Head",
-            "Dragonfly"
-          ],
-          "origin_trait": [
-            "Land Tank"
-          ]
-        },
-        "info": {
-          "rank": "19",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -6009,7 +5887,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "classic Archer's + Explosive/weaker splash",
+          "notes": "like Tripwire Canary but no origin",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -6047,7 +5925,7 @@
           ]
         },
         "info": {
-          "rank": "20",
+          "rank": "19",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -6056,7 +5934,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "classic Archer's + Explosive/weaker splash",
+          "notes": "bit more perk diversity than bows from the same era",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -6071,8 +5949,8 @@
           }
         }
       },
-      "Wolftone Draw": {
-        "weapon_name": "Wolftone Draw",
+      "Strident Whistle": {
+        "weapon_name": "Strident Whistle",
         "version": "",
         "perks": {
           "column1": [
@@ -6086,10 +5964,57 @@
             "Shoot to Loot"
           ],
           "perk2": [
-            "Dragonfly",
-            "Frenzy"
+            "Incandescent"
           ],
-          "origin_trait": []
+          "origin_trait": [
+            "Vanguard's Vindication"
+          ]
+        },
+        "info": {
+          "rank": "20",
+          "tier": "C",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "outdated Archer's + Incandescent core",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Under Your Skin": {
+        "weapon_name": "Under Your Skin",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Elastic String"
+          ],
+          "column2": [
+            "Compact Arrow Shaft"
+          ],
+          "perk1": [
+            "Archer's Tempo"
+          ],
+          "perk2": [
+            "Explosive Head",
+            "Dragonfly"
+          ],
+          "origin_trait": [
+            "Land Tank"
+          ]
         },
         "info": {
           "rank": "21",
@@ -6101,7 +6026,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "classic Archer's + Explosive/weaker splash",
+          "notes": "excellent origin but very outdated perk spread",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -6147,7 +6072,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "classic Archer's + Explosive/weaker splash",
+          "notes": "similar to Under Your Skin in origin quality, has StL instead of Dragonfly",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -6162,8 +6087,8 @@
           }
         }
       },
-      "Imperial Needle": {
-        "weapon_name": "Imperial Needle",
+      "Wolftone Draw": {
+        "weapon_name": "Wolftone Draw",
         "version": "",
         "perks": {
           "column1": [
@@ -6173,16 +6098,17 @@
             "Compact Arrow Shaft"
           ],
           "perk1": [
-            "Archer's Tempo"
+            "Archer's Tempo",
+            "Shoot to Loot"
           ],
           "perk2": [
-            "Frenzy"
+            "Dragonfly"
           ],
           "origin_trait": []
         },
         "info": {
           "rank": "23",
-          "tier": "D",
+          "tier": "C",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -6190,7 +6116,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "Archer's + weak damage perk",
+          "notes": "very weak splash option",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -6250,8 +6176,8 @@
           }
         }
       },
-      "Lethophobia": {
-        "weapon_name": "Lethophobia",
+      "Neoptolemus II": {
+        "weapon_name": "Neoptolemus II",
         "version": "",
         "perks": {
           "column1": [
@@ -6261,14 +6187,13 @@
             "Compact Arrow Shaft"
           ],
           "perk1": [
-            "Repulsor Brace",
-            "Impulse Amplifier"
+            "Air Trigger"
           ],
           "perk2": [
-            "Explosive Head"
+            "Wellspring"
           ],
           "origin_trait": [
-            "Dragon's Vengeance"
+            "Wild Card"
           ]
         },
         "info": {
@@ -6281,7 +6206,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "similar to Biting Winds but worse frame",
+          "notes": "origin trait is the only redeeming quality",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -6308,13 +6233,10 @@
           ],
           "perk1": [
             "Archer's Tempo",
-            "Demolitionist",
-            "Pugilist"
+            "Demolitionist"
           ],
           "perk2": [
-            "High Ground",
-            "Swashbuckler",
-            "Vorpal Weapon"
+            "High Ground"
           ],
           "origin_trait": [
             "Paracausal Fluid"
@@ -6322,7 +6244,7 @@
         },
         "info": {
           "rank": "26",
-          "tier": "E",
+          "tier": "D",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -6331,6 +6253,49 @@
           "usage": "",
           "source": "",
           "notes": "single target perks on a bow",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Imperial Needle": {
+        "weapon_name": "Imperial Needle",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Elastic String"
+          ],
+          "column2": [
+            "Compact Arrow Shaft"
+          ],
+          "perk1": [
+            "Archer's Tempo"
+          ],
+          "perk2": [
+            "Frenzy"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "27",
+          "tier": "D",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Archer's + weak damage perk",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -6361,15 +6326,16 @@
           ],
           "perk2": [
             "Archer's Tempo",
-            "Kill Clip"
+            "Kill Clip",
+            "Successful Warm-Up"
           ],
           "origin_trait": [
             "Veist Stinger"
           ]
         },
         "info": {
-          "rank": "27",
-          "tier": "E",
+          "rank": "28",
+          "tier": "D",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -6378,51 +6344,6 @@
           "usage": "",
           "source": "",
           "notes": "single target perks on a bow",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Neoptolemus II": {
-        "weapon_name": "Neoptolemus II",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Elastic String"
-          ],
-          "column2": [
-            "Compact Arrow Shaft"
-          ],
-          "perk1": [
-            "Pugilist"
-          ],
-          "perk2": [
-            "Vorpal Weapon"
-          ],
-          "origin_trait": [
-            "Wild Card"
-          ]
-        },
-        "info": {
-          "rank": "28",
-          "tier": "E",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "no draw perks and only single target damage perks",
           "description": "",
           "alternatives": "",
           "analysis": {

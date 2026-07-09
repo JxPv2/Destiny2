@@ -1,320 +1,254 @@
-WEAPON,,INFO,,,,,PERKS,,,,,ANALYSIS,,
-🖼️,Name,Season,Energy,Frame,Ammo,⬆️,Barrel,Mag,Perk 1,Perk 2,Origin Trait,Notes,Rank,Tier
-,No Hesitation,29,Solar,Support,54,Yes,Full Bore,Accurized Rounds,"Physic
+WEAPON,,INFO,,,,,,PERKS,,,,,ANALYSIS,,
+🖼️,Name,Season,Energy,Frame,Stun,Ammo,⬆️,Barrel,Mag,Perk 1,Perk 2,Origin Trait,Notes,Rank,Tier
+,No Hesitation,29,Solar,Support,,54,Yes,Full Bore,Accurized Rounds,"Physic
 Burning Ambition","Chaos Reshaped
 Attrition Orbs
-Incandescent",Dealer's Choice,"on-demand survivability on any class, Benevolence synergy",1,S
-,DECATUR 02,29,Stasis,Support,54,Yes,Full Bore,Accurized Rounds,"Physic
-Attrition Orbs
-Crystalline Corpsebloom","Reciprocity
+Incandescent",Dealer's Choice,"best survivability support auto, also insane with Elemental Supercharger due to origin trait",1,S
+,Cusp Sempiternal,27,Void,Support,,51,Yes,Full Bore,Accurized Rounds,"Reciprocity
+Repulsor Brace
+Attrition Orbs","Withering Gaze
+Destabilizing Rounds
+Master of Arms",Frame of Reference,"would be insane with Physic, has great slot efficiency for debuff extension + support",2,S
+,DECATUR 02,29,Stasis,Support,,54,Yes,Full Bore,Accurized Rounds,"Physic
+Crystalline Corpsebloom
+Attrition Orbs","Reciprocity
 Master of Arms
-Redirection",Carrion Munitions,"Frost Armor not as good as Restoration, but good perk spread",2,S
-,Reckless Oracle,29,Void,Rapid,54,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
-Alloy Magazine",,,,,4,S
+Redirection",Carrion Munitions,"Frost Armor not as good as Restoration, but still the best kinetic slot option",3,S
 ,"Reckless Oracle
-Pantheon version",29,Void,Rapid,54,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
+Pantheon version",29,Void,Rapid,,54,Yes,"Fluted Barrel
+Arrowhead Brake","High-Caliber Rounds
 Alloy Magazine","Destabilizing Rounds
 Dimensional Shift
 Collective Demolition","Repulsor Brace
 Chaos Reshaped
-Withering Gaze",Elliptical Orbit,"every relevant void perk and Chaos to boot, great all around",,
-,Cusp Sempiternal,27,Void,Support,51,Yes,Full Bore,Accurized Rounds,"Reciprocity
-Repulsor Brace
-Attrition Orbs","Destabilizing Rounds
-Master of Arms
-Withering Gaze",Frame of Reference,"Void Overshield to allies, great perk pool",5,A
-,Gnawing Hunger,29,Void,Adaptive,55,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
-Alloy Magazine","Repulsor Brace
-Demolitionist
+Withering Gaze",Elliptical Orbit,"every relevant void perk and Chaos to boot, great all around",4,S
+,Gnawing Hunger,29,Void,Adaptive,,55,Yes,"Fluted Barrel
+Arrowhead Brake",Alloy Magazine,"Repulsor Brace
 Withering Gaze","Destabilizing Rounds
-Master of Arms",Gun and Run,"best general combo, also has Withering access",6,A
-,Positive Outlook,29,Void,Precision,59,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
+Master of Arms",Gun and Run,"better archetype than normal Reckless Oracle, but origin trait is pretty mediocre",5,S
+,Reghusk's Pledge,28,Void,Rapid,,53,Yes,"Fluted Barrel
+Arrowhead Brake",Alloy Magazine,"Destabilizing Rounds
+Impromptu Ammunition","Repulsor Brace
+Attrition Orbs
+Golden Tricorn",Skulking Wolf,basically Reckless with a few extra perks and a different origin,6,S
+,Positive Outlook,29,Void,Precision,,59,Yes,"Fluted Barrel
+Arrowhead Brake","High-Caliber Rounds
 Alloy Magazine","Repulsor Brace
 Withering Gaze","Destabilizing Rounds
-Mega Kill Clip",Accelerated Assault,"classic void combo, Withering access, good origin",7,A
-,Arctic Haze,29,Solar,Rapid,50,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
-Alloy Magazine","Incandescent
-Heal Clip
-Demolitionist","Burning Ambition
-Frenzy",Winterized Gear,"solid double splash, just a disappointing origin",8,A
-,The Ringing Nail,29,Solar,Precision,50,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
+Mega Kill Clip",Accelerated Assault,"one of the less favorable auto archetypes, but perk combos are solid and origin trait is pretty decent",7,S
+,Age-Old Bond,29,Void,High-Impact,,49,Yes,"Fluted Barrel
+Arrowhead Brake",Alloy Magazine,"Repulsor Brace
+Meganeura",Destabilizing Rounds,Explosive Pact,"solid archetype, classic void combo, has double splash access, no High-Cal and terrible origin",8,S
+,Reckless Oracle,29,Void,Rapid,,54,Yes,"Fluted Barrel
+Arrowhead Brake","High-Caliber Rounds
+Alloy Magazine","Destabilizing Rounds
+Dimensional Shift",Repulsor Brace,Photoinhibition,"very solid void auto overall, not best archetype but has core perks",9,S
+,The Riposte,29,Void,Lightweight,,57,Yes,"Fluted Barrel
+Arrowhead Brake","High-Caliber Rounds
+Alloy Magazine","Repulsor Brace
+Dimensional Shift
+Demoralize","Destabilizing Rounds
+Desperate Measures",None,"great perk pairing and archetype, just no origin",10,S
+,Abyss Defiant,29,Solar,High-Impact,,52,Yes,"Fluted Barrel
+Arrowhead Brake",High-Caliber Rounds,"Burning Ambition
+Heal Clip",Incandescent,Cursed Thrall,"High-Caliber + Unstoppable intrinsic access, good solar double splash, solid origin",11,A
+,Scathelocke,29,Kinetic,Adaptive,,50,Yes,"Fluted Barrel
+Arrowhead Brake",Alloy Magazine,"Attrition Orbs
+Shoot to Loot","Kinetic Tremors
+Ancillary Ordinance",Veteran's Wisdom,"very strong origin trait in context, class kinetic combo, best archetype",12,A
+,Pluperfect,29,Kinetic,High-Impact,,50,Yes,"Fluted Barrel
+Arrowhead Brake",High-Caliber Rounds,Stopping Power,"Kinetic Tremors
+Rampage",Fail-deadly,"combines all four possible stagger modifiers, otherwise still pretty good: frame, 2nd column, origin",13,A
+,The Ringing Nail,29,Solar,Precision,,50,Yes,"Fluted Barrel
+Arrowhead Brake","High-Caliber Rounds
 Alloy Magazine","Incandescent
 Heal Clip
 Impromptu Ammunition","Burning Ambition
 Firefly
-Onslaught",Forge's Kin,"great ignition auto, but mediocre frame and origin",9,A
-,Zealous Ideal,28,Solar,Balanced (450RPM),58,Yes,"Fluted Barrel
-Arrowhead Brake","Light Heatsink
-Overclocked Heatsink","Heal Clip
-Attrition Orbs","Incandescent
-Burning Ambition",Imperial Allegiance,"similar to Ahab Char, has Incandescent/Attrition/blaster access though",10,A
-,Reghusk's Pledge,28,Void,Rapid,53,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
-Alloy Magazine","Destabilizing Rounds
-Demoralize","Repulsor Brace
-Golden Tricorn
-Attrition Orbs",Skulking Wolf,basically Reckless with a few extra perks and a different origin,11,A
-,Abyss Defiant,29,Solar,High-Impact,52,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
-Alloy Magazine","Heal Clip
-Burning Ambition",Incandescent,Cursed Thrall,excellent origin and solid perks held back by frame,12,A
-,The Summoner,29,Solar,Adaptive,51,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
+Onslaught",Forge's Kin,worse damage profile than Arctic Haze but has better origin trait and breaker access,14,A
+,VS Pyroelectric Propellant,29,Arc,Adaptive,,50,Yes,"Fluted Barrel
+Arrowhead Brake","High-Caliber Rounds
+Alloy Magazine",Attrition Orbs,"Jolting Feedback
+Gear Shift",Bray Legacy,"excellent archetype, origin, splash access, just not as lethal as some surrounding options",15,A
+,Seventh Seraph Carbine,29,Kinetic,Precision,,51,Yes,"Fluted Barrel
+Arrowhead Brake",Seraph Rounds,"Attrition Orbs
+Stopping Power","Kinetic Tremors
+Ancillary Ordinance",Eyes Up,"Seraph Rounds access, solid kinetic combos, decent origin, alright frame",16,A
+,Chrysura Melo,29,Arc,Support,,48,Yes,Full Bore,Accurized Rounds,"Physic
+Jolting Feedback","Voltshot
+Attrition Orbs",Ignoble Deeds,"only legendary access to Amplified without subclass, also has double splash on decent frame",17,A
+,The Summoner,29,Solar,Adaptive,,51,Yes,"Fluted Barrel
+Arrowhead Brake","High-Caliber Rounds
 Alloy Magazine",Heal Clip,"Incandescent
-Burning Ambition",Wild Card,solid origin and perks with better archetype than Abyss,13,A
-,The Riposte,29,Void,Lightweight,57,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
-Alloy Magazine","Repulsor Brace
-Dimensional Shift
-Demoralize","Destabilizing Rounds
-Desperate Measures",None,"great perk pairing and archetype, just no origin",14,A
-,Scathelocke,29,Kinetic,Adaptive,50,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
-Alloy Magazine","Attrition Orbs
-Shoot to Loot","Kinetic Tremors
-Ancillary Ordinance",Veteran's Wisdom,"great origin for use case, classic kinetic combo",15,A
-,Everburning Glitz,27,Kinetic,Rapid,54,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
+Burning Ambition",Wild Card,lacks double splash but otherwise excellent all around for a solar auto,18,A
+,Everburning Glitz,27,Kinetic,Rapid,,54,Yes,"Fluted Barrel
+Arrowhead Brake","High-Caliber Rounds
 Alloy Magazine","Attrition Orbs
 Bewildering Burst","Kinetic Tremors
-Ancillary Ordinance",Fleet Footed,"perks need playtime, but general package looks great",16,A
-,VS Pyroelectric Propellant,29,Arc,Adaptive,50,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
-Alloy Magazine","Attrition Orbs
-Eddy Current
-Strategist","Jolting Feedback
-Gear Shift",Bray Legacy,"one of the best Jolting users, great utility and origin",17,A
-,Chroma Rush,29,Kinetic,Rapid,54,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
-Alloy Magazine","Bewildering Burst
-Stopping Power","Kinetic Tremors
-Ancillary Ordinance
-All-Star",Splicer Surge,"class kinetic combos, okay origin, good frame",18,A
-,Snipehunt Mk. 47,29,Arc,Lightweight,48,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
+Ancillary Ordinance",Fleet Footed,"decent orb generator, solid archetype, but definitely a downgrade from Scathelocke",19,A
+,Snipehunt Mk. 47,29,Arc,Lightweight,,48,Yes,"Fluted Barrel
+Arrowhead Brake","High-Caliber Rounds
 Alloy Magazine",Jolting Feedback,"Chaos Reshaped
 Voltshot
-Attrition Orbs",Featherweight,"worse origin than Pyroelectric, but has Chaos",19,A
-,Adamantite,29,Strand,Support,54,Yes,Full Bore,Accurized Rounds,"Reciprocity
-Demolitionist","Hatchling
+Attrition Orbs",Tex Balanced Stock,"double splash on arc is not that strong, JF + Chaos is unique, origin is pretty mediocre",20,A
+,Arctic Haze,29,Solar,Rapid,,50,Yes,"Fluted Barrel
+Arrowhead Brake",Alloy Magazine,"Incandescent
+Heal Clip","Burning Ambition
+Rampage",Winterized Gear,"decent archetype and double solar splash, weaker than void options though",21,A
+,Origin Story,29,Kinetic,Precision,,47,Yes,"Fluted Barrel
+Arrowhead Brake","High-Caliber Rounds
+Alloy Magazine",Attrition Orbs,Kinetic Tremors,Vanguard Determination,"classic AO + KT combo, decent archetype, alright origin",22,B
+,Tigerspite,29,Kinetic,Precision,,49,Yes,"Fluted Barrel
+Arrowhead Brake","High-Caliber Rounds
+Alloy Magazine","Bewildering Burst
+Stopping Power
+Shoot to Loot",Kinetic Tremors,Advanced Reflexes,"similar to Chroma Rush with barrier access archetype, similar origin, High-Cal access",23,B
+,Chroma Rush,29,Kinetic,Rapid,,54,Yes,"Fluted Barrel
+Arrowhead Brake",Alloy Magazine,"Bewildering Burst
+Stopping Power","Kinetic Tremors
+Ancillary Ordinance",Splicer Surge,"decent archetype, mediocre origin, no Attrition Orbs, lacking some things",24,B
+,Zealous Ideal,28,Solar,Balanced (450RPM),,58,Yes,"Fluted Barrel
+Arrowhead Brake",Enhanced Heatsink,"Heal Clip
+Attrition Orbs","Incandescent
+Burning Ambition",Imperial Allegiance,"lacks double splash, archetype is okay, origin trait isn't that great",25,B
+,Intercalary,27,Stasis,Adaptive,,57,Yes,"Fluted Barrel
+Arrowhead Brake","High-Caliber Rounds
+Alloy Magazine",Headstone,"Desperate Measures
+Rimestealer
+One for All",Frame of Reference,"best archetype, High-Cal access, splash + single target",26,B
+,Ros Arago IV,23,Void,Adaptive,,54,Yes,"Fluted Barrel
+Arrowhead Brake",Alloy Magazine,Repulsor Brace,"Onslaught
+Attrition Orbs
+Golden Tricorn",Wild Card,"would be pretty good with Destabilizing access, good frame, great origin",27,B
+,Adamantite,29,Strand,Support,,54,Yes,Full Bore,Accurized Rounds,"Reciprocity
+Redirection","Hatchling
+Tear",Heretical Behavior,"Physic is sadly useless, completely overshadowed by DECATUR",28,B
+,The Forward Path,29,Strand,Adaptive,,60,Yes,"Fluted Barrel
+Arrowhead Brake","Flared Magwell
+Alloy Magazine",Slice,"Tear
+Hatchling",Skulking Wolf,"decent strand auto, best archetype, good origin, decent strand perks",29,B
+,Lethal Abundance,29,Strand,High-Impact,,51,Yes,"Fluted Barrel
+Arrowhead Brake","Flared Magwell
+Alloy Magazine","Tear
+Slice","Hatchling
 Desperate Measures
-Tear",Heretical Behavior,"Physic is sadly useless, completely overshadowed by DECATUR",20,B
-,Age-Old Bond,29,Void,High-Impact,49,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
-Alloy Magazine","Repulsor Brace
-Meganeura",Destabilizing Rounds,Explosive Pact,"classic Void combo, just bad frame and mediocre origin",21,B
-,Seventh Seraph Carbine,29,Kinetic,Precision,51,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
-Alloy Magazine","Attrition Orbs
-Stopping Power
-Enlightened Action","Kinetic Tremors
-Ancillary Ordinance",Eyes Up,Everburning Glitz but worse frame,22,B
-,Giver's Blessing,27,Kinetic,Rapid,57,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
-Alloy Magazine","Rewind Rounds
-Shoot to Loot
-Impromptu Ammunition",Kinetic Tremors,Exhaustive Research,would be excellent with Attrition Orbs but still great,23,B
-,Pluperfect,29,Kinetic,High-Impact,50,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
-Alloy Magazine","Stopping Power
-Demolitionist
-Rewind Rounds","Kinetic Tremors
-All-Star",Fail-deadly,worse archetype than Giver's Blessing but Stopping Power option,24,B
-,Steelfeather Repeater,29,Kinetic,Rapid,53,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
-Alloy Magazine","Bewildering Burst
-Proximity Power",Ancillary Ordinance,Cast No Shadows,"awful perks outside of kinetic combo, origin not great on weapon type",25,B
-,Chrysura Melo,29,Arc,Support,48,Yes,Full Bore,Accurized Rounds,"Physic
-Impulse Amplifier
-Jolting Feedback","Voltshot
-Attrition Orbs
-Rolling Storm",Ignoble Deeds,"Amplified, sustain worst of all support autos, good add clear though",26,B
+One for All",Skulking Wolf,bad frame + good 1st column + okay 2nd column,30,B
+,Rufus's Fury,29,Strand,Rapid,,60,Yes,"Fluted Barrel
+Arrowhead Brake","High-Caliber Rounds
+Alloy Magazine",Slice,"Chaos Reshaped
+Hatchling",Harmonic Resonance,"good single target-focused auto, otherwise not very good",31,B
+,Auric Disabler,27,Strand,Precision,,50,Yes,"Fluted Barrel
+Arrowhead Brake","High-Caliber Rounds
+Alloy Magazine","Hatchling
+Slice","Tear
+Desperate Measures
+Onslaught",Omolon Fluid Dynamics,splash + damage option but relatively weak vs. B tier options,32,C
+,Trendsetter,29,Arc,Adaptive,,60,Yes,"Fluted Barrel
+Arrowhead Brake",Alloy Magazine,"Supercharged Magazine
+Light Touch","Jolting Feedback
+Rolling Storm
+Gear Shift","Nail, Meet Hammer","best archetype but very mediocre 1st column, arc splash is underwhelming, niche origin",33,C
+,Come to Pass,29,Arc,High-Impact,,54,Yes,"Fluted Barrel
+Arrowhead Brake",Alloy Magazine,"Supercharged Magazine
+Shoot to Loot",Jolting Feedback,Psychohack,"great origin and archetype, no double stagger combo and mediocre 1st column",34,C
 ,"Prosecutor
-RotN version",26,Arc,Precision,60,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
-Alloy Magazine","Dragonfly
-Attrition Orbs
-Eddy Current","Voltshot
-Rolling Storm",Gravity Well,"double splash options vs. Pyroelectric, but worse frame",27,B
-,Arc Logic,29,Arc,Adaptive,49,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
-Alloy Magazine","Rolling Storm
-Demolitionist","Jolting Feedback
-Gear Shift
-Master of Arms
-",Loss,"decent double damage/splash option, good roam perks",28,B
-,Trendsetter,29,Arc,Adaptive,60,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
-Alloy Magazine","Trickle Charge
-Light Touch
-Ambitious Assassin","Jolting Feedback
-Rolling Storm","Nail, Meet Hammer","okay frame, no real utility perks, but has Jolting",29,B
-,Origin Story,29,Kinetic,Precision,47,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
+RotN version",26,Arc,Precision,,60,Yes,"Fluted Barrel
+Arrowhead Brake","High-Caliber Rounds
 Alloy Magazine","Attrition Orbs
-Demolitionist","Kinetic Tremors
-Onslaught",Vanguard Determination,solid perk combo but mediocre frame and bad origin,30,B
-,Tigerspite,29,Kinetic,Precision,49,Yes,"Fluted Barrel
+Dragonfly",Voltshot,Gravity Well,"mediocre double splash, okay archetype, Gravity Well access",35,C
+,Shadow Price,29,Arc,Precision,,48,Yes,"Fluted Barrel
 Arrowhead Brake","Flared Magwell
-Alloy Magazine","Bewildering Burst
-Stopping Power
-Shoot to Loot","Kinetic Tremors
-All-Star
-Onslaught",Advanced Reflexes,no AO but decent utility in 1st instead,31,B
-,Duty Bound,28,Kinetic,Adaptive,58,Yes,"Fluted Barrel
+Alloy Magazine",Attrition Orbs,Voltshot,Vanguard Determination,"AO + Voltshot, alright origin, okay frame",36,C
+,Sorrow's Verse,29,Arc,Adaptive,,49,Yes,"Fluted Barrel
 Arrowhead Brake","Flared Magwell
-Alloy Magazine","Bewildering Burst
-Stopping Power
-Enlightened Action","Rampage
-Onslaught",Accelerated Assault,lower utility than AO+KT but post-buff Rampage isn't bad with Bewildering,32,B
-,Breakneck,29,Kinetic,Precision,45,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
-Alloy Magazine","Enlightened Action
-Shoot to Loot
-Pugilist","Kinetic Tremors
-Onslaught
-Attrition Orbs",Gun and Run,solid reload perk + KT but no Attrition and mediocre origin + frame,33,B
-,Braytech Werewolf,25,Kinetic,Precision,55,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
-Alloy Magazine","Rewind Rounds
-Pugilist","Kinetic Tremors
-Onslaught",Search Party,Rewind + KT but bad origin and okay frame,34,B
-,Shadow Price,29,Arc,Precision,48,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
-Alloy Magazine","Attrition Orbs
-Stats for All","Voltshot
-One for All",Vanguard Determination,Attrition + Voltshot pairing but nothing else special,35,B
-,Veiled Threat,29,Stasis,Rapid,54,Yes,"Fluted Barrel
+Alloy Magazine","Recycled Energy
+Rewind Rounds",Voltshot,Accelerated Assault,"best frame, no double splash, good origin",37,C
+,Veiled Threat,29,Stasis,Rapid,,54,Yes,"Fluted Barrel
 Arrowhead Brake","Flared Magwell
 Alloy Magazine","Attrition Orbs
 Shoot to Loot","Headstone
-Desperate Measures",Radiolaria Transposer,Attrition + Headstone + great origin + frame but sadly stasis,36,B
-,Intercalary,27,Stasis,Adaptive,57,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
-Alloy Magazine",Headstone,"Desperate Measures
-One for All
-Onslaught",Frame of Reference,worse overall vs. Veiled despite offering splash + damage combo,37,B
-,Prosecutor,29,Arc,Precision,60,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
+Desperate Measures",Radiolaria Transposer,Attrition + Headstone + great origin + frame but sadly stasis,38,C
+,Prosecutor,29,Arc,Precision,,60,Yes,"Fluted Barrel
+Arrowhead Brake","High-Caliber Rounds
 Alloy Magazine","Dragonfly
 Enlightened Action","Voltshot
-Rolling Storm
-Gear Shift",Crossing Over,mediocre perk columns,38,B
-,The Forward Path,29,Strand,Adaptive,60,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
-Alloy Magazine","Slice
-Demolitionist","Tear
-Hatchling",Skulking Wolf,"good survivability auto, solid origin too",39,C
-,Ammit AR2,29,Solar,Precision,48,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
-Alloy Magazine","Stats for All
-Turnabout","Incandescent
-One for All
-Adaptive Munitions",Omolon Fluid Dynamics,Incandescent vs. Destab on Positive Outlook,40,C
-,Auric Disabler,27,Strand,Precision,50,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
-Alloy Magazine","Dragonfly
-Hatchling
-Slice","Desperate Measures
-Tear
-Onslaught",Omolon Fluid Dynamics,splash + damage option but relatively weak vs. B tier options,41,C
-,Ahab Char,27,Solar,Rapid,52,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
-Alloy Magazine","Heal Clip
-Proximity Power
-Recycled Energy","Burning Ambition
-Binary Orbit
-Kill Clip",Bray Legacy,"solid overall package, just missing solid splash perk in 2nd column",42,C
-,Fair Judgment,29,Stasis,Precision,51,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
-Alloy Magazine","Rimestealer
-Deconstruct",Headstone,Vanguard Determination,classic Stasis combo but mediocre frame,43,C
-,Lethal Abundance,29,Strand,High-Impact,51,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
-Alloy Magazine","Slice
-Tear
-Enlightened Action","Hatchling
-Desperate Measures",Skulking Wolf,bad frame + good 1st column + okay 2nd column,44,C
-,Rufus's Fury,29,Strand,Rapid,60,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
-Alloy Magazine","Slice
-Rewind Rounds","Chaos Reshaped
-Hatchling",Harmonic Resonance,"good single target-focused auto, otherwise not very good",45,C
-,Sorrow's Verse,29,Arc,Adaptive,49,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
+Gear Shift",Crossing Over,"mediocre double splash, okay archetype, no Gravity Well",39,C
+,Ahab Char,27,Solar,Rapid,,52,Yes,"Fluted Barrel
+Arrowhead Brake","High-Caliber Rounds
+Alloy Magazine",Heal Clip,Burning Ambition,Bray Legacy,"solid overall package, just missing solid splash perk in 2nd column",40,C
+,Arc Logic,29,Arc,Adaptive,,49,Yes,"Fluted Barrel
+Arrowhead Brake",Alloy Magazine,"Rolling Storm
+Supercharged Magazine","Jolting Feedback
+Gear Shift",Loss,"disappointing 1st column, decent 2nd column, bad origin, good archetype",41,C
+,Giver's Blessing,27,Kinetic,Rapid,,57,Yes,"Fluted Barrel
+Arrowhead Brake","High-Caliber Rounds
 Alloy Magazine","Rewind Rounds
-Recycled Energy",Voltshot,Accelerated Assault,good reload support and origin but not very potent,46,C
-,Krait,16,Stasis,Rapid,45,No,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
-Alloy Magazine","Stats for All
-Auto-Loading Holster
-Subsistence","Headstone
-One for All",Veist Stinger,"decent Headstone auto, just missing utility perk",47,C
-,Horror Story,29,Stasis,Precision,47,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
+Shoot to Loot
+Impromptu Ammunition",Kinetic Tremors,Exhaustive Research,"very disappointing first column, decent archetype, origin trait usually not great",42,C
+,Breakneck,29,Kinetic,Precision,,45,Yes,"Fluted Barrel
+Arrowhead Brake","High-Caliber Rounds
 Alloy Magazine","Enlightened Action
-Demolitionist
-Under-Over","Headstone
-Frenzy",Nadir Focus,similar to Fair Judgment but not enhanceable,48,C
-,False Promises,26,Stasis,High-Impact,54,Yes,"Fluted Barrel
+Shoot to Loot",Kinetic Tremors,Gun and Run,"decent archetype but nothing good to pair with KT, origin not very good either",43,C
+,Braytech Werewolf,25,Kinetic,Precision,,55,Yes,"Fluted Barrel
+Arrowhead Brake","High-Caliber Rounds
+Alloy Magazine","Rewind Rounds
+Pugilist",Kinetic Tremors,Search Party,basically Breakneck but worse,44,C
+,Fair Judgment,29,Stasis,Precision,,51,Yes,"Fluted Barrel
+Arrowhead Brake","High-Caliber Rounds
+Alloy Magazine","Rimestealer
+Deconstruct",Headstone,Vanguard Determination,"mediocre Headstone auto, nothing special about frame or origin",45,D
+,Steelfeather Repeater,29,Kinetic,Rapid,,53,Yes,"Fluted Barrel
+Arrowhead Brake","High-Caliber Rounds
+Alloy Magazine",Bewildering Burst,Ancillary Ordinance,Cast No Shadows,"awful perks outside of kinetic combo, origin not great on weapon type",46,D
+,Old Sterling,21,Strand,Adaptive,,54,Yes,"Fluted Barrel
 Arrowhead Brake","Flared Magwell
-Alloy Magazine",Enlightened Action,Headstone,Paracausal Fluid,similar to Fair Judgment but worse frame,49,C
-,Herod-C,29,Stasis,High-Impact,51,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
+Alloy Magazine",Rewind Rounds,Hatchling,Field-Tested,"best frame, terrible 1st column, decent origin",47,D
+,Herod-C,29,Stasis,High-Impact,,51,Yes,"Fluted Barrel
+Arrowhead Brake","High-Caliber Rounds
 Alloy Magazine","Shoot to Loot
-Stats for All
-Auto-Loading Holster","Headstone
-One for All
-Frenzy",Häkke Breach Armaments,similar to False Promises but not enhanceable and worse reload perk,50,C
-,Dark Decider,20,Arc,Rapid,54,No,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
+Stats for All",Headstone,Häkke Breach Armaments,"has stagger combo access, unremarkable stasis auto, good frame",48,D
+,False Promises,26,Stasis,High-Impact,,54,Yes,"Fluted Barrel
+Arrowhead Brake","High-Caliber Rounds
+Alloy Magazine",Enlightened Action,Headstone,Paracausal Fluid,"has High-Cal + high-impact stagger combo, otherwise very mediocre",49,D
+,Duty Bound,28,Kinetic,Adaptive,,58,Yes,"Fluted Barrel
+Arrowhead Brake",Alloy Magazine,"Bewildering Burst
+Stopping Power","Rampage
+Onslaught",Accelerated Assault,"no KT or Ancillary, no AO access, good archetype and origin but really lacking in perks",50,D
+,Dark Decider,20,Arc,Rapid,,54,No,"Fluted Barrel
+Arrowhead Brake","High-Caliber Rounds
 Alloy Magazine","Auto-Loading Holster
-Subsistence","Voltshot
-Dragonfly",Veist Stinger,weird 1st column + Voltshot anti-synergy,51,C
-,Come to Pass,29,Arc,High-Impact,54,Yes,"Fluted Barrel
+Subsistence",Voltshot,Skulking Wolf,"awful 1st column, okay frame, good origin, pretty bad overall",51,D
+,Coronach-22,20,Solar,Adaptive,,51,No,"Fluted Barrel
+Arrowhead Brake","High-Caliber Rounds
+Alloy Magazine",Feeding Frenzy,Incandescent,Suros Synergy,Incandescent is the only redeeming quality,52,D
+,Horror Story,29,Stasis,Precision,,47,Yes,"Fluted Barrel
+Arrowhead Brake",Alloy Magazine,"Demolitionist
+Enlightened Action",Headstone,Nadir Focus,"decent archetype, bad 1st column, bad origin",53,D
+,Krait,16,Stasis,Rapid,,45,No,"Fluted Barrel
+Arrowhead Brake","High-Caliber Rounds
+Alloy Magazine",Stats for All,Headstone,Veist Stinger,"terrible 1st column, okay frame and origin, nothing special",54,D
+,Perpetualis,29,Strand,Adaptive,,54,Yes,"Fluted Barrel
 Arrowhead Brake","Flared Magwell
-Alloy Magazine","Trickle Charge
-Shoot to Loot","Jolting Feedback
-Rolling Storm",Psychohack,solid origin but bad frame and okay 2nd column,52,C
-,Ros Arago IV,23,Void,Adaptive,54,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
-Alloy Magazine","Repulsor Brace
-Rewind Rounds","Onslaught
-Attrition Orbs",Wild Card,would be pretty good with Destabilizing access,53,C
-,Coronach-22,20,Solar,Adaptive,51,No,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
-Alloy Magazine",Feeding Frenzy,Incandescent,Suros Synergy,worst Incandescent auto,54,C
-,Old Sterling,21,Strand,Adaptive,54,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
-Alloy Magazine",Rewind Rounds,"Frenzy
-Hatchling",Field-Tested,similar to Rufus's Fury but worse archetype and no Demo in 1st column,55,D
-,Sweet Sorrow,29,Arc,Rapid,53,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
-Alloy Magazine","Stats for All
-Auto-Loading Holster",One for All,Land Tank,"SFA + OFA combo on good frame and origin, no splash available",56,D
-,The Last Breath,15,Kinetic,Adaptive,52,No,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
-Alloy Magazine","Demolitionist
-Subsistence","Frenzy
-One for All",None,consistency-focused single target perks,57,D
-,Perpetualis,29,Strand,Adaptive,54,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
-Alloy Magazine",Keep Away,"Hatchling
-Golden Tricorn",Noble Deeds,outdated reload perks + mediocre splash,58,E
-,Lodbrok-C,19,Kinetic,High-Impact,46,No,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
+Alloy Magazine",Envious Assassin,Hatchling,Noble Deeds,"terrible 1st column, mediocre splash, middling origin, good frame",55,D
+,Ammit AR2,29,Solar,Precision,,48,Yes,"Fluted Barrel
+Arrowhead Brake","High-Caliber Rounds
+Alloy Magazine","Ambitious Assassin
+Stats for All","Incandescent
+One for All",Omolon Fluid Dynamics,worst Incandescent auto,56,D
+,Lodbrok-C,19,Kinetic,High-Impact,,46,No,"Fluted Barrel
+Arrowhead Brake","High-Caliber Rounds
 Alloy Magazine",Demolitionist,"Kill Clip
-Adrenaline Junkie",Häkke Breach Armaments,bad frame + outdated perks,59,F
-,Firefright,29,Kinetic,Precision,54,Yes,"Fluted Barrel
+Adrenaline Junkie",Häkke Breach Armaments,"completely outdated, technically has double stagger combo though",59,E
+,Sweet Sorrow,29,Arc,Rapid,,53,Yes,"Fluted Barrel
 Arrowhead Brake","Flared Magwell
-Alloy Magazine",Threat Detector,Surrounded,Extrovert,Surrounded on an auto,60,F
-,The Number,14,Arc,Precision,60,No,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
-Alloy Magazine","Field Prep
-Surplus",One for All,None,weird reload perks + OFA not great especially with no pairing,61,F
+Alloy Magazine",Stats for All,One for All,Land Tank,"no splash whatsoever, great origin and decent archetype but everything else is terrible",57,E
+,The Last Breath,15,Kinetic,Adaptive,,52,No,"Fluted Barrel
+Arrowhead Brake","High-Caliber Rounds
+Alloy Magazine",Demolitionist,"Frenzy
+One for All",None,"extremely outdated perk pool, good frame but not even close to redeemable",58,E
+,Firefright,29,Kinetic,Precision,,54,Yes,"Fluted Barrel
+Arrowhead Brake","High-Caliber Rounds
+Alloy Magazine",Threat Detector,Surrounded,Extrovert,garbage all around except origin trait,60,E
+,The Number,14,Arc,Precision,,60,No,"Fluted Barrel
+Arrowhead Brake","High-Caliber Rounds
+Alloy Magazine",Field Prep,One for All,None,Field Prep technically gives ammo gen but besides that completely irredeemable,61,E
