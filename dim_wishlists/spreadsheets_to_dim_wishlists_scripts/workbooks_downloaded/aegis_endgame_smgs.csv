@@ -38,7 +38,7 @@ Stopping Power
 Shoot to Loot","Kinetic Tremors
 Bewildering Burst
 Firefly",None,worse AO procs and ammo gen than Multimach for better damage,6,S
-,MIDA Mini-Tool,27,Solar,MIDA Synergy,Tenet of Bravery,,70,Yes,"Fluted Barrel
+,MIDA Mini-Tool,27,Solar,MIDA Synergy,"Tenet of Bravery, Banshee",,70,Yes,"Fluted Barrel
 Arrowhead Brake","Flared Magwell
 Alloy Magazine","Heal Clip
 Attrition Orbs
@@ -160,7 +160,7 @@ Alloy Magazine","Threat Detector
 Grave Robber
 Unrelenting","Incandescent
 Surrounded",To Excess,"decent Incandescent pick, nothing special though",31,B
-,Seraphine Haze,27,Stasis,Aggressive,Pinnacle Ops,,36,Yes,"Fluted Barrel
+,Seraphine Haze,27,Stasis,Aggressive,"Tenet of Bravery, Zavala",,36,Yes,"Fluted Barrel
 Arrowhead Brake","Flared Magwell
 Alloy Magazine","Rimestealer
 Lead from Light
@@ -185,7 +185,7 @@ Arrowhead Brake","Flared Magwell
 Alloy Magazine","Grave Robber
 Overflow","Kinetic Tremors
 Swashbuckler",Vanguard's Vindication,Multimach with worse perks and origin and not enhanceable,36,C
-,Qua Nilus II,27,Strand,Adaptive,Zavala,,50,Yes,"Fluted Barrel
+,Qua Nilus II,27,Strand,Adaptive,"Tenet of Bravery, Zavala",,50,Yes,"Fluted Barrel
 Arrowhead Brake","Flared Magwell
 Alloy Magazine","Slice
 Proximity Power","Hatchling
@@ -210,7 +210,7 @@ Alloy Magazine","Grave Robber
 Pugilist","Headstone
 Swashbuckler
 Frenzy",Right Hook,"melee options paired with Headstone, nothing special",41,D
-,Cold Front,23,Kinetic,Aggressive,Dawning,,34,No,"Fluted Barrel
+,Cold Front,23,Kinetic,Aggressive,?,,34,No,"Fluted Barrel
 Arrowhead Brake","Flared Magwell
 Alloy Magazine","Enlightened Action
 Rewind Rounds
@@ -262,7 +262,7 @@ Ambitious Assassin",Swashbuckler,Suros Synergy,bad reload perks and Swash on dec
 ,Enyo-D,17,Kinetic,Precision,Banshee,,24,No,"Fluted Barrel
 Arrowhead Brake","Flared Magwell
 Alloy Magazine",Feeding Frenzy,Surrounded,Häkke Breach Armaments,bad reload perk on bad frame,52,F
-,Friction Fire,12,Kinetic,Precision,Xur,,22,No,"Fluted Barrel
+,Friction Fire,12,Kinetic,Precision,"Xur, Dares",,22,No,"Fluted Barrel
 Arrowhead Brake","Flared Magwell
 Alloy Magazine","Threat Detector
 Auto-Loading Holster","Rampage

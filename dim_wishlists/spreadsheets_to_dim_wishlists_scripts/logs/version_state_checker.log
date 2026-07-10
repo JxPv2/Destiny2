@@ -5960,3 +5960,61 @@
     2026-07-09 17:48:48,097 [INFO] -> 🟩 UP TO DATE [GID 1087089423]: Specifications data lines for sheet component 'Exotic Armor (ignore)' match cache records perfectly.
   2026-07-09 17:48:48,098 [INFO] -> ================================================================================
   2026-07-09 17:48:48,098 [INFO] -> Synchronization check complete. Pipeline gating flags successfully set.
+2026-07-10 02:05:23,436 [INFO] -> ================================================================================
+2026-07-10 02:05:23,436 [INFO] -> 🚀 Starting version check and synchronization loop...
+2026-07-10 02:05:23,436 [INFO] -> ================================================================================
+  2026-07-10 02:05:23,449 [INFO] -> Checking live Destiny 2 Manifest version from Bungie...
+    2026-07-10 02:05:23,449 [INFO] -> Requesting live Bungie Manifest version (Attempt 1/3)...
+    2026-07-10 02:05:23,604 [INFO] -> 🟩 Up to date: Bungie Manifest version matches local cache. No structural compilation changes needed.
+  2026-07-10 02:05:23,604 [INFO] -> Processing spreadsheet engine resource target profile: 'aegis_boss-damage'
+    2026-07-10 02:05:24,000 [INFO] -> 🟩 UP TO DATE [GID 639621230]: Specifications data lines for sheet component 'Equipment (WIP)' match cache records perfectly.
+    2026-07-10 02:05:24,036 [INFO] -> 🟩 UP TO DATE [GID 1268483240]: Specifications data lines for sheet component 'Changelog' match cache records perfectly.
+  2026-07-10 02:05:24,036 [INFO] -> Processing spreadsheet engine resource target profile: 'aegis_speedrunner'
+    2026-07-10 02:05:24,836 [INFO] -> 🟩 UP TO DATE [GID 0]: Specifications data lines for sheet component 'Weapons' match cache records perfectly.
+  2026-07-10 02:05:24,837 [INFO] -> Processing spreadsheet engine resource target profile: 'aegis_endgame'
+    2026-07-10 02:05:25,222 [INFO] -> 🟩 UP TO DATE [GID 1062099834]: Specifications data lines for sheet component 'Shopping List' match cache records perfectly.
+    2026-07-10 02:05:25,240 [INFO] -> 🚨 UPDATE DETECTED [GID 1890042119]: Content mutated for tracking tab row object 'Autos' inside workbook profile 'aegis_endgame'.
+    2026-07-10 02:05:25,240 [INFO] -> 💾 Delimited flat data text structure stream written safely down to disk layout target space: workbooks_downloaded/aegis_endgame_autos.csv
+    2026-07-10 02:05:25,247 [INFO] -> 🚨 UPDATE DETECTED [GID 346832350]: Content mutated for tracking tab row object 'Status' inside workbook profile 'aegis_endgame'.
+    2026-07-10 02:05:25,248 [INFO] -> 💾 Delimited flat data text structure stream written safely down to disk layout target space: workbooks_downloaded/aegis_endgame_status.csv
+    2026-07-10 02:05:25,270 [INFO] -> 🟩 UP TO DATE [GID 1439671777]: Specifications data lines for sheet component 'Changelog' match cache records perfectly.
+    2026-07-10 02:05:25,514 [INFO] -> 🚨 UPDATE DETECTED [GID 324500912]: Content mutated for tracking tab row object 'Bows' inside workbook profile 'aegis_endgame'.
+    2026-07-10 02:05:25,515 [INFO] -> 💾 Delimited flat data text structure stream written safely down to disk layout target space: workbooks_downloaded/aegis_endgame_bows.csv
+    2026-07-10 02:05:25,614 [INFO] -> 🚨 UPDATE DETECTED [GID 946843299]: Content mutated for tracking tab row object 'Scouts' inside workbook profile 'aegis_endgame'.
+    2026-07-10 02:05:25,615 [INFO] -> 💾 Delimited flat data text structure stream written safely down to disk layout target space: workbooks_downloaded/aegis_endgame_scouts.csv
+    2026-07-10 02:05:25,628 [INFO] -> 🚨 UPDATE DETECTED [GID 1712537582]: Content mutated for tracking tab row object 'Pulses' inside workbook profile 'aegis_endgame'.
+    2026-07-10 02:05:25,629 [INFO] -> 💾 Delimited flat data text structure stream written safely down to disk layout target space: workbooks_downloaded/aegis_endgame_pulses.csv
+    2026-07-10 02:05:25,636 [INFO] -> 🚨 UPDATE DETECTED [GID 1315046624]: Content mutated for tracking tab row object 'HCs' inside workbook profile 'aegis_endgame'.
+    2026-07-10 02:05:25,637 [INFO] -> 💾 Delimited flat data text structure stream written safely down to disk layout target space: workbooks_downloaded/aegis_endgame_hcs.csv
+    2026-07-10 02:05:25,845 [INFO] -> 🚨 UPDATE DETECTED [GID 1594008157]: Content mutated for tracking tab row object 'Sidearms' inside workbook profile 'aegis_endgame'.
+    2026-07-10 02:05:25,846 [INFO] -> 💾 Delimited flat data text structure stream written safely down to disk layout target space: workbooks_downloaded/aegis_endgame_sidearms.csv
+    2026-07-10 02:05:25,919 [INFO] -> 🚨 UPDATE DETECTED [GID 1405969509]: Content mutated for tracking tab row object 'SMGs' inside workbook profile 'aegis_endgame'.
+    2026-07-10 02:05:25,920 [INFO] -> 💾 Delimited flat data text structure stream written safely down to disk layout target space: workbooks_downloaded/aegis_endgame_smgs.csv
+    2026-07-10 02:05:25,974 [INFO] -> 🚨 UPDATE DETECTED [GID 1318165198]: Content mutated for tracking tab row object 'Fusions' inside workbook profile 'aegis_endgame'.
+    2026-07-10 02:05:25,975 [INFO] -> 💾 Delimited flat data text structure stream written safely down to disk layout target space: workbooks_downloaded/aegis_endgame_fusions.csv
+    2026-07-10 02:05:25,988 [INFO] -> 🚨 UPDATE DETECTED [GID 657764751]: Content mutated for tracking tab row object 'BGLs' inside workbook profile 'aegis_endgame'.
+    2026-07-10 02:05:25,988 [INFO] -> 💾 Delimited flat data text structure stream written safely down to disk layout target space: workbooks_downloaded/aegis_endgame_bgls.csv
+    2026-07-10 02:05:26,160 [INFO] -> 🟩 UP TO DATE [GID 1239299765]: Specifications data lines for sheet component 'Glaives' match cache records perfectly.
+    2026-07-10 02:05:26,216 [INFO] -> 🚨 UPDATE DETECTED [GID 1595979957]: Content mutated for tracking tab row object 'Shotguns' inside workbook profile 'aegis_endgame'.
+    2026-07-10 02:05:26,217 [INFO] -> 💾 Delimited flat data text structure stream written safely down to disk layout target space: workbooks_downloaded/aegis_endgame_shotguns.csv
+    2026-07-10 02:05:26,276 [INFO] -> 🚨 UPDATE DETECTED [GID 1090554564]: Content mutated for tracking tab row object 'Snipers' inside workbook profile 'aegis_endgame'.
+    2026-07-10 02:05:26,276 [INFO] -> 💾 Delimited flat data text structure stream written safely down to disk layout target space: workbooks_downloaded/aegis_endgame_snipers.csv
+    2026-07-10 02:05:26,330 [INFO] -> 🚨 UPDATE DETECTED [GID 550485113]: Content mutated for tracking tab row object 'Rocket Sidearms' inside workbook profile 'aegis_endgame'.
+    2026-07-10 02:05:26,331 [INFO] -> 💾 Delimited flat data text structure stream written safely down to disk layout target space: workbooks_downloaded/aegis_endgame_rocket_sidearms.csv
+    2026-07-10 02:05:26,467 [INFO] -> 🟩 UP TO DATE [GID 288998351]: Specifications data lines for sheet component 'Traces' match cache records perfectly.
+    2026-07-10 02:05:26,573 [INFO] -> 🚨 UPDATE DETECTED [GID 439751986]: Content mutated for tracking tab row object 'HGLs' inside workbook profile 'aegis_endgame'.
+    2026-07-10 02:05:26,574 [INFO] -> 💾 Delimited flat data text structure stream written safely down to disk layout target space: workbooks_downloaded/aegis_endgame_hgls.csv
+    2026-07-10 02:05:26,584 [INFO] -> 🚨 UPDATE DETECTED [GID 29008106]: Content mutated for tracking tab row object 'LFRs' inside workbook profile 'aegis_endgame'.
+    2026-07-10 02:05:26,585 [INFO] -> 💾 Delimited flat data text structure stream written safely down to disk layout target space: workbooks_downloaded/aegis_endgame_lfrs.csv
+    2026-07-10 02:05:26,633 [INFO] -> 🚨 UPDATE DETECTED [GID 1919916707]: Content mutated for tracking tab row object 'LMGs' inside workbook profile 'aegis_endgame'.
+    2026-07-10 02:05:26,633 [INFO] -> 💾 Delimited flat data text structure stream written safely down to disk layout target space: workbooks_downloaded/aegis_endgame_lmgs.csv
+    2026-07-10 02:05:26,754 [INFO] -> 🚨 UPDATE DETECTED [GID 981030684]: Content mutated for tracking tab row object 'Rockets' inside workbook profile 'aegis_endgame'.
+    2026-07-10 02:05:26,754 [INFO] -> 💾 Delimited flat data text structure stream written safely down to disk layout target space: workbooks_downloaded/aegis_endgame_rockets.csv
+    2026-07-10 02:05:26,873 [INFO] -> 🚨 UPDATE DETECTED [GID 473850359]: Content mutated for tracking tab row object 'Swords' inside workbook profile 'aegis_endgame'.
+    2026-07-10 02:05:26,873 [INFO] -> 💾 Delimited flat data text structure stream written safely down to disk layout target space: workbooks_downloaded/aegis_endgame_swords.csv
+    2026-07-10 02:05:26,934 [INFO] -> 🚨 UPDATE DETECTED [GID 266663572]: Content mutated for tracking tab row object 'Other' inside workbook profile 'aegis_endgame'.
+    2026-07-10 02:05:26,934 [INFO] -> 💾 Delimited flat data text structure stream written safely down to disk layout target space: workbooks_downloaded/aegis_endgame_other.csv
+    2026-07-10 02:05:26,953 [INFO] -> 🟩 UP TO DATE [GID 1789798057]: Specifications data lines for sheet component 'Exotic Weapons' match cache records perfectly.
+    2026-07-10 02:05:27,087 [INFO] -> 🟩 UP TO DATE [GID 1087089423]: Specifications data lines for sheet component 'Exotic Armor (ignore)' match cache records perfectly.
+  2026-07-10 02:05:27,088 [INFO] -> ================================================================================
+  2026-07-10 02:05:27,088 [INFO] -> Synchronization check complete. Pipeline gating flags successfully set.

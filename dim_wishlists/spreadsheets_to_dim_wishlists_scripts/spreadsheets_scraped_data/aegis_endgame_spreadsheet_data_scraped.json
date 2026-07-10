@@ -6,7 +6,7 @@
       "patch": "Pantheon 2.0"
     },
     "link": "https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY",
-    "scrape_date": "2026-07-09 10:46:58"
+    "scrape_date": "2026-07-10 02:05:27"
   },
   "workbooks": {
     "Shopping List": {
@@ -6360,30 +6360,30 @@
       }
     },
     "HCs": {
-      "Word of Crota": {
-        "weapon_name": "Word of Crota",
+      "Kindled Orchid": {
+        "weapon_name": "Kindled Orchid",
         "version": "",
         "perks": {
           "column1": [
             "Fluted Barrel"
           ],
           "column2": [
-            "Flared Magwell",
             "Alloy Magazine"
           ],
           "perk1": [
             "Repulsor Brace",
-            "Dragonfly"
+            "Shoot to Loot"
           ],
           "perk2": [
-            "Destabilizing Rounds"
+            "Destabilizing Rounds",
+            "Explosive Payload"
           ],
           "origin_trait": [
-            "Cursed Thrall"
+            "Forge's Kin"
           ]
         },
         "info": {
-          "rank": "1",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -6392,7 +6392,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "great frame, excellent perks, amazing origin",
+          "notes": "probably the \"traditional\" hand cannon in the game, also has StL + EP on top",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -6415,7 +6415,6 @@
             "Barrel Shroud"
           ],
           "column2": [
-            "Flared Magwell",
             "Alloy Magazine"
           ],
           "perk1": [
@@ -6426,14 +6425,14 @@
           "perk2": [
             "Destabilizing Rounds",
             "Surrounded",
-            "Master of Arms"
+            "Collective Action"
           ],
           "origin_trait": [
             "Carrion Munitions"
           ]
         },
         "info": {
-          "rank": "2",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -6442,7 +6441,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "great void combo and other alternative perks on great frame",
+          "notes": "most potent damage profile with almost every relevant void perk, great origin",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -6457,130 +6456,31 @@
           }
         }
       },
-      "Posterity": {
-        "weapon_name": "Posterity",
+      "Word of Crota": {
+        "weapon_name": "Word of Crota",
         "version": "",
         "perks": {
           "column1": [
             "Fluted Barrel"
           ],
           "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Voltshot"
-          ],
-          "perk2": [
-            "Frenzy",
-            "Redirection",
-            "Explosive Payload"
-          ],
-          "origin_trait": [
-            "Bray Inheritance"
-          ]
-        },
-        "info": {
-          "rank": "3",
-          "tier": "S",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "great frame, splash + damage, solid origin",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Modified B-7 Pistol": {
-        "weapon_name": "Modified B-7 Pistol",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel"
-          ],
-          "column2": [
-            "Light Heatsink",
-            "Overclocked Heatsink"
-          ],
-          "perk1": [
-            "Firefly",
-            "Rimestealer",
-            "Rapid Hit"
-          ],
-          "perk2": [
-            "Headstone",
-            "Crystalline Corpsebloom"
-          ],
-          "origin_trait": [
-            "Accelerated Assault"
-          ]
-        },
-        "info": {
-          "rank": "4",
-          "tier": "S",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "better version of Solemn Remembrance with Crystalline access",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Kindled Orchid": {
-        "weapon_name": "Kindled Orchid",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel"
-          ],
-          "column2": [
-            "Flared Magwell",
             "Alloy Magazine"
           ],
           "perk1": [
             "Repulsor Brace",
-            "Shoot to Loot"
+            "Dragonfly",
+            "Collective Demolition"
           ],
           "perk2": [
-            "Destabilizing Rounds",
-            "Demoralize",
-            "Explosive Payload"
+            "Destabilizing Rounds"
           ],
           "origin_trait": [
-            "Forge's Kin"
+            "Cursed Thrall"
           ]
         },
         "info": {
-          "rank": "5",
-          "tier": "A",
+          "rank": "",
+          "tier": "S",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -6588,47 +6488,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "classic void combo, StL + EP, and decent frame",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Zaouli's Bane": {
-        "weapon_name": "Zaouli's Bane",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel"
-          ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "6",
-          "tier": "A",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
+          "notes": "great overall, strong but build-dependent origin, solid perks",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -6651,7 +6511,6 @@
             "Fluted Barrel"
           ],
           "column2": [
-            "Flared Magwell",
             "Alloy Magazine"
           ],
           "perk1": [
@@ -6659,16 +6518,15 @@
             "Withering Gaze"
           ],
           "perk2": [
-            "Repulsor Brace",
-            "Demoralize"
+            "Repulsor Brace"
           ],
           "origin_trait": [
             "Fleet Footed"
           ]
         },
         "info": {
-          "rank": "7",
-          "tier": "A",
+          "rank": "",
+          "tier": "S",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -6676,7 +6534,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "classic void combo, also has Withering access",
+          "notes": "not particularly remarkable but has classic void combo on good frame, poor origin",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -6691,33 +6549,30 @@
           }
         }
       },
-      "Aureus Neutralizer": {
-        "weapon_name": "Aureus Neutralizer",
+      "Modified B-7 Pistol": {
+        "weapon_name": "Modified B-7 Pistol",
         "version": "",
         "perks": {
           "column1": [
-            "Barrel Shroud"
+            "Fluted Barrel"
           ],
           "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
+            "Enhanced Heatsink"
           ],
           "perk1": [
-            "Vorpal Weapon",
-            "Grave Robber"
+            "Firefly"
           ],
           "perk2": [
-            "Cascade Point",
-            "One-Two Punch",
-            "Trench Barrel"
+            "Headstone",
+            "Crystalline Corpsebloom"
           ],
           "origin_trait": [
-            "Häkke Breach Armaments"
+            "Accelerated Assault"
           ]
         },
         "info": {
-          "rank": "8",
-          "tier": "A",
+          "rank": "",
+          "tier": "S",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -6725,7 +6580,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "BiS LP damage option, decent for neutral too",
+          "notes": "strongest possible double splash stasis combo, great frame, solid origin",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -6748,7 +6603,7 @@
             "Fluted Barrel"
           ],
           "column2": [
-            "Flared Magwell",
+            "High-Caliber Rounds",
             "Alloy Magazine"
           ],
           "perk1": [
@@ -6756,8 +6611,8 @@
             "Meganeura"
           ],
           "perk2": [
-            "Crystalline Corpsebloom",
             "Headstone",
+            "Crystalline Corpsebloom",
             "Chaos Reshaped"
           ],
           "origin_trait": [
@@ -6765,8 +6620,8 @@
           ]
         },
         "info": {
-          "rank": "9",
-          "tier": "A",
+          "rank": "",
+          "tier": "S",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -6774,7 +6629,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "best non-spread double splash stasis HC",
+          "notes": "same pairings as Modified B-7 but has Meganeura and Chaos diversity with worse damage profile",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -6789,30 +6644,32 @@
           }
         }
       },
-      "Sightline Survey": {
-        "weapon_name": "Sightline Survey",
+      "Zaouli's Bane": {
+        "weapon_name": "Zaouli's Bane",
         "version": "",
         "perks": {
           "column1": [
             "Fluted Barrel"
           ],
           "column2": [
-            "Flared Magwell",
             "Alloy Magazine"
           ],
           "perk1": [
-            "Enlightened Action"
+            "Explosive Payload",
+            "Redirection"
           ],
           "perk2": [
-            "Voltshot"
+            "Meganeura",
+            "Incandescent",
+            "Chaos Reshaped"
           ],
           "origin_trait": [
-            "Radiolaria Transposer"
+            "Runneth Over"
           ]
         },
         "info": {
-          "rank": "10",
-          "tier": "A",
+          "rank": "",
+          "tier": "S",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -6820,7 +6677,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "doesn't scale as well as Posterity into upper-tier content",
+          "notes": "interesting Redirection pairing, very lethal perk combos but lacks sustain",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -6835,33 +6692,29 @@
           }
         }
       },
-      "Agape": {
-        "weapon_name": "Agape",
+      "Posterity": {
+        "weapon_name": "Posterity",
         "version": "",
         "perks": {
           "column1": [
             "Fluted Barrel"
           ],
           "column2": [
-            "Flared Magwell",
-            "Alloy Magazine",
-            "Appended Mag"
+            "Alloy Magazine"
           ],
           "perk1": [
-            "Heal Clip",
-            "Rewind Rounds"
+            "Voltshot"
           ],
           "perk2": [
-            "Incandescent",
-            "Firefly",
-            "Precision Instrument"
+            "Redirection",
+            "Explosive Payload"
           ],
           "origin_trait": [
-            "Exhaustive Research"
+            "Bray Inheritance"
           ]
         },
         "info": {
-          "rank": "11",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -6870,7 +6723,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "best energy slot heavy burst LP option, good neutral perks too",
+          "notes": "probably best Voltshot hand cannon, still lower in lethality compared to other splash combos",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -6893,26 +6746,23 @@
             "Fluted Barrel"
           ],
           "column2": [
-            "Flared Magwell",
-            "Alloy Magazine",
-            "Tactical Mag"
+            "Alloy Magazine"
           ],
           "perk1": [
             "Firefly",
-            "Slice",
-            "Shoot to Loot"
+            "Shoot to Loot",
+            "Slice"
           ],
           "perk2": [
             "Tear",
-            "Explosive Payload",
-            "Elemental Honing"
+            "Explosive Payload"
           ],
           "origin_trait": [
             "Fleet Footed"
           ]
         },
         "info": {
-          "rank": "12",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -6921,7 +6771,149 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "Vulpecula replacement, cool double splash combo too, okay archetype",
+          "notes": "decent double splash for a strand HC, great archetype, StL + EP option",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Aureus Neutralizer": {
+        "weapon_name": "Aureus Neutralizer",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Barrel Shroud"
+          ],
+          "column2": [
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Grave Robber",
+            "Vorpal Weapon"
+          ],
+          "perk2": [
+            "Trench Barrel",
+            "Cascade Point",
+            "Desperate Measures"
+          ],
+          "origin_trait": [
+            "Häkke Breach Armaments"
+          ]
+        },
+        "info": {
+          "rank": "",
+          "tier": "A",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "pairs well with Lucky Pants when avoiding Out of Luck, honestly not much use otherwise",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Sightline Survey": {
+        "weapon_name": "Sightline Survey",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Enlightened Action",
+            "Air Trigger"
+          ],
+          "perk2": [
+            "Voltshot"
+          ],
+          "origin_trait": [
+            "Radiolaria Transposer"
+          ]
+        },
+        "info": {
+          "rank": "",
+          "tier": "A",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "solid archetype + origin, but disappointing first column and Voltshot isn't great on HCs",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Agape": {
+        "weapon_name": "Agape",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "High-Caliber Rounds",
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Heal Clip"
+          ],
+          "perk2": [
+            "Incandescent",
+            "Firefly",
+            "Burning Ambition"
+          ],
+          "origin_trait": [
+            "Exhaustive Research"
+          ]
+        },
+        "info": {
+          "rank": "",
+          "tier": "A",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "decent archetype, not a great user of Heal Clip, splash options are decent",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -6944,23 +6936,20 @@
             "Fluted Barrel"
           ],
           "column2": [
-            "Flared Magwell",
             "Alloy Magazine"
           ],
           "perk1": [
-            "Explosive Payload",
-            "Adhesive Ordnance"
+            "Explosive Payload"
           ],
           "perk2": [
-            "Attrition Orbs",
-            "Frenzy"
+            "Attrition Orbs"
           ],
           "origin_trait": [
             "Accelerated Assault"
           ]
         },
         "info": {
-          "rank": "13",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -6969,7 +6958,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "fastest HC orb generator due to EP + AO combo",
+          "notes": "niche orb generation option (faster than Multimach, 4 shots), not good for much else",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -6992,25 +6981,20 @@
             "Fluted Barrel"
           ],
           "column2": [
-            "Flared Magwell",
             "Alloy Magazine"
           ],
           "perk1": [
-            "Stopping Power",
-            "Shoot to Loot"
+            "Shoot to Loot",
+            "Stopping Power"
           ],
-          "perk2": [
-            "Mega Kill Clip",
-            "Kinetic Tremors",
-            "Explosive Payload"
-          ],
+          "perk2": [],
           "origin_trait": [
             "Accelerated Assault"
           ]
         },
         "info": {
-          "rank": "14",
-          "tier": "A",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -7018,7 +7002,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "probably best StL + EP kinetic hand cannon",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -7040,28 +7024,16 @@
           "column1": [
             "Fluted Barrel"
           ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine",
-            "Appended Mag"
-          ],
-          "perk1": [
-            "Dragonfly",
-            "Hatchling",
-            "Rapid Hit"
-          ],
-          "perk2": [
-            "Elemental Honing",
-            "Frenzy",
-            "Tear"
-          ],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Subjugation"
           ]
         },
         "info": {
-          "rank": "15",
-          "tier": "A",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -7069,7 +7041,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "amazing origin, splash + damage option as well",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -7091,27 +7063,16 @@
           "column1": [
             "Fluted Barrel"
           ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Firefly",
-            "Bewildering Burst",
-            "Explosive Payload"
-          ],
-          "perk2": [
-            "Kinetic Tremors",
-            "Ancillary Ordinance",
-            "One for All"
-          ],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Indomitability"
           ]
         },
         "info": {
-          "rank": "16",
-          "tier": "A",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -7119,7 +7080,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "only kinetic HC with new combo, otherwise decent too",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -7141,22 +7102,14 @@
           "column1": [
             "Fluted Barrel"
           ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Headstone"
-          ],
-          "perk2": [
-            "Firefly",
-            "Rimestealer"
-          ],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": []
         },
         "info": {
-          "rank": "17",
-          "tier": "A",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -7164,7 +7117,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "only held back slightly by archetype and lack of origin",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -7186,25 +7139,16 @@
           "column1": [
             "Fluted Barrel"
           ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Destabilizing Rounds",
-            "Repulsor Brace"
-          ],
-          "perk2": [
-            "Explosive Payload",
-            "Demoralize"
-          ],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Photoinhibition"
           ]
         },
         "info": {
-          "rank": "18",
-          "tier": "A",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -7212,7 +7156,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "interesting pairing with Destabilizing",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -7234,25 +7178,16 @@
           "column1": [
             "Barrel Shroud"
           ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Crystalline Corpsebloom",
-            "Grave Robber"
-          ],
-          "perk2": [
-            "Chaos Reshaped",
-            "One-Two Punch"
-          ],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Häkke Breach Armaments"
           ]
         },
         "info": {
-          "rank": "19",
-          "tier": "A",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -7260,7 +7195,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "Chaos Reshaped interesting pairing with Crystalline",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -7282,27 +7217,16 @@
           "column1": [
             "Barrel Shroud"
           ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Lead From Light",
-            "Eddy Current",
-            "Trickle Charge"
-          ],
-          "perk2": [
-            "Trench Barrel",
-            "One-Two Punch",
-            "Rolling Storm"
-          ],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Accelerated Assault"
           ]
         },
         "info": {
-          "rank": "20",
-          "tier": "A",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -7310,7 +7234,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "lacks universal reload perks, overall just okay",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -7332,27 +7256,16 @@
           "column1": [
             "Fluted Barrel"
           ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Threat Remover",
-            "Threat Detector",
-            "Slideshot"
-          ],
-          "perk2": [
-            "Incandescent",
-            "One-Two Punch",
-            "Surrounded"
-          ],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Tenacity"
           ]
         },
         "info": {
-          "rank": "21",
-          "tier": "A",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -7360,7 +7273,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "solid damage profile at close ranges, good show of archetype potential",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -7382,25 +7295,16 @@
           "column1": [
             "Fluted Barrel"
           ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Firefly",
-            "Heal Clip"
-          ],
-          "perk2": [
-            "Incandescent",
-            "Chaos Reshaped"
-          ],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Indomitability"
           ]
         },
         "info": {
-          "rank": "22",
-          "tier": "A",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -7408,7 +7312,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "double splash, Heal Clip available with Chaos alternative",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -7430,26 +7334,16 @@
           "column1": [
             "Fluted Barrel"
           ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Heal Clip",
-            "Explosive Payload"
-          ],
-          "perk2": [
-            "Incandescent",
-            "Meganeura",
-            "Chaos Reshaped"
-          ],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Nanotech Tracer Missiles"
           ]
         },
         "info": {
-          "rank": "23",
-          "tier": "A",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -7457,7 +7351,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "very similar to Luna's Howl",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -7479,25 +7373,16 @@
           "column1": [
             "Fluted Barrel"
           ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Firefly"
-          ],
-          "perk2": [
-            "Incandescent",
-            "Dragonfly",
-            "Explosive Payload"
-          ],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Gun and Run"
           ]
         },
         "info": {
-          "rank": "24",
-          "tier": "A",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -7505,7 +7390,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "Firefly + decent splash options, good frame",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -7527,27 +7412,16 @@
           "column1": [
             "Fluted Barrel"
           ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine",
-            "Tactical Mag"
-          ],
-          "perk1": [
-            "Headstone",
-            "Rimestealer",
-            "Shoot to Loot"
-          ],
-          "perk2": [
-            "Crystalline Corpsebloom",
-            "Explosive Payload"
-          ],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Ignoble Deeds"
           ]
         },
         "info": {
-          "rank": "25",
-          "tier": "A",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -7555,7 +7429,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "classic stasis combo with StL + EP access, better frame than Loud Lullaby",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -7577,27 +7451,16 @@
           "column1": [
             "Fluted Barrel"
           ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Gear Shift",
-            "Dragonfly",
-            "Eddy Current"
-          ],
-          "perk2": [
-            "Voltshot",
-            "Jolting Feedback",
-            "Explosive Payload"
-          ],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Explosive Pact"
           ]
         },
         "info": {
-          "rank": "26",
-          "tier": "A",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -7605,7 +7468,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "great damage perk to have in 3rd column, otherwise decent too",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -7627,27 +7490,16 @@
           "column1": [
             "Fluted Barrel"
           ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Explosive Payload",
-            "Kinetic Tremors",
-            "Stopping Power"
-          ],
-          "perk2": [
-            "Firefly",
-            "One for All",
-            "All-Star"
-          ],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Timelost Magazine"
           ]
         },
         "info": {
-          "rank": "27",
-          "tier": "A",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -7655,7 +7507,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "classic EP + Frenzy/Firefly combo, still pretty decent",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -7677,25 +7529,16 @@
           "column1": [
             "Fluted Barrel"
           ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Repulsor Brace",
-            "Enlightened Action"
-          ],
-          "perk2": [
-            "Destabilizing Rounds",
-            "Dragonfly"
-          ],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Omolon Fluid Dynamics"
           ]
         },
         "info": {
-          "rank": "28",
-          "tier": "A",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -7703,7 +7546,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "held back by awful reload with Void combo",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -7725,25 +7568,16 @@
           "column1": [
             "Fluted Barrel"
           ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Bewildering Burst",
-            "Shoot to Loot"
-          ],
-          "perk2": [
-            "Redirection",
-            "Explosive Payload"
-          ],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Eyes Up"
           ]
         },
         "info": {
-          "rank": "29",
-          "tier": "B",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -7751,7 +7585,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "very good StL + EP kinetic option, not much else though",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -7773,26 +7607,16 @@
           "column1": [
             "Fluted Barrel"
           ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine",
-            "Appended Mag"
-          ],
-          "perk1": [
-            "Dragonfly",
-            "Rapid Hit"
-          ],
-          "perk2": [
-            "Voltshot",
-            "Vorpal Weapon"
-          ],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Fleet Footed"
           ]
         },
         "info": {
-          "rank": "30",
-          "tier": "B",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -7800,7 +7624,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "double splash on awkward archetype, also doubles as LP backup",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -7822,26 +7646,16 @@
           "column1": [
             "Fluted Barrel"
           ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Headstone",
-            "Rimestealer",
-            "Shoot to Loot"
-          ],
-          "perk2": [
-            "Crystalline Corpsebloom",
-            "Explosive Payload"
-          ],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Loss"
           ]
         },
         "info": {
-          "rank": "31",
-          "tier": "B",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -7849,7 +7663,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "bad origin and frame, but good stasis combo and StL + EP",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -7871,25 +7685,16 @@
           "column1": [
             "Fluted Barrel"
           ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Headstone",
-            "Rimestealer"
-          ],
-          "perk2": [
-            "Crystalline Corpsebloom",
-            "Dragonfly"
-          ],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Dealer's Choice"
           ]
         },
         "info": {
-          "rank": "32",
-          "tier": "B",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -7897,7 +7702,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "like Solemn Remembrance but lower QoL archetype and Dragonfly worse",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -7919,26 +7724,16 @@
           "column1": [
             "Fluted Barrel"
           ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine",
-            "Appended Mag"
-          ],
-          "perk1": [
-            "Demolitionist",
-            "Enlightened Action"
-          ],
-          "perk2": [
-            "Vorpal Weapon",
-            "Frenzy"
-          ],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Problem Solver"
           ]
         },
         "info": {
-          "rank": "33",
-          "tier": "B",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -7946,7 +7741,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "basically only useful for LP usage, and third best at that",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -7968,25 +7763,16 @@
           "column1": [
             "Fluted Barrel"
           ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Shoot to Loot",
-            "Enlightened Action"
-          ],
-          "perk2": [
-            "Explosive Payload",
-            "All-Star"
-          ],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Wild Card"
           ]
         },
         "info": {
-          "rank": "34",
-          "tier": "B",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -7994,7 +7780,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "StL + EP and nothing else really",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -8016,25 +7802,16 @@
           "column1": [
             "Fluted Barrel"
           ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Firefly",
-            "Heal Clip"
-          ],
-          "perk2": [
-            "Incandescent",
-            "Precision Instrument"
-          ],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Fleet Footed"
           ]
         },
         "info": {
-          "rank": "35",
-          "tier": "C",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -8042,7 +7819,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "similar to Crimil's but Incandescent for worse origin",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -8064,25 +7841,16 @@
           "column1": [
             "Fluted Barrel"
           ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Firefly",
-            "Crystalline Corpsebloom"
-          ],
-          "perk2": [
-            "Explosive Payload",
-            "Desperate Measures"
-          ],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Gun and Run"
           ]
         },
         "info": {
-          "rank": "36",
-          "tier": "C",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -8090,7 +7858,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "if only Crystalline was in 2nd column, otherwise just Fatebringer roll",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -8112,21 +7880,14 @@
           "column1": [
             "Fluted Barrel"
           ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Firefly"
-          ],
-          "perk2": [
-            "Explosive Payload"
-          ],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": []
         },
         "info": {
-          "rank": "37",
-          "tier": "C",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -8134,7 +7895,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "decent neutral combo but no origin and nothing unique",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -8156,23 +7917,16 @@
           "column1": [
             "Fluted Barrel"
           ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Destabilizing Rounds"
-          ],
-          "perk2": [
-            "Demoralize"
-          ],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Accelerated Assault"
           ]
         },
         "info": {
-          "rank": "38",
-          "tier": "C",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -8180,7 +7934,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "decent double splash but bad frame with no reload assist",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -8202,24 +7956,16 @@
           "column1": [
             "Fluted Barrel"
           ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Firefly"
-          ],
-          "perk2": [
-            "Explosive Payload",
-            "Precision Instrument"
-          ],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Skulking Wolf"
           ]
         },
         "info": {
-          "rank": "39",
-          "tier": "C",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -8227,7 +7973,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "old Fatebringer roll but it's a 120",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -8249,25 +7995,16 @@
           "column1": [
             "Fluted Barrel"
           ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Slice",
-            "Reconstruction"
-          ],
-          "perk2": [
-            "Explosive Payload",
-            "Hatchling"
-          ],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Accelerated Assault"
           ]
         },
         "info": {
-          "rank": "40",
-          "tier": "C",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -8275,7 +8012,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "pretty mediocre perks in both columns",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -8297,25 +8034,16 @@
           "column1": [
             "Fluted Barrel"
           ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Stats for All",
-            "Rimestealer"
-          ],
-          "perk2": [
-            "Headstone",
-            "Explosive Payload"
-          ],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Dark Ether Reaper"
           ]
         },
         "info": {
-          "rank": "41",
-          "tier": "C",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -8323,7 +8051,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "Headstone + origin carries despite bad archetype and mid 1st column",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -8345,23 +8073,16 @@
           "column1": [
             "Fluted Barrel"
           ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Rimestealer"
-          ],
-          "perk2": [
-            "Headstone"
-          ],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Dream Work"
           ]
         },
         "info": {
-          "rank": "42",
-          "tier": "C",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -8369,7 +8090,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "like Exuviae but none of the cool stuff",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -8391,24 +8112,16 @@
           "column1": [
             "Fluted Barrel"
           ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Light Touch"
-          ],
-          "perk2": [
-            "Meganeura",
-            "Voltshot"
-          ],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Advanced Reflexes"
           ]
         },
         "info": {
-          "rank": "43",
-          "tier": "C",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -8416,7 +8129,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "decent archetype with mediocre 1st column and decent 2nd",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -8438,24 +8151,16 @@
           "column1": [
             "Fluted Barrel"
           ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Tear"
-          ],
-          "perk2": [
-            "Hatchling",
-            "Golden Tricorn"
-          ],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Nanotech Tracer Missiles"
           ]
         },
         "info": {
-          "rank": "44",
-          "tier": "C",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -8463,7 +8168,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "Tear + Hatchling not bad, good origin, bad frame",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -8485,25 +8190,16 @@
           "column1": [
             "Fluted Barrel"
           ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Explosive Payload"
-          ],
-          "perk2": [
-            "Meganeura",
-            "Hatchling",
-            "Tear"
-          ],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Wild Card"
           ]
         },
         "info": {
-          "rank": "45",
-          "tier": "C",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -8511,7 +8207,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "EP + decent splash perks, bad frame, bad perk diversity in 1st column",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -8533,26 +8229,16 @@
           "column1": [
             "Fluted Barrel"
           ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Explosive Payload",
-            "Collective Demolition"
-          ],
-          "perk2": [
-            "Rolling Storm",
-            "Master of Arms",
-            "Voltshot"
-          ],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Wild Card"
           ]
         },
         "info": {
-          "rank": "46",
-          "tier": "C",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -8560,7 +8246,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "no good splash perks on okay archetype",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -8582,26 +8268,16 @@
           "column1": [
             "Fastdraw HCS"
           ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Headstone",
-            "Demolitionist",
-            "Rapid Hit"
-          ],
-          "perk2": [
-            "Timed Payload",
-            "Rimestealer"
-          ],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Gravity Well"
           ]
         },
         "info": {
-          "rank": "47",
-          "tier": "C",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -8609,7 +8285,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "EP + Headstone on okay archetype",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -8631,25 +8307,16 @@
           "column1": [
             "Fluted Barrel"
           ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Headstone",
-            "Crystalline Corpsebloom"
-          ],
-          "perk2": [
-            "Rimestealer",
-            "Timed Payload"
-          ],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Crossing Over"
           ]
         },
         "info": {
-          "rank": "48",
-          "tier": "C",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -8657,7 +8324,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "slightly worse perks and origin than RotN version",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -8679,25 +8346,16 @@
           "column1": [
             "Fluted Barrel"
           ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Heal Clip",
-            "Enlightened Action"
-          ],
-          "perk2": [
-            "Burning Ambition",
-            "Precision Instrument"
-          ],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Skulking Wolf"
           ]
         },
         "info": {
-          "rank": "49",
-          "tier": "D",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -8705,7 +8363,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "bad HC damage perk",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -8727,21 +8385,14 @@
           "column1": [
             "Fluted Barrel"
           ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Trickle Charge"
-          ],
-          "perk2": [
-            "Rolling Storm"
-          ],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": []
         },
         "info": {
-          "rank": "50",
-          "tier": "D",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -8749,7 +8400,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "okay frame but very limited perks and no origin",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -8771,24 +8422,16 @@
           "column1": [
             "Fluted Barrel"
           ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Outlaw"
-          ],
-          "perk2": [
-            "Destabilizing Rounds",
-            "Explosive Payload"
-          ],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Unsated Hunger"
           ]
         },
         "info": {
-          "rank": "51",
-          "tier": "D",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -8796,7 +8439,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "Destabilizing access but mediocre reload perk and bad archetype",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -8818,26 +8461,16 @@
           "column1": [
             "Fluted Barrel"
           ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Light Touch",
-            "Trickle Charge"
-          ],
-          "perk2": [
-            "Explosive Payload",
-            "Jolting Feedback",
-            "Dragonfly"
-          ],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Fail-deadly"
           ]
         },
         "info": {
-          "rank": "52",
-          "tier": "D",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -8845,7 +8478,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "mediocre 1st column, bad frame, only EP for HC perks",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -8867,23 +8500,16 @@
           "column1": [
             "Fluted Barrel"
           ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Eddy Current"
-          ],
-          "perk2": [
-            "Voltshot"
-          ],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Field-Tested"
           ]
         },
         "info": {
-          "rank": "53",
-          "tier": "D",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -8891,7 +8517,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "good reload perk but Voltshot on awful reload archetype",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -8913,24 +8539,16 @@
           "column1": [
             "Fluted Barrel"
           ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Rapid Hit"
-          ],
-          "perk2": [
-            "Explosive Payload",
-            "Precision Instrument"
-          ],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Accelerated Assault"
           ]
         },
         "info": {
-          "rank": "54",
-          "tier": "E",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -8938,7 +8556,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "reload perk + EP and PI",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -8960,23 +8578,16 @@
           "column1": [
             "Fluted Barrel"
           ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Rapid Hit"
-          ],
-          "perk2": [
-            "Timed Payload"
-          ],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Suros Synergy"
           ]
         },
         "info": {
-          "rank": "55",
-          "tier": "E",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -8984,7 +8595,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "reload perk + EP/TP",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -9006,26 +8617,16 @@
           "column1": [
             "Fluted Barrel"
           ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Repulsor Brace",
-            "Demolitionist",
-            "Attrition Orbs"
-          ],
-          "perk2": [
-            "Golden Tricorn",
-            "Wellspring"
-          ],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Nano-Munitions"
           ]
         },
         "info": {
-          "rank": "56",
-          "tier": "E",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -9033,7 +8634,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "good origin and unique perks but not very impactful",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -9055,25 +8656,16 @@
           "column1": [
             "Fluted Barrel"
           ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Rapid Hit"
-          ],
-          "perk2": [
-            "Repulsor Brace",
-            "Golden Tricorn",
-            "Frenzy"
-          ],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Rasputin's Arsenal"
           ]
         },
         "info": {
-          "rank": "57",
-          "tier": "E",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -9081,7 +8673,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "uptime-focused single target perks, not great",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -9103,24 +8695,16 @@
           "column1": [
             "Fluted Barrel"
           ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Rapid Hit"
-          ],
-          "perk2": [
-            "Dragonfly",
-            "Explosive Payload"
-          ],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Gun and Run"
           ]
         },
         "info": {
-          "rank": "58",
-          "tier": "E",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -9128,7 +8712,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "reload perk + splash/EP/TP",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -9150,22 +8734,14 @@
           "column1": [
             "Fastdraw HCS"
           ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Outlaw"
-          ],
-          "perk2": [
-            "Dragonfly",
-            "Timed Payload"
-          ],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": []
         },
         "info": {
-          "rank": "59",
-          "tier": "E",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -9173,7 +8749,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "reload perk + splash/EP/TP",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -9195,25 +8771,16 @@
           "column1": [
             "Fluted Barrel"
           ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Rapid Hit",
-            "Stats for All"
-          ],
-          "perk2": [
-            "One for All",
-            "Kill Clip"
-          ],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Skulking Wolf"
           ]
         },
         "info": {
-          "rank": "60",
-          "tier": "F",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -9221,7 +8788,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "reload perk + dated damage perks",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -9243,24 +8810,16 @@
           "column1": [
             "Fluted Barrel"
           ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Compulsive Reloader",
-            "Outlaw"
-          ],
-          "perk2": [
-            "Frenzy"
-          ],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "To Excess"
           ]
         },
         "info": {
-          "rank": "61",
-          "tier": "F",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -9268,7 +8827,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "reload perk + Frenzy",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -9290,21 +8849,14 @@
           "column1": [
             "Fastdraw HCS"
           ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Subsistence"
-          ],
-          "perk2": [
-            "Dragonfly"
-          ],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": []
         },
         "info": {
-          "rank": "62",
-          "tier": "F",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -9312,7 +8864,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "bad reload perk + weak splash",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -9334,25 +8886,16 @@
           "column1": [
             "Fluted Barrel"
           ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Demolitionist",
-            "Shoot to Loot",
-            "Rapid Hit"
-          ],
-          "perk2": [
-            "One for All"
-          ],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Omolon Fluid Dynamics"
           ]
         },
         "info": {
-          "rank": "63",
-          "tier": "F",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -9360,7 +8903,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "bad HC damage perk",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -9382,23 +8925,16 @@
           "column1": [
             "Fluted Barrel"
           ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Shoot to Loot"
-          ],
-          "perk2": [
-            "Frenzy"
-          ],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Häkke Breach Armaments"
           ]
         },
         "info": {
-          "rank": "64",
-          "tier": "F",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -9406,7 +8942,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "basically just Frenzy on bad archetype",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -9428,21 +8964,14 @@
           "column1": [
             "Fastdraw HCS"
           ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Auto-Loading Holster"
-          ],
-          "perk2": [
-            "Swashbuckler"
-          ],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": []
         },
         "info": {
-          "rank": "65",
-          "tier": "F",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -9450,7 +8979,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "niche damage perk",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -9472,21 +9001,14 @@
           "column1": [
             "Fastdraw HCS"
           ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Outlaw"
-          ],
-          "perk2": [
-            "Swashbuckler"
-          ],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": []
         },
         "info": {
-          "rank": "66",
-          "tier": "F",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -9494,7 +9016,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "niche damage perk",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -9516,23 +9038,16 @@
           "column1": [
             "Fluted Barrel"
           ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Loose Change"
-          ],
-          "perk2": [
-            "Collective Action"
-          ],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Head Rush"
           ]
         },
         "info": {
-          "rank": "67",
-          "tier": "F",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -9540,7 +9055,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "nothing redeeming",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -9562,10 +9077,7 @@
           "column1": [
             "Fluted Barrel"
           ],
-          "column2": [
-            "Flared Magwell",
-            "Alloy Magazine"
-          ],
+          "column2": [],
           "perk1": [],
           "perk2": [],
           "origin_trait": [
@@ -9582,7 +9094,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "slow reload animation but very lethal perk combos",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {

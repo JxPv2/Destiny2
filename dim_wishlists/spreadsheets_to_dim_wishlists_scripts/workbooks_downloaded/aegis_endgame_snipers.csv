@@ -16,7 +16,7 @@ Gear Shift",Dream Work,BiS energy dump sniper,4,S
 ,Omniscient Eye,29,Solar,Rapid,Garden of Salvation,,44,Yes,Fluted Barrel,Tactical Mag,"Fourth Time's the Charm
 Envious Arsenal","Elemental Honing
 Precision Instrument",Photoinhibition,solar alternative to Rapid Growth,5,S
-,Something Something,28,Kinetic,Aggressive,Zavala,,37,Yes,Fluted Barrel,Extended Mag,"Triple Tap
+,Something Something,28,Kinetic,Aggressive,"Tenet of Bravery, Zavala",,37,Yes,Fluted Barrel,Extended Mag,"Triple Tap
 Discord","Elemental Honing
 All-Star
 Adhesive Ordnance",Accelerated Assault,better than Succession due to Accelerated Assault,6,S
@@ -71,7 +71,7 @@ Firing Line",Veist Stinger,"FTTC + okay 20% perk, very overshadowed by other opt
 Rewind Rounds","Aggregate Charge
 Elemental Honing
 Precision Instrument",Skulking Wolf,"no FTTC and okay frame, good origin and damage perks",20,B
-,Shoreline Dissident,27,Void,Rapid,Tenet of Bravery,,55,Yes,Fluted Barrel,Tactical Mag,"Triple Tap
+,Shoreline Dissident,27,Void,Rapid,"Tenet of Bravery, Banshee",,55,Yes,Fluted Barrel,Tactical Mag,"Triple Tap
 Shoot to Loot
 Explosive Payload","Precision Instrument
 High Ground
@@ -150,7 +150,7 @@ Demolitionist",Stunning Recovery,"TT on bad archetype, fine damage perks",42,D
 ,Luna Regolith III,22,Solar,Aggressive,Zavala,,32,Yes,Fluted Barrel,Extended Mag,Clown Cartridge,"Firing Line
 High Ground
 Cascade Point",Wild Card,overflow perk + okay damage perk aggressive,43,D
-,Far Future,13,Solar,Adaptive,Xur,,30,No,Fluted Barrel,Appended Mag,"Auto-Loading Holster
+,Far Future,13,Solar,Adaptive,"Xur, Dares",,30,No,Fluted Barrel,Appended Mag,"Auto-Loading Holster
 Lead from Gold","Frenzy
 Demolitionist",None,loader perk + okay damage perk adaptive,44,D
 ,Albruna-D,19,Arc,Aggressive,Gambit,,45,Yes,Fluted Barrel,Extended Mag,Clown Cartridge,"Cascade Point
@@ -172,11 +172,11 @@ Mega Kill Clip",Gun and Run,"no ammo gen perk, only really has Honing",51,E
 ,1000 Yard Stare,29,Void,Adaptive,Grasp of Avarice,,50,Yes,Fluted Barrel,Appended Mag,"Discord
 Vorpal Weapon","Redirection
 Demoralize",Unburied Treasure,"no ammo gen perk, niche damage options",52,E
-,Shepherd's Watch,15,Kinetic,Adaptive,Xur,,32,No,Fluted Barrel,Appended Mag,Lead from Gold,"Firing Line
+,Shepherd's Watch,15,Kinetic,Adaptive,"Xur, Dares",,32,No,Fluted Barrel,Appended Mag,Lead from Gold,"Firing Line
 Frenzy
 Demolitionist",None,Lead + okay damage perk adaptive,53,E
 ,Widow's Bite,11,Solar,Rapid,Xur,,33,No,Fluted Barrel,Tactical Mag,Lead from Gold,Demolitionist,None,good archetype but no damage perk,54,F
-,Long Shadow,4,Kinetic,Adaptive,Zavala,,32,No,ATC Rex,Appended Mag,Field Prep,Triple Tap,None,TT but no usable damage perk,55,F
+,Long Shadow,4,Kinetic,Adaptive,Dares,,32,No,ATC Rex,Appended Mag,Field Prep,Triple Tap,None,TT but no usable damage perk,55,F
 ,The Domino,24,Solar,Adaptive,Banshee,,38,Yes,Fluted Barrel,Appended Mag,Overflow,Incandescent,Nadir Focus,splash perk,56,F
 ,The Helmsman,29,Arc,High-Impact,Crucible,,43,Yes,Fluted Barrel,Extended Mag,"Explosive Payload
 Discord","Elemental Honing

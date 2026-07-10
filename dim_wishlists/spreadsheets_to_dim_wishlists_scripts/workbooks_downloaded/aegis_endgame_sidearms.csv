@@ -1,6 +1,6 @@
 WEAPON,,INFO,,,,,,,PERKS,,,,,ANALYSIS,,
 🖼️,Name,Season,Energy,Frame,Source,Stun,Ammo,⬆️,Barrel,Mag,Perk 1,Perk 2,Origin Trait,Notes,Rank,Tier
-,Evening SI4,28,Solar,Adaptive Burst,Tenet of Bravery,,47,Yes,"Fluted Barrel
+,Evening SI4,28,Solar,Adaptive Burst,"Tenet of Bravery, Zavala",,47,Yes,"Fluted Barrel
 Arrowhead Brake","Flared Magwell
 Alloy Magazine","Heal Clip
 Impromptu Ammunition","Incandescent
@@ -10,7 +10,7 @@ Desperate Measures",Accelerated Assault,"very similar to Drang, just different f
 Arrowhead Brake","Flared Magwell
 Alloy Magazine",Heal Clip,"Incandescent
 Meganeura",Accelerated Assault,"good archetype, great ammo gen, solid perks, great origin",2,S
-,Drang,27,Solar,Together Forever,Tenet of Bravery,,50,Yes,"Fluted Barrel
+,Drang,27,Solar,Together Forever,"Tenet of Bravery, Banshee",,50,Yes,"Fluted Barrel
 Arrowhead Brake","Flared Magwell
 Alloy Magazine","Heal Clip
 Loose Change
@@ -108,7 +108,7 @@ Arrowhead Brake","Flared Magwell
 Alloy Magazine","Crystalline Corpsebloom
 Headstone","Rimestealer
 Frenzy",Tex Balanced Stock,similar to Peacebond but arguably worse perks,20,B
-,Faustus Decline,27,Stasis,Lightweight,Tenet of Bravery,,50,Yes,"Fluted Barrel
+,Faustus Decline,27,Stasis,Lightweight,"Tenet of Bravery, Banshee",,50,Yes,"Fluted Barrel
 Arrowhead Brake","Flared Magwell
 Alloy Magazine","Demolitionist
 Rimestealer",Headstone,Bray Legacy,no Headstone + damage but decent perks on good origin and frame,21,B
@@ -144,16 +144,16 @@ Under-Over",Skulking Wolf,"high uptime single target roll, no splash",27,D
 Arrowhead Brake","Flared Magwell
 Alloy Magazine","Grave Robber
 Rapid Hit",Swashbuckler,Gun and Run,Grave/Swash niche but bad frame,28,D
-,Enigma's Draw,10,Kinetic,Precision,Xur,,33,No,Quickdot SAS,"Flared Magwell
+,Enigma's Draw,10,Kinetic,Precision,"Xur, Dares",,33,No,Quickdot SAS,"Flared Magwell
 Alloy Magazine",Grave Robber,Swashbuckler,None,Grave/Swash niche but bad frame,29,D
-,The Last Dance,29,Arc,Adaptive Burst,Zavala,,45,Yes,"Fluted Barrel
+,The Last Dance,29,Arc,Adaptive Burst,"Zavala, Dares",,45,Yes,"Fluted Barrel
 Arrowhead Brake","Flared Magwell
 Alloy Magazine",Threat Detector,Dragonfly,Vanguard Determination,weak splash but good frame,30,D
 ,Controlling Vision,24,Kinetic,Adaptive,Banshee,,50,Yes,"Fluted Barrel
 Arrowhead Brake","Flared Magwell
 Alloy Magazine",Surplus,"Surrounded
 High Ground",Field-Tested,"only High Ground sidearm, otherwise unremarkable, decent origin",31,D
-,Spoiler Alert,29,Kinetic,Lightweight,Zavala,,27,Yes,"Fluted Barrel
+,Spoiler Alert,29,Kinetic,Lightweight,"Zavala, Dares",,27,Yes,"Fluted Barrel
 Arrowhead Brake","Flared Magwell
 Alloy Magazine",Threat Detector,"Frenzy
 Swashbuckler",Vanguard Determination,good uptime perks on decent frame,32,D

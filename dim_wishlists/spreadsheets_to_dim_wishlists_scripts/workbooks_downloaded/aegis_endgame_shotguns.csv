@@ -51,7 +51,7 @@ One-Two Punch","Trench Barrel
 Redirection",Gravity Well,decent roam potential + double damage option,12,A
 ,Imperial Decree,29,Kinetic,Aggressive,Xur,,39,Yes,Barrel Shroud,Assault Mag,Auto-Loading Holster,"Trench Barrel
 Surrounded",To Excess,go-to QoL Trench aggressive,13,A
-,Pure Recollection,27,Void,Heavy Burst,Crucible,,40,Yes,Fluted Barrel,"Appended Mag
+,Pure Recollection,27,Void,Heavy Burst,"Tenet of Bravery, Shaxx",,40,Yes,Fluted Barrel,"Appended Mag
 Ricochet Rounds","Envious Arsenal
 High-Impact Reserves","Bait and Switch
 Withering Gaze",Roar of Battle,probably BiS close range Withering special,14,A
@@ -112,7 +112,7 @@ Envious Arsenal
 Pugilist","One-Two Punch
 Trench Barrel
 Cascade Point",Photoinhibition,mediocre archetype but relevant perks,27,B
-,MIDA Macro-Tool,27,Arc,MIDA Synergy,Crucible,,44,Yes,Barrel Shroud,Assault Mag,"Grave Robber
+,MIDA Macro-Tool,27,Arc,MIDA Synergy,"Tenet of Bravery, Shaxx",,44,Yes,Barrel Shroud,Assault Mag,"Grave Robber
 Discord","One-Two Punch
 Trench Barrel",Roar of Battle,mediocre archetype but relevant perks,28,B
 ,Precipial,27,Void,Precision,Kepler,,45,Yes,Barrel Shroud,Assault Mag,"One-Two Punch
@@ -148,7 +148,7 @@ Surrounded",Vanguard Determination,decent dump slug,36,B
 ,Trachinus,27,Stasis,Rapid Slug,Tenet of Bravery,,50,Yes,Fluted Barrel,Assault Mag,"Lead from Gold
 Rapid Hit","Chill Clip
 Precision Instrument",Tenacity,awkward archetype but Chill Clip niche,37,C
-,Hawthorne's Field-Forged Shotgun,28,Stasis,Lightweight,Zavala,,10,Yes,Barrel Shroud,Assault Mag,"Grave Robber
+,Hawthorne's Field-Forged Shotgun,28,Stasis,Lightweight,"Tenet of Bravery, Banshee",,10,Yes,Barrel Shroud,Assault Mag,"Grave Robber
 Lead from Gold",Chill Clip,Field-Tested,high QoL Chill Clip option but pretty niche,38,C
 TBA,Felwinter's Lie,29,Solar,Shot Package,Iron Banner,,34,Yes,Barrel Shroud,Assault Mag,"Cascade Point
 Heal Clip","Trench Barrel
@@ -210,5 +210,5 @@ Cascade Point",Suros Synergy,"no loader perk in 1st column, weird 2nd column to 
 Focused Fury",Right Hook,entirely irrelevant slug perks,58,E
 ,The Inquisitor,29,Arc,Pinpoint Slug,Trials,,52,Yes,Fluted Barrel,Assault Mag,Grave Robber,"Cascade Point
 Vorpal Weapon",Roar of Battle,"downgrade from previous version, awful perk pool",59,E
-,Wishbringer,5,Solar,Rapid,Shaxx,,64,No,Barrel Shroud,Tactical Mag,Threat Detector,Auto-Loading Holster,None,no damage perk but good frame,60,F
-,Toil and Trouble,4,Kinetic,Aggressive,Zavala,,40,No,Barrel Shroud,Assault Mag,Threat Detector,Auto-Loading Holster,None,no damage perk but okay frame,61,F
+,Wishbringer,5,Solar,Rapid,"Shaxx, Dares",,64,No,Barrel Shroud,Tactical Mag,Threat Detector,Auto-Loading Holster,None,no damage perk but good frame,60,F
+,Toil and Trouble,4,Kinetic,Aggressive,Dares,,40,No,Barrel Shroud,Assault Mag,Threat Detector,Auto-Loading Holster,None,no damage perk but okay frame,61,F

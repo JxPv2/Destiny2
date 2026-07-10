@@ -21,7 +21,7 @@ Demoralize",Veist Stinger,"classic void combo, origin trait not the best, frame 
 ,Anamnesis,26,Void,Lightweight,Xur,,62,Yes,Elastic String,Compact Arrow Shaft,"Repulsor Brace
 Dragonfly","Destabilizing Rounds
 Demoralize",Runneth Over,essentially the same as Fortunate except worse origin,7,A
-,Pre Astyanax IV,27,Solar,Precision,Pinnacle Ops,,53,Yes,Elastic String,Compact Arrow Shaft,"Incandescent
+,Pre Astyanax IV,27,Solar,Precision,"Tenet of Bravery, Zavala",,53,Yes,Elastic String,Compact Arrow Shaft,"Incandescent
 Firefly",Burning Ambition,Wild Card,BiS double splash solar bow,8,A
 ,Hush,29,Solar,Precision,Gambit,,55,Yes,Elastic String,Compact Arrow Shaft,"Burning Ambition
 Firefly","Incandescent
@@ -45,12 +45,12 @@ Slice
 Explosive Head","Meganeura
 Hatchling
 Archer's Gambit",Sundering,middling double splash,14,B
-,Mercury-A,27,Kinetic,High-Impact Longbow,Zavala,,50,Yes,Elastic String,Compact Arrow Shaft,"Attrition Orbs
+,Mercury-A,27,Kinetic,High-Impact Longbow,"Tenet of Bravery, Zavala",,50,Yes,Elastic String,Compact Arrow Shaft,"Attrition Orbs
 Successful Warm-Up",Kinetic Tremors,Tenacity,outclassed by Accrued Redemption,15,B
 ,Lethophobia,29,Void,Lightweight,Starcrossed,,63,Yes,Elastic String,Compact Arrow Shaft,"Repulsor Brace
 Impulse Amplifier",Explosive Head,Dragon's Vengeance,can technically benefit from Repulsor through artifact but otherwise very mediocre,16,B
 ,Tripwire Canary,29,Arc,Lightweight,Seraph's Shield,,63,Yes,Elastic String,Compact Arrow Shaft,Dragonfly,Explosive Head,Ambush,very weak version of double splash,17,C
-,Arsenic Bite-4B,4,Arc,Lightweight,Xur,,70,No,Elastic String,Compact Arrow Shaft,Dragonfly,Explosive Head,None,like Tripwire Canary but no origin,18,C
+,Arsenic Bite-4B,4,Arc,Lightweight,"Xur, Dares",,70,No,Elastic String,Compact Arrow Shaft,Dragonfly,Explosive Head,None,like Tripwire Canary but no origin,18,C
 ,Raconteur,29,Stasis,Precision,NODE.OVRD.AVALON,,54,Yes,Elastic String,Compact Arrow Shaft,"Archer's Tempo
 Shoot to Loot","Headstone
 Explosive Head",Noble Deeds,bit more perk diversity than bows from the same era,19,C
@@ -60,7 +60,7 @@ Shoot to Loot",Incandescent,Vanguard's Vindication,outdated Archer's + Incandesc
 Dragonfly",Land Tank,excellent origin but very outdated perk spread,21,C
 ,Fel Taradiddle,29,Kinetic,Lightweight,Wellspring,,59,Yes,Elastic String,Compact Arrow Shaft,"Archer's Tempo
 Shoot to Loot",Explosive Head,Psychohack,"similar to Under Your Skin in origin quality, has StL instead of Dragonfly",22,C
-,Wolftone Draw,15,Arc,Precision,Xur,,55,No,Elastic String,Compact Arrow Shaft,"Archer's Tempo
+,Wolftone Draw,15,Arc,Precision,"Xur, Dares",,55,No,Elastic String,Compact Arrow Shaft,"Archer's Tempo
 Shoot to Loot",Dragonfly,None,very weak splash option,23,C
 ,Lunulata-4B,17,Stasis,Lightweight,Banshee,,64,No,Elastic String,Compact Arrow Shaft,Shoot to Loot,Headstone,Veist Stinger,no Archer's + weaker splash perk,24,D
 ,Neoptolemus II,25,Kinetic,Precision,Banshee,,54,Yes,Elastic String,Compact Arrow Shaft,Air Trigger,Wellspring,Wild Card,origin trait is the only redeeming quality,25,D
