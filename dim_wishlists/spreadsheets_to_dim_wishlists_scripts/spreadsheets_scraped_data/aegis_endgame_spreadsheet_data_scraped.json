@@ -6,7 +6,7 @@
       "patch": "Pantheon 2.0"
     },
     "link": "https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY",
-    "scrape_date": "2026-07-10 10:45:15"
+    "scrape_date": "2026-07-10 17:41:13"
   },
   "workbooks": {
     "Shopping List": {
@@ -7489,6 +7489,52 @@
           }
         }
       },
+      "Bold Endings": {
+        "weapon_name": "Bold Endings",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Headstone",
+            "Rimestealer"
+          ],
+          "perk2": [
+            "Crystalline Corpsebloom"
+          ],
+          "origin_trait": [
+            "Dealer's Choice"
+          ]
+        },
+        "info": {
+          "rank": "",
+          "tier": "B",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "decent origin, fine archetype, crystal spam perk combo",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
       "Agape": {
         "weapon_name": "Agape",
         "version": "",
@@ -7609,7 +7655,7 @@
         },
         "info": {
           "rank": "",
-          "tier": "",
+          "tier": "B",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -7657,7 +7703,7 @@
         },
         "info": {
           "rank": "",
-          "tier": "",
+          "tier": "B",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -7666,6 +7712,52 @@
           "usage": "",
           "source": "",
           "notes": "similar situation to Sarpedon-D with a worse 1st column",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Spare Rations": {
+        "weapon_name": "Spare Rations",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Firefly",
+            "Crystalline Corpsebloom"
+          ],
+          "perk2": [
+            "Explosive Payload"
+          ],
+          "origin_trait": [
+            "Gun and Run"
+          ]
+        },
+        "info": {
+          "rank": "",
+          "tier": "B",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "second column not the greatest, lacks barrier intrinsic despite 140 RPM, origin not great",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -7702,7 +7794,7 @@
         },
         "info": {
           "rank": "",
-          "tier": "",
+          "tier": "B",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -7711,6 +7803,190 @@
           "usage": "",
           "source": "",
           "notes": "niche orb generation option (faster than Multimach, 4 shots), not good for much else",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Loud Lullaby": {
+        "weapon_name": "Loud Lullaby",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Headstone",
+            "Rimestealer",
+            "Shoot to Loot"
+          ],
+          "perk2": [
+            "Crystalline Corpsebloom",
+            "Explosive Payload"
+          ],
+          "origin_trait": [
+            "Loss"
+          ]
+        },
+        "info": {
+          "rank": "",
+          "tier": "B",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "stasis crystal double splash but aggressive frame + awful origin",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Rose": {
+        "weapon_name": "Rose",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Firefly"
+          ],
+          "perk2": [
+            "Explosive Payload"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "B",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "slightly outdated kinetic splash combo, no origin, decent frame",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Igneous Hammer": {
+        "weapon_name": "Igneous Hammer",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "High-Caliber Rounds",
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Firefly",
+            "Heal Clip"
+          ],
+          "perk2": [
+            "Incandescent"
+          ],
+          "origin_trait": [
+            "Fleet Footed"
+          ]
+        },
+        "info": {
+          "rank": "",
+          "tier": "B",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "worst frame and awful origins, just has standard solar double splash",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Mos Athanor IV": {
+        "weapon_name": "Mos Athanor IV",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "High-Caliber Rounds",
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Destabilizing Rounds"
+          ],
+          "perk2": [
+            "Demoralize"
+          ],
+          "origin_trait": [
+            "Accelerated Assault"
+          ]
+        },
+        "info": {
+          "rank": "",
+          "tier": "B",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "no Repulsor double void splash on the worst frame, decent origins",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -7771,8 +8047,8 @@
           }
         }
       },
-      "Loud Lullaby": {
-        "weapon_name": "Loud Lullaby",
+      "Malediction": {
+        "weapon_name": "Malediction",
         "version": "",
         "perks": {
           "column1": [
@@ -7782,138 +8058,20 @@
             "Alloy Magazine"
           ],
           "perk1": [
-            "Headstone",
-            "Rimestealer",
-            "Shoot to Loot"
+            "Shoot to Loot",
+            "Enlightened Action"
           ],
           "perk2": [
-            "Crystalline Corpsebloom",
-            "Explosive Payload"
+            "Explosive Payload",
+            "Redirection"
           ],
-          "origin_trait": [
-            "Loss"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Bold Endings": {
-        "weapon_name": "Bold Endings",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel"
-          ],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": [
-            "Dealer's Choice"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Warden's Law": {
-        "weapon_name": "Warden's Law",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel"
-          ],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": [
-            "Problem Solver"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Malediction": {
-        "weapon_name": "Malediction",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel"
-          ],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
           "origin_trait": [
             "Wild Card"
           ]
         },
         "info": {
           "rank": "",
-          "tier": "",
+          "tier": "C",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -7921,161 +8079,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Igneous Hammer": {
-        "weapon_name": "Igneous Hammer",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel"
-          ],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": [
-            "Fleet Footed"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Spare Rations": {
-        "weapon_name": "Spare Rations",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel"
-          ],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": [
-            "Gun and Run"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Rose": {
-        "weapon_name": "Rose",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel"
-          ],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Mos Athanor IV": {
-        "weapon_name": "Mos Athanor IV",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel"
-          ],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": [
-            "Accelerated Assault"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
+          "notes": "bad frame for StL + EP, other perk combos are quite underwhelming",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -8097,16 +8101,22 @@
           "column1": [
             "Fluted Barrel"
           ],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
+          "column2": [
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Firefly"
+          ],
+          "perk2": [
+            "Explosive Payload"
+          ],
           "origin_trait": [
             "Skulking Wolf"
           ]
         },
         "info": {
           "rank": "",
-          "tier": "",
+          "tier": "C",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -8114,7 +8124,53 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
+          "notes": "okay splash combo with good origin and worst frame",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Warden's Law": {
+        "weapon_name": "Warden's Law",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Enlightened Action",
+            "Demolitionist"
+          ],
+          "perk2": [
+            "Rampage"
+          ],
+          "origin_trait": [
+            "Problem Solver"
+          ]
+        },
+        "info": {
+          "rank": "",
+          "tier": "D",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "essentially a single target weapon, terrible 1st column, okay frame, mediocre origins",
           "description": "",
           "alternatives": "",
           "analysis": {

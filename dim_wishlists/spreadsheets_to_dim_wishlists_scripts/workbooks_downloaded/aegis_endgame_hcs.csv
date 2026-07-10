@@ -76,6 +76,8 @@ Desperate Measures",Häkke Breach Armaments,"pairs well with Lucky Pants when av
 Shoot to Loot",Explosive Payload,Eyes Up,"basically a worse Service Revolver for neutral, similar for StL + EP though",,B
 ,Sightline Survey,29,Arc,Precision,Encore,,52,Yes,Fluted Barrel,Alloy Magazine,"Enlightened Action
 Air Trigger",Voltshot,Radiolaria Transposer,"solid archetype + origin, but disappointing first column and Voltshot isn't great on HCs",,B
+,Bold Endings,29,Stasis,Heavy Burst,Pale Heart,,49,Yes,Fluted Barrel,Alloy Magazine,"Headstone
+Rimestealer",Crystalline Corpsebloom,Dealer's Choice,"decent origin, fine archetype, crystal spam perk combo",,B
 ,Agape,27,Solar,Heavy Burst,Kepler,,55,Yes,Fluted Barrel,"High-Caliber Rounds
 Alloy Magazine",Heal Clip,"Incandescent
 Firefly
@@ -86,26 +88,32 @@ Demoralize",Photoinhibition,"not bad besides lacking proper void combo, solid ar
 ,Sarpedon-D,28,Arc,Spread Shot,"Tenet of Bravery, Zavala",,52,Yes,Barrel Shroud,Alloy Magazine,"Impromptu Ammunition
 Lead from Light","Trench Barrel
 One-Two Punch
-Desperate Measures",Accelerated Assault,"not many appealing perks, frame is good but essentially just a single target hard hitter",,
+Desperate Measures",Accelerated Assault,"not many appealing perks, frame is good but essentially just a single target hard hitter",,B
 ,Phoneutria Fera,27,Solar,Spread Shot,Tenet of Bravery,,56,Yes,Fluted Barrel,Alloy Magazine,"Slideshot
 Threat Remover","Incandescent
 Surrounded
-One-Two Punch",Tenacity,similar situation to Sarpedon-D with a worse 1st column,,
-,D.F.A.,29,Kinetic,Adaptive,Pinnacle Ops,,58,Yes,Fluted Barrel,Alloy Magazine,Explosive Payload,Attrition Orbs,Accelerated Assault,"niche orb generation option (faster than Multimach, 4 shots), not good for much else",,
-,Yesterday's Question,29,Arc,Heavy Burst,Trials,,55,Yes,Fluted Barrel,"High-Caliber Rounds
-Alloy Magazine",Dragonfly,Voltshot,Fleet Footed,"kill-reload perks not very good on a heavy burst, weak double splash",,C
+One-Two Punch",Tenacity,similar situation to Sarpedon-D with a worse 1st column,,B
+,Spare Rations,29,Stasis,Lightweight,Gambit,,57,Yes,Fluted Barrel,Alloy Magazine,"Firefly
+Crystalline Corpsebloom",Explosive Payload,Gun and Run,"second column not the greatest, lacks barrier intrinsic despite 140 RPM, origin not great",,B
+,D.F.A.,29,Kinetic,Adaptive,Pinnacle Ops,,58,Yes,Fluted Barrel,Alloy Magazine,Explosive Payload,Attrition Orbs,Accelerated Assault,"niche orb generation option (faster than Multimach, 4 shots), not good for much else",,B
 ,Loud Lullaby,29,Stasis,Aggressive,Moon,,48,Yes,Fluted Barrel,Alloy Magazine,"Headstone
 Rimestealer
 Shoot to Loot","Crystalline Corpsebloom
-Explosive Payload",Loss,,,
-,Bold Endings,29,Stasis,Heavy Burst,Pale Heart,,49,Yes,Fluted Barrel,,,,Dealer's Choice,,,
-,Warden's Law,29,Kinetic,Heavy Burst,Zavala,,52,Yes,Fluted Barrel,,,,Problem Solver,,,
-,Malediction,29,Kinetic,Aggressive,Solo Ops,,60,Yes,Fluted Barrel,,,,Wild Card,,,
-,Igneous Hammer,29,Solar,Aggressive,Trials,,55,Yes,Fluted Barrel,,,,Fleet Footed,,,
-,Spare Rations,29,Stasis,Adaptive,Gambit,,57,Yes,Fluted Barrel,,,,Gun and Run,,,
-,Rose,29,Kinetic,Lightweight,Competitive,,58,Yes,Fluted Barrel,,,,None,,,
-,Mos Athanor IV,28,Void,Aggressive,"Tenet of Bravery, Shaxx",,52,Yes,Fluted Barrel,,,,Accelerated Assault,,,
-,Crimil's Dagger,29,Kinetic,Aggressive,Iron Banner,,56,Yes,Fluted Barrel,,,,Skulking Wolf,,,
+Explosive Payload",Loss,stasis crystal double splash but aggressive frame + awful origin,,B
+,Rose,29,Kinetic,Lightweight,Competitive,,58,Yes,Fluted Barrel,Alloy Magazine,Firefly,Explosive Payload,None,"slightly outdated kinetic splash combo, no origin, decent frame",,B
+,Igneous Hammer,29,Solar,Aggressive,Trials,,55,Yes,Fluted Barrel,"High-Caliber Rounds
+Alloy Magazine","Firefly
+Heal Clip",Incandescent,Fleet Footed,"worst frame and awful origins, just has standard solar double splash",,B
+,Mos Athanor IV,28,Void,Aggressive,"Tenet of Bravery, Shaxx",,52,Yes,Fluted Barrel,"High-Caliber Rounds
+Alloy Magazine",Destabilizing Rounds,Demoralize,Accelerated Assault,"no Repulsor double void splash on the worst frame, decent origins",,B
+,Yesterday's Question,29,Arc,Heavy Burst,Trials,,55,Yes,Fluted Barrel,"High-Caliber Rounds
+Alloy Magazine",Dragonfly,Voltshot,Fleet Footed,"kill-reload perks not very good on a heavy burst, weak double splash",,C
+,Malediction,29,Kinetic,Aggressive,Solo Ops,,60,Yes,Fluted Barrel,Alloy Magazine,"Shoot to Loot
+Enlightened Action","Explosive Payload
+Redirection",Wild Card,"bad frame for StL + EP, other perk combos are quite underwhelming",,C
+,Crimil's Dagger,29,Kinetic,Aggressive,Iron Banner,,56,Yes,Fluted Barrel,Alloy Magazine,Firefly,Explosive Payload,Skulking Wolf,okay splash combo with good origin and worst frame,,C
+,Warden's Law,29,Kinetic,Heavy Burst,Zavala,,52,Yes,Fluted Barrel,Alloy Magazine,"Enlightened Action
+Demolitionist",Rampage,Problem Solver,"essentially a single target weapon, terrible 1st column, okay frame, mediocre origins",,D
 ,Better Devils,29,Strand,Adaptive,Crucible,,50,Yes,Fluted Barrel,,,,Accelerated Assault,,,
 ,Exuviae,25,Stasis,Aggressive,"Xur, Kell's Fall?",,54,Yes,Fluted Barrel,,,,Dark Ether Reaper,,,
 ,Something New,29,Stasis,Aggressive,Tenet of Bravery,,51,Yes,Fluted Barrel,,,,Dream Work,,,
