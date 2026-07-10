@@ -6,7 +6,7 @@
       "patch": "Pantheon 2.0"
     },
     "link": "https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY",
-    "scrape_date": "2026-07-10 02:05:27"
+    "scrape_date": "2026-07-10 10:45:15"
   },
   "workbooks": {
     "Shopping List": {
@@ -6392,7 +6392,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "probably the \"traditional\" hand cannon in the game, also has StL + EP on top",
+          "notes": "probably the best \"traditional\" hand cannon in the game, also has StL + EP on top",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -6644,6 +6644,54 @@
           }
         }
       },
+      "Epochal Integration": {
+        "weapon_name": "Epochal Integration",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Explosive Payload",
+            "Heal Clip"
+          ],
+          "perk2": [
+            "Meganeura",
+            "Incandescent",
+            "Chaos Reshaped"
+          ],
+          "origin_trait": [
+            "Nanotech Tracer Missiles"
+          ]
+        },
+        "info": {
+          "rank": "",
+          "tier": "S",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "basically a Zaouli's with a better origin trait and no Redirection",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
       "Zaouli's Bane": {
         "weapon_name": "Zaouli's Bane",
         "version": "",
@@ -6786,6 +6834,476 @@
           }
         }
       },
+      "Vulpecula": {
+        "weapon_name": "Vulpecula",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Headstone",
+            "Shoot to Loot"
+          ],
+          "perk2": [
+            "Crystalline Corpsebloom",
+            "Explosive Payload"
+          ],
+          "origin_trait": [
+            "Ignoble Deeds"
+          ]
+        },
+        "info": {
+          "rank": "",
+          "tier": "A",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "crystal spam perk combo and StL + EP access on a great frame, mediocre origin",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Unloved": {
+        "weapon_name": "Unloved",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "High-Caliber Rounds",
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Hatchling",
+            "Dragonfly"
+          ],
+          "perk2": [
+            "Tear",
+            "Frenzy"
+          ],
+          "origin_trait": [
+            "Subjugation"
+          ]
+        },
+        "info": {
+          "rank": "",
+          "tier": "A",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "weaker double splash, but excellent origin trait on an decent archetype",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Solemn Remembrance": {
+        "weapon_name": "Solemn Remembrance",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Headstone"
+          ],
+          "perk2": [
+            "Firefly"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "A",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "adaptive frame damage profile, no origin but classic stasis double splash combo",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Luna's Howl": {
+        "weapon_name": "Luna's Howl",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "High-Caliber Rounds",
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Firefly",
+            "Heal Clip"
+          ],
+          "perk2": [
+            "Incandescent",
+            "Chaos Reshaped"
+          ],
+          "origin_trait": [
+            "Indomitability"
+          ]
+        },
+        "info": {
+          "rank": "",
+          "tier": "A",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "solid double splash, great frame, decent origin",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Midnight Coup": {
+        "weapon_name": "Midnight Coup",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Firefly",
+            "Explosive Payload",
+            "Shoot to Loot"
+          ],
+          "perk2": [
+            "Kinetic Tremors",
+            "Ancillary Ordinance",
+            "One for All"
+          ],
+          "origin_trait": [
+            "Indomitability"
+          ]
+        },
+        "info": {
+          "rank": "",
+          "tier": "A",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "had some novel kinetic combos on release, solid frame, not mind-blowing",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Triple Laureate": {
+        "weapon_name": "Triple Laureate",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Barrel Shroud"
+          ],
+          "column2": [
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Crystalline Corpsebloom"
+          ],
+          "perk2": [
+            "Chaos Reshaped",
+            "Trench Barrel"
+          ],
+          "origin_trait": [
+            "Häkke Breach Armaments"
+          ]
+        },
+        "info": {
+          "rank": "",
+          "tier": "A",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "very solid for crystal-based builds, great frame and Hakke + Crystalline pairing",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Trust": {
+        "weapon_name": "Trust",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Firefly"
+          ],
+          "perk2": [
+            "Incandescent",
+            "Explosive Payload"
+          ],
+          "origin_trait": [
+            "Gun and Run"
+          ]
+        },
+        "info": {
+          "rank": "",
+          "tier": "A",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "double splash and a solid frame, just not a lot of perk diversity and a bad origin",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Nation of Beasts": {
+        "weapon_name": "Nation of Beasts",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Gear Shift",
+            "Dragonfly"
+          ],
+          "perk2": [
+            "Jolting Feedback",
+            "Explosive Payload",
+            "Voltshot"
+          ],
+          "origin_trait": [
+            "Explosive Pact"
+          ]
+        },
+        "info": {
+          "rank": "",
+          "tier": "A",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "interesting arc splash/single target combos, mediocre origin though",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Service Revolver": {
+        "weapon_name": "Service Revolver",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Shoot to Loot",
+            "Stopping Power"
+          ],
+          "perk2": [
+            "Explosive Payload",
+            "Kinetic Tremors"
+          ],
+          "origin_trait": [
+            "Accelerated Assault"
+          ]
+        },
+        "info": {
+          "rank": "",
+          "tier": "B",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "kinetic splash combo isn't the greatest, StL + EP access on a 180 though",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Fatebringer": {
+        "weapon_name": "Fatebringer",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Explosive Payload",
+            "Kinetic Tremors",
+            "Stopping Power"
+          ],
+          "perk2": [
+            "Firefly",
+            "One for All"
+          ],
+          "origin_trait": [
+            "Timelost Magazine"
+          ]
+        },
+        "info": {
+          "rank": "",
+          "tier": "B",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "not the best double splash options, great origin and frame, but otherwise not very remarkable",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
       "Aureus Neutralizer": {
         "weapon_name": "Aureus Neutralizer",
         "version": "",
@@ -6811,7 +7329,7 @@
         },
         "info": {
           "rank": "",
-          "tier": "A",
+          "tier": "B",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -6820,6 +7338,97 @@
           "usage": "",
           "source": "",
           "notes": "pairs well with Lucky Pants when avoiding Out of Luck, honestly not much use otherwise",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Maahes HC4": {
+        "weapon_name": "Maahes HC4",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Repulsor Brace"
+          ],
+          "perk2": [
+            "Destabilizing Rounds"
+          ],
+          "origin_trait": [
+            "Omolon Fluid Dynamics"
+          ]
+        },
+        "info": {
+          "rank": "",
+          "tier": "B",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "decent frame, not the best QoL, classic void combo, bad origin",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Seventh Seraph Officer Revolver": {
+        "weapon_name": "Seventh Seraph Officer Revolver",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Seraph Rounds"
+          ],
+          "perk1": [
+            "Bewildering Burst",
+            "Shoot to Loot"
+          ],
+          "perk2": [
+            "Explosive Payload"
+          ],
+          "origin_trait": [
+            "Eyes Up"
+          ]
+        },
+        "info": {
+          "rank": "",
+          "tier": "B",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "basically a worse Service Revolver for neutral, similar for StL + EP though",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -6857,7 +7466,7 @@
         },
         "info": {
           "rank": "",
-          "tier": "A",
+          "tier": "B",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -6905,7 +7514,7 @@
         },
         "info": {
           "rank": "",
-          "tier": "A",
+          "tier": "B",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -6914,6 +7523,149 @@
           "usage": "",
           "source": "",
           "notes": "decent archetype, not a great user of Heal Clip, splash options are decent",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Ancient Gospel": {
+        "weapon_name": "Ancient Gospel",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Destabilizing Rounds",
+            "Repulsor Brace"
+          ],
+          "perk2": [
+            "Explosive Payload",
+            "Demoralize"
+          ],
+          "origin_trait": [
+            "Photoinhibition"
+          ]
+        },
+        "info": {
+          "rank": "",
+          "tier": "B",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "not bad besides lacking proper void combo, solid archetype and decent origin",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Sarpedon-D": {
+        "weapon_name": "Sarpedon-D",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Barrel Shroud"
+          ],
+          "column2": [
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Impromptu Ammunition",
+            "Lead from Light"
+          ],
+          "perk2": [
+            "Trench Barrel",
+            "One-Two Punch",
+            "Desperate Measures"
+          ],
+          "origin_trait": [
+            "Accelerated Assault"
+          ]
+        },
+        "info": {
+          "rank": "",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "not many appealing perks, frame is good but essentially just a single target hard hitter",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Phoneutria Fera": {
+        "weapon_name": "Phoneutria Fera",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Slideshot",
+            "Threat Remover"
+          ],
+          "perk2": [
+            "Incandescent",
+            "Surrounded",
+            "One-Two Punch"
+          ],
+          "origin_trait": [
+            "Tenacity"
+          ]
+        },
+        "info": {
+          "rank": "",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "similar situation to Sarpedon-D with a worse 1st column",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -6950,7 +7702,7 @@
         },
         "info": {
           "rank": "",
-          "tier": "A",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -6973,633 +7725,6 @@
           }
         }
       },
-      "Service Revolver": {
-        "weapon_name": "Service Revolver",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel"
-          ],
-          "column2": [
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Shoot to Loot",
-            "Stopping Power"
-          ],
-          "perk2": [],
-          "origin_trait": [
-            "Accelerated Assault"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Unloved": {
-        "weapon_name": "Unloved",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel"
-          ],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": [
-            "Subjugation"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Midnight Coup": {
-        "weapon_name": "Midnight Coup",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel"
-          ],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": [
-            "Indomitability"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Solemn Remembrance": {
-        "weapon_name": "Solemn Remembrance",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel"
-          ],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Ancient Gospel": {
-        "weapon_name": "Ancient Gospel",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel"
-          ],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": [
-            "Photoinhibition"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Triple Laureate": {
-        "weapon_name": "Triple Laureate",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Barrel Shroud"
-          ],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": [
-            "Häkke Breach Armaments"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Sarpedon-D": {
-        "weapon_name": "Sarpedon-D",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Barrel Shroud"
-          ],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": [
-            "Accelerated Assault"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Phoneutria Fera": {
-        "weapon_name": "Phoneutria Fera",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel"
-          ],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": [
-            "Tenacity"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Luna's Howl": {
-        "weapon_name": "Luna's Howl",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel"
-          ],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": [
-            "Indomitability"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Epochal Integration": {
-        "weapon_name": "Epochal Integration",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel"
-          ],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": [
-            "Nanotech Tracer Missiles"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Trust": {
-        "weapon_name": "Trust",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel"
-          ],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": [
-            "Gun and Run"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Vulpecula": {
-        "weapon_name": "Vulpecula",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel"
-          ],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": [
-            "Ignoble Deeds"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Nation of Beasts": {
-        "weapon_name": "Nation of Beasts",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel"
-          ],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": [
-            "Explosive Pact"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Fatebringer": {
-        "weapon_name": "Fatebringer",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel"
-          ],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": [
-            "Timelost Magazine"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Maahes HC4": {
-        "weapon_name": "Maahes HC4",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel"
-          ],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": [
-            "Omolon Fluid Dynamics"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Seventh Seraph Officer Revolver": {
-        "weapon_name": "Seventh Seraph Officer Revolver",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel"
-          ],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": [
-            "Eyes Up"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
       "Yesterday's Question": {
         "weapon_name": "Yesterday's Question",
         "version": "",
@@ -7607,16 +7732,23 @@
           "column1": [
             "Fluted Barrel"
           ],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
+          "column2": [
+            "High-Caliber Rounds",
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Dragonfly"
+          ],
+          "perk2": [
+            "Voltshot"
+          ],
           "origin_trait": [
             "Fleet Footed"
           ]
         },
         "info": {
           "rank": "",
-          "tier": "",
+          "tier": "C",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -7624,7 +7756,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
+          "notes": "kill-reload perks not very good on a heavy burst, weak double splash",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -7646,9 +7778,18 @@
           "column1": [
             "Fluted Barrel"
           ],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
+          "column2": [
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Headstone",
+            "Rimestealer",
+            "Shoot to Loot"
+          ],
+          "perk2": [
+            "Crystalline Corpsebloom",
+            "Explosive Payload"
+          ],
           "origin_trait": [
             "Loss"
           ]
