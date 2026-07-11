@@ -1403,3 +1403,31 @@
   2026-07-10 17:41:13,765 [INFO] [aegis_endgame] -> ⚙️ Mapping sheet layout structure: 'Exotic Armor (ignore)' from workbooks_downloaded/aegis_endgame_exotic_armor_(ignore).csv
   2026-07-10 17:41:13,811 [INFO] [aegis_endgame] -> 🎉 Successfully compiled endgame down to cache: spreadsheets_scraped_data/aegis_endgame_spreadsheet_data_scraped.json
   2026-07-10 17:41:13,812 [INFO] [aegis_endgame] -> ✅ Registry synchronization update flags reset to False for elements: ['Status', 'Changelog', 'Shopping List', 'Autos', 'Bows', 'HCs', 'Pulses', 'Scouts', 'Sidearms', 'SMGs', 'BGLs', 'Fusions', 'Glaives', 'Shotguns', 'Snipers', 'Rocket Sidearms', 'Traces', 'HGLs', 'LFRs', 'LMGs', 'Rockets', 'Swords', 'Other', 'Exotic Weapons', 'Exotic Armor (ignore)']
+2026-07-11 01:52:04,896 [INFO] [aegis_endgame] -> ================================================================================
+2026-07-11 01:52:04,896 [INFO] [aegis_endgame] -> 🚀 Initializing Data Extraction Pipeline Engine: [aegis_endgame]
+2026-07-11 01:52:04,896 [INFO] [aegis_endgame] -> ================================================================================
+  2026-07-11 01:52:04,924 [INFO] [aegis_endgame] -> ⚙️ Mapping sheet layout structure: 'Shopping List' from workbooks_downloaded/aegis_endgame_shopping_list.csv
+  2026-07-11 01:52:04,925 [INFO] [aegis_endgame] -> ⚙️ Mapping sheet layout structure: 'Autos' from workbooks_downloaded/aegis_endgame_autos.csv
+  2026-07-11 01:52:04,926 [INFO] [aegis_endgame] -> ⚙️ Mapping sheet layout structure: 'Bows' from workbooks_downloaded/aegis_endgame_bows.csv
+  2026-07-11 01:52:04,927 [INFO] [aegis_endgame] -> ⚙️ Mapping sheet layout structure: 'HCs' from workbooks_downloaded/aegis_endgame_hcs.csv
+  2026-07-11 01:52:04,928 [INFO] [aegis_endgame] -> ⚙️ Mapping sheet layout structure: 'Pulses' from workbooks_downloaded/aegis_endgame_pulses.csv
+  2026-07-11 01:52:04,928 [INFO] [aegis_endgame] -> ⚙️ Mapping sheet layout structure: 'Scouts' from workbooks_downloaded/aegis_endgame_scouts.csv
+  2026-07-11 01:52:04,929 [INFO] [aegis_endgame] -> ⚙️ Mapping sheet layout structure: 'Sidearms' from workbooks_downloaded/aegis_endgame_sidearms.csv
+  2026-07-11 01:52:04,930 [INFO] [aegis_endgame] -> ⚙️ Mapping sheet layout structure: 'SMGs' from workbooks_downloaded/aegis_endgame_smgs.csv
+  2026-07-11 01:52:04,931 [INFO] [aegis_endgame] -> ⚙️ Mapping sheet layout structure: 'BGLs' from workbooks_downloaded/aegis_endgame_bgls.csv
+  2026-07-11 01:52:04,931 [INFO] [aegis_endgame] -> ⚙️ Mapping sheet layout structure: 'Fusions' from workbooks_downloaded/aegis_endgame_fusions.csv
+  2026-07-11 01:52:04,932 [INFO] [aegis_endgame] -> ⚙️ Mapping sheet layout structure: 'Glaives' from workbooks_downloaded/aegis_endgame_glaives.csv
+  2026-07-11 01:52:04,932 [INFO] [aegis_endgame] -> ⚙️ Mapping sheet layout structure: 'Shotguns' from workbooks_downloaded/aegis_endgame_shotguns.csv
+  2026-07-11 01:52:04,933 [INFO] [aegis_endgame] -> ⚙️ Mapping sheet layout structure: 'Snipers' from workbooks_downloaded/aegis_endgame_snipers.csv
+  2026-07-11 01:52:04,934 [INFO] [aegis_endgame] -> ⚙️ Mapping sheet layout structure: 'Rocket Sidearms' from workbooks_downloaded/aegis_endgame_rocket_sidearms.csv
+  2026-07-11 01:52:04,934 [INFO] [aegis_endgame] -> ⚙️ Mapping sheet layout structure: 'Traces' from workbooks_downloaded/aegis_endgame_traces.csv
+  2026-07-11 01:52:04,935 [INFO] [aegis_endgame] -> ⚙️ Mapping sheet layout structure: 'HGLs' from workbooks_downloaded/aegis_endgame_hgls.csv
+  2026-07-11 01:52:04,935 [INFO] [aegis_endgame] -> ⚙️ Mapping sheet layout structure: 'LFRs' from workbooks_downloaded/aegis_endgame_lfrs.csv
+  2026-07-11 01:52:04,936 [INFO] [aegis_endgame] -> ⚙️ Mapping sheet layout structure: 'LMGs' from workbooks_downloaded/aegis_endgame_lmgs.csv
+  2026-07-11 01:52:04,936 [INFO] [aegis_endgame] -> ⚙️ Mapping sheet layout structure: 'Rockets' from workbooks_downloaded/aegis_endgame_rockets.csv
+  2026-07-11 01:52:04,937 [INFO] [aegis_endgame] -> ⚙️ Mapping sheet layout structure: 'Swords' from workbooks_downloaded/aegis_endgame_swords.csv
+  2026-07-11 01:52:04,938 [INFO] [aegis_endgame] -> ⚙️ Mapping sheet layout structure: 'Other' from workbooks_downloaded/aegis_endgame_other.csv
+  2026-07-11 01:52:04,938 [INFO] [aegis_endgame] -> ⚙️ Mapping sheet layout structure: 'Exotic Weapons' from workbooks_downloaded/aegis_endgame_exotic_weapons.xlsx
+  2026-07-11 01:52:05,084 [INFO] [aegis_endgame] -> ⚙️ Mapping sheet layout structure: 'Exotic Armor (ignore)' from workbooks_downloaded/aegis_endgame_exotic_armor_(ignore).csv
+  2026-07-11 01:52:05,118 [INFO] [aegis_endgame] -> 🎉 Successfully compiled endgame down to cache: spreadsheets_scraped_data/aegis_endgame_spreadsheet_data_scraped.json
+  2026-07-11 01:52:05,118 [INFO] [aegis_endgame] -> ✅ Registry synchronization update flags reset to False for elements: ['Status', 'Changelog', 'Shopping List', 'Autos', 'Bows', 'HCs', 'Pulses', 'Scouts', 'Sidearms', 'SMGs', 'BGLs', 'Fusions', 'Glaives', 'Shotguns', 'Snipers', 'Rocket Sidearms', 'Traces', 'HGLs', 'LFRs', 'LMGs', 'Rockets', 'Swords', 'Other', 'Exotic Weapons', 'Exotic Armor (ignore)']

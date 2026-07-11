@@ -2,146 +2,180 @@ WEAPON,,INFO,,,,,,,PERKS,,,,,ANALYSIS,,
 🖼️,Name,Season,Energy,Frame,Source,Stun,Ammo,⬆️,Barrel,Mag,Perk 1,Perk 2,Origin Trait,Notes,Rank,Tier
 ,Kindled Orchid,29,Void,Adaptive,Arena Ops,,60,Yes,Fluted Barrel,Alloy Magazine,"Repulsor Brace
 Shoot to Loot","Destabilizing Rounds
-Explosive Payload",Forge's Kin,"probably the best ""traditional"" hand cannon in the game, also has StL + EP on top",,S
+Explosive Payload",Forge's Kin,"probably the best ""traditional"" hand cannon in the game, also has StL + EP on top",1,S
 ,IRONWOOD 03,29,Void,Spread Shot,Distortions,,50,Yes,Barrel Shroud,Alloy Magazine,"Repulsor Brace
 Dimensional Shift
 Demolitionist","Destabilizing Rounds
 Surrounded
-Collective Action",Carrion Munitions,"most potent damage profile with almost every relevant void perk, great origin",,S
+Collective Action",Carrion Munitions,"most potent damage profile with almost every relevant void perk, great origin",2,S
 ,Word of Crota,29,Void,Precision,Crota's End,,52,Yes,Fluted Barrel,Alloy Magazine,"Repulsor Brace
 Dragonfly
 Collective Demolition
-",Destabilizing Rounds,Cursed Thrall,"great overall, strong but build-dependent origin, solid perks",,S
+",Destabilizing Rounds,Cursed Thrall,"great overall, strong but build-dependent origin, solid perks",3,S
 ,Exalted Truth,29,Void,Adaptive,Trials,,58,Yes,Fluted Barrel,Alloy Magazine,"Destabilizing Rounds
-Withering Gaze",Repulsor Brace,Fleet Footed,"not particularly remarkable but has classic void combo on good frame, poor origin",,S
+Withering Gaze",Repulsor Brace,Fleet Footed,"not particularly remarkable but has classic void combo on good frame, poor origin",4,S
 ,Modified B-7 Pistol,28,Stasis,Dynamic,Tharsis Outpost,,54,Yes,Fluted Barrel,Enhanced Heatsink,Firefly,"Headstone
-Crystalline Corpsebloom",Accelerated Assault,"strongest possible double splash stasis combo, great frame, solid origin",,S
+Crystalline Corpsebloom",Accelerated Assault,"strongest possible double splash stasis combo, great frame, solid origin",5,S
+,"Zaouli's Bane
+Pantheon version",29,Solar,Adaptive,Pantheon,,50,Yes,Fluted Barrel,Alloy Magazine,"Firefly
+Explosive Payload
+Burning Ambition","Meganeura
+Incandescent
+Chaos Reshaped",Elliptical Orbit,"most potent double splash solar option, solid origin and great frame too",6,S
+,Epochal Integration,29,Solar,Adaptive,Neomuna,,54,Yes,Fluted Barrel,Alloy Magazine,"Explosive Payload
+Heal Clip","Meganeura
+Incandescent
+Chaos Reshaped",Nanotech Tracer Missiles,basically a Zaouli's with a better origin trait and no Redirection,7,S
 ,Eyasluna,29,Stasis,Adaptive,Grasp of Avarice,,54,Yes,Fluted Barrel,"High-Caliber Rounds
 Alloy Magazine","Firefly
 Meganeura","Headstone
 Crystalline Corpsebloom
-Chaos Reshaped",Unburied Treasure,same pairings as Modified B-7 but has Meganeura and Chaos diversity with worse damage profile,,S
-,Epochal Integration,29,Solar,Adaptive,Neomuna,,54,Yes,Fluted Barrel,Alloy Magazine,"Explosive Payload
-Heal Clip","Meganeura
-Incandescent
-Chaos Reshaped",Nanotech Tracer Missiles,basically a Zaouli's with a better origin trait and no Redirection,,S
+Chaos Reshaped",Unburied Treasure,same pairings as Modified B-7 but has Meganeura and Chaos diversity with worse damage profile,8,S
 ,Zaouli's Bane,29,Solar,Adaptive,King's Fall,,50,Yes,Fluted Barrel,Alloy Magazine,"Explosive Payload
 Redirection","Meganeura
 Incandescent
-Chaos Reshaped",Runneth Over,"interesting Redirection pairing, very lethal perk combos but lacks sustain",,S
-,Posterity,29,Arc,Precision,Deep Stone Crypt,,53,Yes,Fluted Barrel,Alloy Magazine,Voltshot,"Redirection
-Explosive Payload",Bray Inheritance,"probably best Voltshot hand cannon, still lower in lethality compared to other splash combos",,A
+Chaos Reshaped",Runneth Over,"interesting Redirection pairing, very lethal perk combos but lacks sustain",9,S
 ,Corundum Hammer,28,Strand,Adaptive,Trials,,51,Yes,Fluted Barrel,Alloy Magazine,"Firefly
 Shoot to Loot
 Slice","Tear
-Explosive Payload",Fleet Footed,"decent double splash for a strand HC, great archetype, StL + EP option",,A
+Explosive Payload",Fleet Footed,"decent double splash for a strand HC, great archetype, StL + EP option",10,A
 ,Vulpecula,29,Stasis,Precision,Shattered Throne,,52,Yes,Fluted Barrel,Alloy Magazine,"Headstone
 Shoot to Loot","Crystalline Corpsebloom
-Explosive Payload",Ignoble Deeds,"crystal spam perk combo and StL + EP access on a great frame, mediocre origin",,A
+Explosive Payload",Ignoble Deeds,"crystal spam perk combo and StL + EP access on a great frame, mediocre origin",11,A
 ,Unloved,29,Strand,Heavy Burst,Sundered Doctrine,,60,Yes,Fluted Barrel,"High-Caliber Rounds
 Alloy Magazine","Hatchling
 Dragonfly","Tear
-Frenzy",Subjugation,"weaker double splash, but excellent origin trait on an decent archetype",,A
-,Solemn Remembrance,27,Stasis,Precision,Crucible,,55,Yes,Fluted Barrel,Alloy Magazine,Headstone,Firefly,None,"adaptive frame damage profile, no origin but classic stasis double splash combo",,A
+Frenzy",Subjugation,"weaker double splash, but excellent origin trait on an decent archetype",12,A
+,Nation of Beasts,29,Arc,Adaptive,Last Wish,,51,Yes,Fluted Barrel,Alloy Magazine,"Gear Shift
+Dragonfly","Jolting Feedback
+Explosive Payload
+Voltshot",Explosive Pact,"interesting arc splash/single target combos, mediocre origin though",13,A
+,Solemn Remembrance,27,Stasis,Precision,Crucible,,55,Yes,Fluted Barrel,Alloy Magazine,Headstone,Firefly,None,"adaptive frame damage profile, no origin but classic stasis double splash combo",14,A
 ,Luna's Howl,29,Solar,Precision,Onslaught,,60,Yes,Fluted Barrel,"High-Caliber Rounds
 Alloy Magazine","Firefly
 Heal Clip","Incandescent
-Chaos Reshaped",Indomitability,"solid double splash, great frame, decent origin",,A
+Chaos Reshaped",Indomitability,"solid double splash, great frame, decent origin",15,A
 ,Midnight Coup,29,Kinetic,Adaptive,Onslaught,,60,Yes,Fluted Barrel,Alloy Magazine,"Firefly
 Explosive Payload
 Shoot to Loot","Kinetic Tremors
 Ancillary Ordinance
-One for All",Indomitability,"had some novel kinetic combos on release, solid frame, not mind-blowing",,A
+One for All",Indomitability,"had some novel kinetic combos on release, solid frame, not mind-blowing",16,A
 ,Triple Laureate,28,Stasis,Spread Shot,Tenet of Bravery,,56,Yes,Barrel Shroud,Alloy Magazine,Crystalline Corpsebloom,"Chaos Reshaped
-Trench Barrel",Häkke Breach Armaments,"very solid for crystal-based builds, great frame and Hakke + Crystalline pairing",,A
+Trench Barrel",Häkke Breach Armaments,"very solid for crystal-based builds, great frame and Hakke + Crystalline pairing",17,A
 ,Trust,29,Solar,Precision,Gambit,,60,Yes,Fluted Barrel,Alloy Magazine,Firefly,"Incandescent
-Explosive Payload",Gun and Run,"double splash and a solid frame, just not a lot of perk diversity and a bad origin",,A
-,Nation of Beasts,29,Arc,Adaptive,Last Wish,,51,Yes,Fluted Barrel,Alloy Magazine,"Gear Shift
-Dragonfly","Jolting Feedback
-Explosive Payload
-Voltshot",Explosive Pact,"interesting arc splash/single target combos, mediocre origin though",,A
+Explosive Payload",Gun and Run,"double splash and a solid frame, just not a lot of perk diversity and a bad origin",18,A
+,Posterity,29,Arc,Precision,Deep Stone Crypt,,53,Yes,Fluted Barrel,Alloy Magazine,Voltshot,"Redirection
+Explosive Payload",Bray Inheritance,"probably best Voltshot hand cannon, still lower in lethality compared to other splash combos",19,A
 ,Service Revolver,29,Kinetic,Precision,Fireteam Ops,,48,Yes,Fluted Barrel,Alloy Magazine,"Shoot to Loot
 Stopping Power","Explosive Payload
-Kinetic Tremors",Accelerated Assault,"kinetic splash combo isn't the greatest, StL + EP access on a 180 though",,B
+Kinetic Tremors",Accelerated Assault,"kinetic splash combo isn't the greatest, StL + EP access on a 180 though",20,B
 ,Fatebringer,29,Kinetic,Adaptive,Vault of Glass,,53,Yes,Fluted Barrel,Alloy Magazine,"Explosive Payload
 Kinetic Tremors
 Stopping Power","Firefly
-One for All",Timelost Magazine,"not the best double splash options, great origin and frame, but otherwise not very remarkable",,B
+One for All",Timelost Magazine,"not the best double splash options, great origin and frame, but otherwise not very remarkable",21,B
 ,Aureus Neutralizer,27,Kinetic,Spread Shot,Trials,,60,Yes,Barrel Shroud,Alloy Magazine,"Grave Robber
 Vorpal Weapon","Trench Barrel
 Cascade Point
-Desperate Measures",Häkke Breach Armaments,"pairs well with Lucky Pants when avoiding Out of Luck, honestly not much use otherwise",,B
-,Maahes HC4,29,Void,Heavy Burst,Banshee,,50,Yes,Fluted Barrel,Alloy Magazine,Repulsor Brace,Destabilizing Rounds,Omolon Fluid Dynamics,"decent frame, not the best QoL, classic void combo, bad origin",,B
+Desperate Measures",Häkke Breach Armaments,"pairs well with Lucky Pants when avoiding Out of Luck, honestly not much use otherwise",22,B
+,Maahes HC4,29,Void,Heavy Burst,Banshee,,50,Yes,Fluted Barrel,Alloy Magazine,Repulsor Brace,Destabilizing Rounds,Omolon Fluid Dynamics,"decent frame, not the best QoL, classic void combo, bad origin",23,B
 ,Seventh Seraph Officer Revolver,29,Kinetic,Precision,Cosmodrome,,52,Yes,Fluted Barrel,Seraph Rounds,"Bewildering Burst
-Shoot to Loot",Explosive Payload,Eyes Up,"basically a worse Service Revolver for neutral, similar for StL + EP though",,B
-,Sightline Survey,29,Arc,Precision,Encore,,52,Yes,Fluted Barrel,Alloy Magazine,"Enlightened Action
-Air Trigger",Voltshot,Radiolaria Transposer,"solid archetype + origin, but disappointing first column and Voltshot isn't great on HCs",,B
+Shoot to Loot",Explosive Payload,Eyes Up,"basically a worse Service Revolver for neutral, similar for StL + EP though",24,B
 ,Bold Endings,29,Stasis,Heavy Burst,Pale Heart,,49,Yes,Fluted Barrel,Alloy Magazine,"Headstone
-Rimestealer",Crystalline Corpsebloom,Dealer's Choice,"decent origin, fine archetype, crystal spam perk combo",,B
+Rimestealer",Crystalline Corpsebloom,Dealer's Choice,"decent origin, fine archetype, crystal spam perk combo",25,B
 ,Agape,27,Solar,Heavy Burst,Kepler,,55,Yes,Fluted Barrel,"High-Caliber Rounds
 Alloy Magazine",Heal Clip,"Incandescent
 Firefly
-Burning Ambition",Exhaustive Research,"decent archetype, not a great user of Heal Clip, splash options are decent",,B
+Burning Ambition",Exhaustive Research,"decent archetype, not a great user of Heal Clip, splash options are decent",26,B
 ,Ancient Gospel,29,Void,Adaptive,Garden of Salvation,,57,Yes,Fluted Barrel,Alloy Magazine,"Destabilizing Rounds
 Repulsor Brace","Explosive Payload
-Demoralize",Photoinhibition,"not bad besides lacking proper void combo, solid archetype and decent origin",,B
+Demoralize",Photoinhibition,"not bad besides lacking proper void combo, solid archetype and decent origin",27,B
 ,Sarpedon-D,28,Arc,Spread Shot,"Tenet of Bravery, Zavala",,52,Yes,Barrel Shroud,Alloy Magazine,"Impromptu Ammunition
 Lead from Light","Trench Barrel
 One-Two Punch
-Desperate Measures",Accelerated Assault,"not many appealing perks, frame is good but essentially just a single target hard hitter",,B
+Desperate Measures",Accelerated Assault,"not many appealing perks, frame is good but essentially just a single target hard hitter",28,B
 ,Phoneutria Fera,27,Solar,Spread Shot,Tenet of Bravery,,56,Yes,Fluted Barrel,Alloy Magazine,"Slideshot
 Threat Remover","Incandescent
 Surrounded
-One-Two Punch",Tenacity,similar situation to Sarpedon-D with a worse 1st column,,B
+One-Two Punch",Tenacity,similar situation to Sarpedon-D with a worse 1st column,29,B
+,Sightline Survey,29,Arc,Precision,Encore,,52,Yes,Fluted Barrel,Alloy Magazine,"Enlightened Action
+Air Trigger",Voltshot,Radiolaria Transposer,"solid archetype + origin, but disappointing first column and Voltshot isn't great on HCs",30,B
 ,Spare Rations,29,Stasis,Lightweight,Gambit,,57,Yes,Fluted Barrel,Alloy Magazine,"Firefly
-Crystalline Corpsebloom",Explosive Payload,Gun and Run,"second column not the greatest, lacks barrier intrinsic despite 140 RPM, origin not great",,B
-,D.F.A.,29,Kinetic,Adaptive,Pinnacle Ops,,58,Yes,Fluted Barrel,Alloy Magazine,Explosive Payload,Attrition Orbs,Accelerated Assault,"niche orb generation option (faster than Multimach, 4 shots), not good for much else",,B
+Crystalline Corpsebloom",Explosive Payload,Gun and Run,"second column not the greatest, lacks barrier intrinsic despite 140 RPM, origin not great",31,B
+,D.F.A.,29,Kinetic,Adaptive,Pinnacle Ops,,58,Yes,Fluted Barrel,Alloy Magazine,Explosive Payload,Attrition Orbs,Accelerated Assault,"niche orb generation option (faster than Multimach, 4 shots), not good for much else",32,B
 ,Loud Lullaby,29,Stasis,Aggressive,Moon,,48,Yes,Fluted Barrel,Alloy Magazine,"Headstone
 Rimestealer
 Shoot to Loot","Crystalline Corpsebloom
-Explosive Payload",Loss,stasis crystal double splash but aggressive frame + awful origin,,B
-,Rose,29,Kinetic,Lightweight,Competitive,,58,Yes,Fluted Barrel,Alloy Magazine,Firefly,Explosive Payload,None,"slightly outdated kinetic splash combo, no origin, decent frame",,B
+Explosive Payload",Loss,stasis crystal double splash but aggressive frame + awful origin,33,B
+,Rose,29,Kinetic,Lightweight,Competitive,,58,Yes,Fluted Barrel,Alloy Magazine,Firefly,Explosive Payload,None,"slightly outdated kinetic splash combo, no origin, decent frame",34,B
 ,Igneous Hammer,29,Solar,Aggressive,Trials,,55,Yes,Fluted Barrel,"High-Caliber Rounds
 Alloy Magazine","Firefly
-Heal Clip",Incandescent,Fleet Footed,"worst frame and awful origins, just has standard solar double splash",,B
+Heal Clip",Incandescent,Fleet Footed,"worst frame and awful origins, just has standard solar double splash",35,B
 ,Mos Athanor IV,28,Void,Aggressive,"Tenet of Bravery, Shaxx",,52,Yes,Fluted Barrel,"High-Caliber Rounds
-Alloy Magazine",Destabilizing Rounds,Demoralize,Accelerated Assault,"no Repulsor double void splash on the worst frame, decent origins",,B
+Alloy Magazine",Destabilizing Rounds,Demoralize,Accelerated Assault,"no Repulsor double void splash on the worst frame, decent origins",36,B
+,Optative,29,Void,Precision,Starcrossed,,54,Yes,Fluted Barrel,Alloy Magazine,Repulsor Brace,Golden Tricorn,Nano-Munitions,"rated higher because of volatile access in artifact, otherwise pretty bad, great origin",37,C
+,IKELOS_HC_V1.0.3,29,Void,Precision,Seraph's Shield,,53,Yes,Fluted Barrel,Seraph Rounds,Rapid Hit,Repulsor Brace,Rasputin's Arsenal,"similar situation to Optative, worse origin and Repulsor pairing but Seraph Rounds access",38,C
 ,Yesterday's Question,29,Arc,Heavy Burst,Trials,,55,Yes,Fluted Barrel,"High-Caliber Rounds
-Alloy Magazine",Dragonfly,Voltshot,Fleet Footed,"kill-reload perks not very good on a heavy burst, weak double splash",,C
+Alloy Magazine",Dragonfly,Voltshot,Fleet Footed,"kill-reload perks not very good on a heavy burst, weak double splash",39,C
 ,Malediction,29,Kinetic,Aggressive,Solo Ops,,60,Yes,Fluted Barrel,Alloy Magazine,"Shoot to Loot
 Enlightened Action","Explosive Payload
-Redirection",Wild Card,"bad frame for StL + EP, other perk combos are quite underwhelming",,C
-,Crimil's Dagger,29,Kinetic,Aggressive,Iron Banner,,56,Yes,Fluted Barrel,Alloy Magazine,Firefly,Explosive Payload,Skulking Wolf,okay splash combo with good origin and worst frame,,C
-,Warden's Law,29,Kinetic,Heavy Burst,Zavala,,52,Yes,Fluted Barrel,Alloy Magazine,"Enlightened Action
-Demolitionist",Rampage,Problem Solver,"essentially a single target weapon, terrible 1st column, okay frame, mediocre origins",,D
-,Better Devils,29,Strand,Adaptive,Crucible,,50,Yes,Fluted Barrel,,,,Accelerated Assault,,,
-,Exuviae,25,Stasis,Aggressive,"Xur, Kell's Fall?",,54,Yes,Fluted Barrel,,,,Dark Ether Reaper,,,
-,Something New,29,Stasis,Aggressive,Tenet of Bravery,,51,Yes,Fluted Barrel,,,,Dream Work,,,
-,Waking Vigil,29,Arc,Adaptive,Dreaming City,,46,Yes,Fluted Barrel,,,,Advanced Reflexes,,,
-,Round Robin,29,Strand,Aggressive,Neomuna,,52,Yes,Fluted Barrel,,,,Nanotech Tracer Missiles,,,
-,Sixth Sense,29,Strand,Aggressive,Tenet of Bravery,,54,Yes,Fluted Barrel,,,,Wild Card,,,
-,The Palindrome,29,Arc,Adaptive,Pinnacle Ops,,50,Yes,Fluted Barrel,,,,Wild Card,,,
+Redirection",Wild Card,"bad frame for StL + EP, other perk combos are quite underwhelming",40,C
+,Round Robin,29,Strand,Aggressive,Neomuna,,52,Yes,Fluted Barrel,"High-Caliber Rounds
+Alloy Magazine",Tear,Hatchling,Nanotech Tracer Missiles,"Tear over Slice on Better Devils, better origin despite worse archetype",41,C
 ,"Judgment
-RotN version",26,Stasis,Adaptive,Rite of the Nine,,50,Yes,Fastdraw HCS,,,,Gravity Well,,,
-,Judgment,29,Stasis,Adaptive,Prophecy,,50,Yes,Fluted Barrel,,,,Crossing Over,,,
-,Finite Impactor,27,Solar,Adaptive,Iron Banner,,49,Yes,Fluted Barrel,,,,Skulking Wolf,,,
-,Solemn Lie,29,Arc,Lightweight,Competitive,,60,Yes,Fluted Barrel,,,,None,,,
-,Targeted Redaction,29,Void,Aggressive,Xur,,49,Yes,Fluted Barrel,,,,Unsated Hunger,,,
-,True Prophecy,29,Arc,Aggressive,Nessus,,52,Yes,Fluted Barrel,,,,Fail-deadly,,,
-,Combined Action,21,Arc,Aggressive,Banshee,,53,Yes,Fluted Barrel,,,,Field-Tested,,,
-,Survivor's Epitaph,29,Kinetic,Precision,Crucible,,47,Yes,Fluted Barrel,,,,Accelerated Assault,,,
-,Cantata-57,16,Arc,Adaptive,Banshee,,45,No,Fluted Barrel,,,,Suros Synergy,,,
-,Optative,29,Void,Precision,Starcrossed,,54,Yes,Fluted Barrel,,,,Nano-Munitions,,,
-,IKELOS_HC_V1.0.3,29,Void,Precision,Seraph's Shield,,53,Yes,Fluted Barrel,,,,Rasputin's Arsenal,,,
-,Bottom Dollar,29,Void,Aggressive,Gambit,,59,Yes,Fluted Barrel,,,,Gun and Run,,,
-,Annual Skate,15,Solar,Adaptive,Xur,,52,No,Fastdraw HCS,,,,None,,,
-,Frontier's Cry,29,Solar,Precision,Iron Banner,,48,Yes,Fluted Barrel,,,,Skulking Wolf,,,
-,Austringer,29,Kinetic,Adaptive,Presage,,53,Yes,Fluted Barrel,,,,To Excess,,,
-,Nature of the Beast,11,Arc,Precision,Xur,,57,No,Fastdraw HCS,,,,None,,,
-,Crisis Inverted,16,Arc,Adaptive,Crucible,,52,No,Fluted Barrel,,,,Omolon Fluid Dynamics,,,
-,Pure Poetry,18,Kinetic,Aggressive,Zavala,,50,No,Fluted Barrel,,,,Häkke Breach Armaments,,,
-,Dire Promise,10,Kinetic,Adaptive,"Xur, Dares",,60,No,Fastdraw HCS,,,,None,,,
-,The Steady Hand,12,Kinetic,Aggressive,Iron Banner,,40,No,Fastdraw HCS,,,,None,,,
-,Kept Confidence,29,Strand,Adaptive,Xur,,55,Yes,Fluted Barrel,,,,Head Rush,,,
-,"Zaouli's Bane
-Pantheon version",29,Solar,Adaptive,Pantheon,,50,Yes,Fluted Barrel,,,,Elliptical Orbit,,,
+RotN version",26,Stasis,Adaptive,Rite of the Nine,,50,Yes,Fastdraw HCS,Alloy Magazine,Headstone,"Rimestealer
+Timed Payload",Gravity Well,"outdated stasis combo, unique origin trait, little diversity otherwise",42,C
+,Judgment,29,Stasis,Adaptive,Prophecy,,50,Yes,Fluted Barrel,Alloy Magazine,"Headstone
+Crystalline Corpsebloom","Rimestealer
+Timed Payload",Crossing Over,"exchanges better origin trait for Crystalline access, not really worth it",43,C
+,Finite Impactor,27,Solar,Adaptive,Iron Banner,,49,Yes,Fluted Barrel,"High-Caliber Rounds
+Alloy Magazine",Heal Clip,Burning Ambition,Skulking Wolf,"solid overall package, just too niche due to missing Incandescent",44,C
+,Better Devils,29,Strand,Adaptive,Crucible,,50,Yes,Fluted Barrel,Alloy Magazine,Slice,"Hatchling
+Explosive Payload",Accelerated Assault,"very mediocre splash options, good frame and origin though",45,C
+,Sixth Sense,29,Strand,Aggressive,Tenet of Bravery,,54,Yes,Fluted Barrel,Alloy Magazine,Explosive Payload,"Meganeura
+Tear
+Hatchling",Wild Card,"not bad double splash, decent origin, bad archetype",46,C
+,Crimil's Dagger,29,Kinetic,Aggressive,Iron Banner,,56,Yes,Fluted Barrel,Alloy Magazine,Firefly,Explosive Payload,Skulking Wolf,okay splash combo with good origin and worst frame,47,C
+,Exuviae,25,Stasis,Aggressive,"Xur, Kell's Fall?",,54,Yes,Fluted Barrel,Alloy Magazine,Rimestealer,Headstone,Dark Ether Reaper,older stasis combo with great origin and poor achetype,48,C
+,The Palindrome,29,Arc,Adaptive,Pinnacle Ops,,50,Yes,Fluted Barrel,Alloy Magazine,Explosive Payload,Voltshot,Accelerated Assault,"Voltshot not great on HCs, good archetype and origin but disappointing overall perk combos",49,C
+,Something New,29,Stasis,Aggressive,Tenet of Bravery,,51,Yes,Fluted Barrel,"High-Caliber Rounds
+Alloy Magazine","Rimestealer
+Demolitionist",Headstone,Dream Work,mediocre splash with middling origin and worst frame,50,C
+,True Prophecy,29,Arc,Aggressive,Nessus,,52,Yes,Fluted Barrel,Alloy Magazine,"Light Touch
+Trickle Charge",Jolting Feedback,Fail-deadly,"mediocre 1st column and bad frame, origin is decent and JF is decent on HCs",51,C
+,Targeted Redaction,29,Void,Aggressive,Xur,,49,Yes,Fluted Barrel,Alloy Magazine,Outlaw,Destabilizing Rounds,Unsated Hunger,probably worst Destabilizing hand cannon in the game,52,C
+,Waking Vigil,29,Arc,Lightweight,Dreaming City,,46,Yes,Fluted Barrel,"High-Caliber Rounds
+Alloy Magazine","Light Touch
+Rapid Hit","Meganeura
+Voltshot",Advanced Reflexes,"okay splash perks, disappointing first column, and decent origin",53,C
+,Survivor's Epitaph,29,Kinetic,Precision,Crucible,,47,Yes,Fluted Barrel,Alloy Magazine,Rapid Hit,Explosive Payload,Accelerated Assault,"probably the best pure EP hand cannon, but awful otherwise",54,D
+,Warden's Law,29,Kinetic,Heavy Burst,Zavala,,52,Yes,Fluted Barrel,Alloy Magazine,"Enlightened Action
+Demolitionist",Rampage,Problem Solver,"essentially a single target weapon, terrible 1st column, okay frame, mediocre origins",55,D
+,Cantata-57,16,Arc,Adaptive,Banshee,,45,No,Fluted Barrel,Alloy Magazine,Rapid Hit,Timed Payload,Suros Synergy,"good frame, standard reload + EP equivalent, bad origin",56,D
+,Solemn Lie,29,Arc,Lightweight,Competitive,,60,Yes,Fluted Barrel,"High-Caliber Rounds
+Alloy Magazine",Trickle Charge,Rolling Storm,None,"awful perks in both columns, no origin traits, okay frame",57,D
+,Annual Skate,15,Solar,Adaptive,Xur,,52,No,Fastdraw HCS,Alloy Magazine,Outlaw,"Timed Payload
+Dragonfly",None,better frame than some other D options but not much else going for it,58,D
+,Combined Action,21,Arc,Aggressive,Banshee,,53,Yes,Fluted Barrel,Alloy Magazine,Eddy Current,"Voltshot
+Timed Payload",Field-Tested,"might be the worst frame to have Voltshot, awful 1st column, okay origin",59,D
+,Bottom Dollar,29,Void,Aggressive,Gambit,,59,Yes,Fluted Barrel,Alloy Magazine,Rapid Hit,Explosive Payload,Gun and Run,"terrible reload + EP example, mediocre origin and bad frame",60,D
+,Kept Confidence,29,Strand,Adaptive,Xur,,55,Yes,Fluted Barrel,Alloy Magazine,Loose Change,Collective Action,Head Rush,"good frame, solid origin, just terrible everywhere else",61,E
+,Crisis Inverted,16,Arc,Adaptive,Crucible,,52,No,Fluted Barrel,"High-Caliber Rounds
+Alloy Magazine","Rapid Hit
+Demolitionist
+Shoot to Loot","Focused Fury
+Kill Clip
+One for All",Omolon Fluid Dynamics,"has on-hit single target perk, otherwise pretty bad due to lack of splash",62,E
+,Pure Poetry,18,Kinetic,Aggressive,Zavala,,50,No,Fluted Barrel,"High-Caliber Rounds
+Alloy Magazine","Outlaw
+Shoot to Loot","Focused Fury
+Rampage",Häkke Breach Armaments,"post-buff Focused Fury not bad, okay reload perks, bad frame",63,E
+,Austringer,29,Kinetic,Adaptive,Presage,,53,Yes,Fluted Barrel,"High-Caliber Rounds
+Alloy Magazine",Outlaw,Rampage,To Excess,"post-buff Rampage better than Kill Clip on Frontier's, still terrible though",64,E
+,Frontier's Cry,29,Solar,Precision,Iron Banner,,48,Yes,Fluted Barrel,Alloy Magazine,Rapid Hit,Kill Clip,Skulking Wolf,"no splash or stagger perks, has okay frame and good origin",65,E
+,Dire Promise,10,Kinetic,Adaptive,"Xur, Dares",,60,No,Fastdraw HCS,"High-Caliber Rounds
+Alloy Magazine","Auto-Loading Holster
+Overflow",Swashbuckler,None,good frame but terrible otherwise,66,E
+,Nature of the Beast,11,Arc,Precision,Xur,,57,No,Fastdraw HCS,Alloy Magazine,Subsistence,Dragonfly,None,"okay frame, terrible perks in both columns otherwise",67,E
+,The Steady Hand,12,Kinetic,Aggressive,Iron Banner,,40,No,Fastdraw HCS,"High-Caliber Rounds
+Alloy Magazine",Outlaw,"Swashbuckler
+Wellspring",None,"worst frame, terrible other perks",68,E

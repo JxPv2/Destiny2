@@ -1,178 +1,147 @@
 WEAPON,,INFO,,,,,,,PERKS,,,,,ANALYSIS,,
 🖼️,Name,Season,Energy,Frame,Source,Stun,Ammo,⬆️,Barrel,Mag,Perk 1,Perk 2,Origin Trait,Notes,Rank,Tier
-,Evening SI4,28,Solar,Adaptive Burst,"Tenet of Bravery, Zavala",,47,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
-Alloy Magazine","Heal Clip
-Impromptu Ammunition","Incandescent
-Burning Ambition
-Desperate Measures",Accelerated Assault,"very similar to Drang, just different frame (preference)",1,S
-,Punching Out,29,Solar,Rapid,Fireteam Ops,,65,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
-Alloy Magazine",Heal Clip,"Incandescent
-Meganeura",Accelerated Assault,"good archetype, great ammo gen, solid perks, great origin",2,S
-,Drang,27,Solar,Together Forever,"Tenet of Bravery, Banshee",,50,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
-Alloy Magazine","Heal Clip
-Loose Change
-Collective Pugilism","Incandescent
-Burning Ambition
-Master of Arms",Vanguard Determination,Heliocentric with better origin and perk diversity,3,S
 ,Compact Defender,28,Void,Dynamic (360RPM),Renegades,,54,Yes,"Fluted Barrel
-Arrowhead Brake","Light Heatsink
-Overclocked Heatsink",Destabilizing Rounds,"Repulsor Brace
-Frenzy",Accelerated Assault,dynamic frame with best Void combo,4,S
+Arrowhead Brake",Enhanced Heatsink,Destabilizing Rounds,Repulsor Brace,Accelerated Assault,excellent 1mag damage frame with classic void combo and great origin,1,S
 ,Brass Attacks,29,Void,Heavy Burst,"World, Banshee",,40,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
+Arrowhead Brake","High-Caliber Rounds
 Alloy Magazine","Repulsor Brace
 Impromptu Ammunition","Destabilizing Rounds
-Demoralize",Land Tank,not much to improve on this sidearm,5,S
+Demoralize
+Rampage",Land Tank,"decent frame, classic void combo, excellent origin, also has option to drop Destab for artifact volatile",2,S
 ,Seventh Seraph SI-2,29,Void,Lightweight,Cosmodrome,,31,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
-Alloy Magazine
-Seraph Rounds","Destabilizing Rounds
-Dimensional Shift","Meganeura
-Repulsor Brace
-Demoralize",Eyes Up,"great void perks, decent origin, good archetype",6,S
-,Heliocentric QSc,29,Solar,Lightweight,"World, Banshee",,29,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
-Alloy Magazine","Heal Clip
-Demolitionist","Incandescent
-Frenzy
-Surrounded",Nadir Focus,"one of the best Heal Clip + Incandescent users, unfortunately mid origin",7,S
+Arrowhead Brake",Seraph Rounds,"Destabilizing Rounds
+Dimensional Shift","Repulsor Brace
+Meganeura
+Surrounded",Eyes Up,"worse frame setup than S tiers above it, but highest lethality perk combos",3,S
+,Evening SI4,28,Solar,Adaptive Burst,"Tenet of Bravery, Zavala",,47,Yes,"Fluted Barrel
+Arrowhead Brake",Alloy Magazine,"Heal Clip
+Impromptu Ammunition","Incandescent
+Burning Ambition",Accelerated Assault,arguably best sidearm frame with excellent kill-reload usage,4,S
 ,Insurmountable,29,Void,Precision,Kell's Fall,,32,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
-Alloy Magazine","Repulsor Brace
-Air Trigger
-Attrition Orbs","Destabilizing Rounds
-Surrounded",Dark Ether Reaper,"best Void combo, great origin, shame about the frame",8,S
-,The Keening,29,Arc,Adaptive,Crucible,,46,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
-Alloy Magazine",Voltshot,"Jolting Feedback
-Dragonfly",Accelerated Assault,"no sustain perks, good double splash, rest of kit decent",9,A
-,Forgiveness,27,Arc,Heavy Burst,Trials,,33,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
-Alloy Magazine",Voltshot,"Desperate Measures
-Kill Clip
-Surrounded",Roar of Battle,"damage + splash, solid archetype but mid origin",10,A
-,Division,26,Arc,Heavy Burst,Xur,,33,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
-Alloy Magazine","Eddy Current
-Pugilist
-Grave Robber","Voltshot
-Surrounded",Runneth Over,similar to Forgiveness but no damage + splash combo,11,A
-,Fimbulwinter Stitch,28,Arc,Precision,Tenet of Bravery,,26,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
-Alloy Magazine","Supercharged Magazine
-Loose Change
-Trickle Charge","Jolting Feedback
-Voltshot
-Rolling Storm",Dawning Surprise,more versatile than Anonymous despite slightly worse archetype,12,A
-,Anonymous Autumn,29,Arc,Lightweight,Shaxx,,30,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
-Alloy Magazine","Eddy Current
+Arrowhead Brake",Alloy Magazine,"Repulsor Brace
 Attrition Orbs
-Demolitionist",Voltshot,Field-Tested,"solid everything, could be a bit better in 1st column or origin",13,A
-,Brigand's Law,29,Arc,Rapid,Xur,,67,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
-Alloy Magazine","Threat Detector
-Feeding Frenzy
-Pugilist","Voltshot
-Swashbuckler",Right Hook,worst of the Voltshot options but still good,14,A
-,Drang (Baroque),29,Solar,Together Forever,Presage,,50,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
-Alloy Magazine","Wellspring
-Disruption Break","Incandescent
-Swashbuckler",To Excess,"solid Incandescent option, no Heal Clip but decent otherwise",15,A
+Air Trigger","Destabilizing Rounds
+Surrounded",Dark Ether Reaper,worst frame but origin trait is pretty solid and has some unique perks to work with,5,S
+,Punching Out,29,Solar,Rapid,Fireteam Ops,,65,Yes,"Fluted Barrel
+Arrowhead Brake","High-Caliber Rounds
+Alloy Magazine",Heal Clip,"Incandescent
+Meganeura",Accelerated Assault,"worse frame than Evening but still solid, has Meganeura alterantive",6,S
+,Drang,27,Solar,Together Forever,"Tenet of Bravery, Banshee",,50,Yes,"Fluted Barrel
+Arrowhead Brake",Alloy Magazine,Heal Clip,"Incandescent
+Burning Ambition",Vanguard Determination,basically a slight downgrade from Evening due to worse archetype and origin,7,S
+,Heliocentric QSc,29,Solar,Lightweight,"World, Banshee",,29,Yes,"Fluted Barrel
+Arrowhead Brake",Alloy Magazine,Heal Clip,Incandescent,Nadir Focus,"powercrept by better solar sustain options, but still very usable",8,S
+,Anonymous Autumn,29,Arc,Lightweight,Shaxx,,30,Yes,"Fluted Barrel
+Arrowhead Brake","High-Caliber Rounds
+Alloy Magazine",Attrition Orbs,Voltshot,Field-Tested,"one of the best Attrition sidearms, high Voltshot uptime, decent frame, decent origin",9,A
+,The Keening,29,Arc,Adaptive,Crucible,,46,Yes,"Fluted Barrel
+Arrowhead Brake","High-Caliber Rounds
+Alloy Magazine",Voltshot,"Jolting Feedback
+Dragonfly",Accelerated Assault,"no sustain but great double splash, great origin, solid frame",10,A
+,Forgiveness,27,Arc,Heavy Burst,Trials,,33,Yes,"Fluted Barrel
+Arrowhead Brake","High-Caliber Rounds
+Alloy Magazine",Voltshot,"Surrounded
+Desperate Measures",Roar of Battle,"downgrade from The Keening overall, but single target damage is a little better",11,A
 ,Empirical Evidence,29,Kinetic,Heavy Burst,Throne World,,30,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
-Alloy Magazine",Enlightened Action,Kinetic Tremors,Psychohack,better than Buzzard overall but still not that enticing,16,B
-,Buzzard,29,Kinetic,Adaptive,Zavala,,44,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
-Alloy Magazine","Compulsive Reloader
-Fourth Time's the Charm",Kinetic Tremors,Vanguard Determination,"KT not great on sidearms, also outdated perk pool",17,B
+Arrowhead Brake","High-Caliber Rounds
+Alloy Magazine",Enlightened Action,Kinetic Tremors,Psychohack,"double stagger, decent frame, great origin, decent KT user",12,A
+,Peacebond,29,Stasis,Adaptive Burst,Iron Banner,,43,Yes,"Fluted Barrel
+Arrowhead Brake",Alloy Magazine,Headstone,"Rimestealer
+Kill Clip
+Desperate Measures",Skulking Wolf,basically Liminal Vigil but better in every way besides high-cal access,13,A
+,Division,26,Arc,Heavy Burst,Xur,,33,Yes,"Fluted Barrel
+Arrowhead Brake",Alloy Magazine,Eddy Current,Voltshot,Runneth Over,"only Voltshot, high uptime and decent frame but not particularly noteworthy",14,B
+,Brigand's Law,29,Arc,Rapid,Xur,,67,Yes,"Fluted Barrel
+Arrowhead Brake",Alloy Magazine,"Threat Detector
+Feeding Frenzy
+Pugilist",Voltshot,Right Hook,bad origin but otherwise pretty decent pure Voltshot example,15,B
+,Fimbulwinter Stitch,28,Arc,Precision,Tenet of Bravery,,26,Yes,"Fluted Barrel
+Arrowhead Brake","High-Caliber Rounds
+Alloy Magazine","Loose Change
+Collective Pugilism","Voltshot
+Jolting Feedback",Dawning Surprise,"worst frame, no double splash to make up for it, just an okay origin",16,B
+,Drang (Baroque),29,Solar,Together Forever,Presage,,50,Yes,"Fluted Barrel
+Arrowhead Brake",Alloy Magazine,Wellspring,Incandescent,To Excess,"just Incandescent on a decent frame, nothing else noteworthy",17,B
 ,"Liminal Vigil
 RotN version",26,Stasis,Heavy Burst,Rite of the Nine,,33,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
+Arrowhead Brake","High-Caliber Rounds
 Alloy Magazine","Headstone
-Attrition Orbs
-Enlightened Action","Desperate Measures
-Rimestealer
-Kill Clip",Gravity Well,"Headstone + damage option, good archetype",18,B
-,Peacebond,29,Stasis,Adaptive Burst,Iron Banner,,43,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
-Alloy Magazine",Headstone,"Rimestealer
-Frenzy
-Desperado",Skulking Wolf,similar to RotN Liminal Vigil but arguably worse perks,19,B
+Attrition Orbs","Rimestealer
+Kill Clip
+Desperate Measures",Gravity Well,"dated stasis combo, unique origin, otherwise not very noteworthy",18,B
 ,Liminal Vigil,29,Stasis,Heavy Burst,Spire of the Watcher,,33,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
-Alloy Magazine","Crystalline Corpsebloom
-Headstone","Rimestealer
-Frenzy",Tex Balanced Stock,similar to Peacebond but arguably worse perks,20,B
-,Faustus Decline,27,Stasis,Lightweight,"Tenet of Bravery, Banshee",,50,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
-Alloy Magazine","Demolitionist
-Rimestealer",Headstone,Bray Legacy,no Headstone + damage but decent perks on good origin and frame,21,B
+Arrowhead Brake","High-Caliber Rounds
+Alloy Magazine","Headstone
+Crystalline Corpsebloom
+Attrition Orbs","Rimestealer
+Kill Clip",Tex Balanced Stock,"worse origin trait than RotN verison, but has Crystalline",19,B
 ,Breachlight,24,Strand,Heavy Burst,Xur,,27,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
-Alloy Magazine","Demolitionist
-Pugilist
-Slice","Hatchling
-Swashbuckler",Cast No Shadows,"great melee synergy option with origin, splash options not great",22,B
+Arrowhead Brake",Alloy Magazine,Slice,"Hatchling
+Desperate Measures",Cast No Shadows,"maybe the only primary to make good use of this origin trait, decent strand splash otherwise",20,B
 ,Mykel's Reverence,29,Strand,Rapid,Root of Nightmares,,67,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
+Arrowhead Brake","High-Caliber Rounds
 Alloy Magazine","Slice
 Collective Demolition","Hatchling
-Master of Arms",Harmonic Resonance,solid archetype with okay 1st column and middling 2nd column,23,B
+Master of Arms",Harmonic Resonance,similar to Breachlight just worse origin trait,21,B
+,Buzzard,29,Kinetic,Adaptive,Zavala,,44,Yes,"Fluted Barrel
+Arrowhead Brake","High-Caliber Rounds
+Alloy Magazine","Compulsive Reloader
+Overflow",Kinetic Tremors,Vanguard Determination,"decent frame, mediocre origin, just worse than Empirical Evidence for KT usage",22,B
+,Faustus Decline,27,Stasis,Lightweight,"Tenet of Bravery, Banshee",,50,Yes,"Fluted Barrel
+Arrowhead Brake","High-Caliber Rounds
+Alloy Magazine",Rimestealer,Headstone,Bray Legacy,"dated stasis combo, good origin, okay frame",23,B
+,Fioritura-59,19,Void,Rapid,Banshee,,63,No,"Fluted Barrel
+Arrowhead Brake","High-Caliber Rounds
+Alloy Magazine",Threat Detector,Repulsor Brace,Suros Synergy,"with artifact volatile access, usable option, otherwise not very good",24,C
 ,Senuna SI6,20,Stasis,Adaptive Burst,Banshee,,46,No,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
+Arrowhead Brake","High-Caliber Rounds
 Alloy Magazine","Grave Robber
-Feeding Frenzy",Headstone,Omolon Fluid Dynamics,mediocre reload + Headstone,24,C
-,The Vision,14,Arc,Adaptive Burst,Xur,,47,No,Quickdot SAS,"Flared Magwell
-Alloy Magazine",Grave Robber,"Swashbuckler
-Kill Clip",None,decent melee-oriented perks on good archetype,25,C
+Feeding Frenzy",Headstone,Omolon Fluid Dynamics,"very dated first column and bad origin, everything else pretty good",25,C
 ,Boudica-C,18,Kinetic,Precision,Banshee,,34,No,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
-Alloy Magazine","Threat Detector
-Pugilist","Surrounded
-Frenzy",Häkke Breach Armaments,bad frame but decent uptime perks,26,C
+Arrowhead Brake","High-Caliber Rounds
+Alloy Magazine","Pugilist
+Threat Detector","Surrounded
+Frenzy",Häkke Breach Armaments,"better 1st column than The Vision, decent strength single target perks, otherwise bad",26,C
 ,Allied Demand,29,Kinetic,Adaptive,Iron Banner,,44,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
+Arrowhead Brake","High-Caliber Rounds
 Alloy Magazine","Rapid Hit
 Auto-Loading Holster","Frenzy
-Under-Over",Skulking Wolf,"high uptime single target roll, no splash",27,D
-,Lonesome,29,Kinetic,Precision,Gambit,,39,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
-Alloy Magazine","Grave Robber
-Rapid Hit",Swashbuckler,Gun and Run,Grave/Swash niche but bad frame,28,D
-,Enigma's Draw,10,Kinetic,Precision,"Xur, Dares",,33,No,Quickdot SAS,"Flared Magwell
-Alloy Magazine",Grave Robber,Swashbuckler,None,Grave/Swash niche but bad frame,29,D
-,The Last Dance,29,Arc,Adaptive Burst,"Zavala, Dares",,45,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
-Alloy Magazine",Threat Detector,Dragonfly,Vanguard Determination,weak splash but good frame,30,D
+Multikill Clip",Skulking Wolf,"decent frame, solid origin, otherwise very typical reload + single target perks",27,C
 ,Controlling Vision,24,Kinetic,Adaptive,Banshee,,50,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
+Arrowhead Brake","High-Caliber Rounds
 Alloy Magazine",Surplus,"Surrounded
-High Ground",Field-Tested,"only High Ground sidearm, otherwise unremarkable, decent origin",31,D
-,Spoiler Alert,29,Kinetic,Lightweight,"Zavala, Dares",,27,Yes,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
-Alloy Magazine",Threat Detector,"Frenzy
-Swashbuckler",Vanguard Determination,good uptime perks on decent frame,32,D
-,Redback-5SI,16,Solar,Lightweight,Banshee,,45,No,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
-Alloy Magazine",Compulsive Reloader,"Surrounded
-Vorpal Weapon",Veist Stinger,more niche perks vs. Spoiler Alert but usable,33,D
-,Farewell,14,Kinetic,Lightweight,"Xur, Dares",,28,No,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
-Alloy Magazine",Subsistence,Frenzy,None,"weak 1st column, decent frame",34,E
-,A Swift Verdict,15,Void,Precision,Prophecy,,32,No,Quickdot SAS,"Flared Magwell
-Alloy Magazine",Threat Detector,Surrounded,None,bad frame but not a bad perk pairing,35,E
-,Fioritura-59,19,Void,Rapid,Banshee,,63,No,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
+High Ground",Field-Tested,"decent reload thanks to origin, more modernized single target perks, decent frame",28,C
+,The Last Dance,29,Arc,Adaptive Burst,"Zavala, Dares",,45,Yes,"Fluted Barrel
+Arrowhead Brake","High-Caliber Rounds
 Alloy Magazine","Threat Detector
-Pugilist","Repulsor Brace
-Swashbuckler",Suros Synergy,"Repulsor with no Void pairing, decent frame",36,E
-,The Fool's Remedy,11,Solar,Rapid,Iron Banner,,69,No,Quickdot SAS,"Flared Magwell
-Alloy Magazine",Feeding Frenzy,Kill Clip,None,perk combo doesn't scale well into endgame,37,E
+Outlaw","Dragonfly
+Kill Clip",Vanguard Determination,"okay origin, good frame, neutral perks decent for this tier",29,C
+,The Vision,14,Arc,Adaptive Burst,Xur,,47,No,Quickdot SAS,Alloy Magazine,"Grave Robber
+Surplus","Kill Clip
+One for All",None,"bad reload perks + outdated roam perks, no origin, good frame",30,C
+,The Fool's Remedy,11,Solar,Rapid,Iron Banner,,69,No,Quickdot SAS,"High-Caliber Rounds
+Alloy Magazine",Feeding Frenzy,Kill Clip,None,"very typical reload + single target option, no origin and decent frame",31,C
+,Redback-5SI,16,Solar,Lightweight,Banshee,,45,No,"Fluted Barrel
+Arrowhead Brake",Alloy Magazine,Compulsive Reloader,"Surrounded
+Rampage",Veist Stinger,"decent frame, bad reload perks but decent single target perks, decent origin",32,C
+,Spoiler Alert,29,Kinetic,Lightweight,"Zavala, Dares",,27,Yes,"Fluted Barrel
+Arrowhead Brake","High-Caliber Rounds
+Alloy Magazine","Threat Detector
+Feeding Frenzy","Frenzy
+Swashbuckler",Vanguard Determination,"okay reload perks + okay single target perks, okay frame, middling origin",33,C
+,A Swift Verdict,15,Void,Precision,Prophecy,,32,No,Quickdot SAS,"High-Caliber Rounds
+Alloy Magazine",Threat Detector,"Surrounded
+Kill Clip",None,bad frame but solid single target perk combo for era,34,C
+,Lonesome,29,Kinetic,Precision,Gambit,,39,Yes,"Fluted Barrel
+Arrowhead Brake","High-Caliber Rounds
+Alloy Magazine",Rapid Hit,"Kill Clip
+Swashbuckler",Gun and Run,"standard reload + single target perks, bad frame and origin",35,C
+,Enigma's Draw,10,Kinetic,Precision,"Xur, Dares",,33,No,Quickdot SAS,"High-Caliber Rounds
+Alloy Magazine",Grave Robber,Swashbuckler,None,"melee-specific perks, everything else awful",36,C
+,Farewell,14,Kinetic,Lightweight,"Xur, Dares",,28,No,"Fluted Barrel
+Arrowhead Brake",Alloy Magazine,Subsistence,"Adrenaline Junkie
+Multikill Clip
+Frenzy",None,"pretty awful 1st column, 2nd column also bad even for single target perk standards, okay frame",37,C
 ,High Albedo,12,Kinetic,Adaptive Burst,Europa,,47,No,"Fluted Barrel
-Arrowhead Brake","Flared Magwell
-Alloy Magazine",Threat Detector,Demolitionist,None,good archetype but no damage perks,38,F
+Arrowhead Brake",Alloy Magazine,Threat Detector,"Unrelenting
+Demolitionist",None,no real damage perks,38,D
