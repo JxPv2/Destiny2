@@ -617,3 +617,7 @@
   2026-07-11 14:08:32,879 [INFO] [aegis_speedrunner] -> ⚙️ Extracting speedrunner rows from source asset: workbooks_downloaded/aegis_speedrunner_weapons.csv
   2026-07-11 14:08:32,889 [INFO] [aegis_speedrunner] -> 🎉 Successfully compiled speedrunner down to cache: spreadsheets_scraped_data/aegis_speedrunner_spreadsheet_data_scraped.json
   2026-07-11 14:08:32,890 [INFO] [aegis_speedrunner] -> ✅ Registry synchronization update flags reset to False for elements: ['Weapons']
+2026-07-11 16:44:22,259 [INFO] [aegis_speedrunner] -> ================================================================================
+2026-07-11 16:44:22,259 [INFO] [aegis_speedrunner] -> 🚀 Initializing Data Extraction Pipeline Engine: [aegis_speedrunner]
+2026-07-11 16:44:22,259 [INFO] [aegis_speedrunner] -> ================================================================================
+  2026-07-11 16:44:22,259 [INFO] [aegis_speedrunner] -> 🟩 Speedrunner data profiles match registry definitions. Scraping skipped.
