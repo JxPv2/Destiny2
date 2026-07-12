@@ -6,7 +6,7 @@
       "patch": "Pantheon 2.0"
     },
     "link": "https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY",
-    "scrape_date": "2026-07-12 01:55:00"
+    "scrape_date": "2026-07-12 09:43:54"
   },
   "workbooks": {
     "Shopping List": {
@@ -20769,53 +20769,6 @@
           }
         }
       },
-      "Main Ingredient": {
-        "weapon_name": "Main Ingredient",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel",
-            "Arrowhead Brake"
-          ],
-          "column2": [
-            "Accelerated Coils"
-          ],
-          "perk1": [
-            "Trickle Charge"
-          ],
-          "perk2": [
-            "Gear Shift",
-            "Controlled Burst"
-          ],
-          "origin_trait": [
-            "Accelerated Assault"
-          ]
-        },
-        "info": {
-          "rank": "7",
-          "tier": "A",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "disappointing 1st column but origin trait helps this pull ahead into this tier",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
       "Cartesian Coordinate": {
         "weapon_name": "Cartesian Coordinate",
         "version": "",
@@ -20842,7 +20795,7 @@
           ]
         },
         "info": {
-          "rank": "8",
+          "rank": "7",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -20888,7 +20841,7 @@
           ]
         },
         "info": {
-          "rank": "9",
+          "rank": "8",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -20935,7 +20888,7 @@
           ]
         },
         "info": {
-          "rank": "10",
+          "rank": "9",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -20983,7 +20936,7 @@
           ]
         },
         "info": {
-          "rank": "11",
+          "rank": "10",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -21030,7 +20983,7 @@
           ]
         },
         "info": {
-          "rank": "12",
+          "rank": "11",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -21077,7 +21030,7 @@
           ]
         },
         "info": {
-          "rank": "13",
+          "rank": "12",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -21087,6 +21040,52 @@
           "usage": "",
           "source": "",
           "notes": "standard overflow + damage perks, just not best frame",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Main Ingredient": {
+        "weapon_name": "Main Ingredient",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel",
+            "Arrowhead Brake"
+          ],
+          "column2": [
+            "Accelerated Coils"
+          ],
+          "perk1": [
+            "Trickle Charge"
+          ],
+          "perk2": [
+            "Gear Shift"
+          ],
+          "origin_trait": [
+            "Accelerated Assault"
+          ]
+        },
+        "info": {
+          "rank": "13",
+          "tier": "B",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "disappointing 1st column but origin trait helps this pull ahead into this tier",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -21678,6 +21677,53 @@
           }
         }
       },
+      "Iterative Loop": {
+        "weapon_name": "Iterative Loop",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel",
+            "Arrowhead Brake"
+          ],
+          "column2": [
+            "Accelerated Coils"
+          ],
+          "perk1": [
+            "Supercharged Magazine",
+            "Grave Robber"
+          ],
+          "perk2": [
+            "Controlled Burst"
+          ],
+          "origin_trait": [
+            "Nanotech Tracer Missiles"
+          ]
+        },
+        "info": {
+          "rank": "26",
+          "tier": "C",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "great origin, usable damage perk, just awful loader perks and frame",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
       "Afterlight": {
         "weapon_name": "Afterlight",
         "version": "",
@@ -21700,7 +21746,7 @@
           ]
         },
         "info": {
-          "rank": "26",
+          "rank": "27",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -21750,53 +21796,6 @@
           ]
         },
         "info": {
-          "rank": "27",
-          "tier": "C",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "usable Discord option, solid perks and overflow, just awful frame",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Iterative Loop": {
-        "weapon_name": "Iterative Loop",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel",
-            "Arrowhead Brake"
-          ],
-          "column2": [
-            "Accelerated Coils"
-          ],
-          "perk1": [
-            "Grave Robber",
-            "Lead from Gold"
-          ],
-          "perk2": [
-            "Controlled Burst"
-          ],
-          "origin_trait": [
-            "Nanotech Tracer Missiles"
-          ]
-        },
-        "info": {
           "rank": "28",
           "tier": "C",
           "priority": "",
@@ -21806,7 +21805,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "great origin, usable damage perk, just awful loader perks and frame",
+          "notes": "usable Discord option, solid perks and overflow, just awful frame",
           "description": "",
           "alternatives": "",
           "analysis": {
