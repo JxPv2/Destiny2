@@ -5,16 +5,16 @@ Dimensional Shift
 Shoot to Loot","Destabilizing Rounds
 Explosive Payload
 Withering Gaze",Advanced Reflexes,"every void perk you would want on a scout, just not the best frame and origin",1,S
+,Voltaic Shade,28,Arc,Balanced (260RPM),Equilibrium,,59,Yes,Fluted Barrel,Enhanced Heatsink,"Jolting Feedback
+Shoot to Loot","Meganeura
+Voltshot",Imperial Allegiance,"pretty lethal perk combo, very fast jolt, just no sustain or unique utility",2,S
 ,Unworthy,29,Arc,Rapid,Sundered Doctrine,,51,Yes,Fluted Barrel,"High-Caliber Rounds
 Alloy Magazine",Firefly,"Voltshot
-Gear Shift",Subjugation,"great double splash, especially for long range precision, excellent origin and good frame",2,S
+Gear Shift",Subjugation,"great double splash, especially for long range precision, excellent origin and good frame",3,S
 ,Trustee,29,Solar,Rapid,Deep Stone Crypt,,56,Yes,Fluted Barrel,Alloy Magazine,"Heal Clip
 Reconstruction","Incandescent
 Meganeura
-Burning Ambition",Bray Inheritance,"unique Bray + Incandescent ticks interaction, otherwise pretty solid as well",3,S
-,Voltaic Shade,28,Arc,Balanced (260RPM),Equilibrium,,59,Yes,Fluted Barrel,Enhanced Heatsink,"Jolting Feedback
-Shoot to Loot","Meganeura
-Voltshot",Imperial Allegiance,"pretty lethal perk combo, just no sustain or unique utility",4,S
+Burning Ambition",Bray Inheritance,"unique Bray + Incandescent ticks interaction, otherwise pretty solid as well",4,S
 ,Doom of Chelchis,29,Void,Precision,King's Fall,,54,Yes,Fluted Barrel,Alloy Magazine,"Destabilizing Rounds
 Firefly
 Demoralize","Repulsor Brace
@@ -28,20 +28,20 @@ Dragonfly",Psychohack,"double stagger, access to volatile through artifact, good
 ,No Feelings,29,Arc,Precision,Arena Ops,,56,Yes,Fluted Barrel,Alloy Magazine,Voltshot,"Meganeura
 Gear Shift
 Explosive Payload",Forge's Kin,"same roll as Voltaic Shade, better origin and worse archetype",7,A
-,The Scholar,29,Strand,High-Impact,Trials,,50,Yes,Fluted Barrel,"High-Caliber Rounds
-Alloy Magazine","Firefly
-Shoot to Loot","Hatchling
-Tear
-Explosive Payload",Wild Card,"double stagger, best frame, good perk spread for a strand option, okay origin",8,A
-,Hung Jury SR4,29,Kinetic,Precision,Onslaught,,60,Yes,Fluted Barrel,Alloy Magazine,"Kinetic Tremors
-Shoot to Loot","Firefly
-Ancillary Ordinance
-Explosive Payload",Indomitability,"decent double kinetic splash, has StL + EP option, just bad frame",9,A
 ,Fang of Ir Yût,29,Strand,Rapid,Crota's End,,60,Yes,Fluted Barrel,"High-Caliber Rounds
 Alloy Magazine","Tear
 Slice
 Shoot to Loot","Meganeura
-Hatchling",Cursed Thrall,"pretty solid overall, just worse frame than Scholar and awkward origin trait for a scout",10,A
+Hatchling",Cursed Thrall,"pretty solid overall, just worse frame than Scholar and awkward origin trait for a scout",8,A
+,The Scholar,29,Strand,High-Impact,Trials,,50,Yes,Fluted Barrel,"High-Caliber Rounds
+Alloy Magazine","Firefly
+Shoot to Loot","Tear
+Hatchling
+Explosive Payload",Wild Card,"double stagger, best frame, good perk spread for a strand option, okay origin",9,A
+,Hung Jury SR4,29,Kinetic,Precision,Onslaught,,60,Yes,Fluted Barrel,Alloy Magazine,"Kinetic Tremors
+Shoot to Loot","Firefly
+Ancillary Ordinance
+Explosive Payload",Indomitability,"decent double kinetic splash, has StL + EP option, just bad frame",10,A
 ,Inbound Surveillance,29,Kinetic,High-Impact,"World, Banshee",,56,Yes,Fluted Barrel,Alloy Magazine,"Bewildering Burst
 Stopping Power
 Shoot to Loot","Kinetic Tremors
@@ -57,7 +57,8 @@ Shoot to Loot","Incandescent
 Explosive Payload",Skulking Wolf,"classic solar sustain combo with StL + EP option, okay frame, solid origin",14,A
 ,Aisha's Embrace,27,Void,Rapid,Trials,,50,Yes,Fluted Barrel,Alloy Magazine,"Demoralize
 Shoot to Loot","Destabilizing Rounds
-Withering Gaze",Roar of Battle,"no Repulsor holds this back a lot, bad origin and pretty good frame though",15,A
+Withering Gaze
+Desperate Measures",Roar of Battle,"no Repulsor holds this back a lot, bad origin and pretty good frame though",15,A
 ,Timeworn Wayfarer,29,Solar,Aggressive,Encore,,54,Yes,Fluted Barrel,Alloy Magazine,"Heal Clip
 Shoot to Loot",Incandescent,Radiolaria Transposer,"good origin and classic solar sustain combo, just low QoL archetype, good origin though",16,A
 ,Oxygen SR3,28,Solar,Precision,"Tenet of Bravery, Zavala",,54,Yes,Fluted Barrel,Alloy Magazine,"Heal Clip

@@ -13,20 +13,22 @@ Shoot to Loot","Voltshot
 Chaos Reshaped
 Meganeura",Collective Purpose,interesting perk diversity but probably just worse than Point of the Stag,4,S
 ,Accrued Redemption,29,Kinetic,Precision,Garden of Salvation,,60,Yes,Elastic String,Compact Arrow Shaft,Attrition Orbs,"Kinetic Tremors
-Archer's Gambit",Photoinhibition,"classic AO + KT combo, good frame, decent origin",5,S
+Archer's Gambit",Photoinhibition,"classic AO + KT combo, good frame, decent origin",5,A
 ,Fortunate Star,27,Void,Lightweight,Tenet of Bravery,,70,Yes,Elastic String,Compact Arrow Shaft,"Repulsor Brace
 Dragonfly
 Impromptu Ammunition","Destabilizing Rounds
-Demoralize",Veist Stinger,"classic void combo, origin trait not the best, frame not the best either",6,A
+Demoralize
+Archer's Gambit",Veist Stinger,"classic void combo, origin trait not the best, frame not the best either",6,A
 ,Anamnesis,26,Void,Lightweight,Xur,,62,Yes,Elastic String,Compact Arrow Shaft,"Repulsor Brace
 Dragonfly","Destabilizing Rounds
-Demoralize",Runneth Over,essentially the same as Fortunate except worse origin,7,A
-,Pre Astyanax IV,27,Solar,Precision,"Tenet of Bravery, Zavala",,53,Yes,Elastic String,Compact Arrow Shaft,"Incandescent
-Firefly",Burning Ambition,Wild Card,BiS double splash solar bow,8,A
+Demoralize
+Sword Logic",Runneth Over,essentially the same as Fortunate except worse origin,7,A
 ,Hush,29,Solar,Precision,Gambit,,55,Yes,Elastic String,Compact Arrow Shaft,"Burning Ambition
 Firefly","Incandescent
 Meganeura
-Archer's Gambit",Gun and Run,higher perk diversity than Pre Astyanax IV but worse origin,9,A
+Archer's Gambit",Gun and Run,higher perk diversity than Pre Astyanax IV but worse origin,8,A
+,Pre Astyanax IV,27,Solar,Precision,"Tenet of Bravery, Zavala",,53,Yes,Elastic String,Compact Arrow Shaft,"Incandescent
+Firefly",Burning Ambition,Wild Card,BiS double splash solar bow,9,A
 ,Convened Recurve,29,Void,High-Impact Longbow,Fireteam Ops,,41,Yes,Elastic String,Compact Arrow Shaft,"Repulsor Brace
 Dimensional Shift
 Withering Gaze","Destabilizing Rounds
@@ -34,17 +36,17 @@ Demoralize",Accelerated Assault,"very solid overall package, just has a mediocre
 ,Tyranny of Heaven,29,Solar,Lightweight,Last Wish,,68,Yes,Elastic String,Compact Arrow Shaft,"Burning Ambition
 Meganeura","Incandescent
 Archer's Gambit",Explosive Pact,"solid solar double splash overall, just worse frame than higher A placements",11,A
-,King Orfeo,28,Arc,Precision,Tenet of Bravery,,52,Yes,Elastic String,Compact Arrow Shaft,"Explosive Head
-Shoot to Loot","Meganeura
-Jolting Feedback","Nail, Meet Hammer","only Jolting Feedback bow, overall pretty decent package, just underwhelming first column",12,B
-,Hushed Whisper,27,Strand,Precision,Tenet of Bravery,,49,Yes,Elastic String,Compact Arrow Shaft,"Tear
-Slice","Hatchling
-Archer's Gambit",Wild Card,"Tear interesting on a bow, otherwise held back by Strand limitations",13,B
 ,Vengeful Whisper,29,Strand,Precision,Warlord's Ruin,,53,Yes,Elastic String,Compact Arrow Shaft,"Tear
 Slice
 Explosive Head","Meganeura
 Hatchling
-Archer's Gambit",Sundering,middling double splash,14,B
+Archer's Gambit",Sundering,"good combination of utility and splash lethality, origin not very useful",12,A
+,King Orfeo,28,Arc,Precision,Tenet of Bravery,,52,Yes,Elastic String,Compact Arrow Shaft,"Explosive Head
+Shoot to Loot","Meganeura
+Jolting Feedback","Nail, Meet Hammer","only Jolting Feedback bow, overall pretty decent package, just underwhelming first column",13,B
+,Hushed Whisper,27,Strand,Precision,Tenet of Bravery,,49,Yes,Elastic String,Compact Arrow Shaft,"Tear
+Slice","Hatchling
+Archer's Gambit",Wild Card,"Tear interesting on a bow, otherwise held back by Strand limitations",14,B
 ,Mercury-A,27,Kinetic,High-Impact Longbow,"Tenet of Bravery, Zavala",,50,Yes,Elastic String,Compact Arrow Shaft,"Attrition Orbs
 Successful Warm-Up",Kinetic Tremors,Tenacity,outclassed by Accrued Redemption,15,B
 ,Lethophobia,29,Void,Lightweight,Starcrossed,,63,Yes,Elastic String,Compact Arrow Shaft,"Repulsor Brace
