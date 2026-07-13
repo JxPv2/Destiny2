@@ -6,7 +6,7 @@
       "patch": "Pantheon 2.0"
     },
     "link": "https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY",
-    "scrape_date": "2026-07-12 09:43:54"
+    "scrape_date": "2026-07-13 01:57:26"
   },
   "workbooks": {
     "Shopping List": {
@@ -5486,54 +5486,6 @@
           }
         }
       },
-      "Convened Recurve": {
-        "weapon_name": "Convened Recurve",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Elastic String"
-          ],
-          "column2": [
-            "Compact Arrow Shaft"
-          ],
-          "perk1": [
-            "Repulsor Brace",
-            "Dimensional Shift",
-            "Withering Gaze"
-          ],
-          "perk2": [
-            "Destabilizing Rounds",
-            "Demoralize"
-          ],
-          "origin_trait": [
-            "Accelerated Assault"
-          ]
-        },
-        "info": {
-          "rank": "10",
-          "tier": "A",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "very solid overall package, just has a mediocre frame due to extended draw time",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
       "Tyranny of Heaven": {
         "weapon_name": "Tyranny of Heaven",
         "version": "",
@@ -5557,7 +5509,7 @@
           ]
         },
         "info": {
-          "rank": "11",
+          "rank": "10",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -5606,7 +5558,7 @@
           ]
         },
         "info": {
-          "rank": "12",
+          "rank": "11",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -5616,6 +5568,54 @@
           "usage": "",
           "source": "",
           "notes": "good combination of utility and splash lethality, origin not very useful",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Convened Recurve": {
+        "weapon_name": "Convened Recurve",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Elastic String"
+          ],
+          "column2": [
+            "Compact Arrow Shaft"
+          ],
+          "perk1": [
+            "Repulsor Brace",
+            "Dimensional Shift",
+            "Withering Gaze"
+          ],
+          "perk2": [
+            "Destabilizing Rounds",
+            "Demoralize"
+          ],
+          "origin_trait": [
+            "Accelerated Assault"
+          ]
+        },
+        "info": {
+          "rank": "12",
+          "tier": "B",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "very solid overall package, just has a mediocre frame due to extended draw time",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -6888,6 +6888,53 @@
           }
         }
       },
+      "Service Revolver": {
+        "weapon_name": "Service Revolver",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Shoot to Loot",
+            "Stopping Power"
+          ],
+          "perk2": [
+            "Explosive Payload",
+            "Kinetic Tremors"
+          ],
+          "origin_trait": [
+            "Accelerated Assault"
+          ]
+        },
+        "info": {
+          "rank": "12",
+          "tier": "A",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "kinetic splash combo isn't the greatest, StL + EP access on a 180 though",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
       "Unloved": {
         "weapon_name": "Unloved",
         "version": "",
@@ -6912,7 +6959,7 @@
           ]
         },
         "info": {
-          "rank": "12",
+          "rank": "13",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -6960,7 +7007,7 @@
           ]
         },
         "info": {
-          "rank": "13",
+          "rank": "14",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -7003,7 +7050,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "14",
+          "rank": "15",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -7051,7 +7098,7 @@
           ]
         },
         "info": {
-          "rank": "15",
+          "rank": "16",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -7100,7 +7147,7 @@
           ]
         },
         "info": {
-          "rank": "16",
+          "rank": "17",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -7146,7 +7193,7 @@
           ]
         },
         "info": {
-          "rank": "17",
+          "rank": "18",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -7192,7 +7239,7 @@
           ]
         },
         "info": {
-          "rank": "18",
+          "rank": "19",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -7238,7 +7285,7 @@
           ]
         },
         "info": {
-          "rank": "19",
+          "rank": "20",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -7248,53 +7295,6 @@
           "usage": "",
           "source": "",
           "notes": "probably best Voltshot hand cannon, still lower in lethality compared to other splash combos",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Service Revolver": {
-        "weapon_name": "Service Revolver",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel"
-          ],
-          "column2": [
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Shoot to Loot",
-            "Stopping Power"
-          ],
-          "perk2": [
-            "Explosive Payload",
-            "Kinetic Tremors"
-          ],
-          "origin_trait": [
-            "Accelerated Assault"
-          ]
-        },
-        "info": {
-          "rank": "20",
-          "tier": "B",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "kinetic splash combo isn't the greatest, StL + EP access on a 180 though",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -12611,7 +12611,7 @@
         },
         "info": {
           "rank": "6",
-          "tier": "S",
+          "tier": "A",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -12619,7 +12619,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "double stagger, access to volatile through artifact, good origin",
+          "notes": "double stagger, access to volatile through artifact, good origin but mediocre frame",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -12730,6 +12730,54 @@
           }
         }
       },
+      "Hung Jury SR4": {
+        "weapon_name": "Hung Jury SR4",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Kinetic Tremors",
+            "Shoot to Loot"
+          ],
+          "perk2": [
+            "Firefly",
+            "Ancillary Ordinance",
+            "Explosive Payload"
+          ],
+          "origin_trait": [
+            "Indomitability"
+          ]
+        },
+        "info": {
+          "rank": "9",
+          "tier": "A",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "decent double kinetic splash, has StL + EP option, just bad frame",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
       "The Scholar": {
         "weapon_name": "The Scholar",
         "version": "",
@@ -12755,54 +12803,6 @@
           ]
         },
         "info": {
-          "rank": "9",
-          "tier": "A",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "double stagger, best frame, good perk spread for a strand option, okay origin",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Hung Jury SR4": {
-        "weapon_name": "Hung Jury SR4",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel"
-          ],
-          "column2": [
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Kinetic Tremors",
-            "Shoot to Loot"
-          ],
-          "perk2": [
-            "Firefly",
-            "Ancillary Ordinance",
-            "Explosive Payload"
-          ],
-          "origin_trait": [
-            "Indomitability"
-          ]
-        },
-        "info": {
           "rank": "10",
           "tier": "A",
           "priority": "",
@@ -12812,55 +12812,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "decent double kinetic splash, has StL + EP option, just bad frame",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Inbound Surveillance": {
-        "weapon_name": "Inbound Surveillance",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel"
-          ],
-          "column2": [
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Bewildering Burst",
-            "Stopping Power",
-            "Shoot to Loot"
-          ],
-          "perk2": [
-            "Kinetic Tremors",
-            "Explosive Payload"
-          ],
-          "origin_trait": [
-            "Nail, Meet Hammer"
-          ]
-        },
-        "info": {
-          "rank": "11",
-          "tier": "A",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "double stagger through perks, also has StL + EP, best frame with decent kinetic combo",
+          "notes": "StL + EP option on slower-firing frame, interesting double splash options for precision weapon",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -12899,7 +12851,7 @@
           ]
         },
         "info": {
-          "rank": "12",
+          "rank": "11",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -12909,52 +12861,6 @@
           "usage": "",
           "source": "",
           "notes": "has good solar double splash options, but not a great frame despite good origin",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Admetus-D": {
-        "weapon_name": "Admetus-D",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel"
-          ],
-          "column2": [
-            "High-Caliber Rounds",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Heal Clip"
-          ],
-          "perk2": [
-            "Incandescent"
-          ],
-          "origin_trait": [
-            "Häkke Breach Armaments"
-          ]
-        },
-        "info": {
-          "rank": "13",
-          "tier": "A",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "double stagger solar sustain on best frame, only downside is versatility and origin",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -12992,7 +12898,7 @@
           ]
         },
         "info": {
-          "rank": "14",
+          "rank": "12",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -13040,7 +12946,7 @@
           ]
         },
         "info": {
-          "rank": "15",
+          "rank": "13",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -13086,7 +12992,7 @@
           ]
         },
         "info": {
-          "rank": "16",
+          "rank": "14",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -13133,7 +13039,7 @@
           ]
         },
         "info": {
-          "rank": "17",
+          "rank": "15",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -13157,8 +13063,8 @@
           }
         }
       },
-      "Transfiguration": {
-        "weapon_name": "Transfiguration",
+      "Inbound Surveillance": {
+        "weapon_name": "Inbound Surveillance",
         "version": "",
         "perks": {
           "column1": [
@@ -13168,67 +13074,20 @@
             "Alloy Magazine"
           ],
           "perk1": [
-            "Rampage",
-            "Demolitionist",
-            "Rewind Rounds"
-          ],
-          "perk2": [
-            "Kinetic Tremors"
-          ],
-          "origin_trait": [
-            "Explosive Pact"
-          ]
-        },
-        "info": {
-          "rank": "18",
-          "tier": "B",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "best frame, has single target damage perk + KT, bad origin",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Sublimation": {
-        "weapon_name": "Sublimation",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel"
-          ],
-          "column2": [
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Demolitionist",
-            "Impromptu Ammunition",
+            "Bewildering Burst",
+            "Stopping Power",
             "Shoot to Loot"
           ],
           "perk2": [
-            "Voltshot",
+            "Kinetic Tremors",
             "Explosive Payload"
           ],
           "origin_trait": [
-            "Exhaustive Research"
+            "Nail, Meet Hammer"
           ]
         },
         "info": {
-          "rank": "19",
+          "rank": "16",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -13237,7 +13096,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "best frame + okay origin + single splash Voltshot and StL + EP option",
+          "notes": "StL + EP but mediocre frame, has okay kinetic combo perks but otherwise not great",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -13276,7 +13135,7 @@
           ]
         },
         "info": {
-          "rank": "20",
+          "rank": "17",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -13286,52 +13145,6 @@
           "usage": "",
           "source": "",
           "notes": "has lots of kinetic perks but frame and origin aren't great",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Imperative": {
-        "weapon_name": "Imperative",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel"
-          ],
-          "column2": [
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Demolitionist",
-            "Rapid Hit"
-          ],
-          "perk2": [
-            "Kinetic Tremors"
-          ],
-          "origin_trait": [
-            "Nano-Munitions"
-          ]
-        },
-        "info": {
-          "rank": "21",
-          "tier": "B",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "best pure KT scout due to frame and origin, slightly worse than Memorializer from 1st column",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -13368,7 +13181,7 @@
           ]
         },
         "info": {
-          "rank": "22",
+          "rank": "18",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -13416,7 +13229,7 @@
           ]
         },
         "info": {
-          "rank": "23",
+          "rank": "19",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -13461,7 +13274,7 @@
           ]
         },
         "info": {
-          "rank": "24",
+          "rank": "20",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -13508,7 +13321,7 @@
           ]
         },
         "info": {
-          "rank": "25",
+          "rank": "21",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -13518,6 +13331,54 @@
           "usage": "",
           "source": "",
           "notes": "no Repulsor hurts a lot, bad frame, decent origin, has StL + EP access",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Sublimation": {
+        "weapon_name": "Sublimation",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Demolitionist",
+            "Impromptu Ammunition",
+            "Shoot to Loot"
+          ],
+          "perk2": [
+            "Voltshot",
+            "Explosive Payload"
+          ],
+          "origin_trait": [
+            "Exhaustive Research"
+          ]
+        },
+        "info": {
+          "rank": "22",
+          "tier": "B",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "similar to Tarnished Mettle, just slower frame and better origin",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -13555,7 +13416,7 @@
           ]
         },
         "info": {
-          "rank": "26",
+          "rank": "23",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -13602,7 +13463,7 @@
           ]
         },
         "info": {
-          "rank": "27",
+          "rank": "24",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -13612,6 +13473,190 @@
           "usage": "",
           "source": "",
           "notes": "basically Randy's but worse with a StL + EP option",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Admetus-D": {
+        "weapon_name": "Admetus-D",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "High-Caliber Rounds",
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Heal Clip"
+          ],
+          "perk2": [
+            "Incandescent"
+          ],
+          "origin_trait": [
+            "Häkke Breach Armaments"
+          ]
+        },
+        "info": {
+          "rank": "25",
+          "tier": "B",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "probably worst Heal Clip + Incand option, not much going on besides double stagger",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Transfiguration": {
+        "weapon_name": "Transfiguration",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Rampage",
+            "Demolitionist",
+            "Rewind Rounds"
+          ],
+          "perk2": [
+            "Kinetic Tremors"
+          ],
+          "origin_trait": [
+            "Explosive Pact"
+          ]
+        },
+        "info": {
+          "rank": "26",
+          "tier": "B",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "kinetic damage + splash, bad origin and mediocre frame",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "The Guiding Sight": {
+        "weapon_name": "The Guiding Sight",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Slice"
+          ],
+          "perk2": [
+            "Hatchling"
+          ],
+          "origin_trait": [
+            "Skulking Wolf"
+          ]
+        },
+        "info": {
+          "rank": "",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Imperative": {
+        "weapon_name": "Imperative",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Demolitionist",
+            "Rapid Hit"
+          ],
+          "perk2": [
+            "Kinetic Tremors"
+          ],
+          "origin_trait": [
+            "Nano-Munitions"
+          ]
+        },
+        "info": {
+          "rank": "27",
+          "tier": "B",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "similar to Transfiguration, just no 1st column damage and much better origin",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -13674,96 +13719,6 @@
           }
         }
       },
-      "Jurisprudent": {
-        "weapon_name": "Jurisprudent",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel"
-          ],
-          "column2": [
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Rimestealer"
-          ],
-          "perk2": [
-            "Headstone"
-          ],
-          "origin_trait": [
-            "Bray Legacy"
-          ]
-        },
-        "info": {
-          "rank": "29",
-          "tier": "C",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "solid overall package, just missing double splash",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "The Guiding Sight": {
-        "weapon_name": "The Guiding Sight",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel"
-          ],
-          "column2": [
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Slice"
-          ],
-          "perk2": [
-            "Hatchling"
-          ],
-          "origin_trait": [
-            "Skulking Wolf"
-          ]
-        },
-        "info": {
-          "rank": "30",
-          "tier": "C",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "best frame, okay strand splash kit, good origin too",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
       "Red Tape": {
         "weapon_name": "Red Tape",
         "version": "",
@@ -13787,7 +13742,7 @@
           ]
         },
         "info": {
-          "rank": "31",
+          "rank": "29",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -13797,6 +13752,51 @@
           "usage": "",
           "source": "",
           "notes": "technically has AO + EP access, otherwise just an okay stasis combo scout with a good origin",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Jurisprudent": {
+        "weapon_name": "Jurisprudent",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Rimestealer"
+          ],
+          "perk2": [
+            "Headstone"
+          ],
+          "origin_trait": [
+            "Bray Legacy"
+          ]
+        },
+        "info": {
+          "rank": "30",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "slightly better than Live Fire",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -13833,7 +13833,7 @@
           ]
         },
         "info": {
-          "rank": "32",
+          "rank": "31",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -13843,53 +13843,6 @@
           "usage": "",
           "source": "",
           "notes": "bad frame but typical stasis combo, okay frame",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Perses-D": {
-        "weapon_name": "Perses-D",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel"
-          ],
-          "column2": [
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Rapid Hit",
-            "Shoot to Loot"
-          ],
-          "perk2": [
-            "Headstone",
-            "Explosive Payload"
-          ],
-          "origin_trait": [
-            "Häkke Breach Armaments"
-          ]
-        },
-        "info": {
-          "rank": "33",
-          "tier": "C",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "best frame, origin trait synergizes with Headstone, otherwise unremarkable",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -13927,7 +13880,7 @@
           ]
         },
         "info": {
-          "rank": "34",
+          "rank": "32",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -13973,7 +13926,7 @@
           ]
         },
         "info": {
-          "rank": "35",
+          "rank": "33",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -14020,7 +13973,7 @@
           ]
         },
         "info": {
-          "rank": "36",
+          "rank": "34",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -14066,7 +14019,7 @@
           ]
         },
         "info": {
-          "rank": "37",
+          "rank": "35",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -14112,7 +14065,7 @@
           ]
         },
         "info": {
-          "rank": "38",
+          "rank": "36",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -14122,49 +14075,6 @@
           "usage": "",
           "source": "",
           "notes": "mediocre frame, no good 1st column perks, bad origin, only really has Hatchling",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Talons of the Eagle": {
-        "weapon_name": "Talons of the Eagle",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel"
-          ],
-          "column2": [
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Outlaw"
-          ],
-          "perk2": [
-            "Explosive Payload"
-          ],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "39",
-          "tier": "D",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "best reload + EP option due to frame, otherwise pretty bad",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -14201,7 +14111,7 @@
           ]
         },
         "info": {
-          "rank": "40",
+          "rank": "37",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -14246,7 +14156,7 @@
           ]
         },
         "info": {
-          "rank": "41",
+          "rank": "38",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -14292,7 +14202,7 @@
           ]
         },
         "info": {
-          "rank": "42",
+          "rank": "39",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -14338,7 +14248,7 @@
           ]
         },
         "info": {
-          "rank": "43",
+          "rank": "40",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -14381,7 +14291,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "44",
+          "rank": "41",
           "tier": "E",
           "priority": "",
           "role": "",
@@ -14424,7 +14334,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "45",
+          "rank": "42",
           "tier": "E",
           "priority": "",
           "role": "",
@@ -14468,7 +14378,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "46",
+          "rank": "43",
           "tier": "E",
           "priority": "",
           "role": "",
@@ -14516,7 +14426,7 @@
           ]
         },
         "info": {
-          "rank": "47",
+          "rank": "44",
           "tier": "E",
           "priority": "",
           "role": "",
@@ -14560,7 +14470,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "48",
+          "rank": "45",
           "tier": "E",
           "priority": "",
           "role": "",
@@ -14570,6 +14480,96 @@
           "usage": "",
           "source": "",
           "notes": "worst 2nd column I've ever seen on a scout",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Perses-D": {
+        "weapon_name": "Perses-D",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Rapid Hit",
+            "Shoot to Loot"
+          ],
+          "perk2": [
+            "Headstone",
+            "Explosive Payload"
+          ],
+          "origin_trait": [
+            "Häkke Breach Armaments"
+          ]
+        },
+        "info": {
+          "rank": "",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Talons of the Eagle": {
+        "weapon_name": "Talons of the Eagle",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Outlaw"
+          ],
+          "perk2": [
+            "Explosive Payload"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -16600,6 +16600,55 @@
           }
         }
       },
+      "MIDA Mini-Tool": {
+        "weapon_name": "MIDA Mini-Tool",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel",
+            "Arrowhead Brake"
+          ],
+          "column2": [
+            "High-Caliber Rounds",
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Attrition Orbs",
+            "Heal Clip"
+          ],
+          "perk2": [
+            "Incandescent",
+            "Burning Ambition"
+          ],
+          "origin_trait": [
+            "Vanguard Determination"
+          ]
+        },
+        "info": {
+          "rank": "6",
+          "tier": "S",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "less perk diversity than Yeartide but arguably better origin trait",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
       "Yeartide Apex": {
         "weapon_name": "Yeartide Apex",
         "version": "",
@@ -16625,7 +16674,7 @@
           ]
         },
         "info": {
-          "rank": "6",
+          "rank": "7",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -16670,7 +16719,7 @@
           ]
         },
         "info": {
-          "rank": "7",
+          "rank": "8",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -16718,7 +16767,7 @@
           ]
         },
         "info": {
-          "rank": "8",
+          "rank": "9",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -16766,7 +16815,7 @@
           ]
         },
         "info": {
-          "rank": "9",
+          "rank": "10",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -16815,7 +16864,7 @@
           ]
         },
         "info": {
-          "rank": "10",
+          "rank": "11",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -16864,7 +16913,7 @@
           ]
         },
         "info": {
-          "rank": "11",
+          "rank": "12",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -16912,7 +16961,7 @@
           ]
         },
         "info": {
-          "rank": "12",
+          "rank": "13",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -16961,7 +17010,7 @@
           ]
         },
         "info": {
-          "rank": "13",
+          "rank": "14",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -17009,53 +17058,6 @@
           ]
         },
         "info": {
-          "rank": "14",
-          "tier": "A",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "has core void combo but origin trait is terrible and frame is too",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Peculiar Charm": {
-        "weapon_name": "Peculiar Charm",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel",
-            "Arrowhead Brake"
-          ],
-          "column2": [
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Attrition Orbs",
-            "Stopping Power",
-            "Shoot to Loot"
-          ],
-          "perk2": [
-            "Kinetic Tremors",
-            "Firefly"
-          ],
-          "origin_trait": []
-        },
-        "info": {
           "rank": "15",
           "tier": "A",
           "priority": "",
@@ -17065,104 +17067,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "double stagger via Stopping Power, unique option but worse with AO than Multimach",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "MIDA Mini-Tool": {
-        "weapon_name": "MIDA Mini-Tool",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel",
-            "Arrowhead Brake"
-          ],
-          "column2": [
-            "High-Caliber Rounds",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Attrition Orbs",
-            "Heal Clip"
-          ],
-          "perk2": [
-            "Incandescent",
-            "Burning Ambition"
-          ],
-          "origin_trait": [
-            "Vanguard Determination"
-          ]
-        },
-        "info": {
-          "rank": "16",
-          "tier": "A",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "just worse than Yeartide in every way besides origin",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "No Survivors_2": {
-        "weapon_name": "No Survivors",
-        "version": "RotN",
-        "perks": {
-          "column1": [
-            "Fluted Barrel",
-            "Arrowhead Brake"
-          ],
-          "column2": [
-            "High-Caliber Rounds",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Attrition Orbs",
-            "Heal Clip"
-          ],
-          "perk2": [
-            "Incandescent"
-          ],
-          "origin_trait": [
-            "Gravity Well"
-          ]
-        },
-        "info": {
-          "rank": "17",
-          "tier": "A",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "better origin than original, but no unique Burning Ambition roll",
+          "notes": "has core void combo but origin trait is terrible and frame is too",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -17201,7 +17106,7 @@
           ]
         },
         "info": {
-          "rank": "18",
+          "rank": "16",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -17211,6 +17116,101 @@
           "usage": "",
           "source": "",
           "notes": "besides frame, excellent single target SMG setup",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Peculiar Charm": {
+        "weapon_name": "Peculiar Charm",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel",
+            "Arrowhead Brake"
+          ],
+          "column2": [
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Attrition Orbs",
+            "Stopping Power",
+            "Shoot to Loot"
+          ],
+          "perk2": [
+            "Kinetic Tremors",
+            "Firefly"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "17",
+          "tier": "A",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "double stagger via Stopping Power, unique option but worse with AO than Multimach",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "No Survivors_2": {
+        "weapon_name": "No Survivors",
+        "version": "RotN",
+        "perks": {
+          "column1": [
+            "Fluted Barrel",
+            "Arrowhead Brake"
+          ],
+          "column2": [
+            "High-Caliber Rounds",
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Attrition Orbs",
+            "Heal Clip"
+          ],
+          "perk2": [
+            "Incandescent"
+          ],
+          "origin_trait": [
+            "Gravity Well"
+          ]
+        },
+        "info": {
+          "rank": "18",
+          "tier": "A",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "better origin than original, but no unique Burning Ambition roll",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -20298,52 +20298,6 @@
           }
         }
       },
-      "Truthteller": {
-        "weapon_name": "Truthteller",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Quick Launch"
-          ],
-          "column2": [
-            "Disorienting Grenades"
-          ],
-          "perk1": [
-            "Auto-Loading Holster"
-          ],
-          "perk2": [
-            "Demolitionist",
-            "Quickdraw"
-          ],
-          "origin_trait": [
-            "Field-Tested"
-          ]
-        },
-        "info": {
-          "rank": "31",
-          "tier": "C",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "basically Pardon roll without enhancements",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
       "Empty Vessel": {
         "weapon_name": "Empty Vessel",
         "version": "",
@@ -20365,7 +20319,7 @@
           ]
         },
         "info": {
-          "rank": "32",
+          "rank": "31",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -20409,7 +20363,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "33",
+          "rank": "32",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -20454,7 +20408,7 @@
           ]
         },
         "info": {
-          "rank": "34",
+          "rank": "33",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -20464,6 +20418,51 @@
           "usage": "",
           "source": "",
           "notes": "no good refill perks, no good add clear perks, nothing",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Truthteller": {
+        "weapon_name": "Truthteller",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "Disorienting Grenades"
+          ],
+          "perk1": [
+            "Grave Robber"
+          ],
+          "perk2": [
+            "Repulsor Brace"
+          ],
+          "origin_trait": [
+            "Field-Tested"
+          ]
+        },
+        "info": {
+          "rank": "34",
+          "tier": "D",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "genuinely one of the worst weapons produced in a season starting with 2x",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -21069,7 +21068,8 @@
             "Trickle Charge"
           ],
           "perk2": [
-            "Gear Shift"
+            "Gear Shift",
+            "Reservoir Burst"
           ],
           "origin_trait": [
             "Accelerated Assault"
@@ -21868,54 +21868,6 @@
           }
         }
       },
-      "Royal Executioner": {
-        "weapon_name": "Royal Executioner",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel",
-            "Arrowhead Brake"
-          ],
-          "column2": [
-            "Accelerated Coils"
-          ],
-          "perk1": [
-            "Envious Assassin",
-            "Lead from Gold"
-          ],
-          "perk2": [
-            "Controlled Burst",
-            "Reservoir Burst"
-          ],
-          "origin_trait": [
-            "Noble Deeds"
-          ]
-        },
-        "info": {
-          "rank": "30",
-          "tier": "C",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "outdated overflow perk paired with decent perks on a mediocre frame",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
       "Tempered Dynamo": {
         "weapon_name": "Tempered Dynamo",
         "version": "",
@@ -21940,7 +21892,7 @@
           ]
         },
         "info": {
-          "rank": "31",
+          "rank": "30",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -21950,6 +21902,53 @@
           "usage": "",
           "source": "",
           "notes": "interesting damage perk combo, sadly on the worst fusion frame",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Royal Executioner": {
+        "weapon_name": "Royal Executioner",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel",
+            "Arrowhead Brake"
+          ],
+          "column2": [
+            "Accelerated Coils"
+          ],
+          "perk1": [
+            "Envious Assassin",
+            "Lead from Gold"
+          ],
+          "perk2": [
+            "Reservoir Burst"
+          ],
+          "origin_trait": [
+            "Noble Deeds"
+          ]
+        },
+        "info": {
+          "rank": "31",
+          "tier": "C",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "outdated overflow perk paired with decent perks on a mediocre frame",
           "description": "",
           "alternatives": "",
           "analysis": {

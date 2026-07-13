@@ -1,12 +1,12 @@
-WEAPON,,INFO,,,,,PERKS,,,,,ANALYSIS,,
-🖼️,Name,Season,Energy,Source,Ammo,⬆️,Barrel,Mag,Perk 1,Perk 2,Origin Trait,Notes,Rank,Tier
-,Lotus-Eater,29,Void,Pinnacle Ops,42,Yes,"Quick Launch
+WEAPON,,INFO,,,,,,,PERKS,,,,,ANALYSIS,,
+🖼️,Name,Season,Energy,Frame,Source,Stun,Ammo,⬆️,Barrel,Mag,Perk 1,Perk 2,Origin Trait,Notes,Rank,Tier
+,Lotus-Eater,29,Void,Micro-Missile,Pinnacle Ops,,42,Yes,"Quick Launch
 Volatile Launch",Flared Magwell,"Repulsor Brace
 Dimensional Shift
 Air Trigger","Destabilizing Rounds
 Withering Gaze
 Surrounded",Vanguard Determination,"best elemental perk combo, some other utility options as well",1,S
-,Returned Memory,27,Solar,"Tenet of Bravery, Shaxx",40,Yes,"Quick Launch
+,Returned Memory,27,Solar,Micro-Missile,"Tenet of Bravery, Shaxx",,40,Yes,"Quick Launch
 Volatile Launch","Tactical Mag
 High-Explosive Ordnance
 Flared Magwell","Heal Clip
@@ -14,34 +14,34 @@ Lead from Gold
 Impromptu Ammunition","Incandescent
 Redirection
 Desperate Measures",Tenacity,excellent perks all around with solid origin,2,S
-,High Albedo,29,Kinetic,Europa,47,Yes,"Quick Launch
+,High Albedo,29,Kinetic,Micro-Missile,Europa,,47,Yes,"Quick Launch
 Volatile Launch",Tactical Mag,"Lead from Gold
 Stopping Power
 Blast Distributor","Kinetic Tremors
 All-Star
 Recombination",Winterized Gear,"Ancillary Ordinance also good, very solid perk spread",3,S
-,Aberrant Action,29,Solar,Encore,37,Yes,"Quick Launch
+,Aberrant Action,29,Solar,Micro-Missile,Encore,,37,Yes,"Quick Launch
 Volatile Launch",High-Explosive Ordnance,"Heal Clip
 Field Prep","Incandescent
 Demolitionist",Radiolaria Transposer,better origin than Returned but worse alternative perks,4,S
-,The Call,29,Strand,Pale Heart,25,Yes,"Quick Launch
+,The Call,29,Strand,Micro-Missile,Pale Heart,,25,Yes,"Quick Launch
 Volatile Launch",Tactical Mag,"Slice
 Lead from Gold
 Impulse Amplifier","Chaos Reshaped
 Hatchling",Dealer's Choice,"only Slice rocket sidearm, good origin and utility perks",5,S
-,Tinasha's Mastery,29,Stasis,Iron Banner,46,Yes,"Quick Launch
+,Tinasha's Mastery,29,Stasis,Micro-Missile,Iron Banner,,46,Yes,"Quick Launch
 Volatile Launch",High-Explosive Ordnance,"Air Trigger
 Impulse Amplifier
 Loose Change","Chill Clip
 Surrounded
 Desperate Measures",Skulking Wolf,"great ammo generator, solid perks and decent origin",6,S
-,Indebted Kindness,29,Arc,Warlord's Ruin,37,Yes,"Quick Launch
+,Indebted Kindness,29,Arc,Micro-Missile,Warlord's Ruin,,37,Yes,"Quick Launch
 Volatile Launch",High-Explosive Ordnance,"Air Trigger
 Beacon Rounds
 Deconstruct","Voltshot
 Chain Reaction
 Gear Shift",Sundering,"good Voltshot user, Lead also appreciated, situational origin",7,S
-,Unfall,27,Arc,"Tenet of Bravery, Zavala",37,Yes,"Quick Launch
+,Unfall,27,Arc,Together Forever,"Tenet of Bravery, Zavala",,37,Yes,"Quick Launch
 Volatile Launch",Appended Mag,"Lead from Gold
 Impulse Amplifier
 Beacon Rounds","Jolting Feedback
