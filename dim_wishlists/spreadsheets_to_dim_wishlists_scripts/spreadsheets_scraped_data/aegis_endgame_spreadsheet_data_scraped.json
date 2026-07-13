@@ -6,7 +6,7 @@
       "patch": "Pantheon 2.0"
     },
     "link": "https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY",
-    "scrape_date": "2026-07-13 01:57:26"
+    "scrape_date": "2026-07-13 10:51:22"
   },
   "workbooks": {
     "Shopping List": {
@@ -2618,53 +2618,6 @@
           }
         }
       },
-      "Abyss Defiant": {
-        "weapon_name": "Abyss Defiant",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel",
-            "Arrowhead Brake"
-          ],
-          "column2": [
-            "High-Caliber Rounds"
-          ],
-          "perk1": [
-            "Burning Ambition",
-            "Heal Clip"
-          ],
-          "perk2": [
-            "Incandescent"
-          ],
-          "origin_trait": [
-            "Cursed Thrall"
-          ]
-        },
-        "info": {
-          "rank": "11",
-          "tier": "A",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "High-Caliber + Unstoppable intrinsic access, good solar double splash, solid origin",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
       "Scathelocke": {
         "weapon_name": "Scathelocke",
         "version": "",
@@ -2689,7 +2642,7 @@
           ]
         },
         "info": {
-          "rank": "12",
+          "rank": "11",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -2699,6 +2652,53 @@
           "usage": "",
           "source": "",
           "notes": "very strong origin trait in context, classic kinetic combo, best archetype",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Abyss Defiant": {
+        "weapon_name": "Abyss Defiant",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel",
+            "Arrowhead Brake"
+          ],
+          "column2": [
+            "High-Caliber Rounds"
+          ],
+          "perk1": [
+            "Burning Ambition",
+            "Heal Clip"
+          ],
+          "perk2": [
+            "Incandescent"
+          ],
+          "origin_trait": [
+            "Cursed Thrall"
+          ]
+        },
+        "info": {
+          "rank": "12",
+          "tier": "A",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "High-Caliber + Unstoppable intrinsic access, good solar double splash, solid origin",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -7122,6 +7122,54 @@
           }
         }
       },
+      "Fatebringer": {
+        "weapon_name": "Fatebringer",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Explosive Payload",
+            "Kinetic Tremors",
+            "Stopping Power"
+          ],
+          "perk2": [
+            "Firefly",
+            "One for All"
+          ],
+          "origin_trait": [
+            "Timelost Magazine"
+          ]
+        },
+        "info": {
+          "rank": "17",
+          "tier": "A",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "not the best double splash options, great origin and frame, but otherwise not very remarkable",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
       "Midnight Coup": {
         "weapon_name": "Midnight Coup",
         "version": "",
@@ -7147,7 +7195,7 @@
           ]
         },
         "info": {
-          "rank": "17",
+          "rank": "18",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -7193,7 +7241,7 @@
           ]
         },
         "info": {
-          "rank": "18",
+          "rank": "19",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -7239,7 +7287,7 @@
           ]
         },
         "info": {
-          "rank": "19",
+          "rank": "20",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -7285,7 +7333,7 @@
           ]
         },
         "info": {
-          "rank": "20",
+          "rank": "21",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -7295,54 +7343,6 @@
           "usage": "",
           "source": "",
           "notes": "probably best Voltshot hand cannon, still lower in lethality compared to other splash combos",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Fatebringer": {
-        "weapon_name": "Fatebringer",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel"
-          ],
-          "column2": [
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Explosive Payload",
-            "Kinetic Tremors",
-            "Stopping Power"
-          ],
-          "perk2": [
-            "Firefly",
-            "One for All"
-          ],
-          "origin_trait": [
-            "Timelost Magazine"
-          ]
-        },
-        "info": {
-          "rank": "21",
-          "tier": "B",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "not the best double splash options, great origin and frame, but otherwise not very remarkable",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -13601,8 +13601,8 @@
           ]
         },
         "info": {
-          "rank": "",
-          "tier": "",
+          "rank": "27",
+          "tier": "B",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -13610,7 +13610,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
+          "notes": "very limited perk pool but decent highlights, mediocre frame but good origin",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -13647,7 +13647,7 @@
           ]
         },
         "info": {
-          "rank": "27",
+          "rank": "28",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -13695,7 +13695,7 @@
           ]
         },
         "info": {
-          "rank": "28",
+          "rank": "29",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -13742,7 +13742,7 @@
           ]
         },
         "info": {
-          "rank": "29",
+          "rank": "30",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -13787,8 +13787,8 @@
           ]
         },
         "info": {
-          "rank": "30",
-          "tier": "",
+          "rank": "31",
+          "tier": "C",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -13833,7 +13833,7 @@
           ]
         },
         "info": {
-          "rank": "31",
+          "rank": "32",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -13880,7 +13880,7 @@
           ]
         },
         "info": {
-          "rank": "32",
+          "rank": "33",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -13890,6 +13890,53 @@
           "usage": "",
           "source": "",
           "notes": "bad frame but reload + Incand and StL + EP available, bad origin though",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Perses-D": {
+        "weapon_name": "Perses-D",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Rapid Hit",
+            "Shoot to Loot"
+          ],
+          "perk2": [
+            "Headstone",
+            "Explosive Payload"
+          ],
+          "origin_trait": [
+            "Häkke Breach Armaments"
+          ]
+        },
+        "info": {
+          "rank": "34",
+          "tier": "C",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "very similar to Staccato, more awkward frame for StL, and arguably worse splash perk",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -13926,7 +13973,7 @@
           ]
         },
         "info": {
-          "rank": "33",
+          "rank": "35",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -13973,7 +14020,7 @@
           ]
         },
         "info": {
-          "rank": "34",
+          "rank": "36",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -14019,7 +14066,7 @@
           ]
         },
         "info": {
-          "rank": "35",
+          "rank": "37",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -14065,7 +14112,7 @@
           ]
         },
         "info": {
-          "rank": "36",
+          "rank": "38",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -14111,7 +14158,7 @@
           ]
         },
         "info": {
-          "rank": "37",
+          "rank": "39",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -14156,7 +14203,7 @@
           ]
         },
         "info": {
-          "rank": "38",
+          "rank": "40",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -14202,7 +14249,7 @@
           ]
         },
         "info": {
-          "rank": "39",
+          "rank": "41",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -14212,6 +14259,49 @@
           "usage": "",
           "source": "",
           "notes": "awful origin trait for a scout, otherwise pretty mediocre",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Talons of the Eagle": {
+        "weapon_name": "Talons of the Eagle",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Outlaw"
+          ],
+          "perk2": [
+            "Explosive Payload"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "42",
+          "tier": "D",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "EP only thing going for this",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -14248,7 +14338,7 @@
           ]
         },
         "info": {
-          "rank": "40",
+          "rank": "43",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -14291,7 +14381,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "41",
+          "rank": "44",
           "tier": "E",
           "priority": "",
           "role": "",
@@ -14334,7 +14424,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "42",
+          "rank": "45",
           "tier": "E",
           "priority": "",
           "role": "",
@@ -14378,7 +14468,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "43",
+          "rank": "46",
           "tier": "E",
           "priority": "",
           "role": "",
@@ -14426,7 +14516,7 @@
           ]
         },
         "info": {
-          "rank": "44",
+          "rank": "47",
           "tier": "E",
           "priority": "",
           "role": "",
@@ -14470,7 +14560,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "45",
+          "rank": "48",
           "tier": "E",
           "priority": "",
           "role": "",
@@ -14480,96 +14570,6 @@
           "usage": "",
           "source": "",
           "notes": "worst 2nd column I've ever seen on a scout",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Perses-D": {
-        "weapon_name": "Perses-D",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel"
-          ],
-          "column2": [
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Rapid Hit",
-            "Shoot to Loot"
-          ],
-          "perk2": [
-            "Headstone",
-            "Explosive Payload"
-          ],
-          "origin_trait": [
-            "Häkke Breach Armaments"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Talons of the Eagle": {
-        "weapon_name": "Talons of the Eagle",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel"
-          ],
-          "column2": [
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Outlaw"
-          ],
-          "perk2": [
-            "Explosive Payload"
-          ],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -17647,54 +17647,6 @@
           }
         }
       },
-      "Whatchamacallit": {
-        "weapon_name": "Whatchamacallit",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel",
-            "Arrowhead Brake"
-          ],
-          "column2": [
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Collective Pugilism",
-            "Enlightened Action"
-          ],
-          "perk2": [
-            "Jolting Feedback",
-            "Gear Shift"
-          ],
-          "origin_trait": [
-            "Accelerated Assault"
-          ]
-        },
-        "info": {
-          "rank": "28",
-          "tier": "B",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "solid frame, great origin, has JF access, only downside is bad 1st column",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
       "Antedate": {
         "weapon_name": "Antedate",
         "version": "",
@@ -17720,7 +17672,7 @@
           ]
         },
         "info": {
-          "rank": "29",
+          "rank": "28",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -17767,7 +17719,7 @@
           ]
         },
         "info": {
-          "rank": "30",
+          "rank": "29",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -17777,6 +17729,54 @@
           "usage": "",
           "source": "",
           "notes": "better splash perk than Voltshot SMGs, worse reload but decent frame and solid origin",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Whatchamacallit": {
+        "weapon_name": "Whatchamacallit",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel",
+            "Arrowhead Brake"
+          ],
+          "column2": [
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Collective Pugilism",
+            "Enlightened Action"
+          ],
+          "perk2": [
+            "Jolting Feedback",
+            "Gear Shift"
+          ],
+          "origin_trait": [
+            "Accelerated Assault"
+          ]
+        },
+        "info": {
+          "rank": "30",
+          "tier": "B",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "solid frame, great origin, has JF access, only downside is bad 1st column",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -22522,27 +22522,34 @@
       }
     },
     "Glaives": {
-      "Rake Angle": {
-        "weapon_name": "Rake Angle",
+      "Ecliptic Distaff": {
+        "weapon_name": "Ecliptic Distaff",
         "version": "",
         "perks": {
           "column1": [
-            "Lightweight Emitter",
             "Auxiliary Reserves"
           ],
           "column2": [
-            "Appended Mag",
+            "Alloy Magazine",
             "Swap Mag"
           ],
-          "perk1": [],
-          "perk2": [],
+          "perk1": [
+            "Repulsor Brace",
+            "Disruption Break",
+            "Immovable Object"
+          ],
+          "perk2": [
+            "Chaos Reshaped",
+            "Close to Melee",
+            "Withering Gaze"
+          ],
           "origin_trait": [
-            "Problem Solver"
+            "Vanguard Determination"
           ]
         },
         "info": {
-          "rank": "",
-          "tier": "",
+          "rank": "1",
+          "tier": "S",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -22550,93 +22557,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Refusal of the Call": {
-        "weapon_name": "Refusal of the Call",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Lightweight Emitter",
-            "Auxiliary Reserves"
-          ],
-          "column2": [
-            "Appended Mag",
-            "Swap Mag"
-          ],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": [
-            "Heretical Behavior"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Forthcoming Deviance": {
-        "weapon_name": "Forthcoming Deviance",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Lightweight Emitter",
-            "Auxiliary Reserves"
-          ],
-          "column2": [
-            "Appended Mag",
-            "Swap Mag"
-          ],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": [
-            "Collective Purpose"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
+          "notes": "better general use case origin than Heron, also has Chaos access and Withering Gaze for some reason",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -22656,22 +22577,29 @@
         "version": "",
         "perks": {
           "column1": [
-            "Lightweight Emitter",
             "Auxiliary Reserves"
           ],
           "column2": [
-            "Appended Mag",
+            "Alloy Magazine",
             "Swap Mag"
           ],
-          "perk1": [],
-          "perk2": [],
+          "perk1": [
+            "Repulsor Brace",
+            "Disruption Break",
+            "Overflow"
+          ],
+          "perk2": [
+            "Redirection",
+            "Close to Melee",
+            "Unrelenting"
+          ],
           "origin_trait": [
             "Nail, Meet Hammer"
           ]
         },
         "info": {
-          "rank": "",
-          "tier": "",
+          "rank": "2",
+          "tier": "S",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -22679,7 +22607,155 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
+          "notes": "excellent synergy with Suppressing Glaive for stacking Void Overshield with block DR, has melee combo",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Forthcoming Deviance": {
+        "weapon_name": "Forthcoming Deviance",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Auxiliary Reserves"
+          ],
+          "column2": [
+            "Alloy Magazine",
+            "Swap Mag"
+          ],
+          "perk1": [
+            "Repulsor Brace",
+            "Disruption Break",
+            "Reconstruction"
+          ],
+          "perk2": [
+            "Chaos Reshaped",
+            "Close to Melee",
+            "Destabilizing Rounds"
+          ],
+          "origin_trait": [
+            "Collective Purpose"
+          ]
+        },
+        "info": {
+          "rank": "3",
+          "tier": "S",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "basically just worse than top 2 glaives due to frame and origin",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Refusal of the Call": {
+        "weapon_name": "Refusal of the Call",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Auxiliary Reserves"
+          ],
+          "column2": [
+            "Alloy Magazine",
+            "Swap Mag"
+          ],
+          "perk1": [
+            "Slice",
+            "Close to Melee",
+            "Chain Reaction"
+          ],
+          "perk2": [
+            "Chaos Reshaped",
+            "Replenishing Aegis"
+          ],
+          "origin_trait": [
+            "Heretical Behavior"
+          ]
+        },
+        "info": {
+          "rank": "4",
+          "tier": "S",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "probably best kinetic slot defensive glaive, Slice + Chaos is great and has 2 origins for roam vs. boss",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Rake Angle": {
+        "weapon_name": "Rake Angle",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Auxiliary Reserves"
+          ],
+          "column2": [
+            "Alloy Magazine",
+            "Swap Mag"
+          ],
+          "perk1": [
+            "Overflow",
+            "Lead from Gold",
+            "Rimestealer"
+          ],
+          "perk2": [
+            "Chill Clip",
+            "Close to Melee"
+          ],
+          "origin_trait": [
+            "Problem Solver"
+          ]
+        },
+        "info": {
+          "rank": "5",
+          "tier": "S",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Chill Clip surprisingly useful for acting as a damage perk, good QoL otherwise + origin for elite+",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -22699,22 +22775,29 @@
         "version": "",
         "perks": {
           "column1": [
-            "Lightweight Emitter",
             "Auxiliary Reserves"
           ],
           "column2": [
-            "Appended Mag",
+            "Alloy Magazine",
             "Swap Mag"
           ],
-          "perk1": [],
-          "perk2": [],
+          "perk1": [
+            "Close to Melee",
+            "Frenzy",
+            "Immovable Object"
+          ],
+          "perk2": [
+            "Chaos Reshaped",
+            "Surrounded",
+            "Unrelenting"
+          ],
           "origin_trait": [
             "Souldrinker"
           ]
         },
         "info": {
-          "rank": "",
-          "tier": "",
+          "rank": "6",
+          "tier": "A",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -22722,7 +22805,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
+          "notes": "lacks some defensive utility, Souldrinker doesn't work on melee hits and thus has low uptime",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -22742,22 +22825,28 @@
         "version": "",
         "perks": {
           "column1": [
-            "Lightweight Emitter",
             "Auxiliary Reserves"
           ],
           "column2": [
-            "Appended Mag",
+            "Alloy Magazine",
             "Swap Mag"
           ],
-          "perk1": [],
-          "perk2": [],
+          "perk1": [
+            "Demolitionist",
+            "Lead from Gold",
+            "Impulse Amplifier"
+          ],
+          "perk2": [
+            "Frenzy",
+            "Adaptive Munitions"
+          ],
           "origin_trait": [
             "Extrovert"
           ]
         },
         "info": {
-          "rank": "",
-          "tier": "",
+          "rank": "7",
+          "tier": "A",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -22765,265 +22854,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Ecliptic Distaff": {
-        "weapon_name": "Ecliptic Distaff",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Lightweight Emitter",
-            "Auxiliary Reserves"
-          ],
-          "column2": [
-            "Appended Mag",
-            "Swap Mag"
-          ],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": [
-            "Vanguard Determination"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Greasy Luck": {
-        "weapon_name": "Greasy Luck",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Lightweight Emitter",
-            "Auxiliary Reserves"
-          ],
-          "column2": [
-            "Appended Mag",
-            "Swap Mag"
-          ],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": [
-            "Restoration Ritual"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "The Enigma": {
-        "weapon_name": "The Enigma",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Lightweight Emitter",
-            "Auxiliary Reserves"
-          ],
-          "column2": [
-            "Appended Mag",
-            "Swap Mag"
-          ],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": [
-            "Psychohack"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Unexpected Resurgence": {
-        "weapon_name": "Unexpected Resurgence",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Lightweight Emitter",
-            "Auxiliary Reserves"
-          ],
-          "column2": [
-            "Appended Mag",
-            "Swap Mag"
-          ],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": [
-            "Alacrity"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Backfang": {
-        "weapon_name": "Backfang",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Lightweight Emitter",
-            "Auxiliary Reserves"
-          ],
-          "column2": [
-            "Appended Mag",
-            "Swap Mag"
-          ],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": [
-            "Gun and Run"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Greasy Luck_2": {
-        "weapon_name": "Greasy Luck",
-        "version": "RotN",
-        "perks": {
-          "column1": [
-            "Lightweight Emitter",
-            "Auxiliary Reserves"
-          ],
-          "column2": [
-            "Appended Mag",
-            "Swap Mag"
-          ],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": [
-            "Restoration Ritual"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
+          "notes": "very outdated perk pool, but Extrovert is pretty decent and still defensively functions",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -23043,22 +22874,377 @@
         "version": "",
         "perks": {
           "column1": [
-            "Lightweight Emitter",
             "Auxiliary Reserves"
           ],
           "column2": [
-            "Appended Mag",
+            "Alloy Magazine",
             "Swap Mag"
           ],
-          "perk1": [],
-          "perk2": [],
+          "perk1": [
+            "Overflow",
+            "Demolitionist",
+            "Pugilist"
+          ],
+          "perk2": [
+            "Close to Melee",
+            "Surrounded",
+            "Wellspring"
+          ],
           "origin_trait": [
             "Ambush"
           ]
         },
         "info": {
-          "rank": "",
-          "tier": "",
+          "rank": "8",
+          "tier": "A",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Demo/Pugilist + Wellspring is one of the highest ability chunk regen sources in the game",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "The Enigma": {
+        "weapon_name": "The Enigma",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Auxiliary Reserves"
+          ],
+          "column2": [
+            "Alloy Magazine",
+            "Swap Mag"
+          ],
+          "perk1": [
+            "Grave Robber",
+            "Lead from Gold"
+          ],
+          "perk2": [
+            "Close to Melee",
+            "Unrelenting"
+          ],
+          "origin_trait": [
+            "Psychohack"
+          ]
+        },
+        "info": {
+          "rank": "9",
+          "tier": "A",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "still usable despite dated perk pool, Psychohack is great to have on a defensive tool",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Greasy Luck": {
+        "weapon_name": "Greasy Luck",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Auxiliary Reserves"
+          ],
+          "column2": [
+            "Alloy Magazine",
+            "Swap Mag"
+          ],
+          "perk1": [
+            "Chaos Reshaped",
+            "Reconstruction",
+            "Heal Clip"
+          ],
+          "perk2": [
+            "Close to Melee",
+            "Chain Reaction",
+            "Incandescent"
+          ],
+          "origin_trait": [
+            "Restoration Ritual"
+          ]
+        },
+        "info": {
+          "rank": "10",
+          "tier": "A",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "sacrifices too much in shield duration for having essentially the same roll as Lubrae",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Greasy Luck_2": {
+        "weapon_name": "Greasy Luck",
+        "version": "RotN",
+        "perks": {
+          "column1": [
+            "Auxiliary Reserves"
+          ],
+          "column2": [
+            "Alloy Magazine",
+            "Swap Mag"
+          ],
+          "perk1": [
+            "Reconstruction",
+            "Lead from Gold",
+            "Heal Clip"
+          ],
+          "perk2": [
+            "Close to Melee",
+            "Redirection",
+            "Incandescent"
+          ],
+          "origin_trait": [
+            "Gravity Well"
+          ]
+        },
+        "info": {
+          "rank": "11",
+          "tier": "A",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "has some utility as an LFG + Gravity Well ammo pickup option, otherwise outclassed",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Albedo Wing": {
+        "weapon_name": "Albedo Wing",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Auxiliary Reserves"
+          ],
+          "column2": [
+            "Alloy Magazine",
+            "Swap Mag"
+          ],
+          "perk1": [
+            "Grave Robber",
+            "Strategist",
+            "Air Trigger"
+          ],
+          "perk2": [
+            "Close to Melee",
+            "Demolitionist",
+            "Lead from Gold"
+          ],
+          "origin_trait": [
+            "Dawning Surprise"
+          ]
+        },
+        "info": {
+          "rank": "12",
+          "tier": "B",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "worse overall than Kelgorath for chunk gains, other perks not great",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Backfang": {
+        "weapon_name": "Backfang",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Auxiliary Reserves"
+          ],
+          "column2": [
+            "Alloy Magazine",
+            "Swap Mag"
+          ],
+          "perk1": [
+            "Immovable Object",
+            "Lead from Gold",
+            "Impulse Amplifier"
+          ],
+          "perk2": [
+            "Close to Melee",
+            "Surrounded",
+            "Unrelenting"
+          ],
+          "origin_trait": [
+            "Gun and Run"
+          ]
+        },
+        "info": {
+          "rank": "13",
+          "tier": "B",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "very mediocre overall, worst frame and no special perks or origin",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Unexpected Resurgence": {
+        "weapon_name": "Unexpected Resurgence",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Auxiliary Reserves"
+          ],
+          "column2": [
+            "Alloy Magazine",
+            "Swap Mag"
+          ],
+          "perk1": [
+            "Auto-Loading Holster",
+            "Impulse Amplifier"
+          ],
+          "perk2": [
+            "Close to Melee",
+            "Frenzy",
+            "Surrounded"
+          ],
+          "origin_trait": [
+            "Alacrity"
+          ]
+        },
+        "info": {
+          "rank": "14",
+          "tier": "B",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "ALH is rare on a glaive but nothing else here really stands out besides high shield duration",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      }
+    },
+    "Shotguns": {
+      "Threat Level": {
+        "weapon_name": "Threat Level",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Barrel Shroud"
+          ],
+          "column2": [
+            "Tactical Mag"
+          ],
+          "perk1": [
+            "Cascade Point",
+            "One-Two Punch",
+            "Lead from Gold"
+          ],
+          "perk2": [
+            "All-Star",
+            "Trench Barrel",
+            "Chaos Reshaped"
+          ],
+          "origin_trait": [
+            "Elliptical Orbit"
+          ]
+        },
+        "info": {
+          "rank": "1",
+          "tier": "S",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -23081,27 +23267,33 @@
           }
         }
       },
-      "Albedo Wing": {
-        "weapon_name": "Albedo Wing",
+      "Found Verdict": {
+        "weapon_name": "Found Verdict",
         "version": "",
         "perks": {
           "column1": [
-            "Lightweight Emitter",
-            "Auxiliary Reserves"
+            "Barrel Shroud"
           ],
           "column2": [
-            "Appended Mag",
-            "Swap Mag"
+            "Assault Mag"
           ],
-          "perk1": [],
-          "perk2": [],
+          "perk1": [
+            "Aggregate Charge",
+            "Discord",
+            "Rewind Rounds"
+          ],
+          "perk2": [
+            "Trench Barrel",
+            "One-Two Punch",
+            "Gear Shift"
+          ],
           "origin_trait": [
-            "Dawning Surprise"
+            "Timelost Magazine"
           ]
         },
         "info": {
-          "rank": "",
-          "tier": "",
+          "rank": "2",
+          "tier": "S",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -23123,9 +23315,7 @@
             "power": ""
           }
         }
-      }
-    },
-    "Shotguns": {
+      },
       "Perfect Paradox": {
         "weapon_name": "Perfect Paradox",
         "version": "",
@@ -23139,7 +23329,7 @@
           "perk1": [
             "Pugilist",
             "Stopping Power",
-            "Bewildering Burst"
+            "Threat Detector"
           ],
           "perk2": [
             "One-Two Punch",
@@ -23151,7 +23341,7 @@
           ]
         },
         "info": {
-          "rank": "1",
+          "rank": "3",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -23160,7 +23350,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "BiS shotgun for most common shotgun use case",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -23187,20 +23377,19 @@
           ],
           "perk1": [
             "Redirection",
-            "Reconstruction",
-            "Demolitionist"
+            "Reconstruction"
           ],
           "perk2": [
-            "Recombination",
+            "Cascade Point",
             "Aggregate Charge",
-            "Cascade Point"
+            "Recombination"
           ],
           "origin_trait": [
             "Bray Inheritance"
           ]
         },
         "info": {
-          "rank": "2",
+          "rank": "4",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -23209,7 +23398,55 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "highest burst shotgun in the game",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Basso Ostinato": {
+        "weapon_name": "Basso Ostinato",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Barrel Shroud"
+          ],
+          "column2": [
+            "Tactical Mag"
+          ],
+          "perk1": [
+            "Grave Robber",
+            "Demolitionist",
+            "Discord"
+          ],
+          "perk2": [
+            "One-Two Punch",
+            "Trench Barrel"
+          ],
+          "origin_trait": [
+            "Nanotech Tracer Missiles"
+          ]
+        },
+        "info": {
+          "rank": "5",
+          "tier": "S",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -23247,8 +23484,8 @@
           ]
         },
         "info": {
-          "rank": "3",
-          "tier": "S",
+          "rank": "6",
+          "tier": "A",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -23256,7 +23493,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "niche Redirection burst + total damage slug",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -23271,8 +23508,8 @@
           }
         }
       },
-      "Found Verdict": {
-        "weapon_name": "Found Verdict",
+      "Felwinter's Lie": {
+        "weapon_name": "Felwinter's Lie",
         "version": "",
         "perks": {
           "column1": [
@@ -23282,21 +23519,21 @@
             "Assault Mag"
           ],
           "perk1": [
-            "Aggregate Charge",
-            "Discord"
+            "Cascade Point",
+            "Slickdraw"
           ],
           "perk2": [
+            "Bait and Switch",
             "Trench Barrel",
-            "Elemental Honing",
-            "Gear Shift"
+            "One-Two Punch"
           ],
           "origin_trait": [
-            "Timelost Magazine"
+            "Skulking Wolf"
           ]
         },
         "info": {
-          "rank": "4",
-          "tier": "S",
+          "rank": "7",
+          "tier": "A",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -23304,7 +23541,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "best Trench double damage spam aggressive",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -23319,8 +23556,8 @@
           }
         }
       },
-      "Basso Ostinato": {
-        "weapon_name": "Basso Ostinato",
+      "IKELOS_SG_v1.0.3": {
+        "weapon_name": "IKELOS_SG_v1.0.3",
         "version": "",
         "perks": {
           "column1": [
@@ -23330,22 +23567,20 @@
             "Tactical Mag"
           ],
           "perk1": [
-            "Grave Robber",
-            "Discord",
-            "Demolitionist"
+            "Grave Robber"
           ],
           "perk2": [
             "One-Two Punch",
-            "Destabilizing Rounds",
-            "Trench Barrel"
+            "Trench Barrel",
+            "Surrounded"
           ],
           "origin_trait": [
-            "Nanotech Tracer Missiles"
+            "Rasputin's Arsenal"
           ]
         },
         "info": {
-          "rank": "5",
-          "tier": "S",
+          "rank": "8",
+          "tier": "A",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -23353,7 +23588,56 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "free damage on origin, best energy 12P option, Discord alternative",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "The Deicide": {
+        "weapon_name": "The Deicide",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Barrel Shroud"
+          ],
+          "column2": [
+            "Tactical Mag"
+          ],
+          "perk1": [
+            "Discord",
+            "Auto-Loading Holster",
+            "Lead from Gold"
+          ],
+          "perk2": [
+            "One-Two Punch",
+            "Trench Barrel",
+            "Cascade Point"
+          ],
+          "origin_trait": [
+            "Fail-deadly"
+          ]
+        },
+        "info": {
+          "rank": "9",
+          "tier": "A",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -23391,201 +23675,6 @@
           ]
         },
         "info": {
-          "rank": "6",
-          "tier": "S",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "Perfect Paradox alternative",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Threat Level": {
-        "weapon_name": "Threat Level",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Barrel Shroud"
-          ],
-          "column2": [
-            "Tactical Mag"
-          ],
-          "perk1": [
-            "Grave Robber",
-            "One-Two Punch",
-            "Cascade Point"
-          ],
-          "perk2": [
-            "Chaos Reshaped",
-            "Trench Barrel",
-            "Elemental Honing"
-          ],
-          "origin_trait": [
-            "Elliptical Orbit"
-          ]
-        },
-        "info": {
-          "rank": "7",
-          "tier": "S",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "BiS kinetic pellet dump and 1 mag melee-based damage",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "IKELOS_SG_v1.0.3": {
-        "weapon_name": "IKELOS_SG_v1.0.3",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Barrel Shroud"
-          ],
-          "column2": [
-            "Tactical Mag"
-          ],
-          "perk1": [
-            "Grave Robber",
-            "Threat Detector",
-            "Pugilist"
-          ],
-          "perk2": [
-            "One-Two Punch",
-            "Surrounded",
-            "Cascade Point"
-          ],
-          "origin_trait": [
-            "Rasputin's Arsenal"
-          ]
-        },
-        "info": {
-          "rank": "8",
-          "tier": "S",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "excellent perks for 12P and roam",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Arcane Embrace": {
-        "weapon_name": "Arcane Embrace",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel"
-          ],
-          "column2": [
-            "Appended Mag"
-          ],
-          "perk1": [
-            "Fourth Time's the Charm",
-            "Dual Loader",
-            "Grave Robber"
-          ],
-          "perk2": [
-            "Aggregate Charge",
-            "Precision Instrument",
-            "Surrounded"
-          ],
-          "origin_trait": [
-            "Search Party"
-          ]
-        },
-        "info": {
-          "rank": "9",
-          "tier": "A",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "niche legendary shotgun dump roll",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Until Its Return": {
-        "weapon_name": "Until Its Return",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Barrel Shroud"
-          ],
-          "column2": [
-            "Tactical Mag"
-          ],
-          "perk1": [
-            "Auto-Loading Holster",
-            "Overflow"
-          ],
-          "perk2": [
-            "Cascade Point",
-            "Surrounded",
-            "Vorpal Weapon"
-          ],
-          "origin_trait": [
-            "Unsated Hunger"
-          ]
-        },
-        "info": {
           "rank": "10",
           "tier": "A",
           "priority": "",
@@ -23595,99 +23684,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "legendary Horseman-esque burst, uncommon",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Blasphemer": {
-        "weapon_name": "Blasphemer",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel"
-          ],
-          "column2": [
-            "Assault Mag"
-          ],
-          "perk1": [
-            "Fourth Time's the Charm"
-          ],
-          "perk2": [
-            "All-Star"
-          ],
-          "origin_trait": [
-            "Loss"
-          ]
-        },
-        "info": {
-          "rank": "11",
-          "tier": "A",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "carried by a single roll, not bad though",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "A Sudden Death": {
-        "weapon_name": "A Sudden Death",
-        "version": "RotN",
-        "perks": {
-          "column1": [
-            "Barrel Shroud"
-          ],
-          "column2": [
-            "Assault Mag"
-          ],
-          "perk1": [
-            "Discord",
-            "One-Two Punch"
-          ],
-          "perk2": [
-            "Trench Barrel",
-            "Redirection"
-          ],
-          "origin_trait": [
-            "Gravity Well"
-          ]
-        },
-        "info": {
-          "rank": "12",
-          "tier": "A",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "decent roam potential + double damage option",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -23724,6 +23721,100 @@
           ]
         },
         "info": {
+          "rank": "11",
+          "tier": "A",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "A Sudden Death": {
+        "weapon_name": "A Sudden Death",
+        "version": "RotN",
+        "perks": {
+          "column1": [
+            "Barrel Shroud"
+          ],
+          "column2": [
+            "Assault Mag"
+          ],
+          "perk1": [
+            "One-Two Punch",
+            "Discord"
+          ],
+          "perk2": [
+            "Trench Barrel",
+            "Redirection"
+          ],
+          "origin_trait": [
+            "Gravity Well"
+          ]
+        },
+        "info": {
+          "rank": "12",
+          "tier": "A",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "A Sudden Death_2": {
+        "weapon_name": "A Sudden Death",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Barrel Shroud"
+          ],
+          "column2": [
+            "Assault Mag"
+          ],
+          "perk1": [
+            "One-Two Punch",
+            "Discord",
+            "Reconstruction"
+          ],
+          "perk2": [
+            "Trench Barrel"
+          ],
+          "origin_trait": [
+            "Crossing Over"
+          ]
+        },
+        "info": {
           "rank": "13",
           "tier": "A",
           "priority": "",
@@ -23733,7 +23824,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "go-to QoL Trench aggressive",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -23781,7 +23872,103 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "probably BiS close range Withering special",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Arcane Embrace": {
+        "weapon_name": "Arcane Embrace",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Appended Mag"
+          ],
+          "perk1": [
+            "Fourth Time's the Charm",
+            "Reconstruction",
+            "Grave Robber"
+          ],
+          "perk2": [
+            "Aggregate Charge",
+            "Surrounded"
+          ],
+          "origin_trait": [
+            "Search Party"
+          ]
+        },
+        "info": {
+          "rank": "15",
+          "tier": "A",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Until Its Return": {
+        "weapon_name": "Until Its Return",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Barrel Shroud"
+          ],
+          "column2": [
+            "Tactical Mag"
+          ],
+          "perk1": [
+            "Auto-Loading Holster",
+            "Overflow"
+          ],
+          "perk2": [
+            "Surrounded",
+            "Cascade Point",
+            "Trench Barrel"
+          ],
+          "origin_trait": [
+            "Unsated Hunger"
+          ]
+        },
+        "info": {
+          "rank": "16",
+          "tier": "A",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -23807,21 +23994,21 @@
             "Assault Mag"
           ],
           "perk1": [
+            "Rewind Rounds",
             "Reconstruction",
-            "Lead from Gold",
-            "Rewind Rounds"
+            "Envious Arsenal"
           ],
           "perk2": [
             "One-Two Punch",
-            "Trench Barrel",
-            "Aggregate Charge"
+            "Aggregate Charge",
+            "Trench Barrel"
           ],
           "origin_trait": [
             "Frame of Reference"
           ]
         },
         "info": {
-          "rank": "15",
+          "rank": "17",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -23830,7 +24017,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "very odd perk pool that can't really decide on what it wants",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -23856,11 +24043,12 @@
             "Assault Mag"
           ],
           "perk1": [
-            "Demolitionist",
-            "Slice"
+            "Slice",
+            "Demolitionist"
           ],
           "perk2": [
             "One-Two Punch",
+            "Surrounded",
             "Chaos Reshaped"
           ],
           "origin_trait": [
@@ -23868,7 +24056,7 @@
           ]
         },
         "info": {
-          "rank": "16",
+          "rank": "18",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -23877,7 +24065,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "highest QoL lightweight 12P option, has Sever option too",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -23904,113 +24092,15 @@
           ],
           "perk1": [
             "Grave Robber",
-            "Auto-Loading Holster",
             "Lead from Gold"
           ],
           "perk2": [
             "One-Two Punch",
-            "Vorpal Weapon",
-            "Demolitionist"
+            "Trench Barrel",
+            "Surrounded"
           ],
           "origin_trait": [
             "Vanguard Determination"
-          ]
-        },
-        "info": {
-          "rank": "17",
-          "tier": "B",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "enhanceable Grave 12P lightweight",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "A Sudden Death_2": {
-        "weapon_name": "A Sudden Death",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Barrel Shroud"
-          ],
-          "column2": [
-            "Assault Mag"
-          ],
-          "perk1": [
-            "One-Two Punch",
-            "Reconstruction",
-            "Discord"
-          ],
-          "perk2": [
-            "Trench Barrel",
-            "Destabilizing Rounds"
-          ],
-          "origin_trait": [
-            "Crossing Over"
-          ]
-        },
-        "info": {
-          "rank": "18",
-          "tier": "B",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "interesting Discord option, still has double melee perk combo",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Seventh Seraph CQC-12": {
-        "weapon_name": "Seventh Seraph CQC-12",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Barrel Shroud"
-          ],
-          "column2": [
-            "Assault Mag"
-          ],
-          "perk1": [
-            "Discord",
-            "Heal Clip",
-            "Disruption Break"
-          ],
-          "perk2": [
-            "Incandescent",
-            "Chain Reaction",
-            "Trench Barrel"
-          ],
-          "origin_trait": [
-            "Eyes Up"
           ]
         },
         "info": {
@@ -24023,7 +24113,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "probably best Discord shotgun, okay origin",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -24038,8 +24128,8 @@
           }
         }
       },
-      "Someday": {
-        "weapon_name": "Someday",
+      "Last Man Standing": {
+        "weapon_name": "Last Man Standing",
         "version": "",
         "perks": {
           "column1": [
@@ -24049,16 +24139,16 @@
             "Assault Mag"
           ],
           "perk1": [
-            "One-Two Punch",
+            "Grave Robber",
             "Lead from Gold"
           ],
           "perk2": [
-            "Recombination",
-            "Cascade Point",
-            "Vorpal Weapon"
+            "One-Two Punch",
+            "Trench Barrel",
+            "Discord"
           ],
           "origin_trait": [
-            "Dealer's Choice"
+            "Gun and Run"
           ]
         },
         "info": {
@@ -24071,7 +24161,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "double damage 12P, otherwise unremarkable",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -24086,8 +24176,8 @@
           }
         }
       },
-      "Wastelander M5": {
-        "weapon_name": "Wastelander M5",
+      "Fractethyst": {
+        "weapon_name": "Fractethyst",
         "version": "",
         "perks": {
           "column1": [
@@ -24097,15 +24187,14 @@
             "Assault Mag"
           ],
           "perk1": [
-            "Lead from Gold",
-            "Pugilist"
+            "One-Two Punch",
+            "Lead from Gold"
           ],
           "perk2": [
-            "One-Two Punch",
-            "Vorpal Weapon"
+            "Trench Barrel"
           ],
           "origin_trait": [
-            "Hot Swap"
+            "Ignoble Deeds"
           ]
         },
         "info": {
@@ -24118,299 +24207,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "Swordbreaker alternative, mostly unused",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Retold Tale": {
-        "weapon_name": "Retold Tale",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Barrel Shroud"
-          ],
-          "column2": [
-            "Assault Mag"
-          ],
-          "perk1": [
-            "Repulsor Brace",
-            "Slideshot"
-          ],
-          "perk2": [
-            "Destabilizing Rounds",
-            "Withering Gaze",
-            "One-Two Punch"
-          ],
-          "origin_trait": [
-            "Advanced Reflexes"
-          ]
-        },
-        "info": {
-          "rank": "22",
-          "tier": "B",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "another pellet Withering Gaze option, otherwise not very good",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Python": {
-        "weapon_name": "Python",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Barrel Shroud"
-          ],
-          "column2": [
-            "Assault Mag"
-          ],
-          "perk1": [
-            "Overflow",
-            "Dimensional Shift",
-            "Repulsor Brace"
-          ],
-          "perk2": [
-            "Withering Gaze",
-            "Destabilizing Rounds",
-            "One-Two Punch"
-          ],
-          "origin_trait": [
-            "Gun and Run"
-          ]
-        },
-        "info": {
-          "rank": "23",
-          "tier": "B",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "pellet-based Withering Gaze, otherwise not great",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "The Deicide": {
-        "weapon_name": "The Deicide",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Barrel Shroud"
-          ],
-          "column2": [
-            "Tactical Mag"
-          ],
-          "perk1": [
-            "Auto-Loading Holster",
-            "Discord",
-            "Lead from Gold"
-          ],
-          "perk2": [
-            "One-Two Punch",
-            "Trench Barrel",
-            "Collective Demolition"
-          ],
-          "origin_trait": [
-            "Fail-deadly"
-          ]
-        },
-        "info": {
-          "rank": "24",
-          "tier": "B",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "bad Discord pairings, maybe good with Collective",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Dead Weight": {
-        "weapon_name": "Dead Weight",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Barrel Shroud"
-          ],
-          "column2": [
-            "Tactical Mag"
-          ],
-          "perk1": [
-            "Grave Robber",
-            "Auto-Loading Holster",
-            "Lead from Gold"
-          ],
-          "perk2": [
-            "One-Two Punch",
-            "Frenzy",
-            "Surrounded"
-          ],
-          "origin_trait": [
-            "Field-Tested"
-          ]
-        },
-        "info": {
-          "rank": "25",
-          "tier": "B",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "no enhanced 12P but solid perk diversity",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Compass Rose": {
-        "weapon_name": "Compass Rose",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Barrel Shroud"
-          ],
-          "column2": [
-            "Assault Mag"
-          ],
-          "perk1": [
-            "Grave Robber",
-            "Dual Loader"
-          ],
-          "perk2": [
-            "One-Two Punch",
-            "Trench Barrel",
-            "Vorpal Weapon"
-          ],
-          "origin_trait": [
-            "Dream Work"
-          ]
-        },
-        "info": {
-          "rank": "26",
-          "tier": "B",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "mediocre archetype but relevant perks",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Prophet of Doom": {
-        "weapon_name": "Prophet of Doom",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Barrel Shroud"
-          ],
-          "column2": [
-            "Assault Mag"
-          ],
-          "perk1": [
-            "Reconstruction",
-            "Envious Arsenal",
-            "Pugilist"
-          ],
-          "perk2": [
-            "One-Two Punch",
-            "Trench Barrel",
-            "Cascade Point"
-          ],
-          "origin_trait": [
-            "Photoinhibition"
-          ]
-        },
-        "info": {
-          "rank": "27",
-          "tier": "B",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "mediocre archetype but relevant perks",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -24448,7 +24245,7 @@
           ]
         },
         "info": {
-          "rank": "28",
+          "rank": "22",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -24457,7 +24254,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "mediocre archetype but relevant perks",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -24472,8 +24269,8 @@
           }
         }
       },
-      "Precipial": {
-        "weapon_name": "Precipial",
+      "Compass Rose": {
+        "weapon_name": "Compass Rose",
         "version": "",
         "perks": {
           "column1": [
@@ -24483,68 +24280,18 @@
             "Assault Mag"
           ],
           "perk1": [
-            "One-Two Punch",
-            "Reconstruction"
-          ],
-          "perk2": [
-            "Vorpal Weapon",
-            "Discord"
-          ],
-          "origin_trait": [
-            "Exhaustive Research"
-          ]
-        },
-        "info": {
-          "rank": "30",
-          "tier": "B",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "double damage 12P, bad frame but funny ranged 12P interaction",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Last Man Standing": {
-        "weapon_name": "Last Man Standing",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Barrel Shroud"
-          ],
-          "column2": [
-            "Assault Mag"
-          ],
-          "perk1": [
-            "Grave Robber",
-            "Lead from Gold",
-            "Heal Clip"
+            "Grave Robber"
           ],
           "perk2": [
             "One-Two Punch",
-            "Trench Barrel",
-            "Discord"
+            "Trench Barrel"
           ],
           "origin_trait": [
-            "Gun and Run"
+            "Dream Work"
           ]
         },
         "info": {
-          "rank": "31",
+          "rank": "23",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -24553,248 +24300,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "no splash to pair with Discord, awkward frame from melee",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Without Remorse": {
-        "weapon_name": "Without Remorse",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Barrel Shroud"
-          ],
-          "column2": [
-            "Assault Mag"
-          ],
-          "perk1": [
-            "Threat Detector",
-            "Field Prep"
-          ],
-          "perk2": [
-            "One-Two Punch",
-            "Vorpal Weapon"
-          ],
-          "origin_trait": [
-            "Extrovert"
-          ]
-        },
-        "info": {
-          "rank": "32",
-          "tier": "B",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "high stats 1 mag 12P, also swap option",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Supercluster": {
-        "weapon_name": "Supercluster",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel"
-          ],
-          "column2": [
-            "Assault Mag"
-          ],
-          "perk1": [
-            "Reconstruction",
-            "Fourth Time's the Charm"
-          ],
-          "perk2": [
-            "Vorpal Weapon",
-            "Surrounded",
-            "Cascade Point"
-          ],
-          "origin_trait": [
-            "Dragon's Vengeance"
-          ]
-        },
-        "info": {
-          "rank": "33",
-          "tier": "B",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "best dump/swap kinetic slug",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Fractethyst": {
-        "weapon_name": "Fractethyst",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Barrel Shroud"
-          ],
-          "column2": [
-            "Assault Mag"
-          ],
-          "perk1": [
-            "One-Two Punch",
-            "Lead from Gold"
-          ],
-          "perk2": [
-            "Trench Barrel",
-            "Chain Reaction",
-            "Crystalline Corpsebloom"
-          ],
-          "origin_trait": [
-            "Ignoble Deeds"
-          ]
-        },
-        "info": {
-          "rank": "34",
-          "tier": "B",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "A Sudden Death roll with some splash in 2nd column, bad frame",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Nessa's Oblation": {
-        "weapon_name": "Nessa's Oblation",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel"
-          ],
-          "column2": [
-            "Assault Mag"
-          ],
-          "perk1": [
-            "Reconstruction",
-            "Fourth Time's the Charm",
-            "Demolitionist"
-          ],
-          "perk2": [
-            "Frenzy",
-            "Vorpal Weapon",
-            "Focused Fury"
-          ],
-          "origin_trait": [
-            "Harmonic Resonance"
-          ]
-        },
-        "info": {
-          "rank": "35",
-          "tier": "B",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "worse Unvoiced but still okay for swaps",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Fortissimo-11": {
-        "weapon_name": "Fortissimo-11",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel"
-          ],
-          "column2": [
-            "Assault Mag"
-          ],
-          "perk1": [
-            "Fourth Time's the Charm",
-            "Demolitionist",
-            "Threat Detector"
-          ],
-          "perk2": [
-            "Vorpal Weapon",
-            "Frenzy",
-            "Surrounded"
-          ],
-          "origin_trait": [
-            "Vanguard Determination"
-          ]
-        },
-        "info": {
-          "rank": "36",
-          "tier": "B",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "decent dump slug",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -24832,882 +24338,8 @@
           ]
         },
         "info": {
-          "rank": "37",
-          "tier": "C",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "awkward archetype but Chill Clip niche",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Hawthorne's Field-Forged Shotgun": {
-        "weapon_name": "Hawthorne's Field-Forged Shotgun",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Barrel Shroud"
-          ],
-          "column2": [
-            "Assault Mag"
-          ],
-          "perk1": [
-            "Grave Robber",
-            "Lead from Gold"
-          ],
-          "perk2": [
-            "Chill Clip"
-          ],
-          "origin_trait": [
-            "Field-Tested"
-          ]
-        },
-        "info": {
-          "rank": "38",
-          "tier": "C",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "high QoL Chill Clip option but pretty niche",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Felwinter's Lie": {
-        "weapon_name": "Felwinter's Lie",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Barrel Shroud"
-          ],
-          "column2": [
-            "Assault Mag"
-          ],
-          "perk1": [
-            "Cascade Point",
-            "Heal Clip"
-          ],
-          "perk2": [
-            "Trench Barrel",
-            "Bait and Switch"
-          ],
-          "origin_trait": [
-            "Skulking Wolf"
-          ]
-        },
-        "info": {
-          "rank": "39",
-          "tier": "C",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "Cascade + damage aggressive, good origin",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Bonechiller": {
-        "weapon_name": "Bonechiller",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel"
-          ],
-          "column2": [
-            "Assault Mag"
-          ],
-          "perk1": [
-            "Triple Tap",
-            "Butterfly",
-            "Repulsor Brace"
-          ],
-          "perk2": [
-            "Precision Instrument",
-            "Meganeura",
-            "Destabilizing Rounds"
-          ],
-          "origin_trait": [
-            "Winterized Gear"
-          ]
-        },
-        "info": {
-          "rank": "40",
-          "tier": "C",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "no FTTC, mediocre damage perks, no Discord support",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Sojourner's Tale": {
-        "weapon_name": "Sojourner's Tale",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel"
-          ],
-          "column2": [
-            "Assault Mag"
-          ],
-          "perk1": [
-            "Discord",
-            "Auto-Loading Holster",
-            "Heal Clip"
-          ],
-          "perk2": [
-            "Incandescent",
-            "Precision Instrument"
-          ],
-          "origin_trait": [
-            "Splicer Surge"
-          ]
-        },
-        "info": {
-          "rank": "41",
-          "tier": "C",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "only Discord slug",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Retrofuturist": {
-        "weapon_name": "Retrofuturist",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Barrel Shroud"
-          ],
-          "column2": [
-            "Assault Mag"
-          ],
-          "perk1": [
-            "Quickdraw",
-            "Slickdraw",
-            "Auto-Loading Holster"
-          ],
-          "perk2": [
-            "Frenzy",
-            "Vorpal Weapon",
-            "Trench Barrel"
-          ],
-          "origin_trait": [
-            "Roar of Battle"
-          ]
-        },
-        "info": {
-          "rank": "42",
-          "tier": "C",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "solid for lightweight swaps but irrelevant",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Ded Gramarye IV": {
-        "weapon_name": "Ded Gramarye IV",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Barrel Shroud"
-          ],
-          "column2": [
-            "Assault Mag"
-          ],
-          "perk1": [
-            "Discord",
-            "Slickdraw"
-          ],
-          "perk2": [
-            "Chain Reaction",
-            "Voltshot",
-            "Vorpal Weapon"
-          ],
-          "origin_trait": [
-            "Wild Card"
-          ]
-        },
-        "info": {
-          "rank": "43",
-          "tier": "C",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "interesting roam option, but niche",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Deadpan Delivery": {
-        "weapon_name": "Deadpan Delivery",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Barrel Shroud"
-          ],
-          "column2": [
-            "Assault Mag"
-          ],
-          "perk1": [
-            "Surplus",
-            "Overflow",
-            "Discord"
-          ],
-          "perk2": [
-            "Trench Barrel",
-            "Frenzy"
-          ],
-          "origin_trait": [
-            "Nadir Focus"
-          ]
-        },
-        "info": {
-          "rank": "44",
-          "tier": "C",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "barebones Trench aggressive",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Legato-11": {
-        "weapon_name": "Legato-11",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel"
-          ],
-          "column2": [
-            "Assault Mag"
-          ],
-          "perk1": [
-            "Auto-Loading Holster",
-            "Heal Clip",
-            "Deconstruct"
-          ],
-          "perk2": [
-            "Vorpal Weapon",
-            "Cascade Point",
-            "Incandescent"
-          ],
-          "origin_trait": [
-            "Suros Synergy"
-          ]
-        },
-        "info": {
-          "rank": "45",
-          "tier": "C",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "decent for slug swaps, no FTTC",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "The Comedian": {
-        "weapon_name": "The Comedian",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Barrel Shroud"
-          ],
-          "column2": [
-            "Assault Mag"
-          ],
-          "perk1": [
-            "Ensemble",
-            "Lead from Gold"
-          ],
-          "perk2": [
-            "Trench Barrel",
-            "Vorpal Weapon"
-          ],
-          "origin_trait": [
-            "Stunning Recovery"
-          ]
-        },
-        "info": {
-          "rank": "46",
-          "tier": "C",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "barebones Trench aggressive",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Hand in Hand": {
-        "weapon_name": "Hand in Hand",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Barrel Shroud"
-          ],
-          "column2": [
-            "Assault Mag"
-          ],
-          "perk1": [
-            "Ensemble"
-          ],
-          "perk2": [
-            "Trench Barrel",
-            "Cascade Point"
-          ],
-          "origin_trait": [
-            "Field-Tested"
-          ]
-        },
-        "info": {
-          "rank": "47",
-          "tier": "C",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "barebones Trench aggressive",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Ragnhild-D": {
-        "weapon_name": "Ragnhild-D",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Barrel Shroud"
-          ],
-          "column2": [
-            "Assault Mag"
-          ],
-          "perk1": [
-            "Auto-Loading Holster"
-          ],
-          "perk2": [
-            "Frenzy",
-            "One-Two Punch"
-          ],
-          "origin_trait": [
-            "Häkke Breach Armaments"
-          ]
-        },
-        "info": {
-          "rank": "48",
-          "tier": "C",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "usable for 12P but awful QoL",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Mindbender's Ambition": {
-        "weapon_name": "Mindbender's Ambition",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Barrel Shroud"
-          ],
-          "column2": [
-            "Assault Mag"
-          ],
-          "perk1": [
-            "Threat Detector"
-          ],
-          "perk2": [
-            "Vorpal Weapon",
-            "One-Two Punch"
-          ],
-          "origin_trait": [
-            "Problem Solver"
-          ]
-        },
-        "info": {
-          "rank": "49",
-          "tier": "C",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "bad 12P frame and no Trench",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Reckless Endangerment": {
-        "weapon_name": "Reckless Endangerment",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel"
-          ],
-          "column2": [
-            "Assault Mag"
-          ],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": [
-            "Vanguard Determination"
-          ]
-        },
-        "info": {
-          "rank": "50",
-          "tier": "C",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "bad frame for Trench, has Grave though",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Matador 64": {
-        "weapon_name": "Matador 64",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Barrel Shroud"
-          ],
-          "column2": [
-            "Assault Mag"
-          ],
-          "perk1": [
-            "Lead from Gold"
-          ],
-          "perk2": [
-            "One-Two Punch"
-          ],
-          "origin_trait": [
-            "Unburied Treasure"
-          ]
-        },
-        "info": {
-          "rank": "51",
-          "tier": "C",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "carried by 12P, awful otherwise",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Riiswalker": {
-        "weapon_name": "Riiswalker",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Barrel Shroud"
-          ],
-          "column2": [
-            "Assault Mag"
-          ],
-          "perk1": [
-            "Slickdraw",
-            "Discord"
-          ],
-          "perk2": [
-            "Vorpal Weapon"
-          ],
-          "origin_trait": [
-            "Skulking Wolf"
-          ]
-        },
-        "info": {
-          "rank": "52",
-          "tier": "D",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "swap-exclusive lightweight",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "First In, Last Out": {
-        "weapon_name": "First In, Last Out",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel"
-          ],
-          "column2": [
-            "Assault Mag"
-          ],
-          "perk1": [
-            "Auto-Loading Holster"
-          ],
-          "perk2": [
-            "Vorpal Weapon",
-            "Surrounded",
-            "Demolitionist"
-          ],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "53",
-          "tier": "D",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "outdated swap option",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Scavenger's Fate": {
-        "weapon_name": "Scavenger's Fate",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Barrel Shroud"
-          ],
-          "column2": [
-            "Assault Mag"
-          ],
-          "perk1": [
-            "Discord",
-            "Repulsor Brace"
-          ],
-          "perk2": [
-            "Destabilizing Rounds",
-            "Surrounded",
-            "Frenzy"
-          ],
-          "origin_trait": [
-            "Dark Ether Reaper"
-          ]
-        },
-        "info": {
-          "rank": "54",
-          "tier": "D",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "Discord on worst frame + okay perks",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Astral Horizon": {
-        "weapon_name": "Astral Horizon",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Barrel Shroud"
-          ],
-          "column2": [
-            "Assault Mag"
-          ],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": [
-            "Wild Card"
-          ]
-        },
-        "info": {
-          "rank": "55",
-          "tier": "D",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Deadlock": {
-        "weapon_name": "Deadlock",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Barrel Shroud"
-          ],
-          "column2": [
-            "Assault Mag"
-          ],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "56",
-          "tier": "D",
+          "rank": "24",
+          "tier": "B",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -25742,20 +24374,21 @@
             "Ricochet Rounds"
           ],
           "perk1": [
+            "Threat Detector",
             "Heal Clip"
           ],
           "perk2": [
-            "Incandescent",
+            "Cascade Point",
             "Precision Instrument",
-            "Cascade Point"
+            "Incandescent"
           ],
           "origin_trait": [
             "Suros Synergy"
           ]
         },
         "info": {
-          "rank": "57",
-          "tier": "E",
+          "rank": "25",
+          "tier": "B",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -25763,7 +24396,1271 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "no loader perk in 1st column, weird 2nd column to match",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Prophet of Doom": {
+        "weapon_name": "Prophet of Doom",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Barrel Shroud"
+          ],
+          "column2": [
+            "Assault Mag"
+          ],
+          "perk1": [
+            "Reconstruction",
+            "Envious Arsenal"
+          ],
+          "perk2": [
+            "One-Two Punch",
+            "Gear Shift",
+            "Cascade Point"
+          ],
+          "origin_trait": [
+            "Photoinhibition"
+          ]
+        },
+        "info": {
+          "rank": "26",
+          "tier": "C",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Seventh Seraph CQC-12": {
+        "weapon_name": "Seventh Seraph CQC-12",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Barrel Shroud"
+          ],
+          "column2": [
+            "Assault Mag"
+          ],
+          "perk1": [
+            "Discord"
+          ],
+          "perk2": [
+            "Chain Reaction",
+            "Surrounded",
+            "Trench Barrel"
+          ],
+          "origin_trait": [
+            "Eyes Up"
+          ]
+        },
+        "info": {
+          "rank": "27",
+          "tier": "C",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Ded Gramarye IV": {
+        "weapon_name": "Ded Gramarye IV",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Barrel Shroud"
+          ],
+          "column2": [
+            "Assault Mag"
+          ],
+          "perk1": [
+            "Discord",
+            "Slickdraw"
+          ],
+          "perk2": [
+            "Chain Reaction",
+            "Surrounded",
+            "Vorpal Weapon"
+          ],
+          "origin_trait": [
+            "Wild Card"
+          ]
+        },
+        "info": {
+          "rank": "28",
+          "tier": "C",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Python": {
+        "weapon_name": "Python",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Barrel Shroud"
+          ],
+          "column2": [
+            "Assault Mag"
+          ],
+          "perk1": [
+            "Overflow"
+          ],
+          "perk2": [
+            "Trench Barrel",
+            "One-Two Punch",
+            "Withering Gaze"
+          ],
+          "origin_trait": [
+            "Gun and Run"
+          ]
+        },
+        "info": {
+          "rank": "29",
+          "tier": "C",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Dead Weight": {
+        "weapon_name": "Dead Weight",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Barrel Shroud"
+          ],
+          "column2": [
+            "Tactical Mag"
+          ],
+          "perk1": [
+            "Grave Robber",
+            "Auto-Loading Holster",
+            "Lead from Gold"
+          ],
+          "perk2": [
+            "Surrounded",
+            "Trench Barrel",
+            "One-Two Punch"
+          ],
+          "origin_trait": [
+            "Field-Tested"
+          ]
+        },
+        "info": {
+          "rank": "30",
+          "tier": "C",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Someday": {
+        "weapon_name": "Someday",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Barrel Shroud"
+          ],
+          "column2": [
+            "Assault Mag"
+          ],
+          "perk1": [
+            "One-Two Punch",
+            "Lead from Gold"
+          ],
+          "perk2": [
+            "Recombination",
+            "Vorpal Weapon"
+          ],
+          "origin_trait": [
+            "Dealer's Choice"
+          ]
+        },
+        "info": {
+          "rank": "31",
+          "tier": "C",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Matador 64": {
+        "weapon_name": "Matador 64",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Barrel Shroud"
+          ],
+          "column2": [
+            "Assault Mag"
+          ],
+          "perk1": [
+            "Lead from Gold",
+            "Supercharged Magazine"
+          ],
+          "perk2": [
+            "One-Two Punch",
+            "Gear Shift"
+          ],
+          "origin_trait": [
+            "Unburied Treasure"
+          ]
+        },
+        "info": {
+          "rank": "32",
+          "tier": "C",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Deadpan Delivery": {
+        "weapon_name": "Deadpan Delivery",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Barrel Shroud"
+          ],
+          "column2": [
+            "Assault Mag"
+          ],
+          "perk1": [
+            "Discord",
+            "Overflow",
+            "Slickdraw"
+          ],
+          "perk2": [
+            "One-Two Punch",
+            "Trench Barrel"
+          ],
+          "origin_trait": [
+            "Vanguard's Vindication"
+          ]
+        },
+        "info": {
+          "rank": "33",
+          "tier": "C",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Sojourner's Tale": {
+        "weapon_name": "Sojourner's Tale",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Assault Mag"
+          ],
+          "perk1": [
+            "Auto-Loading Holster",
+            "Discord"
+          ],
+          "perk2": [
+            "Precision Instrument",
+            "Incandescent",
+            "Harmony"
+          ],
+          "origin_trait": [
+            "Splicer Surge"
+          ]
+        },
+        "info": {
+          "rank": "34",
+          "tier": "C",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Astral Horizon": {
+        "weapon_name": "Astral Horizon",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Barrel Shroud"
+          ],
+          "column2": [
+            "Assault Mag"
+          ],
+          "perk1": [
+            "Lead from Gold",
+            "Stopping Power"
+          ],
+          "perk2": [
+            "All-Star",
+            "One-Two Punch",
+            "Vorpal Weapon"
+          ],
+          "origin_trait": [
+            "Wild Card"
+          ]
+        },
+        "info": {
+          "rank": "35",
+          "tier": "C",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Precipial": {
+        "weapon_name": "Precipial",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Barrel Shroud"
+          ],
+          "column2": [
+            "Assault Mag"
+          ],
+          "perk1": [
+            "One-Two Punch",
+            "Reconstruction"
+          ],
+          "perk2": [
+            "Vorpal Weapon",
+            "Discord"
+          ],
+          "origin_trait": [
+            "Exhaustive Research"
+          ]
+        },
+        "info": {
+          "rank": "36",
+          "tier": "C",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Reckless Endangerment": {
+        "weapon_name": "Reckless Endangerment",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Assault Mag"
+          ],
+          "perk1": [
+            "Grave Robber"
+          ],
+          "perk2": [
+            "Trench Barrel",
+            "All-Star"
+          ],
+          "origin_trait": [
+            "Vanguard Determination"
+          ]
+        },
+        "info": {
+          "rank": "37",
+          "tier": "C",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Hawthorne's Field-Forged Shotgun": {
+        "weapon_name": "Hawthorne's Field-Forged Shotgun",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Barrel Shroud"
+          ],
+          "column2": [
+            "Assault Mag"
+          ],
+          "perk1": [
+            "Lead from Gold",
+            "Grave Robber"
+          ],
+          "perk2": [
+            "Chill Clip"
+          ],
+          "origin_trait": [
+            "Field-Tested"
+          ]
+        },
+        "info": {
+          "rank": "38",
+          "tier": "C",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Scavenger's Fate": {
+        "weapon_name": "Scavenger's Fate",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Barrel Shroud"
+          ],
+          "column2": [
+            "Assault Mag"
+          ],
+          "perk1": [
+            "Discord"
+          ],
+          "perk2": [
+            "Vorpal Weapon",
+            "Surrounded",
+            "Destabilizing Rounds"
+          ],
+          "origin_trait": [
+            "Dark Ether Reaper"
+          ]
+        },
+        "info": {
+          "rank": "39",
+          "tier": "C",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Blasphemer": {
+        "weapon_name": "Blasphemer",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Assault Mag"
+          ],
+          "perk1": [
+            "Fourth Time's the Charm"
+          ],
+          "perk2": [
+            "All-Star"
+          ],
+          "origin_trait": [
+            "Loss"
+          ]
+        },
+        "info": {
+          "rank": "40",
+          "tier": "C",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Fortissimo-11": {
+        "weapon_name": "Fortissimo-11",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Assault Mag"
+          ],
+          "perk1": [
+            "Fourth Time's the Charm"
+          ],
+          "perk2": [
+            "Vorpal Weapon",
+            "Focused Fury",
+            "Surrounded"
+          ],
+          "origin_trait": [
+            "Vanguard Determination"
+          ]
+        },
+        "info": {
+          "rank": "41",
+          "tier": "D",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Nessa's Oblation": {
+        "weapon_name": "Nessa's Oblation",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Assault Mag"
+          ],
+          "perk1": [
+            "Fourth Time's the Charm"
+          ],
+          "perk2": [
+            "Vorpal Weapon",
+            "Focused Fury"
+          ],
+          "origin_trait": [
+            "Harmonic Resonance"
+          ]
+        },
+        "info": {
+          "rank": "42",
+          "tier": "D",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Supercluster": {
+        "weapon_name": "Supercluster",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Assault Mag"
+          ],
+          "perk1": [
+            "Fourth Time's the Charm",
+            "Slice",
+            "Lead from Gold"
+          ],
+          "perk2": [
+            "Cascade Point",
+            "Vorpal Weapon",
+            "Surrounded"
+          ],
+          "origin_trait": [
+            "Dragon's Vengeance"
+          ]
+        },
+        "info": {
+          "rank": "43",
+          "tier": "D",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Without Remorse": {
+        "weapon_name": "Without Remorse",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Barrel Shroud"
+          ],
+          "column2": [
+            "Assault Mag"
+          ],
+          "perk1": [
+            "Threat Detector"
+          ],
+          "perk2": [
+            "One-Two Punch",
+            "Vorpal Weapon"
+          ],
+          "origin_trait": [
+            "Extrovert"
+          ]
+        },
+        "info": {
+          "rank": "44",
+          "tier": "D",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Retold Tale": {
+        "weapon_name": "Retold Tale",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Barrel Shroud"
+          ],
+          "column2": [
+            "Assault Mag"
+          ],
+          "perk1": [
+            "Quickdraw"
+          ],
+          "perk2": [
+            "One-Two Punch",
+            "Withering Gaze"
+          ],
+          "origin_trait": [
+            "Advanced Reflexes"
+          ]
+        },
+        "info": {
+          "rank": "45",
+          "tier": "D",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Wastelander M5": {
+        "weapon_name": "Wastelander M5",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Barrel Shroud"
+          ],
+          "column2": [
+            "Assault Mag"
+          ],
+          "perk1": [
+            "Pugilist",
+            "Lead from Gold"
+          ],
+          "perk2": [
+            "One-Two Punch",
+            "Trench Barrel"
+          ],
+          "origin_trait": [
+            "Hot Swap"
+          ]
+        },
+        "info": {
+          "rank": "46",
+          "tier": "D",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Retrofuturist": {
+        "weapon_name": "Retrofuturist",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Barrel Shroud"
+          ],
+          "column2": [
+            "Assault Mag"
+          ],
+          "perk1": [
+            "Auto-Loading Holster"
+          ],
+          "perk2": [
+            "Trench Barrel",
+            "Vorpal Weapon",
+            "High Ground"
+          ],
+          "origin_trait": [
+            "Roar of Battle"
+          ]
+        },
+        "info": {
+          "rank": "47",
+          "tier": "D",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Hand in Hand": {
+        "weapon_name": "Hand in Hand",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Barrel Shroud"
+          ],
+          "column2": [
+            "Assault Mag"
+          ],
+          "perk1": [
+            "Slideshot"
+          ],
+          "perk2": [
+            "Trench Barrel",
+            "One-Two Punch",
+            "Cascade Point"
+          ],
+          "origin_trait": [
+            "Field-Tested"
+          ]
+        },
+        "info": {
+          "rank": "48",
+          "tier": "D",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "The Comedian": {
+        "weapon_name": "The Comedian",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Barrel Shroud"
+          ],
+          "column2": [
+            "Assault Mag"
+          ],
+          "perk1": [
+            "Lead from Gold"
+          ],
+          "perk2": [
+            "Trench Barrel",
+            "Vorpal Weapon"
+          ],
+          "origin_trait": [
+            "Stunning Recovery"
+          ]
+        },
+        "info": {
+          "rank": "49",
+          "tier": "D",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Ragnhild-D": {
+        "weapon_name": "Ragnhild-D",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Barrel Shroud"
+          ],
+          "column2": [
+            "Assault Mag"
+          ],
+          "perk1": [
+            "Auto-Loading Holster"
+          ],
+          "perk2": [
+            "One-Two Punch"
+          ],
+          "origin_trait": [
+            "Häkke Breach Armaments"
+          ]
+        },
+        "info": {
+          "rank": "50",
+          "tier": "D",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Mindbender's Ambition": {
+        "weapon_name": "Mindbender's Ambition",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Barrel Shroud"
+          ],
+          "column2": [
+            "Assault Mag"
+          ],
+          "perk1": [
+            "Threat Detector"
+          ],
+          "perk2": [
+            "One-Two Punch",
+            "Vorpal Weapon"
+          ],
+          "origin_trait": [
+            "Problem Solver"
+          ]
+        },
+        "info": {
+          "rank": "51",
+          "tier": "D",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Deadlock": {
+        "weapon_name": "Deadlock",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Barrel Shroud"
+          ],
+          "column2": [
+            "Assault Mag"
+          ],
+          "perk1": [
+            "Quickdraw"
+          ],
+          "perk2": [
+            "One-Two Punch",
+            "Vorpal Weapon"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "52",
+          "tier": "D",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -25792,15 +25689,15 @@
             "Triple Tap"
           ],
           "perk2": [
-            "Surrounded",
-            "Focused Fury"
+            "Focused Fury",
+            "Surrounded"
           ],
           "origin_trait": [
             "Right Hook"
           ]
         },
         "info": {
-          "rank": "58",
+          "rank": "53",
           "tier": "E",
           "priority": "",
           "role": "",
@@ -25809,7 +25706,145 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "entirely irrelevant slug perks",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Legato-11": {
+        "weapon_name": "Legato-11",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Assault Mag"
+          ],
+          "perk1": [
+            "Auto-Loading Holster"
+          ],
+          "perk2": [
+            "Focused Fury",
+            "Cascade Point",
+            "Vorpal Weapon"
+          ],
+          "origin_trait": [
+            "Suros Synergy"
+          ]
+        },
+        "info": {
+          "rank": "54",
+          "tier": "E",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "First In, Last Out": {
+        "weapon_name": "First In, Last Out",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Assault Mag"
+          ],
+          "perk1": [
+            "Auto-Loading Holster"
+          ],
+          "perk2": [
+            "Vorpal Weapon",
+            "Surrounded"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "55",
+          "tier": "E",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Bonechiller": {
+        "weapon_name": "Bonechiller",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Assault Mag"
+          ],
+          "perk1": [
+            "Triple Tap",
+            "Auto-Loading Holster",
+            "Lead from Gold"
+          ],
+          "perk2": [
+            "Precision Instrument"
+          ],
+          "origin_trait": [
+            "Winterized Gear"
+          ]
+        },
+        "info": {
+          "rank": "56",
+          "tier": "E",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -25846,7 +25881,7 @@
           ]
         },
         "info": {
-          "rank": "59",
+          "rank": "57",
           "tier": "E",
           "priority": "",
           "role": "",
@@ -25855,7 +25890,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "downgrade from previous version, awful perk pool",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -25870,27 +25905,30 @@
           }
         }
       },
-      "Wishbringer": {
-        "weapon_name": "Wishbringer",
+      "Riiswalker": {
+        "weapon_name": "Riiswalker",
         "version": "",
         "perks": {
           "column1": [
             "Barrel Shroud"
           ],
           "column2": [
-            "Tactical Mag"
+            "Assault Mag"
           ],
           "perk1": [
-            "Threat Detector"
+            "Discord",
+            "Slickdraw"
           ],
           "perk2": [
-            "Auto-Loading Holster"
+            "Vorpal Weapon"
           ],
-          "origin_trait": []
+          "origin_trait": [
+            "Skulking Wolf"
+          ]
         },
         "info": {
-          "rank": "60",
-          "tier": "F",
+          "rank": "58",
+          "tier": "E",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -25898,7 +25936,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "no damage perk but good frame",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -25924,15 +25962,15 @@
             "Assault Mag"
           ],
           "perk1": [
-            "Threat Detector"
+            "Auto-Loading Holster"
           ],
           "perk2": [
-            "Auto-Loading Holster"
+            "Full-Auto Trigger System"
           ],
           "origin_trait": []
         },
         "info": {
-          "rank": "61",
+          "rank": "59",
           "tier": "F",
           "priority": "",
           "role": "",
@@ -25941,7 +25979,50 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "no damage perk but okay frame",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Wishbringer": {
+        "weapon_name": "Wishbringer",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Barrel Shroud"
+          ],
+          "column2": [
+            "Tactical Mag"
+          ],
+          "perk1": [
+            "Grave Robber"
+          ],
+          "perk2": [
+            "Auto-Loading Holster"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "60",
+          "tier": "F",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
