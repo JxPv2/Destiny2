@@ -6,7 +6,7 @@
       "patch": "Pantheon 2.0"
     },
     "link": "https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY",
-    "scrape_date": "2026-07-13 10:51:22"
+    "scrape_date": "2026-07-13 17:48:59"
   },
   "workbooks": {
     "Shopping List": {
@@ -6648,6 +6648,54 @@
           }
         }
       },
+      "Zaouli's Bane_2": {
+        "weapon_name": "Zaouli's Bane",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Redirection",
+            "Explosive Payload"
+          ],
+          "perk2": [
+            "Incandescent",
+            "Meganeura",
+            "Chaos Reshaped"
+          ],
+          "origin_trait": [
+            "Runneth Over"
+          ]
+        },
+        "info": {
+          "rank": "7",
+          "tier": "S",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "interesting Redirection pairing, very lethal perk combos but lacks sustain",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
       "Epochal Integration": {
         "weapon_name": "Epochal Integration",
         "version": "",
@@ -6672,7 +6720,7 @@
           ]
         },
         "info": {
-          "rank": "7",
+          "rank": "8",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -6721,54 +6769,6 @@
           ]
         },
         "info": {
-          "rank": "8",
-          "tier": "S",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "same pairings as Modified B-7 but has Meganeura and Chaos diversity with worse damage profile",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Zaouli's Bane_2": {
-        "weapon_name": "Zaouli's Bane",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel"
-          ],
-          "column2": [
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Explosive Payload",
-            "Redirection"
-          ],
-          "perk2": [
-            "Meganeura",
-            "Incandescent",
-            "Chaos Reshaped"
-          ],
-          "origin_trait": [
-            "Runneth Over"
-          ]
-        },
-        "info": {
           "rank": "9",
           "tier": "S",
           "priority": "",
@@ -6778,7 +6778,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "interesting Redirection pairing, very lethal perk combos but lacks sustain",
+          "notes": "same pairings as Modified B-7 but has Meganeura and Chaos diversity with worse damage profile",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -23252,7 +23252,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
+          "notes": "most potent double damage/RoF shotgun ever, Kinetic Synthesis synergy, insane perk pool",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -23301,7 +23301,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
+          "notes": "insane per-shot roam damage, great for raw Trench DPS, excellent origin for an aggressive",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -23350,7 +23350,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
+          "notes": "highest QoL overall 12P shotgun",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -23398,7 +23398,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
+          "notes": "possibly the highest 1mag burst damage of any legendary special",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -23446,7 +23446,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
+          "notes": "best energy slot 12P, also has free damage on origin",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -23493,7 +23493,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
+          "notes": "worse than Heritage for Redirection purposes, still no other equivalent in energy slot though",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -23541,7 +23541,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
+          "notes": "has potential use with Parasite swap rotations, only Cascade + damage aggressive",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -23588,7 +23588,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
+          "notes": "basically Basso but with Surrounded and worse origin",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -23637,7 +23637,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
+          "notes": "no Grave but Fail-deadly makes up for it, has pretty decent QoL perks otherwise",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -23684,53 +23684,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Imperial Decree": {
-        "weapon_name": "Imperial Decree",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Barrel Shroud"
-          ],
-          "column2": [
-            "Assault Mag"
-          ],
-          "perk1": [
-            "Auto-Loading Holster"
-          ],
-          "perk2": [
-            "Trench Barrel",
-            "Surrounded"
-          ],
-          "origin_trait": [
-            "To Excess"
-          ]
-        },
-        "info": {
-          "rank": "11",
-          "tier": "A",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
+          "notes": "Perfect Paradox alternative with no CNS and standard perks",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -23768,7 +23722,7 @@
           ]
         },
         "info": {
-          "rank": "12",
+          "rank": "11",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -23777,7 +23731,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
+          "notes": "12P + Trench aggressive is still novel, has Redirection and useful origin too",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -23815,6 +23769,52 @@
           ]
         },
         "info": {
+          "rank": "12",
+          "tier": "A",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "no Redirection and Gravity Well, still has core perk combo though",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Imperial Decree": {
+        "weapon_name": "Imperial Decree",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Barrel Shroud"
+          ],
+          "column2": [
+            "Assault Mag"
+          ],
+          "perk1": [
+            "Auto-Loading Holster"
+          ],
+          "perk2": [
+            "Trench Barrel",
+            "Surrounded"
+          ],
+          "origin_trait": [
+            "To Excess"
+          ]
+        },
+        "info": {
           "rank": "13",
           "tier": "A",
           "priority": "",
@@ -23824,7 +23824,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
+          "notes": "classic high QoL ALH Trench/Surrounded aggressive",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -23872,7 +23872,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
+          "notes": "best shotgun for dying quickly, also best Withering frame of all options",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -23920,7 +23920,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
+          "notes": "in theory best sustained damage option, unfortunately Kinetic Synthesis exists",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -23968,7 +23968,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
+          "notes": "ALH/Overflow + burst perks, useless origin and no double damage unfortunately",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -24017,7 +24017,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
+          "notes": "rotation-oriented lightweight, unfortunately not the best frame for this use case",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -24065,7 +24065,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
+          "notes": "Slice on a decent frame is interesting, unfortunately struggles to find a use",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -24113,7 +24113,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
+          "notes": "now enhanceable, so basically a lower shot count IKELOS-adjacent pick",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -24161,7 +24161,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
+          "notes": "not a great frame for 12P, has Trench, Discord in wrong column",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -24207,7 +24207,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
+          "notes": "A Sudden Death roll on worse frame, not the worst though",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -24254,7 +24254,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
+          "notes": "Grave + 12P/Trench core on a mediocre frame",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -24300,7 +24300,55 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
+          "notes": "same as MIDA just no Discord and better origin",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Astral Horizon": {
+        "weapon_name": "Astral Horizon",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Barrel Shroud"
+          ],
+          "column2": [
+            "Assault Mag"
+          ],
+          "perk1": [
+            "Lead from Gold",
+            "Stopping Power"
+          ],
+          "perk2": [
+            "All-Star",
+            "One-Two Punch",
+            "Vorpal Weapon"
+          ],
+          "origin_trait": [
+            "Wild Card"
+          ]
+        },
+        "info": {
+          "rank": "24",
+          "tier": "B",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "in theory best kinetic Parasite swap option, but not very appealing otherwise",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -24338,7 +24386,7 @@
           ]
         },
         "info": {
-          "rank": "24",
+          "rank": "25",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -24347,7 +24395,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
+          "notes": "probably the best Chill Clip shotgun, not that useful overall given existing Overload intrinsic",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -24387,7 +24435,7 @@
           ]
         },
         "info": {
-          "rank": "25",
+          "rank": "26",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -24396,7 +24444,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
+          "notes": "a more precise option than Pure Recollection for dying, definitely more niche though",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -24435,7 +24483,7 @@
           ]
         },
         "info": {
-          "rank": "26",
+          "rank": "27",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -24444,7 +24492,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
+          "notes": "no Grave Robber but has some perk diversity, Reconstruction usable enough for 12P",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -24482,7 +24530,7 @@
           ]
         },
         "info": {
-          "rank": "27",
+          "rank": "28",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -24491,7 +24539,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
+          "notes": "probably the best pairings for a pure Discord shotgun",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -24530,53 +24578,6 @@
           ]
         },
         "info": {
-          "rank": "28",
-          "tier": "C",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Python": {
-        "weapon_name": "Python",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Barrel Shroud"
-          ],
-          "column2": [
-            "Assault Mag"
-          ],
-          "perk1": [
-            "Overflow"
-          ],
-          "perk2": [
-            "Trench Barrel",
-            "One-Two Punch",
-            "Withering Gaze"
-          ],
-          "origin_trait": [
-            "Gun and Run"
-          ]
-        },
-        "info": {
           "rank": "29",
           "tier": "C",
           "priority": "",
@@ -24586,7 +24587,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
+          "notes": "like CQC but no Trench and Wild Card instead",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -24635,7 +24636,54 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
+          "notes": "held back by lack of enhancement, but perk pool is actually very decent",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Python": {
+        "weapon_name": "Python",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Barrel Shroud"
+          ],
+          "column2": [
+            "Assault Mag"
+          ],
+          "perk1": [
+            "Overflow"
+          ],
+          "perk2": [
+            "Trench Barrel",
+            "One-Two Punch",
+            "Withering Gaze"
+          ],
+          "origin_trait": [
+            "Gun and Run"
+          ]
+        },
+        "info": {
+          "rank": "31",
+          "tier": "C",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "good Trench frame but first column is underwhelming, has Withering for some reason",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -24673,7 +24721,7 @@
           ]
         },
         "info": {
-          "rank": "31",
+          "rank": "32",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -24682,7 +24730,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
+          "notes": "12P + Recombination is completely unheard of, unfortunately not that useful",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -24720,7 +24768,7 @@
           ]
         },
         "info": {
-          "rank": "32",
+          "rank": "33",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -24729,7 +24777,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
+          "notes": "mediocre 1st column + 12P on a bad frame",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -24768,7 +24816,7 @@
           ]
         },
         "info": {
-          "rank": "33",
+          "rank": "34",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -24777,7 +24825,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
+          "notes": "no enhancements, but overall not a bad aggressive with standard perks",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -24816,54 +24864,6 @@
           ]
         },
         "info": {
-          "rank": "34",
-          "tier": "C",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Astral Horizon": {
-        "weapon_name": "Astral Horizon",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Barrel Shroud"
-          ],
-          "column2": [
-            "Assault Mag"
-          ],
-          "perk1": [
-            "Lead from Gold",
-            "Stopping Power"
-          ],
-          "perk2": [
-            "All-Star",
-            "One-Two Punch",
-            "Vorpal Weapon"
-          ],
-          "origin_trait": [
-            "Wild Card"
-          ]
-        },
-        "info": {
           "rank": "35",
           "tier": "C",
           "priority": "",
@@ -24873,7 +24873,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
+          "notes": "only Discord slug, otherwise not very notable at all",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -24920,7 +24920,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
+          "notes": "12P + Vorpal is somewhat novel but lack of support everywhere else makes this unappealing",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -24966,7 +24966,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
+          "notes": "not a great frame for Trench spamming, Grave is nice but no 12P",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -25012,7 +25012,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
+          "notes": "worse due to range limitations vs. Trachinus, also lower shot count",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -25059,7 +25059,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
+          "notes": "decent Discord roam option especially with origin but no other use case",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -25104,7 +25104,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
+          "notes": "pretty good with Kinetic Synthesis, unfortunately frame sucks",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -25151,7 +25151,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
+          "notes": "FTTC + decent damage perk core",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -25197,7 +25197,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
+          "notes": "same as Fortissimo, just no Surrounded",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -25246,7 +25246,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
+          "notes": "same as Nessa, just no Focused Fury",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -25292,7 +25292,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
+          "notes": "outdated QoL-focused 1mag 12P option",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -25338,7 +25338,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
+          "notes": "bad frame, awful 1st column, has Withering though",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -25385,7 +25385,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
+          "notes": "very dated lightweight 12P option, no reload assists",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -25432,7 +25432,52 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
+          "notes": "not a good Trench frame, okay perks in 2nd paired with ALH",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Ragnhild-D": {
+        "weapon_name": "Ragnhild-D",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Barrel Shroud"
+          ],
+          "column2": [
+            "Assault Mag"
+          ],
+          "perk1": [
+            "Auto-Loading Holster"
+          ],
+          "perk2": [
+            "One-Two Punch"
+          ],
+          "origin_trait": [
+            "Häkke Breach Armaments"
+          ]
+        },
+        "info": {
+          "rank": "48",
+          "tier": "D",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "the original kinetic 12P pick, unfortunately an aggressive despite ALH",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -25470,7 +25515,7 @@
           ]
         },
         "info": {
-          "rank": "48",
+          "rank": "49",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -25479,7 +25524,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
+          "notes": "no good refill perk, standard aggressive perks in 2nd column",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -25516,51 +25561,6 @@
           ]
         },
         "info": {
-          "rank": "49",
-          "tier": "D",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Ragnhild-D": {
-        "weapon_name": "Ragnhild-D",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Barrel Shroud"
-          ],
-          "column2": [
-            "Assault Mag"
-          ],
-          "perk1": [
-            "Auto-Loading Holster"
-          ],
-          "perk2": [
-            "One-Two Punch"
-          ],
-          "origin_trait": [
-            "Häkke Breach Armaments"
-          ]
-        },
-        "info": {
           "rank": "50",
           "tier": "D",
           "priority": "",
@@ -25570,7 +25570,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
+          "notes": "same as Hand in Hand with Lead instead of Cascade, arguably worse origin",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -25616,7 +25616,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
+          "notes": "no Trench or loader perk on an aggressive, origin not bad",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -25660,7 +25660,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
+          "notes": "like Retold but without Withering option or origin trait",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -25706,7 +25706,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
+          "notes": "no loader perk but Triple Tap + Focused Fury isn't bad",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -25753,7 +25753,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
+          "notes": "no ammo gen perk, decent perk spread in 2nd column",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -25797,7 +25797,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
+          "notes": "like Legato but no Focused Fury",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -25844,7 +25844,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
+          "notes": "better 1st column than other E slugs, but awful damage perk spread",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -25890,7 +25890,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
+          "notes": "Cascade Point on a slug, otherwise very mediocre",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -25936,7 +25936,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
+          "notes": "outdated frame and spread for pellet swapping",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -25979,7 +25979,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
+          "notes": "literally no damage perk",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -26022,7 +26022,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
+          "notes": "not even Full Auto RoF increase",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -26039,54 +26039,6 @@
       }
     },
     "Snipers": {
-      "Praedyth's Revenge": {
-        "weapon_name": "Praedyth's Revenge",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel"
-          ],
-          "column2": [
-            "Tactical Mag"
-          ],
-          "perk1": [
-            "Fourth Time's the Charm",
-            "Kinetic Tremors"
-          ],
-          "perk2": [
-            "Elemental Honing",
-            "Bait and Switch",
-            "Firefly"
-          ],
-          "origin_trait": [
-            "Timelost Magazine"
-          ]
-        },
-        "info": {
-          "rank": "1",
-          "tier": "S",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "insane origin synergy with FTTC and BiS perks all around",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
       "Conspiracy Honed": {
         "weapon_name": "Conspiracy Honed",
         "version": "",
@@ -26102,15 +26054,16 @@
             "Vorpal Weapon"
           ],
           "perk2": [
-            "Bait and Switch"
+            "Bait and Switch",
+            "Firing Line"
           ],
           "origin_trait": [
             "Imperial Allegiance"
           ]
         },
         "info": {
-          "rank": "2",
-          "tier": "S",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -26118,7 +26071,104 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "double perk fast vent style burst sniper, no ammo gen perk though",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Praedyth's Revenge": {
+        "weapon_name": "Praedyth's Revenge",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Tactical Mag"
+          ],
+          "perk1": [
+            "Fourth Time's the Charm",
+            "Kinetic Tremors",
+            "Discord"
+          ],
+          "perk2": [
+            "Elemental Honing",
+            "All-Star",
+            "Precision Instrument"
+          ],
+          "origin_trait": [
+            "Timelost Magazine"
+          ]
+        },
+        "info": {
+          "rank": "",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Something Something": {
+        "weapon_name": "Something Something",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Extended Mag"
+          ],
+          "perk1": [
+            "Triple Tap",
+            "Discord"
+          ],
+          "perk2": [
+            "Elemental Honing",
+            "All-Star",
+            "Redirection"
+          ],
+          "origin_trait": [
+            "Accelerated Assault"
+          ]
+        },
+        "info": {
+          "rank": "",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -26145,12 +26195,11 @@
           ],
           "perk1": [
             "Fourth Time's the Charm",
-            "Envious Arsenal",
             "Lead from Gold"
           ],
           "perk2": [
-            "Bait and Switch",
             "Elemental Honing",
+            "Bait and Switch",
             "Redirection"
           ],
           "origin_trait": [
@@ -26158,8 +26207,8 @@
           ]
         },
         "info": {
-          "rank": "3",
-          "tier": "S",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -26167,7 +26216,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "similar to Praedyth's but more burst-specialized, less applicable",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -26204,8 +26253,8 @@
           ]
         },
         "info": {
-          "rank": "4",
-          "tier": "S",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -26213,7 +26262,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "BiS energy dump sniper",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -26240,7 +26289,7 @@
           ],
           "perk1": [
             "Fourth Time's the Charm",
-            "Envious Arsenal"
+            "Lead from Gold"
           ],
           "perk2": [
             "Elemental Honing",
@@ -26251,8 +26300,8 @@
           ]
         },
         "info": {
-          "rank": "5",
-          "tier": "S",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -26260,55 +26309,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "solar alternative to Rapid Growth",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Something Something": {
-        "weapon_name": "Something Something",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel"
-          ],
-          "column2": [
-            "Extended Mag"
-          ],
-          "perk1": [
-            "Triple Tap",
-            "Discord"
-          ],
-          "perk2": [
-            "Elemental Honing",
-            "All-Star",
-            "Adhesive Ordnance"
-          ],
-          "origin_trait": [
-            "Accelerated Assault"
-          ]
-        },
-        "info": {
-          "rank": "6",
-          "tier": "S",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "better than Succession due to Accelerated Assault",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -26344,8 +26345,8 @@
           ]
         },
         "info": {
-          "rank": "7",
-          "tier": "A",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -26353,152 +26354,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "only held back by frame, 2nd column could be a little more diverse",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "The Supremacy": {
-        "weapon_name": "The Supremacy",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel"
-          ],
-          "column2": [
-            "Appended Mag"
-          ],
-          "perk1": [
-            "Rewind Rounds",
-            "Lead from Gold",
-            "Discord"
-          ],
-          "perk2": [
-            "Kinetic Tremors",
-            "Bait and Switch",
-            "Fourth Time's the Charm"
-          ],
-          "origin_trait": [
-            "Explosive Pact"
-          ]
-        },
-        "info": {
-          "rank": "8",
-          "tier": "A",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "worse than S tier snipers in every way, Lead + KT unique",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Critical Anomaly": {
-        "weapon_name": "Critical Anomaly",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel"
-          ],
-          "column2": [
-            "Extended Mag"
-          ],
-          "perk1": [
-            "Chill Clip",
-            "Rewind Rounds",
-            "Crystalline Corpsebloom"
-          ],
-          "perk2": [
-            "Chaos Reshaped",
-            "Mega Kill Clip",
-            "Elemental Honing"
-          ],
-          "origin_trait": [
-            "Collective Purpose"
-          ]
-        },
-        "info": {
-          "rank": "9",
-          "tier": "A",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "Chill Clip provides 2 shot burst like Recomb, bit more unwieldy",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "ALLEN 05": {
-        "weapon_name": "ALLEN 05",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel"
-          ],
-          "column2": [
-            "Extended Mag"
-          ],
-          "perk1": [
-            "Fourth Time's the Charm"
-          ],
-          "perk2": [
-            "Precision Instrument",
-            "Firing Line",
-            "Mega Kill Clip"
-          ],
-          "origin_trait": [
-            "Carrion Munitions"
-          ]
-        },
-        "info": {
-          "rank": "10",
-          "tier": "A",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "FTTC + good damage perk, but still adaptive and could have better 2nd",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -26525,20 +26381,21 @@
           ],
           "perk1": [
             "Triple Tap",
-            "Shoot to Loot",
-            "Lead from Gold"
+            "Lead from Gold",
+            "Shoot to Loot"
           ],
           "perk2": [
             "Bait and Switch",
-            "Withering Gaze"
+            "Withering Gaze",
+            "Focused Fury"
           ],
           "origin_trait": [
             "Psychohack"
           ]
         },
         "info": {
-          "rank": "11",
-          "tier": "A",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -26546,7 +26403,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "craftable Withering sniper is nice, otherwise TT instead of FTTC",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -26561,8 +26418,8 @@
           }
         }
       },
-      "Keen Thistle": {
-        "weapon_name": "Keen Thistle",
+      "Critical Anomaly": {
+        "weapon_name": "Critical Anomaly",
         "version": "",
         "perks": {
           "column1": [
@@ -26572,22 +26429,20 @@
             "Extended Mag"
           ],
           "perk1": [
-            "Envious Arsenal",
-            "Incandescent",
-            "Triple Tap"
+            "Chill Clip",
+            "Rampage"
           ],
           "perk2": [
-            "Bait and Switch",
-            "Elemental Honing",
-            "Fourth Time's the Charm"
+            "Chaos Reshaped",
+            "Mega Kill Clip"
           ],
           "origin_trait": [
-            "Häkke Breach Armaments"
+            "Collective Purpose"
           ]
         },
         "info": {
-          "rank": "12",
-          "tier": "A",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -26595,7 +26450,53 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "funny TT+FTTC roll but otherwise just alright for damage",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "The Supremacy": {
+        "weapon_name": "The Supremacy",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Appended Mag"
+          ],
+          "perk1": [
+            "Lead from Gold",
+            "Discord"
+          ],
+          "perk2": [
+            "Kinetic Tremors"
+          ],
+          "origin_trait": [
+            "Explosive Pact"
+          ]
+        },
+        "info": {
+          "rank": "",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -26622,21 +26523,21 @@
           ],
           "perk1": [
             "Triple Tap",
-            "Lead from Gold",
-            "Auto-Loading Holster"
+            "Auto-Loading Holster",
+            "Lead from Gold"
           ],
           "perk2": [
             "Aggregate Charge",
-            "Withering Gaze",
-            "Bait and Switch"
+            "Bait and Switch",
+            "Withering Gaze"
           ],
           "origin_trait": [
             "Fail-deadly"
           ]
         },
         "info": {
-          "rank": "13",
-          "tier": "A",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -26644,7 +26545,104 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "probably best Withering sniper, otherwise decent for damage",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "ALLEN 05": {
+        "weapon_name": "ALLEN 05",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Extended Mag"
+          ],
+          "perk1": [
+            "Fourth Time's the Charm",
+            "Shoot to Loot"
+          ],
+          "perk2": [
+            "Precision Instrument",
+            "Firing Line",
+            "Mega Kill Clip"
+          ],
+          "origin_trait": [
+            "Carrion Munitions"
+          ]
+        },
+        "info": {
+          "rank": "",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Keen Thistle": {
+        "weapon_name": "Keen Thistle",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Extended Mag"
+          ],
+          "perk1": [
+            "Envious Arsenal",
+            "Triple Tap",
+            "Lead from Gold"
+          ],
+          "perk2": [
+            "Elemental Honing",
+            "Bait and Switch",
+            "Fourth Time's the Charm"
+          ],
+          "origin_trait": [
+            "Häkke Breach Armaments"
+          ]
+        },
+        "info": {
+          "rank": "",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -26669,19 +26667,15 @@
           "column2": [
             "Tactical Mag"
           ],
-          "perk1": [
-            "Fourth Time's the Charm"
-          ],
-          "perk2": [
-            "Focused Fury"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Rasputin's Arsenal"
           ]
         },
         "info": {
-          "rank": "14",
-          "tier": "A",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -26689,7 +26683,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "FTTC + very consistent 20% perk on good frame",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -26714,23 +26708,15 @@
           "column2": [
             "Extended Mag"
           ],
-          "perk1": [
-            "Reconstruction",
-            "Demolitionist",
-            "Kinetic Tremors"
-          ],
-          "perk2": [
-            "Recombination",
-            "Aggregate Charge",
-            "Mega Kill Clip"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Indomitability"
           ]
         },
         "info": {
-          "rank": "15",
-          "tier": "A",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -26738,7 +26724,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "best Demo grenade gen in the game, otherwise no ammo regen",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -26763,23 +26749,15 @@
           "column2": [
             "Extended Mag"
           ],
-          "perk1": [
-            "Reconstruction",
-            "Demolitionist",
-            "Discord"
-          ],
-          "perk2": [
-            "Elemental Honing",
-            "Recombination",
-            "Redirection"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Bray Inheritance"
           ]
         },
         "info": {
-          "rank": "16",
-          "tier": "A",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -26787,7 +26765,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "doesn't compete against rapids, Discord roll is okay",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -26812,20 +26790,15 @@
           "column2": [
             "Extended Mag"
           ],
-          "perk1": [
-            "Air Trigger",
-            "Slickdraw"
-          ],
-          "perk2": [
-            "Withering Gaze"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Häkke Breach Armaments"
           ]
         },
         "info": {
-          "rank": "17",
-          "tier": "B",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -26833,7 +26806,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "situational special ranged debuff extension option",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -26858,20 +26831,15 @@
           "column2": [
             "Appended Mag"
           ],
-          "perk1": [
-            "Demolitionist",
-            "Explosive Payload"
-          ],
-          "perk2": [
-            "Withering Gaze"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Dark Ether Reaper"
           ]
         },
         "info": {
-          "rank": "18",
-          "tier": "B",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -26879,7 +26847,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "worse frame for per-shot Withering Gaze damage",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -26904,21 +26872,15 @@
           "column2": [
             "Tactical Mag"
           ],
-          "perk1": [
-            "Fourth Time's the Charm",
-            "Shoot to Loot"
-          ],
-          "perk2": [
-            "Focused Fury",
-            "Firing Line"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Veist Stinger"
           ]
         },
         "info": {
-          "rank": "19",
-          "tier": "B",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -26926,7 +26888,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "FTTC + okay 20% perk, very overshadowed by other options in-slot",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -26951,22 +26913,15 @@
           "column2": [
             "Extended Mag"
           ],
-          "perk1": [
-            "Triple Tap",
-            "Rewind Rounds"
-          ],
-          "perk2": [
-            "Aggregate Charge",
-            "Elemental Honing",
-            "Precision Instrument"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Skulking Wolf"
           ]
         },
         "info": {
-          "rank": "20",
-          "tier": "B",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -26974,7 +26929,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "no FTTC and okay frame, good origin and damage perks",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -26999,23 +26954,15 @@
           "column2": [
             "Tactical Mag"
           ],
-          "perk1": [
-            "Triple Tap",
-            "Shoot to Loot",
-            "Explosive Payload"
-          ],
-          "perk2": [
-            "Precision Instrument",
-            "High Ground",
-            "Destabilizing Rounds"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Bray Legacy"
           ]
         },
         "info": {
-          "rank": "21",
-          "tier": "B",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -27023,7 +26970,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "worse consistency vs. Father's Sins but utility rolls",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -27048,22 +26995,15 @@
           "column2": [
             "Tactical Mag"
           ],
-          "perk1": [
-            "Rewind Rounds",
-            "Stopping Power"
-          ],
-          "perk2": [
-            "Aggregate Charge",
-            "Kinetic Tremors",
-            "All-Star"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Elliptical Orbit"
           ]
         },
         "info": {
-          "rank": "22",
-          "tier": "B",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -27071,7 +27011,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "has new perks but terrible selection",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -27096,19 +27036,15 @@
           "column2": [
             "Tactical Mag"
           ],
-          "perk1": [
-            "Triple Tap"
-          ],
-          "perk2": [
-            "Focused Fury"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Unsated Hunger"
           ]
         },
         "info": {
-          "rank": "23",
-          "tier": "B",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -27116,7 +27052,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "TT but consistent damage perk rapid",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -27141,18 +27077,13 @@
           "column2": [
             "Tactical Mag"
           ],
-          "perk1": [
-            "Clown Cartridge",
-            "Lead from Gold"
-          ],
-          "perk2": [
-            "Firing Line"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": []
         },
         "info": {
-          "rank": "24",
-          "tier": "C",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -27160,7 +27091,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "good frame and okay 20% perk but no FTTC",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -27185,23 +27116,15 @@
           "column2": [
             "Appended Mag"
           ],
-          "perk1": [
-            "Fourth Time's the Charm",
-            "Discord",
-            "Attrition Orbs"
-          ],
-          "perk2": [
-            "Precision Instrument",
-            "Deconstruct",
-            "Vorpal Weapon"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Problem Solver"
           ]
         },
         "info": {
-          "rank": "25",
-          "tier": "C",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -27209,7 +27132,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "FTTC + consistent damage perks but bad frame",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -27234,22 +27157,15 @@
           "column2": [
             "Appended Mag"
           ],
-          "perk1": [
-            "Vorpal Weapon",
-            "Withering Gaze"
-          ],
-          "perk2": [
-            "Redirection",
-            "Fourth Time's the Charm",
-            "Aggregate Charge"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Dealer's Choice"
           ]
         },
         "info": {
-          "rank": "26",
-          "tier": "C",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -27257,7 +27173,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "very weird perk combos, has Withering access",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -27282,22 +27198,15 @@
           "column2": [
             "Appended Mag"
           ],
-          "perk1": [
-            "Fourth Time's the Charm",
-            "Auto-Loading Holster",
-            "Lead from Gold"
-          ],
-          "perk2": [
-            "Firing Line",
-            "Vorpal Weapon"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Suros Synergy"
           ]
         },
         "info": {
-          "rank": "27",
-          "tier": "C",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -27305,7 +27214,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "FTTC + consistent damage perks but bad frame",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -27330,22 +27239,15 @@
           "column2": [
             "Appended Mag"
           ],
-          "perk1": [
-            "Triple Tap",
-            "Demolitionist",
-            "Rewind Rounds"
-          ],
-          "perk2": [
-            "Aggregate Charge",
-            "Kinetic Tremors"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Wild Card"
           ]
         },
         "info": {
-          "rank": "28",
-          "tier": "C",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -27353,7 +27255,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "no FTTC and worst frame but otherwise not terrible",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -27378,20 +27280,15 @@
           "column2": [
             "Tactical Mag"
           ],
-          "perk1": [
-            "Shoot to Loot",
-            "Lead from Gold"
-          ],
-          "perk2": [
-            "Explosive Payload"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Loss"
           ]
         },
         "info": {
-          "rank": "29",
-          "tier": "C",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -27399,7 +27296,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "first energy slot StL + EP sniper",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -27424,22 +27321,15 @@
           "column2": [
             "Tactical Mag"
           ],
-          "perk1": [
-            "Rewind Rounds",
-            "Deconstruct"
-          ],
-          "perk2": [
-            "Elemental Honing",
-            "Cascade Point",
-            "Mega Kill Clip"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Sundering"
           ]
         },
         "info": {
-          "rank": "30",
-          "tier": "C",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -27447,7 +27337,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "no ammo gen, maybe niche for vehicle stuff",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -27472,22 +27362,15 @@
           "column2": [
             "Extended Mag"
           ],
-          "perk1": [
-            "Lead from Gold",
-            "Shoot to Loot",
-            "Rewind Rounds"
-          ],
-          "perk2": [
-            "Aggregate Charge",
-            "All-Star"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Runneth Over"
           ]
         },
         "info": {
-          "rank": "31",
-          "tier": "C",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -27495,7 +27378,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "bad 1st column, otherwise good origin and 2nd column",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -27520,20 +27403,15 @@
           "column2": [
             "Tactical Mag"
           ],
-          "perk1": [
-            "Envious Assassin"
-          ],
-          "perk2": [
-            "Bait and Switch",
-            "Precision Instrument"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Advanced Reflexes"
           ]
         },
         "info": {
-          "rank": "32",
-          "tier": "C",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -27541,7 +27419,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "good origin, just no ammo gen perk",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -27566,22 +27444,15 @@
           "column2": [
             "Extended Mag"
           ],
-          "perk1": [
-            "Rewind Rounds",
-            "Discord"
-          ],
-          "perk2": [
-            "Bait and Switch",
-            "Precision Instrument",
-            "Incandescent"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Veteran's Wisdom"
           ]
         },
         "info": {
-          "rank": "33",
-          "tier": "C",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -27589,7 +27460,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "one of the best Discord snipers, otherwise no ammo gen perk",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -27614,23 +27485,15 @@
           "column2": [
             "Extended Mag"
           ],
-          "perk1": [
-            "Discord",
-            "Overflow",
-            "Rewind Rounds"
-          ],
-          "perk2": [
-            "Redirection",
-            "Mega Kill Clip",
-            "Elemental Honing"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Forge's Kin"
           ]
         },
         "info": {
-          "rank": "34",
-          "tier": "C",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -27638,7 +27501,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "decent Succession-like Discord option, otherwise unremarkable",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -27663,22 +27526,15 @@
           "column2": [
             "Appended Mag"
           ],
-          "perk1": [
-            "Rewind Rounds",
-            "Stopping Power"
-          ],
-          "perk2": [
-            "All-Star",
-            "Kinetic Tremors",
-            "Elemental Honing"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Loss"
           ]
         },
         "info": {
-          "rank": "35",
-          "tier": "C",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -27686,7 +27542,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "loader perk + okay damage perk adaptive",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -27711,21 +27567,15 @@
           "column2": [
             "Extended Mag"
           ],
-          "perk1": [
-            "Triple Tap",
-            "Lead from Gold"
-          ],
-          "perk2": [
-            "Vorpal Weapon",
-            "Cascade Point"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Roar of Battle"
           ]
         },
         "info": {
-          "rank": "36",
-          "tier": "C",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -27733,7 +27583,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "TT + bad damage perks",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -27758,21 +27608,15 @@
           "column2": [
             "Appended Mag"
           ],
-          "perk1": [
-            "Overflow",
-            "Discord"
-          ],
-          "perk2": [
-            "Firing Line",
-            "High Ground"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Head Rush"
           ]
         },
         "info": {
-          "rank": "37",
-          "tier": "D",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -27780,7 +27624,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "overflow perk + okay damage perk adaptive",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -27805,22 +27649,15 @@
           "column2": [
             "Extended Mag"
           ],
-          "perk1": [
-            "Envious Assassin",
-            "Shoot to Loot"
-          ],
-          "perk2": [
-            "Cascade Point",
-            "Firing Line",
-            "Explosive Payload"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Nanotech Tracer Missiles"
           ]
         },
         "info": {
-          "rank": "38",
-          "tier": "D",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -27828,7 +27665,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "okay perks + only StL EP kinetic special",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -27853,20 +27690,15 @@
           "column2": [
             "Appended Mag"
           ],
-          "perk1": [
-            "Overflow"
-          ],
-          "perk2": [
-            "Firing Line",
-            "Focused Fury"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Land Tank"
           ]
         },
         "info": {
-          "rank": "39",
-          "tier": "D",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -27874,7 +27706,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "Locus but Fury instead of High Ground",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -27899,18 +27731,13 @@
           "column2": [
             "Extended Mag"
           ],
-          "perk1": [
-            "Overflow"
-          ],
-          "perk2": [
-            "Firing Line",
-            "Frenzy"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": []
         },
         "info": {
-          "rank": "40",
-          "tier": "D",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -27918,7 +27745,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "overflow perk + okay damage perk aggresive",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -27943,21 +27770,15 @@
           "column2": [
             "Extended Mag"
           ],
-          "perk1": [
-            "Triple Tap",
-            "Demolitionist"
-          ],
-          "perk2": [
-            "Firing Line",
-            "Vorpal Weapon"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Search Party"
           ]
         },
         "info": {
-          "rank": "41",
-          "tier": "D",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -27965,7 +27786,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "TT on bad archetype, fine damage perks",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -27990,21 +27811,15 @@
           "column2": [
             "Extended Mag"
           ],
-          "perk1": [
-            "Triple Tap"
-          ],
-          "perk2": [
-            "Firing Line",
-            "Focused Fury",
-            "Demolitionist"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Stunning Recovery"
           ]
         },
         "info": {
-          "rank": "42",
-          "tier": "D",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -28012,7 +27827,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "TT on bad archetype, fine damage perks",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -28037,21 +27852,15 @@
           "column2": [
             "Extended Mag"
           ],
-          "perk1": [
-            "Clown Cartridge"
-          ],
-          "perk2": [
-            "Firing Line",
-            "High Ground",
-            "Cascade Point"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Wild Card"
           ]
         },
         "info": {
-          "rank": "43",
-          "tier": "D",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -28059,7 +27868,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "overflow perk + okay damage perk aggressive",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -28084,19 +27893,13 @@
           "column2": [
             "Appended Mag"
           ],
-          "perk1": [
-            "Auto-Loading Holster",
-            "Lead from Gold"
-          ],
-          "perk2": [
-            "Frenzy",
-            "Demolitionist"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": []
         },
         "info": {
-          "rank": "44",
-          "tier": "D",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -28104,7 +27907,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "loader perk + okay damage perk adaptive",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -28129,20 +27932,15 @@
           "column2": [
             "Extended Mag"
           ],
-          "perk1": [
-            "Clown Cartridge"
-          ],
-          "perk2": [
-            "Cascade Point",
-            "Firing Line"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Häkke Breach Armaments"
           ]
         },
         "info": {
-          "rank": "45",
-          "tier": "D",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -28150,7 +27948,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "overflow perk + okay damage perk aggressive",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -28175,19 +27973,15 @@
           "column2": [
             "Extended Mag"
           ],
-          "perk1": [
-            "Envious Assassin"
-          ],
-          "perk2": [
-            "Vorpal Weapon"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Skulking Wolf"
           ]
         },
         "info": {
-          "rank": "46",
-          "tier": "D",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -28195,7 +27989,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "overflow perk + okay damage perk aggressive",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -28220,20 +28014,15 @@
           "column2": [
             "Appended Mag"
           ],
-          "perk1": [
-            "Fourth Time's the Charm"
-          ],
-          "perk2": [
-            "Box Breathing",
-            "Incandescent"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "To Excess"
           ]
         },
         "info": {
-          "rank": "47",
-          "tier": "E",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -28241,7 +28030,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "FTTC but awful second column",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -28266,22 +28055,15 @@
           "column2": [
             "Tactical Mag"
           ],
-          "perk1": [
-            "Discord",
-            "Repulsor Brace"
-          ],
-          "perk2": [
-            "High Ground",
-            "Destabilizing Rounds",
-            "Triple Tap"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Vanguard's Vindication"
           ]
         },
         "info": {
-          "rank": "48",
-          "tier": "E",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -28289,7 +28071,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "only High Ground and no overflow/ammo regen",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -28314,18 +28096,13 @@
           "column2": [
             "Appended Mag"
           ],
-          "perk1": [
-            "Discord"
-          ],
-          "perk2": [
-            "Vorpal Weapon",
-            "Bait and Switch"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": []
         },
         "info": {
-          "rank": "49",
-          "tier": "E",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -28333,7 +28110,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "Discord + okay damage perk adaptive",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -28358,21 +28135,15 @@
           "column2": [
             "Appended Mag"
           ],
-          "perk1": [
-            "Overflow",
-            "Shoot to Loot"
-          ],
-          "perk2": [
-            "Focused Fury",
-            "Snapshot Sights"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Omolon Fluid Dynamics"
           ]
         },
         "info": {
-          "rank": "50",
-          "tier": "E",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -28380,7 +28151,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "overflow perk + okay damage perk adaptive",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -28405,20 +28176,15 @@
           "column2": [
             "Appended Mag"
           ],
-          "perk1": [
-            "Envious Arsenal"
-          ],
-          "perk2": [
-            "Elemental Honing",
-            "Mega Kill Clip"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Gun and Run"
           ]
         },
         "info": {
-          "rank": "51",
-          "tier": "E",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -28426,7 +28192,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "no ammo gen perk, only really has Honing",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -28451,21 +28217,15 @@
           "column2": [
             "Appended Mag"
           ],
-          "perk1": [
-            "Discord",
-            "Vorpal Weapon"
-          ],
-          "perk2": [
-            "Redirection",
-            "Demoralize"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Unburied Treasure"
           ]
         },
         "info": {
-          "rank": "52",
-          "tier": "E",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -28473,7 +28233,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "no ammo gen perk, niche damage options",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -28498,19 +28258,13 @@
           "column2": [
             "Appended Mag"
           ],
-          "perk1": [
-            "Lead from Gold"
-          ],
-          "perk2": [
-            "Firing Line",
-            "Frenzy",
-            "Demolitionist"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": []
         },
         "info": {
-          "rank": "53",
-          "tier": "E",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -28518,7 +28272,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "Lead + okay damage perk adaptive",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -28543,17 +28297,13 @@
           "column2": [
             "Tactical Mag"
           ],
-          "perk1": [
-            "Lead from Gold"
-          ],
-          "perk2": [
-            "Demolitionist"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": []
         },
         "info": {
-          "rank": "54",
-          "tier": "F",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -28561,7 +28311,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "good archetype but no damage perk",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -28586,17 +28336,13 @@
           "column2": [
             "Appended Mag"
           ],
-          "perk1": [
-            "Field Prep"
-          ],
-          "perk2": [
-            "Triple Tap"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": []
         },
         "info": {
-          "rank": "55",
-          "tier": "F",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -28604,7 +28350,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "TT but no usable damage perk",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -28629,19 +28375,15 @@
           "column2": [
             "Appended Mag"
           ],
-          "perk1": [
-            "Overflow"
-          ],
-          "perk2": [
-            "Incandescent"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Nadir Focus"
           ]
         },
         "info": {
-          "rank": "56",
-          "tier": "F",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -28649,7 +28391,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "splash perk",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -28674,14 +28416,8 @@
           "column2": [
             "Extended Mag"
           ],
-          "perk1": [
-            "Explosive Payload",
-            "Discord"
-          ],
-          "perk2": [
-            "Elemental Honing",
-            "Gear Shift"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Accelerated Assault"
           ]
@@ -28696,7 +28432,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "NEED TESTING",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
