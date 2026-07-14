@@ -1,49 +1,50 @@
 WEAPON,,INFO,,,,,,,PERKS,,,,,ANALYSIS,,
 🖼️,Name,Season,Energy,Frame,Source,Stun,Ammo,⬆️,Barrel,Mag,Perk 1,Perk 2,Origin Trait,Notes,Rank,Tier
 ,Lotus-Eater,29,Void,Micro-Missile,Pinnacle Ops,,42,Yes,"Quick Launch
-Volatile Launch",Flared Magwell,"Repulsor Brace
-Dimensional Shift
-Air Trigger","Destabilizing Rounds
-Withering Gaze
-Surrounded",Vanguard Determination,"best elemental perk combo, some other utility options as well",1,S
+Volatile Launch",Alloy Magazine,"Repulsor Brace
+Air Trigger
+Shoot to Loot","Destabilizing Rounds
+Surrounded
+Withering Gaze",Accelerated Assault,best synergy with artifacts and has StL + insane radius,1,S
+,High Albedo,29,Kinetic,Micro-Missile,Europa,,47,Yes,"Quick Launch
+Volatile Launch",Tactical Mag,"Bewildering Burst
+Lead from Gold
+Stopping Power","Ancillary Ordinance
+Kinetic Tremors
+All-Star",Winterized Gear,arguably the best user of the new kinetic perks in the entire game,2,S
 ,Returned Memory,27,Solar,Micro-Missile,"Tenet of Bravery, Shaxx",,40,Yes,"Quick Launch
 Volatile Launch","Tactical Mag
 High-Explosive Ordnance
-Flared Magwell","Heal Clip
-Lead from Gold
-Impromptu Ammunition","Incandescent
-Redirection
-Desperate Measures",Tenacity,excellent perks all around with solid origin,2,S
-,High Albedo,29,Kinetic,Micro-Missile,Europa,,47,Yes,"Quick Launch
-Volatile Launch",Tactical Mag,"Lead from Gold
-Stopping Power
-Blast Distributor","Kinetic Tremors
-All-Star
-Recombination",Winterized Gear,"Ancillary Ordinance also good, very solid perk spread",3,S
+Alloy Magazine","Heal Clip
+Impromptu Ammunition
+Lead from Gold","Redirection
+Incandescent
+Burning Ambition",Tenacity,"Redirection is an interesting perk, Tenacity is a solid origin, Heal Clip always solid",3,S
+,Indebted Kindness,29,Arc,Micro-Missile,Warlord's Ruin,,37,Yes,"Quick Launch
+Volatile Launch",Tactical Mag,"Air Trigger
+Deconstruct
+Danger Zone","Voltshot
+Chain Reaction
+Attrition Orbs",Sundering,fast orb gen due to splash + Air Trigger and good add clear perks,4,S
 ,Aberrant Action,29,Solar,Micro-Missile,Encore,,37,Yes,"Quick Launch
-Volatile Launch",High-Explosive Ordnance,"Heal Clip
-Field Prep","Incandescent
-Demolitionist",Radiolaria Transposer,better origin than Returned but worse alternative perks,4,S
+Volatile Launch",Tactical Mag,"Heal Clip
+Field Prep
+Pugilist","Incandescent
+Golden Tricorn",Radiolaria Transposer,strict downgrade from Returned in almost all scenarios,5,A
+,Tinasha's Mastery,29,Stasis,Micro-Missile,Iron Banner,,46,Yes,"Quick Launch
+Volatile Launch",Tactical Mag,"Air Trigger
+Deconstruct
+Impulse Amplifier","Chill Clip
+Surrounded
+Desperate Measures",Skulking Wolf,a more useful multi-stun tool than Deliverance but still fairly niche,6,A
 ,The Call,29,Strand,Micro-Missile,Pale Heart,,25,Yes,"Quick Launch
 Volatile Launch",Tactical Mag,"Slice
 Lead from Gold
-Impulse Amplifier","Chaos Reshaped
-Hatchling",Dealer's Choice,"only Slice rocket sidearm, good origin and utility perks",5,S
-,Tinasha's Mastery,29,Stasis,Micro-Missile,Iron Banner,,46,Yes,"Quick Launch
-Volatile Launch",High-Explosive Ordnance,"Air Trigger
-Impulse Amplifier
-Loose Change","Chill Clip
-Surrounded
-Desperate Measures",Skulking Wolf,"great ammo generator, solid perks and decent origin",6,S
-,Indebted Kindness,29,Arc,Micro-Missile,Warlord's Ruin,,37,Yes,"Quick Launch
-Volatile Launch",High-Explosive Ordnance,"Air Trigger
-Beacon Rounds
-Deconstruct","Voltshot
-Chain Reaction
-Gear Shift",Sundering,"good Voltshot user, Lead also appreciated, situational origin",7,S
+Demolitionist","Chaos Reshaped
+Hatchling
+Golden Tricorn",Dealer's Choice,"Dealer's Choice kit fill, also has solid sustain in Slice + Chaos",7,A
 ,Unfall,27,Arc,Together Forever,"Tenet of Bravery, Zavala",,37,Yes,"Quick Launch
-Volatile Launch",Appended Mag,"Lead from Gold
+Volatile Launch",High-Explosive Ordnance,"Lead from Gold
 Impulse Amplifier
-Beacon Rounds","Jolting Feedback
-Rolling Storm
-Master of Arms",Vanguard Determination,worse than Indebted besides enhanceable perks,8,A
+Disruption Break","Master of Arms
+Jolting Feedback",Vanguard Determination,"does nothing better than other rocket sidearms, notably has Overload",8,A

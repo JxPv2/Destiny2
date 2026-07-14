@@ -1,127 +1,122 @@
 WEAPON,,INFO,,,,,,,PERKS,,,,,ANALYSIS,,
 🖼️,Name,Season,Energy,Frame,Source,Stun,Ammo,⬆️,Barrel,Mag,Perk 1,Perk 2,Origin Trait,Notes,Rank,Tier
-,Hezen Vengeance,29,Solar,Aggressive,Vault of Glass,,50,Yes,Quick Launch,Impact Casing,"Envious Arsenal
-Cluster Bomb
-Collective Demolition","Bait and Switch
+,Hezen Vengeance,29,Solar,Aggressive,Vault of Glass,,50,Yes,Quick Launch,Impact Casing,"Cluster Bomb
+Envious Arsenal
+Overflow","Aggregate Charge
+Elemental Honing
+Bipod",Timelost Magazine,"bar none the best rocket in the game, Cluster is an effective minimum 20% perk, insane origin",1,S
+,Bellowing Giant,29,Void,Adaptive,Arena Ops,,48,Yes,Quick Launch,Impact Casing,"Lasting Impression
+Overflow
+Air Trigger","Reaper's Tithe
 Aggregate Charge
-Bipod",Timelost Magazine,"double damage options, insane origin, Bipod swap option",1,S
-,Cynosure,29,Strand,Adaptive,Fireteam Ops,,47,Yes,Quick Launch,Impact Casing,Envious Arsenal,"Aggregate Charge
-Bait and Switch
-Bipod",Accelerated Assault,Envious + decent perks + Accelerated Assault + good frame,2,S
-,The Hothead,29,Arc,Adaptive,Pinnacle Ops,,34,Yes,Quick Launch,Impact Casing,Envious Arsenal,"Aggregate Charge
+Bipod",Forge's Kin,"in theory strongest double damage in the game, especially with Sentinel flicker",2,S
+,The Hothead,29,Arc,Adaptive,Pinnacle Ops,,34,Yes,Quick Launch,Impact Casing,"Envious Arsenal
+Reconstruction
+Auto-Loading Holster","Aggregate Charge
 Elemental Honing
-Bipod",Accelerated Assault,essentially identical to Cynosure,3,S
+Bipod",Accelerated Assault,"free damage origin, standard Envious + good damage spread",3,A
+,Cynosure,29,Strand,Adaptive,Fireteam Ops,,47,Yes,Quick Launch,Impact Casing,"Envious Arsenal
+Reconstruction","Aggregate Charge
+Bait and Switch
+Bipod",Accelerated Assault,Hothead clone (or the other way around),4,A
 ,The When and Where,27,Stasis,Adaptive,Desert Perpetual,,38,Yes,Quick Launch,Impact Casing,"Clown Cartridge
+Overflow
+Chill Clip","Reaper's Tithe
+Surrounded
+Bipod",Frame of Reference,burst specialist with high damage high investment perks + Frame of Reference,5,A
+,Apex Predator,29,Solar,Adaptive,Last Wish,,33,Yes,Quick Launch,Impact Casing,"Cluster Bomb
 Reconstruction
-Overflow","Bait and Switch
-Elemental Honing
-Bipod",Frame of Reference,missing Envious but great otherwise as a burst specialist,4,S
-,Crux Celeritas IV,29,Strand,Aggressive,SRL,,22,Yes,Quick Launch,Impact Casing,"Reconstruction
-Clown Cartridge","Aggregate Charge
-Elemental Honing
-Bipod",Wild Card,basically The When and Where with worse origin,5,S
-,Bellowing Giant,29,Void,Adaptive,Arena Ops,,48,Yes,Quick Launch,Impact Casing,Lasting Impression,"Aggregate Charge
-Reaper's Tithe
-Bipod",Forge's Kin,good perks but single dump is awkward,6,S
-,Roar of the Bear,29,Solar,High-Impact,Iron Banner,,38,Yes,Quick Launch,Impact Casing,"Explosive Light
-Reconstruction","Reaper's Tithe
-Bipod",Skulking Wolf,"true double damage perks, need to find a way to dump though",7,S
-,Apex Predator,29,Solar,Adaptive,Last Wish,,33,Yes,Quick Launch,Impact Casing,"Reconstruction
-Cluster Bomb
-Chain Reaction","Bait and Switch
-Reaper's Tithe
-Bipod",Explosive Pact,"double damage with Cluster, just worse origin than Hezen",8,S
-,"Cold Comfort
-RotN version",26,Stasis,Aggressive,Rite of the Nine,,45,Yes,Quick Launch,Impact Casing,"Envious Arsenal
-Reconstruction","Elemental Honing
-Bait and Switch
-Bipod",Restoration Ritual,worse origin than Hezen with no Cluster option,9,A
-,Tomorrow's Answer,29,Void,High-Impact,Trials,,37,Yes,Quick Launch,Impact Casing,"Envious Arsenal
-Air Trigger","Bait and Switch
-Explosive Light
-Bipod",Wild Card,"interesting option post-reserve nerf, frame difference",10,A
+Chain Reaction","Reaper's Tithe
+Surrounded
+Bipod",Explosive Pact,"Cluster + Reaper's/Surrounded has some niche usage, also has Chain + Bipod",6,A
 ,Heretic,29,Arc,Aggressive,Moon,,32,Yes,Quick Launch,Impact Casing,"Envious Arsenal
-Cluster Bomb","Explosive Light
-Gear Shift
-Bipod",Loss,"worse origin than Cold Comfort, but Cluster option and worse damage perks",11,A
-,Bad Omens,29,Void,Aggressive,Gambit,,35,Yes,Quick Launch,Alloy Casing,"Bipod
-Auto-Loading Holster","Elemental Honing
-Bait and Switch
-Explosive Light
-",Gun and Run,"first Bipod + true damage perk rocket, worse than Cluster pairing",12,A
-,Red Herring,29,Void,Adaptive,Throne World,,36,Yes,Quick Launch,Impact Casing,"Reconstruction
-Cluster Bomb",Elemental Honing,Psychohack,"mediocre double damage, no Envious, otherwise okay",13,A
-,Cold Comfort,29,Stasis,Aggressive,Ghosts of the Deep,,45,Yes,Quick Launch,Impact Casing,"Envious Assassin
-Reconstruction
-Vorpal Weapon","Aggregate Charge
-Reaper's Tithe
-Bipod",Restoration Ritual,built for burst but no double damage and no Envious Arsenal,14,A
-,Crux Termination IV,23,Arc,Aggressive,Banshee,,45,Yes,Quick Launch,Impact Casing,"Reconstruction
-Clown Cartridge
-Slideshot","Bipod
-Explosive Light
-Surrounded",Wild Card,"doubles as add clear Pack rocket thanks to origin, damage perks are niche",15,B
-,Haliaetus,27,Strand,High-Impact,"Tenet of Bravery, Banshee",,37,Yes,Quick Launch,Impact Casing,"Auto-Loading Holster
 Cluster Bomb
-Grave Robber","Aggregate Charge
+Supercharged Magazine","Gear Shift
+Bipod",Loss,"Supercharged isn't that effective, otherwise pretty decent if using Gear Shift",7,A
+,"Cold Comfort
+RotN version",26,Stasis,Aggressive,Rite of the Nine,,45,Yes,Quick Launch,Impact Casing,Envious Arsenal,"Elemental Honing
+Bait and Switch
+Bipod",Restoration Ritual,2 mag into fast Envious dump option,8,A
+,Roar of the Bear,29,Solar,High-Impact,Iron Banner,,38,Yes,Quick Launch,Impact Casing,Explosive Light,"Reaper's Tithe
+Bipod",Skulking Wolf,"technically strong double damage but the wrong frame, EL + Bipod is novel though",9,A
+,Cold Comfort,29,Stasis,Aggressive,Ghosts of the Deep,,45,Yes,Quick Launch,Impact Casing,"Envious Assassin
+Reconstruction","Aggregate Charge
 Reaper's Tithe
-Elemental Honing",Bray Legacy,"decent perk combos, just not the best frame",16,B
-,Sleepless,29,Arc,High-Impact,Dreaming City,,36,Yes,Quick Launch,Impact Casing,Reconstruction,"Elemental Honing
+Bipod",Restoration Ritual,more burst-specialized than RotN version,10,B
+,Crux Celeritas IV,29,Strand,Aggressive,SRL,,22,Yes,Quick Launch,Impact Casing,"Clown Cartridge
+Reconstruction","Aggregate Charge
+Elemental Honing
+Bipod",Wild Card,like Cynosure but no Envious Arsenal,11,B
+,Tomorrow's Answer,29,Void,High-Impact,Trials,,37,Yes,Quick Launch,Impact Casing,"Envious Arsenal
+Envious Assassin
+Air Trigger","Reaper's Tithe
 Bait and Switch
-Bipod",Advanced Reflexes,"similar to good archetypes with origin trait, Recon is okay",17,B
-,Folded Root,27,Void,Aggressive,Tenet of Bravery,,37,Yes,Quick Launch,Impact Casing,"Cluster Bomb
-Air Trigger","Bipod
-Chain Reaction
-Lasting Impression",Tenacity,basically Braytech except aggressive,18,B
-,Heretic's Fervor,25,Stasis,Aggressive,Kell's Fall,,31,Yes,Quick Launch,Impact Casing,"Field Prep
-Slideshot
-Auto-Loading Holster","Bipod
-Explosive Light",Dark Ether Reaper,not as versatile as Crux but similar quality origin,19,B
-,Pyroclastic Flow,29,Solar,Precision,Nessus,,42,Yes,Quick Launch,Impact Casing,"Auto-Loading Holster
-Cluster Bomb","Aggregate Charge
-Bait and Switch
-Bipod",Fail-deadly,probably best precision DPS rocket,20,C
+Bipod",Wild Card,"the original Envious Arsenal rocket, unfortunately the wrong frame",12,B
+,Bad Omens,29,Void,Aggressive,Gambit,,35,Yes,Quick Launch,Alloy Casing,"Auto-Loading Holster
+Bipod","Elemental Honing
+Explosive Light
+Cluster Bomb",Gun and Run,seems great for roam content,13,B
+,Red Herring,29,Void,Adaptive,Throne World,,36,Yes,Quick Launch,Impact Casing,"Reconstruction
+Cluster Bomb",Elemental Honing,Psychohack,"pretty limited perk pool, Psychohack is decent on a rocket though",14,B
+,Crux Termination IV,23,Arc,Aggressive,Banshee,,45,Yes,Quick Launch,Impact Casing,"Clown Cartridge
+Slideshot","Surrounded
+Explosive Light
+Bipod",Wild Card,would maybe be relevant if it had less situational sustained perks,15,B
+,Haliaetus,27,Strand,High-Impact,"Tenet of Bravery, Banshee",,37,Yes,Quick Launch,Impact Casing,"Cluster Bomb
+Envious Assassin
+Auto-Loading Holster","Aggregate Charge
+Reaper's Tithe
+Bipod",Bray Legacy,just a double damage high-impact after Bray Legacy fix,16,C
+,Sleepless,29,Arc,High-Impact,Dreaming City,,36,Yes,Quick Launch,Impact Casing,"Reconstruction
+Auto-Loading Holster","Gear Shift
+Elemental Honing
+Bipod",Advanced Reflexes,okay loader perks + mid frame + decent sustained perks,17,C
+,Folded Root,27,Void,Aggressive,Tenet of Bravery,,37,Yes,Quick Launch,Impact Casing,"Air Trigger
+Cluster Bomb",Bipod,Tenacity,very strong roam pick with Bipod thansk to Air Trigger + Tenacity,18,C
+,Heretic's Fervor,25,Stasis,Aggressive,Kell's Fall,,31,Yes,Quick Launch,Impact Casing,"Slideshot
+Auto-Loading Holster
+Field Prep","Bipod
+Explosive Light",Dark Ether Reaper,Slide/Bipod an option for roam,19,C
+,Pyroclastic Flow,29,Solar,Precision,Nessus,,42,Yes,Quick Launch,Impact Casing,"Cluster Bomb
+Auto-Loading Holster
+Field Prep","Bipod
+Aggregate Charge
+Surrounded",Fail-deadly,"interesting Cluster/Bipod tracking option for roam, Fail-deadly for mag too",20,C
 ,Micromort,28,Arc,Precision,Tenet of Bravery,,41,Yes,Quick Launch,Impact Casing,"Cluster Bomb
 Envious Arsenal
-Clown Cartridge","Bait and Switch
-Bipod",Häkke Breach Armaments,"decent for Pack add clear, worst archetype for damage",21,C
-,Ascendancy,29,Solar,Precision,Solo Ops,,35,Yes,Quick Launch,Impact Casing,"Reconstruction
-Attrition Orbs","Reaper's Tithe
-Explosive Light
-Bipod",Vanguard Determination,"decent perks overall, just a precision",22,C
-,Subzero Salvo,29,Arc,Precision,Europa,,34,Yes,Quick Launch,Impact Casing,"Auto-Loading Holster
-Envious Assassin","Aggregate Charge
-Explosive Light
-Bipod",Winterized Gear,"decent perks overall, just a precision",23,C
-,Braytech Osprey,21,Void,High-Impact,Zavala,,38,No,Quick Launch,Impact Casing,"Cluster Bomb
-Envious Assassin
-Field Prep","Bipod
-Frenzy",Vanguard's Vindication,among the best for Pack add clear,24,C
+Clown Cartridge","Bipod
+Bait and Switch","Nail, Meet Hammer","origin trait works well due to barrier intrinsic, decent option for roam",21,C
 ,Faith-Keeper,29,Void,Precision,Encore,,36,Yes,Quick Launch,Impact Casing,"Clown Cartridge
+Field Prep","Bipod
+Lasting Impression",Radiolaria Transposer,"solid origin + 1st column for a Bipod rocket, good for Witness prebreak",22,C
+,Ascendancy,29,Solar,Precision,Solo Ops,,35,Yes,Quick Launch,Impact Casing,"Reconstruction
+Attrition Orbs","Bipod
+Cluster Bomb
+Reaper's Tithe",Vanguard Determination,"standard precision roam option, but has Attrition + Cluster for orb gen",24,C
+,Braytech Osprey,21,Void,High-Impact,Zavala,,38,No,Quick Launch,Impact Casing,"Cluster Bomb
 Auto-Loading Holster
 Field Prep","Bipod
-Explosive Light",Radiolaria Transposer,among the best for Pack add clear,25,C
+Lasting Impression",Vanguard's Vindication,most plain Bipod roam option,25,C
 ,Crowning Duologue,29,Strand,Precision,Tenet of Bravery,,45,Yes,Quick Launch,Impact Casing,"Reconstruction
-Air Trigger
-Demolitionist","Bipod
-Deconstruct",Dream Work,among the best for Pack add clear,26,C
-,Semiotician,29,Strand,High-Impact,Xur,,40,Yes,Quick Launch,Impact Casing,Field Prep,"Bipod
-Explosive Light",Head Rush,little worse than the best add clear options but still good,27,C
-,Blowout,19,Arc,Adaptive,Crucible,,29,Yes,Quick Launch,Impact Casing,"Field Prep
-Demolitionist","Explosive Light
-Frenzy",One Quiet Moment,less versatile Hothead,28,C
-,Bump in the Night,29,Stasis,Aggressive,Presage,,40,Yes,Quick Launch,Impact Casing,"Demolitionist
 Auto-Loading Holster
-Field Prep","Frenzy
-Chill Clip",Extrovert,solid archetype but very outdated damage perks,29,C
-,Code Duello,13,Solar,High-Impact,"Xur, Dares",,42,No,Quick Launch,Impact Casing,"Auto-Loading Holster
-Field Prep",Frenzy,None,okay archetype with outdated damage perks,30,D
-,Palmyra-B,29,Stasis,Precision,Banshee,,42,Yes,Quick Launch,Impact Casing,Auto-Loading Holster,Explosive Light,Häkke Breach Armaments,ALH but precision and outdated damage eprk,31,D
-,Hoosegow,11,Arc,Adaptive,Xur,,25,No,Quick Launch,Impact Casing,"Field Prep
-Auto-Loading Holster","Cluster Bomb
-Demolitionist",None,ALH but Cluster as best damage perk,32,D
-,Royal Entry,13,Void,Precision,Zavala,,45,No,Quick Launch,Impact Casing,"Field Prep
-Auto-Loading Holster","Clown Cartridge
-Lasting Impression",Vanguard's Vindication,ALH but precision and outdated damage perk,33,E
-,Shining Sphere,7,Arc,Adaptive,Iron Banner,,38,No,Quick Launch,Impact Casing,"Field Prep
-Auto-Loading Holster",Demolitionist,None,ALH with no damage perk,34,F
+Air Trigger","Bipod
+Bait and Switch",Dream Work,"Dream Work potentially decent for loader if Air Trigger, otherwise standard Bipod option",26,C
+,Subzero Salvo,29,Arc,Precision,Europa,,34,Yes,Quick Launch,Impact Casing,"Impromptu Ammunition
+Auto-Loading Holster
+Supercharged Magazine","Bipod
+Aggregate Charge
+Gear Shift",Winterized Gear,sameish niche as other C tier precision Bipod options,27,C
+,Semiotician,29,Strand,High-Impact,Xur,,40,Yes,Quick Launch,Impact Casing,Field Prep,"Bipod
+Explosive Light",Head Rush,very limited perks for a Bipod option but still usable,28,C
+,Hoosegow,11,Arc,Adaptive,Xur,,25,No,Quick Launch,Impact Casing,Auto-Loading Holster,Cluster Bomb,None,"only has Cluster Bomb, still not the worst given archetype",29,D
+,Blowout,19,Arc,Adaptive,Crucible,,29,Yes,Quick Launch,Impact Casing,Demolitionist,"Lasting Impression
+Explosive Light
+Cluster Bomb",One Quiet Moment,"very outdated damage perks, no Bipod, bad loader options",30,D
+,Code Duello,13,Solar,High-Impact,"Xur, Dares",,42,No,Quick Launch,Impact Casing,Auto-Loading Holster,Lasting Impression,None,buffed Lasting puts this over Bump,31,D
+,Bump in the Night,29,Stasis,Aggressive,Presage,,40,Yes,Quick Launch,Impact Casing,Auto-Loading Holster,Frenzy,Extrovert,extremely limited perk pool,32,D
+,Palmyra-B,29,Stasis,Precision,Banshee,,42,Yes,Quick Launch,Impact Casing,Auto-Loading Holster,"Lasting Impression
+Explosive Light",Häkke Breach Armaments,worst frame and mostly dated damage perks,33,D
+,Royal Entry,13,Void,Precision,Zavala,,45,No,Quick Launch,Impact Casing,Auto-Loading Holster,"Lasting Impression
+Cluster Bomb
+Clown Cartridge",Vanguard's Vindication,slightly worse than Palmyra overall,34,D
+,Shining Sphere,7,Arc,Adaptive,Iron Banner,,38,No,Quick Launch,Impact Casing,Auto-Loading Holster,Ambitious Assassin,None,no real damage perks,35,E
