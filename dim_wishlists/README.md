@@ -42,7 +42,7 @@
 - [2Pillows](https://github.com/2Pillows/dim_wishlist_splitter): Voltron splitted wishlists.
 
 
-The scripts that generate the wishlists txt files are in "spreadsheets_to_dim_wishlists".
+The scripts that generate the wishlists txt files are in ["spreadsheets_to_dim_wishlists"](https://github.com/JxPv2/D2-Stuff/tree/main/dim_wishlists/spreadsheets_to_dim_wishlists_scripts).
 
 ## License
 
