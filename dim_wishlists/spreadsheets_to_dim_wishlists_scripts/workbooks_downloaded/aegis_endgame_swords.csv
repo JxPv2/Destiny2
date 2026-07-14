@@ -1,204 +1,119 @@
-WEAPON,,INFO,,,,,,,,PERKS,,,,,ANALYSIS,,
-🖼️,Name,Season,Energy,Frame,Source,Stun,Charge,Impact,⬆️,Barrel,Mag,Perk 1,Perk 2,Origin Trait,Notes,Rank,Tier
-,Synanceia,27,Solar,Wave,Tenet of Bravery,,50,62,Yes,"Jagged Edge
+WEAPON,,INFO,,,,,,,,,PERKS,,,,,ANALYSIS,,
+🖼️,Name,Season,Energy,Frame,Source,Stun,Charge,Impact,Swing Speed,⬆️,Barrel,Mag,Perk 1,Perk 2,Origin Trait,Notes,Rank,Tier
+,Synanceia,27,Solar,Wave,Tenet of Bravery,,50,62,,Yes,"Jagged Edge
 Tempered Edge","Swordmaster's Guard
-Heavy Guard","Relentless Strikes
-Attrition Orbs
-Sharp Harvest","Elemental Honing
-Eager Edge
-Burning Ambition",Tenacity,"Sharp Harvest with Eager interesting, also great for damage",2,S
-,The Slammer,29,Stasis,Vortex,Pinnacle Ops,,20,60,Yes,"Jagged Edge
+Heavy Guard",,,Tenacity,,,
+,The Slammer,29,Stasis,Vortex,Pinnacle Ops,,20,60,,Yes,"Jagged Edge
 Tempered Edge","Swordmaster's Guard
-Heavy Guard","Eager Edge
-Chain Reaction
-Relentless Strikes","Cold Steel
-Chaos Reshaped
-Surrounded",Accelerated Assault,still best overall Eager sword,3,S
-,False Idols,29,Solar,Vortex,Pale Heart,,20,60,Yes,"Jagged Edge
+Heavy Guard",,,Accelerated Assault,,,
+,False Idols,29,Solar,Vortex,Pale Heart,,20,60,,Yes,"Jagged Edge
 Tempered Edge","Swordmaster's Guard
-Heavy Guard","Relentless Strikes
-Attrition Orbs
-Eager Edge","Bait and Switch
-Surrounded
-Elemental Honing",Dealer's Choice,worse utility than Slammer due to no Cold Steel but still good,4,S
-,Sullen Claw,28,Void,Lightweight,Equilibrium,,50,62,Yes,"Jagged Edge
+Heavy Guard",,,Dealer's Choice,,,
+,Sullen Claw,28,Void,Lightweight,Equilibrium,,50,62,,Yes,"Jagged Edge
 Tempered Edge","Swordmaster's Guard
-Heavy Guard","Eager Edge
-Vorpal Weapon
-Relentless Strikes","Assassin's Blade
-Whirlwind Blade
-Destabilizing Rounds",Imperial Allegiance,best light attack neutral + okay damage with bumped impact,5,S
-,Terciopelo-4bl,29,Solar,Lightweight,SRL,,50,58,Yes,"Jagged Edge
+Heavy Guard",,,Imperial Allegiance,,,
+,Terciopelo-4bl,29,Solar,Lightweight,SRL,,50,58,,Yes,"Jagged Edge
 Tempered Edge","Swordmaster's Guard
-Heavy Guard","Relentless Strikes
-Burning Ambition
-Eager Edge","Chaos Reshaped
-Aggregate Charge
-Whirlwind Blade",Veist Stinger,lightweight Eager with novel damage perk combos,6,S
-,Bequest,29,Arc,Adaptive,Deep Stone Crypt,,70,70,Yes,"Jagged Edge
+Heavy Guard",,,Veist Stinger,,,
+,Bequest,29,Arc,Adaptive,Deep Stone Crypt,,70,70,,Yes,"Jagged Edge
 Tempered Edge","Swordmaster's Guard
-Heavy Guard","Relentless Strikes
-Jolting Feedback","Surrounded
-Elemental Honing
-Redirection",Bray Inheritance,best Surrounded DPS sword,7,S
-,Aurora Dawn,27,Stasis,Wave,Fireteam Ops,,50,62,Yes,"Jagged Edge
+Heavy Guard",,,Bray Inheritance,,,
+,Aurora Dawn,27,Stasis,Wave,Fireteam Ops,,50,62,,Yes,"Jagged Edge
 Tempered Edge","Swordmaster's Guard
-Heavy Guard","Sharp Harvest
-Flash Counter
-Rimestealer","Whirlwind Blade
-Elemental Honing
-Cold Steel",Vanguard Determination,"no Relentless hurts, otherwise probably best neutral (Flash + Cold)",8,A
-,Summum Bonum,29,Arc,Wave,Salvation's Edge,,20,60,Yes,"Jagged Edge
+Heavy Guard",,,Vanguard Determination,,,
+,Summum Bonum,29,Arc,Wave,Salvation's Edge,,20,60,,Yes,"Jagged Edge
 Tempered Edge","Swordmaster's Guard
-Heavy Guard","Relentless Strikes
-Attrition Orbs
-Deconstruct","Chaos Reshaped
-Whirlwind Blade
-Surrounded",Collective Purpose,"worse impact than newer waves, but still good perks",9,A
-,Abyssal Edge,29,Strand,Wave,Xur,,20,60,Yes,"Jagged Edge
+Heavy Guard",,,Collective Purpose,,,
+,Abyssal Edge,29,Strand,Wave,Xur,,20,60,,Yes,"Jagged Edge
 Tempered Edge","Swordmaster's Guard
-Heavy Guard","Relentless Strikes
-Flash Counter","Elemental Honing
-Surrounded
-Redirection",Willing Vessel,similar to Summum with better neutral and worse DPS-focused perks,10,A
-,Geodetic HSm,22,Void,Adaptive,Banshee,,47,62,Yes,"Jagged Edge
+Heavy Guard",,,Willing Vessel,,,
+,Geodetic HSm,22,Void,Adaptive,Banshee,,47,62,,Yes,"Jagged Edge
 Tempered Edge","Swordmaster's Guard
-Heavy Guard",Relentless Strikes,Whirlwind Blade,Nadir Focus,best consistent adaptive sword,11,A
+Heavy Guard",,,Nadir Focus,,,
 ,"Falling Guillotine
-BRAVE version",23,Void,Vortex,Onslaught,,20,60,Yes,"Jagged Edge
+BRAVE version",23,Void,Vortex,Onslaught,,20,60,,Yes,"Jagged Edge
 Tempered Edge","Swordmaster's Guard
-Heavy Guard","Relentless Strikes
-Frenzy
-Attrition Orbs","Eager Edge
-Elemental Honing
-Whirlwind Blade
-",Indomitability,"double damage perks traded for tanking total, solid Eager option though",12,A
-,Ill Omen,29,Stasis,Caster,Encore,,52,60,Yes,"Jagged Edge
+Heavy Guard",,,Indomitability,,,
+,Ill Omen,29,Stasis,Caster,Encore,,52,60,,Yes,"Jagged Edge
 Tempered Edge","Swordmaster's Guard
-Heavy Guard","Relentless Strikes
-Attrition Orbs","Whirlwind Blade
-Surrounded",Radiolaria Transposer,BiS consistent caster option,13,A
-,Hero of Ages,29,Arc,Aggressive,Grasp of Avarice,,25,60,Yes,"Jagged Edge
+Heavy Guard",,,Radiolaria Transposer,,,
+,Hero of Ages,29,Arc,Aggressive,Grasp of Avarice,,25,60,,Yes,"Jagged Edge
 Tempered Edge","Swordmaster's Guard
-Heavy Guard","Collective Action
-Relentless Strikes
-Sharp Harvest","Whirlwind Blade
-Elemental Honing",Unburied Treasure,"double damage perks, even if Collective isn't the best",14,A
-,Nasreddin,29,Arc,Lightweight,EDZ,,20,60,Yes,"Jagged Edge
+Heavy Guard",,,Unburied Treasure,,,
+,Nasreddin,29,Arc,Lightweight,EDZ,,20,60,,Yes,"Jagged Edge
 Tempered Edge","Swordmaster's Guard
-Heavy Guard","Relentless Strikes
-Sharp Harvest","Surrounded
-Whirlwind Blade
-Eager Edge",Veteran's Wisdom,Sullen Claw alternative with different column Eager,15,A
-,Sola's Scar,29,Solar,Caster,Trials,,50,60,Yes,"Jagged Edge
+Heavy Guard",,,Veteran's Wisdom,,,
+,Sola's Scar,29,Solar,Caster,Trials,,50,60,,Yes,"Jagged Edge
 Tempered Edge","Swordmaster's Guard
-Heavy Guard","Relentless Strikes
-Eager Edge","Elemental Honing
-Whirlwind Blade
-Redirection",Fleet Footed,Eager caster with decent damage perks,16,A
-,Chivalric Fire,29,Void,Caster,Solo Ops,,50,60,Yes,"Jagged Edge
+Heavy Guard",,,Fleet Footed,,,
+,Chivalric Fire,29,Void,Caster,Solo Ops,,50,60,,Yes,"Jagged Edge
 Tempered Edge","Swordmaster's Guard
-Heavy Guard","Relentless Strikes
-Sharp Harvest
-Collective Demolition","Destabilizing Rounds
-Whirlwind Blade
-Eager Edge",Vanguard Determination,Eager caster with opposing utility perks,17,A
-,Night Terror,29,Arc,Caster,Moon,,20,60,Yes,"Jagged Edge
+Heavy Guard",,,Vanguard Determination,,,
+,Night Terror,29,Arc,Caster,Moon,,20,60,,Yes,"Jagged Edge
 Tempered Edge","Swordmaster's Guard
-Heavy Guard","Relentless Strikes
-Eager Edge","Aggregate Charge
-Elemental Honing
-Whirlwind Blade",Loss,standard good damage perks with Eager light option,18,A
-,Hardline Cut,29,Arc,Adaptive,Tenet of Bravery,,50,62,Yes,"Jagged Edge
+Heavy Guard",,,Loss,,,
+,Hardline Cut,29,Arc,Adaptive,Tenet of Bravery,,50,62,,Yes,"Jagged Edge
 Tempered Edge","Swordmaster's Guard
-Heavy Guard","Relentless Strikes
-Attrition Orbs
-Sharp Harvest","Whirlwind Blade
-Surrounded
-Eager Edge","Nail, Meet Hammer","similar to Abide, has AO access though",19,A
-,Abide the Return,29,Solar,Adaptive,Dreaming City,,20,60,Yes,"Jagged Edge
+Heavy Guard",,,"Nail, Meet Hammer",,,
+,Abide the Return,29,Solar,Adaptive,Dreaming City,,20,60,,Yes,"Jagged Edge
 Tempered Edge","Swordmaster's Guard
-Heavy Guard","Relentless Strikes
-Sharp Harvest","Whirlwind Blade
-Elemental Honing
-Eager Edge",Advanced Reflexes,"guard requirement for origin is bad, otherwise standard Eager adaptive",20,A
-,The Other Half,29,Void,Adaptive,Dares,,20,60,Yes,"Jagged Edge
+Heavy Guard",,,Advanced Reflexes,,,
+,The Other Half,29,Void,Adaptive,Dares,,20,60,,Yes,"Jagged Edge
 Tempered Edge","Swordmaster's Guard
-Heavy Guard","Eager Edge
-Relentless Strikes","Surrounded
-Frenzy
-Whirlwind Blade",Hot Swap,good roam option for Eager + Surrounded heavy attacks,21,A
-,Eighty-Six,28,Strand,Vortex,"Tenet of Bravery, Banshee",,20,60,Yes,"Jagged Edge
+Heavy Guard",,,Hot Swap,,,
+,Eighty-Six,28,Strand,Vortex,"Tenet of Bravery, Banshee",,20,60,,Yes,"Jagged Edge
 Tempered Edge","Swordmaster's Guard
-Heavy Guard","Relentless Strikes
-Sharp Harvest
-Slice","Elemental Honing
-Redirection
-Attrition Orbs",Bray Legacy,"okay perks but worst frame, notable ability regen niche",22,A
-,Goldtusk,29,Arc,Lightweight,Xur,,20,60,Yes,"Jagged Edge
-Tempered Edge",Swordmaster's Guard,Relentless Strikes,Whirlwind Blade,Veist Stinger,"interesting frame, arguably most consistent light spammer",23,A
-,Temptation's Hook,29,Arc,Caster,"World, Banshee",,50,60,Yes,"Jagged Edge
+Heavy Guard",,,Bray Legacy,,,
+,Goldtusk,29,Arc,Lightweight,Xur,,20,60,,Yes,"Jagged Edge
+Tempered Edge",Swordmaster's Guard,,,Veist Stinger,,,
+,Temptation's Hook,29,Arc,Caster,"World, Banshee",,50,60,,Yes,"Jagged Edge
 Tempered Edge","Swordmaster's Guard
-Heavy Guard","Relentless Strikes
-Attrition Orbs",Whirlwind Blade,Paracausal Fluid,"worse ammo than Ill Omen, no Surrounded, better origin",24,A
-,Stryker's Sure-Hand,29,Void,Aggressive,Arena Ops,,20,73,Yes,"Jagged Edge
-Tempered Edge",Heavy Guard,"Relentless Strikes
-Sharp Harvest","Whirlwind Blade
-Surrounded
-Redirection",Forge's Kin,"good frame for Redirection roam, otherwise normal aggressive",25,A
-,Dragoncult Sickle,29,Strand,Caster,Warlord's Ruin,,50,60,Yes,"Jagged Edge
+Heavy Guard",,,Paracausal Fluid,,,
+,Stryker's Sure-Hand,29,Void,Aggressive,Arena Ops,,20,73,,Yes,"Jagged Edge
+Tempered Edge",Heavy Guard,,,Forge's Kin,,,
+,Dragoncult Sickle,29,Strand,Caster,Warlord's Ruin,,50,60,,Yes,"Jagged Edge
 Tempered Edge","Swordmaster's Guard
-Heavy Guard","Eager Edge
-Slice","Whirlwind Blade
-Elemental Honing
-Surrounded",Sundering,"no Relentless, but has Eager and Slice with some damage options",26,B
-,Crown-Splitter,14,Void,Aggressive,Xur,,20,73,No,"Jagged Edge
-Tempered Edge",Heavy Guard,Relentless Strikes,"Surrounded
-Whirlwind Blade",None,"consistent light spammer, worse than Goldtusk though",27,B
-,Double-Edged Answer,23,Void,Adaptive,Zavala,,20,60,Yes,"Jagged Edge
+Heavy Guard",,,Sundering,,,
+,Crown-Splitter,14,Void,Aggressive,Xur,,20,73,,No,"Jagged Edge
+Tempered Edge",Heavy Guard,,,None,,,
+,Double-Edged Answer,23,Void,Adaptive,Zavala,,20,60,,Yes,"Jagged Edge
 Tempered Edge","Swordmaster's Guard
-Heavy Guard",Relentless Strikes,"Surrounded
-Whirlwind Blade",Nadir Focus,Relentless + Whirlwind/Surrounded adaptive core,28,B
-,Negative Space,11,Solar,Adaptive,Xur,,20,60,No,"Jagged Edge
+Heavy Guard",,,Nadir Focus,,,
+,Negative Space,11,Solar,Adaptive,Xur,,20,60,,No,"Jagged Edge
 Tempered Edge","Swordmaster's Guard
-Heavy Guard",Relentless Strikes,"Surrounded
-Whirlwind Blade",None,Relentless + Whirlwind/Surrounded adaptive core,29,B
-,Just In Case,21,Solar,Adaptive,Xur,,20,60,No,"Jagged Edge
+Heavy Guard",,,None,,,
+,Just In Case,21,Solar,Adaptive,Xur,,20,60,,No,"Jagged Edge
 Tempered Edge","Swordmaster's Guard
-Heavy Guard",Relentless Strikes,Whirlwind Blade,Disaster Plan,Relentless + Whirlwind only adaptive,30,C
-,Steel Sybil Z-14,4,Void,Adaptive,"Shaxx, Dares",,20,60,No,"Jagged Edge
+Heavy Guard",,,Disaster Plan,,,
+,Steel Sybil Z-14,4,Void,Adaptive,"Shaxx, Dares",,20,60,,No,"Jagged Edge
 Tempered Edge","Swordmaster's Guard
-Heavy Guard",Relentless Strikes,Whirlwind Blade,None,Relentless + Whirlwind only adaptive,31,C
-,Death's Razor,29,Void,Vortex,Xur,,20,60,Yes,"Jagged Edge
-Tempered Edge",Infinite Guard,Relentless Strikes,"Surrounded
-Whirlwind Blade",To Excess,bad frame but has Surrounded option,32,C
-,Falling Guillotine,11,Void,Vortex,Onslaught,,20,60,No,"Jagged Edge
+Heavy Guard",,,None,,,
+,Death's Razor,29,Void,Vortex,Xur,,20,60,,Yes,"Jagged Edge
+Tempered Edge",Infinite Guard,,,To Excess,,,
+,Falling Guillotine,11,Void,Vortex,Onslaught,,20,60,,No,"Jagged Edge
 Tempered Edge","Swordmaster's Guard
-Heavy Guard",Relentless Strikes,"Surrounded
-Whirlwind Blade",None,bad frame but has Surrounded option,33,C
-,Half-Truths,29,Arc,Adaptive,Dares,,20,60,Yes,"Jagged Edge
+Heavy Guard",,,None,,,
+,Half-Truths,29,Arc,Adaptive,Dares,,20,60,,Yes,"Jagged Edge
 Tempered Edge","Swordmaster's Guard
-Heavy Guard",Relentless Strikes,Eager Edge,Hot Swap,worst Eager sword but more useful than Surrounded-only swords,34,C
-,Caretaker,29,Solar,Adaptive,NODE.OVRD.AVALON,,20,60,Yes,"Jagged Edge
+Heavy Guard",,,Hot Swap,,,
+,Caretaker,29,Solar,Adaptive,NODE.OVRD.AVALON,,20,60,,Yes,"Jagged Edge
 Tempered Edge","Swordmaster's Guard
-Heavy Guard",Relentless Strikes,Surrounded,Noble Deeds,Surrounded-only adaptive,35,D
-,Honor's Edge,10,Arc,Adaptive,"Xur, Dares",,20,60,No,"Jagged Edge
+Heavy Guard",,,Noble Deeds,,,
+,Honor's Edge,10,Arc,Adaptive,"Xur, Dares",,20,60,,No,"Jagged Edge
 Tempered Edge","Swordmaster's Guard
-Heavy Guard",Relentless Strikes,Surrounded,None,Surrounded-only adaptive,36,D
-,Eternity's Edge,14,Solar,Vortex,Xur,,20,60,No,"Jagged Edge
-Tempered Edge",Infinite Guard,Relentless Strikes,Surrounded,None,Surrounded-only and bad frame,37,D
-,Throne-Cleaver,29,Solar,Aggressive,Xur,,20,73,Yes,"Jagged Edge
-Tempered Edge",Heavy Guard,Duelist's Trance,Surrounded,To Excess,"no Relentless or Whirlwind, frame decent",38,D
-,Quickfang,14,Void,Lightweight,Xur,,20,60,No,"Jagged Edge
-Tempered Edge",Swordmaster's Guard,Relentless Strikes,En Garde,None,Relentless + mediocre damage perk,39,E
-,Razor's Edge,16,Void,Vortex,Iron Banner,,20,60,No,"Jagged Edge
+Heavy Guard",,,None,,,
+,Eternity's Edge,14,Solar,Vortex,Xur,,20,60,,No,"Jagged Edge
+Tempered Edge",Infinite Guard,,,None,,,
+,Throne-Cleaver,29,Solar,Aggressive,Xur,,20,73,,Yes,"Jagged Edge
+Tempered Edge",Heavy Guard,,,To Excess,,,
+,Quickfang,14,Void,Lightweight,Xur,,20,60,,No,"Jagged Edge
+Tempered Edge",Swordmaster's Guard,,,None,,,
+,Razor's Edge,16,Void,Vortex,Iron Banner,,20,60,,No,"Jagged Edge
 Tempered Edge","Swordmaster's Guard
-Heavy Guard",Relentless Strikes,Frenzy,Skulking Wolf,Relentless + mediocre damage perk,40,E
-,Thin Precipice,29,Strand,Vortex,Xur,,20,60,Yes,"Jagged Edge
+Heavy Guard",,,Skulking Wolf,,,
+,Thin Precipice,29,Strand,Vortex,Xur,,20,60,,Yes,"Jagged Edge
 Tempered Edge","Swordmaster's Guard
-Heavy Guard","Relentless Strikes
-Flash Counter","Golden Tricorn
-Chain Reaction",Unsated Hunger,no real boss damage perk,41,F
-,Zephyr,29,Stasis,Adaptive,Tenet of Bravery,,20,60,Yes,"Jagged Edge
+Heavy Guard",,,Unsated Hunger,,,
+,Zephyr,29,Stasis,Adaptive,Tenet of Bravery,,20,60,,Yes,"Jagged Edge
 Tempered Edge","Swordmaster's Guard
-Heavy Guard",,,Dawning Surprise,,,S
+Heavy Guard",,,Dawning Surprise,,,

@@ -6,7 +6,7 @@
       "patch": "Pantheon 2.0"
     },
     "link": "https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY",
-    "scrape_date": "2026-07-14 01:44:12"
+    "scrape_date": "2026-07-14 09:48:33"
   },
   "workbooks": {
     "Shopping List": {
@@ -28799,7 +28799,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "arguably the best user of the new kinetic perks in the entire game",
+          "notes": "arguably the best user of the new kinetic perks in the entire game, also 15% kinetic boost",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -35239,23 +35239,15 @@
             "Swordmaster's Guard",
             "Heavy Guard"
           ],
-          "perk1": [
-            "Relentless Strikes",
-            "Attrition Orbs",
-            "Sharp Harvest"
-          ],
-          "perk2": [
-            "Elemental Honing",
-            "Eager Edge",
-            "Burning Ambition"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Tenacity"
           ]
         },
         "info": {
-          "rank": "2",
-          "tier": "S",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -35263,7 +35255,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "Sharp Harvest with Eager interesting, also great for damage",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -35290,23 +35282,15 @@
             "Swordmaster's Guard",
             "Heavy Guard"
           ],
-          "perk1": [
-            "Eager Edge",
-            "Chain Reaction",
-            "Relentless Strikes"
-          ],
-          "perk2": [
-            "Cold Steel",
-            "Chaos Reshaped",
-            "Surrounded"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Accelerated Assault"
           ]
         },
         "info": {
-          "rank": "3",
-          "tier": "S",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -35314,7 +35298,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "still best overall Eager sword",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -35341,23 +35325,15 @@
             "Swordmaster's Guard",
             "Heavy Guard"
           ],
-          "perk1": [
-            "Relentless Strikes",
-            "Attrition Orbs",
-            "Eager Edge"
-          ],
-          "perk2": [
-            "Bait and Switch",
-            "Surrounded",
-            "Elemental Honing"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Dealer's Choice"
           ]
         },
         "info": {
-          "rank": "4",
-          "tier": "S",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -35365,7 +35341,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "worse utility than Slammer due to no Cold Steel but still good",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -35392,23 +35368,15 @@
             "Swordmaster's Guard",
             "Heavy Guard"
           ],
-          "perk1": [
-            "Eager Edge",
-            "Vorpal Weapon",
-            "Relentless Strikes"
-          ],
-          "perk2": [
-            "Assassin's Blade",
-            "Whirlwind Blade",
-            "Destabilizing Rounds"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Imperial Allegiance"
           ]
         },
         "info": {
-          "rank": "5",
-          "tier": "S",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -35416,7 +35384,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "best light attack neutral + okay damage with bumped impact",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -35443,23 +35411,15 @@
             "Swordmaster's Guard",
             "Heavy Guard"
           ],
-          "perk1": [
-            "Relentless Strikes",
-            "Burning Ambition",
-            "Eager Edge"
-          ],
-          "perk2": [
-            "Chaos Reshaped",
-            "Aggregate Charge",
-            "Whirlwind Blade"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Veist Stinger"
           ]
         },
         "info": {
-          "rank": "6",
-          "tier": "S",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -35467,7 +35427,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "lightweight Eager with novel damage perk combos",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -35494,22 +35454,15 @@
             "Swordmaster's Guard",
             "Heavy Guard"
           ],
-          "perk1": [
-            "Relentless Strikes",
-            "Jolting Feedback"
-          ],
-          "perk2": [
-            "Surrounded",
-            "Elemental Honing",
-            "Redirection"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Bray Inheritance"
           ]
         },
         "info": {
-          "rank": "7",
-          "tier": "S",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -35517,7 +35470,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "best Surrounded DPS sword",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -35544,23 +35497,15 @@
             "Swordmaster's Guard",
             "Heavy Guard"
           ],
-          "perk1": [
-            "Sharp Harvest",
-            "Flash Counter",
-            "Rimestealer"
-          ],
-          "perk2": [
-            "Whirlwind Blade",
-            "Elemental Honing",
-            "Cold Steel"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Vanguard Determination"
           ]
         },
         "info": {
-          "rank": "8",
-          "tier": "A",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -35568,7 +35513,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "no Relentless hurts, otherwise probably best neutral (Flash + Cold)",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -35595,23 +35540,15 @@
             "Swordmaster's Guard",
             "Heavy Guard"
           ],
-          "perk1": [
-            "Relentless Strikes",
-            "Attrition Orbs",
-            "Deconstruct"
-          ],
-          "perk2": [
-            "Chaos Reshaped",
-            "Whirlwind Blade",
-            "Surrounded"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Collective Purpose"
           ]
         },
         "info": {
-          "rank": "9",
-          "tier": "A",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -35619,7 +35556,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "worse impact than newer waves, but still good perks",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -35646,22 +35583,15 @@
             "Swordmaster's Guard",
             "Heavy Guard"
           ],
-          "perk1": [
-            "Relentless Strikes",
-            "Flash Counter"
-          ],
-          "perk2": [
-            "Elemental Honing",
-            "Surrounded",
-            "Redirection"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Willing Vessel"
           ]
         },
         "info": {
-          "rank": "10",
-          "tier": "A",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -35669,7 +35599,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "similar to Summum with better neutral and worse DPS-focused perks",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -35696,19 +35626,15 @@
             "Swordmaster's Guard",
             "Heavy Guard"
           ],
-          "perk1": [
-            "Relentless Strikes"
-          ],
-          "perk2": [
-            "Whirlwind Blade"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Nadir Focus"
           ]
         },
         "info": {
-          "rank": "11",
-          "tier": "A",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -35716,7 +35642,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "best consistent adaptive sword",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -35743,23 +35669,15 @@
             "Swordmaster's Guard",
             "Heavy Guard"
           ],
-          "perk1": [
-            "Relentless Strikes",
-            "Frenzy",
-            "Attrition Orbs"
-          ],
-          "perk2": [
-            "Eager Edge",
-            "Elemental Honing",
-            "Whirlwind Blade"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Indomitability"
           ]
         },
         "info": {
-          "rank": "12",
-          "tier": "A",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -35767,7 +35685,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "double damage perks traded for tanking total, solid Eager option though",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -35794,21 +35712,15 @@
             "Swordmaster's Guard",
             "Heavy Guard"
           ],
-          "perk1": [
-            "Relentless Strikes",
-            "Attrition Orbs"
-          ],
-          "perk2": [
-            "Whirlwind Blade",
-            "Surrounded"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Radiolaria Transposer"
           ]
         },
         "info": {
-          "rank": "13",
-          "tier": "A",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -35816,7 +35728,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "BiS consistent caster option",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -35843,22 +35755,15 @@
             "Swordmaster's Guard",
             "Heavy Guard"
           ],
-          "perk1": [
-            "Collective Action",
-            "Relentless Strikes",
-            "Sharp Harvest"
-          ],
-          "perk2": [
-            "Whirlwind Blade",
-            "Elemental Honing"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Unburied Treasure"
           ]
         },
         "info": {
-          "rank": "14",
-          "tier": "A",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -35866,7 +35771,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "double damage perks, even if Collective isn't the best",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -35893,22 +35798,15 @@
             "Swordmaster's Guard",
             "Heavy Guard"
           ],
-          "perk1": [
-            "Relentless Strikes",
-            "Sharp Harvest"
-          ],
-          "perk2": [
-            "Surrounded",
-            "Whirlwind Blade",
-            "Eager Edge"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Veteran's Wisdom"
           ]
         },
         "info": {
-          "rank": "15",
-          "tier": "A",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -35916,7 +35814,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "Sullen Claw alternative with different column Eager",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -35943,22 +35841,15 @@
             "Swordmaster's Guard",
             "Heavy Guard"
           ],
-          "perk1": [
-            "Relentless Strikes",
-            "Eager Edge"
-          ],
-          "perk2": [
-            "Elemental Honing",
-            "Whirlwind Blade",
-            "Redirection"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Fleet Footed"
           ]
         },
         "info": {
-          "rank": "16",
-          "tier": "A",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -35966,7 +35857,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "Eager caster with decent damage perks",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -35993,23 +35884,15 @@
             "Swordmaster's Guard",
             "Heavy Guard"
           ],
-          "perk1": [
-            "Relentless Strikes",
-            "Sharp Harvest",
-            "Collective Demolition"
-          ],
-          "perk2": [
-            "Destabilizing Rounds",
-            "Whirlwind Blade",
-            "Eager Edge"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Vanguard Determination"
           ]
         },
         "info": {
-          "rank": "17",
-          "tier": "A",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -36017,7 +35900,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "Eager caster with opposing utility perks",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -36044,22 +35927,15 @@
             "Swordmaster's Guard",
             "Heavy Guard"
           ],
-          "perk1": [
-            "Relentless Strikes",
-            "Eager Edge"
-          ],
-          "perk2": [
-            "Aggregate Charge",
-            "Elemental Honing",
-            "Whirlwind Blade"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Loss"
           ]
         },
         "info": {
-          "rank": "18",
-          "tier": "A",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -36067,7 +35943,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "standard good damage perks with Eager light option",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -36094,23 +35970,15 @@
             "Swordmaster's Guard",
             "Heavy Guard"
           ],
-          "perk1": [
-            "Relentless Strikes",
-            "Attrition Orbs",
-            "Sharp Harvest"
-          ],
-          "perk2": [
-            "Whirlwind Blade",
-            "Surrounded",
-            "Eager Edge"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Nail, Meet Hammer"
           ]
         },
         "info": {
-          "rank": "19",
-          "tier": "A",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -36118,7 +35986,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "similar to Abide, has AO access though",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -36145,22 +36013,15 @@
             "Swordmaster's Guard",
             "Heavy Guard"
           ],
-          "perk1": [
-            "Relentless Strikes",
-            "Sharp Harvest"
-          ],
-          "perk2": [
-            "Whirlwind Blade",
-            "Elemental Honing",
-            "Eager Edge"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Advanced Reflexes"
           ]
         },
         "info": {
-          "rank": "20",
-          "tier": "A",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -36168,7 +36029,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "guard requirement for origin is bad, otherwise standard Eager adaptive",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -36195,22 +36056,15 @@
             "Swordmaster's Guard",
             "Heavy Guard"
           ],
-          "perk1": [
-            "Eager Edge",
-            "Relentless Strikes"
-          ],
-          "perk2": [
-            "Surrounded",
-            "Frenzy",
-            "Whirlwind Blade"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Hot Swap"
           ]
         },
         "info": {
-          "rank": "21",
-          "tier": "A",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -36218,7 +36072,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "good roam option for Eager + Surrounded heavy attacks",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -36245,23 +36099,15 @@
             "Swordmaster's Guard",
             "Heavy Guard"
           ],
-          "perk1": [
-            "Relentless Strikes",
-            "Sharp Harvest",
-            "Slice"
-          ],
-          "perk2": [
-            "Elemental Honing",
-            "Redirection",
-            "Attrition Orbs"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Bray Legacy"
           ]
         },
         "info": {
-          "rank": "22",
-          "tier": "A",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -36269,7 +36115,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "okay perks but worst frame, notable ability regen niche",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -36295,19 +36141,15 @@
           "column2": [
             "Swordmaster's Guard"
           ],
-          "perk1": [
-            "Relentless Strikes"
-          ],
-          "perk2": [
-            "Whirlwind Blade"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Veist Stinger"
           ]
         },
         "info": {
-          "rank": "23",
-          "tier": "A",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -36315,7 +36157,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "interesting frame, arguably most consistent light spammer",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -36342,20 +36184,15 @@
             "Swordmaster's Guard",
             "Heavy Guard"
           ],
-          "perk1": [
-            "Relentless Strikes",
-            "Attrition Orbs"
-          ],
-          "perk2": [
-            "Whirlwind Blade"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Paracausal Fluid"
           ]
         },
         "info": {
-          "rank": "24",
-          "tier": "A",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -36363,7 +36200,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "worse ammo than Ill Omen, no Surrounded, better origin",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -36389,22 +36226,15 @@
           "column2": [
             "Heavy Guard"
           ],
-          "perk1": [
-            "Relentless Strikes",
-            "Sharp Harvest"
-          ],
-          "perk2": [
-            "Whirlwind Blade",
-            "Surrounded",
-            "Redirection"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Forge's Kin"
           ]
         },
         "info": {
-          "rank": "25",
-          "tier": "A",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -36412,7 +36242,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "good frame for Redirection roam, otherwise normal aggressive",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -36439,22 +36269,15 @@
             "Swordmaster's Guard",
             "Heavy Guard"
           ],
-          "perk1": [
-            "Eager Edge",
-            "Slice"
-          ],
-          "perk2": [
-            "Whirlwind Blade",
-            "Elemental Honing",
-            "Surrounded"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Sundering"
           ]
         },
         "info": {
-          "rank": "26",
-          "tier": "B",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -36462,7 +36285,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "no Relentless, but has Eager and Slice with some damage options",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -36488,18 +36311,13 @@
           "column2": [
             "Heavy Guard"
           ],
-          "perk1": [
-            "Relentless Strikes"
-          ],
-          "perk2": [
-            "Surrounded",
-            "Whirlwind Blade"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": []
         },
         "info": {
-          "rank": "27",
-          "tier": "B",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -36507,7 +36325,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "consistent light spammer, worse than Goldtusk though",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -36534,20 +36352,15 @@
             "Swordmaster's Guard",
             "Heavy Guard"
           ],
-          "perk1": [
-            "Relentless Strikes"
-          ],
-          "perk2": [
-            "Surrounded",
-            "Whirlwind Blade"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Nadir Focus"
           ]
         },
         "info": {
-          "rank": "28",
-          "tier": "B",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -36555,7 +36368,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "Relentless + Whirlwind/Surrounded adaptive core",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -36582,18 +36395,13 @@
             "Swordmaster's Guard",
             "Heavy Guard"
           ],
-          "perk1": [
-            "Relentless Strikes"
-          ],
-          "perk2": [
-            "Surrounded",
-            "Whirlwind Blade"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": []
         },
         "info": {
-          "rank": "29",
-          "tier": "B",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -36601,7 +36409,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "Relentless + Whirlwind/Surrounded adaptive core",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -36628,19 +36436,15 @@
             "Swordmaster's Guard",
             "Heavy Guard"
           ],
-          "perk1": [
-            "Relentless Strikes"
-          ],
-          "perk2": [
-            "Whirlwind Blade"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Disaster Plan"
           ]
         },
         "info": {
-          "rank": "30",
-          "tier": "C",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -36648,7 +36452,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "Relentless + Whirlwind only adaptive",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -36675,17 +36479,13 @@
             "Swordmaster's Guard",
             "Heavy Guard"
           ],
-          "perk1": [
-            "Relentless Strikes"
-          ],
-          "perk2": [
-            "Whirlwind Blade"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": []
         },
         "info": {
-          "rank": "31",
-          "tier": "C",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -36693,7 +36493,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "Relentless + Whirlwind only adaptive",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -36719,20 +36519,15 @@
           "column2": [
             "Infinite Guard"
           ],
-          "perk1": [
-            "Relentless Strikes"
-          ],
-          "perk2": [
-            "Surrounded",
-            "Whirlwind Blade"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "To Excess"
           ]
         },
         "info": {
-          "rank": "32",
-          "tier": "C",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -36740,7 +36535,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "bad frame but has Surrounded option",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -36767,18 +36562,13 @@
             "Swordmaster's Guard",
             "Heavy Guard"
           ],
-          "perk1": [
-            "Relentless Strikes"
-          ],
-          "perk2": [
-            "Surrounded",
-            "Whirlwind Blade"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": []
         },
         "info": {
-          "rank": "33",
-          "tier": "C",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -36786,7 +36576,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "bad frame but has Surrounded option",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -36813,19 +36603,15 @@
             "Swordmaster's Guard",
             "Heavy Guard"
           ],
-          "perk1": [
-            "Relentless Strikes"
-          ],
-          "perk2": [
-            "Eager Edge"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Hot Swap"
           ]
         },
         "info": {
-          "rank": "34",
-          "tier": "C",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -36833,7 +36619,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "worst Eager sword but more useful than Surrounded-only swords",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -36860,19 +36646,15 @@
             "Swordmaster's Guard",
             "Heavy Guard"
           ],
-          "perk1": [
-            "Relentless Strikes"
-          ],
-          "perk2": [
-            "Surrounded"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Noble Deeds"
           ]
         },
         "info": {
-          "rank": "35",
-          "tier": "D",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -36880,7 +36662,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "Surrounded-only adaptive",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -36907,17 +36689,13 @@
             "Swordmaster's Guard",
             "Heavy Guard"
           ],
-          "perk1": [
-            "Relentless Strikes"
-          ],
-          "perk2": [
-            "Surrounded"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": []
         },
         "info": {
-          "rank": "36",
-          "tier": "D",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -36925,7 +36703,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "Surrounded-only adaptive",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -36951,17 +36729,13 @@
           "column2": [
             "Infinite Guard"
           ],
-          "perk1": [
-            "Relentless Strikes"
-          ],
-          "perk2": [
-            "Surrounded"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": []
         },
         "info": {
-          "rank": "37",
-          "tier": "D",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -36969,7 +36743,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "Surrounded-only and bad frame",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -36995,19 +36769,15 @@
           "column2": [
             "Heavy Guard"
           ],
-          "perk1": [
-            "Duelist's Trance"
-          ],
-          "perk2": [
-            "Surrounded"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "To Excess"
           ]
         },
         "info": {
-          "rank": "38",
-          "tier": "D",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -37015,7 +36785,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "no Relentless or Whirlwind, frame decent",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -37041,17 +36811,13 @@
           "column2": [
             "Swordmaster's Guard"
           ],
-          "perk1": [
-            "Relentless Strikes"
-          ],
-          "perk2": [
-            "En Garde"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": []
         },
         "info": {
-          "rank": "39",
-          "tier": "E",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -37059,7 +36825,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "Relentless + mediocre damage perk",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -37086,19 +36852,15 @@
             "Swordmaster's Guard",
             "Heavy Guard"
           ],
-          "perk1": [
-            "Relentless Strikes"
-          ],
-          "perk2": [
-            "Frenzy"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Skulking Wolf"
           ]
         },
         "info": {
-          "rank": "40",
-          "tier": "E",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -37106,7 +36868,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "Relentless + mediocre damage perk",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -37133,21 +36895,15 @@
             "Swordmaster's Guard",
             "Heavy Guard"
           ],
-          "perk1": [
-            "Relentless Strikes",
-            "Flash Counter"
-          ],
-          "perk2": [
-            "Golden Tricorn",
-            "Chain Reaction"
-          ],
+          "perk1": [],
+          "perk2": [],
           "origin_trait": [
             "Unsated Hunger"
           ]
         },
         "info": {
-          "rank": "41",
-          "tier": "F",
+          "rank": "",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -37155,7 +36911,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "no real boss damage perk",
+          "notes": "",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -37190,7 +36946,7 @@
         },
         "info": {
           "rank": "",
-          "tier": "S",
+          "tier": "",
           "priority": "",
           "role": "",
           "purpose": "",

@@ -2285,3 +2285,25 @@
   2026-07-14 01:44:17,059 [INFO] -> ================================================================================
   2026-07-14 01:44:17,059 [INFO] -> Wishlist Splitter complete.
   2026-07-14 01:44:17,059 [INFO] -> ================================================================================
+2026-07-14 09:48:34,826 [INFO] -> ================================================================================
+2026-07-14 09:48:34,826 [INFO] -> 🚀 Starting Wishlist Splitter...
+2026-07-14 09:48:34,826 [INFO] -> ================================================================================
+  2026-07-14 09:48:34,826 [INFO] -> 🔍 Selective mode active: processing sources with wishlist_split_required=True
+  2026-07-14 09:48:34,845 [INFO] ->   ⏭️  Skipping aegis_boss-damage (no changes and all outputs exist)
+  2026-07-14 09:48:34,845 [INFO] ->   ⏭️  Skipping aegis_speedrunner (no changes and all outputs exist)
+  2026-07-14 09:48:34,845 [INFO] -> Processing source: aegis_endgame
+    2026-07-14 09:48:34,846 [INFO] ->   Wishlist: dim_wishlists/aegis_endgame_spreadsheet_dim_wishlist.txt
+    2026-07-14 09:48:34,846 [INFO] ->   Scraped:  spreadsheets_scraped_data/aegis_endgame_spreadsheet_data_scraped.json
+    2026-07-14 09:48:34,865 [INFO] ->   Parsed 1064 weapon blocks
+    2026-07-14 09:48:35,765 [INFO] -> Wrote 473 blocks to dim_wishlists/splitted_dim_wishlists/aegis_endgame_spreadsheet_dim_wishlist_tier_s-a.txt
+    2026-07-14 09:48:36,669 [INFO] -> Wrote 632 blocks to dim_wishlists/splitted_dim_wishlists/aegis_endgame_spreadsheet_dim_wishlist_tier_s-b.txt
+    2026-07-14 09:48:37,565 [INFO] -> Wrote 346 blocks to dim_wishlists/splitted_dim_wishlists/aegis_endgame_spreadsheet_dim_wishlist_tier_s-a_no_exotic_tabs.txt
+    2026-07-14 09:48:38,461 [INFO] -> Wrote 503 blocks to dim_wishlists/splitted_dim_wishlists/aegis_endgame_spreadsheet_dim_wishlist_tier_s-b_no_exotic_tabs.txt
+    2026-07-14 09:48:38,463 [INFO] -> Wrote 4 blocks to dim_wishlists/splitted_dim_wishlists/aegis_endgame_spreadsheet_dim_wishlist_tier_s-a_exotic_weapons.txt
+    2026-07-14 09:48:38,464 [INFO] -> Wrote 141 blocks to dim_wishlists/splitted_dim_wishlists/aegis_endgame_spreadsheet_dim_wishlist_exotic_weapons.txt
+    2026-07-14 09:48:38,465 [INFO] -> Wrote 123 blocks to dim_wishlists/splitted_dim_wishlists/aegis_endgame_spreadsheet_dim_wishlist_exotic_armors.txt
+  2026-07-14 09:48:38,466 [INFO] ->   ✅ Cleared wishlist_split_required for 'aegis_endgame'
+  2026-07-14 09:48:38,466 [INFO] -> State synchronized. Splitter flags committed to 'local_version_state.json'
+  2026-07-14 09:48:38,466 [INFO] -> ================================================================================
+  2026-07-14 09:48:38,466 [INFO] -> Wishlist Splitter complete.
+  2026-07-14 09:48:38,467 [INFO] -> ================================================================================
