@@ -6,6 +6,19 @@
 2. Go to **Settings → Wish List → Add another wish list**
 3. Paste the wishlist's raw URL
 4. +Add Wish List
+
+---
+
+## How often are these updated?
+
+This repo runs a **GitHub Actions pipeline every 8 hours** that:
+
+1. Checks Bungie's Destiny 2 manifest for updates
+2. Downloads roll recommendations from community Google Sheets
+3. Regenerates all DIM-compatible wishlist files
+
+So the raw links below are always current — no need to wait for a manual release.
+
 ---
 
 ### Raw links:
@@ -40,7 +53,6 @@
 
 - [Aegis](https://drive.google.com/drive/folders/1AL3GM6rSSrm4LtSZeayxpSUsvSJdsiU3): Spreadsheets.
 - [2Pillows](https://github.com/2Pillows/dim_wishlist_splitter): Voltron splitted wishlists.
-
 
 The scripts that generate the wishlists txt files are in ["spreadsheets_to_dim_wishlists"](https://github.com/JxPv2/D2-Stuff/tree/main/dim_wishlists/spreadsheets_to_dim_wishlists_scripts).
 
