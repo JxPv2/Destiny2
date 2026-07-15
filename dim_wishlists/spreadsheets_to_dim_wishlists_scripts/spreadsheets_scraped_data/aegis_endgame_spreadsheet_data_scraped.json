@@ -6,7 +6,7 @@
       "patch": "Pantheon 2.0"
     },
     "link": "https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY",
-    "scrape_date": "2026-07-15 01:40:32"
+    "scrape_date": "2026-07-15 09:52:27"
   },
   "workbooks": {
     "Shopping List": {
@@ -35229,156 +35229,33 @@
       }
     },
     "Swords": {
-      "Synanceia": {
-        "weapon_name": "Synanceia",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Jagged Edge",
-            "Tempered Edge"
-          ],
-          "column2": [
-            "Swordmaster's Guard",
-            "Heavy Guard"
-          ],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": [
-            "Tenacity"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "The Slammer": {
-        "weapon_name": "The Slammer",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Jagged Edge",
-            "Tempered Edge"
-          ],
-          "column2": [
-            "Swordmaster's Guard",
-            "Heavy Guard"
-          ],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": [
-            "Accelerated Assault"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "False Idols": {
-        "weapon_name": "False Idols",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Jagged Edge",
-            "Tempered Edge"
-          ],
-          "column2": [
-            "Swordmaster's Guard",
-            "Heavy Guard"
-          ],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": [
-            "Dealer's Choice"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
       "Sullen Claw": {
         "weapon_name": "Sullen Claw",
         "version": "",
         "perks": {
           "column1": [
-            "Jagged Edge",
-            "Tempered Edge"
+            "Tempered Edge",
+            "Jagged Edge"
           ],
           "column2": [
-            "Swordmaster's Guard",
-            "Heavy Guard"
+            "Heavy Guard",
+            "Swordmaster's Guard"
           ],
-          "perk1": [],
-          "perk2": [],
+          "perk1": [
+            "Eager Edge",
+            "Vorpal Weapon"
+          ],
+          "perk2": [
+            "Destabilizing Rounds",
+            "Whirlwind Blade"
+          ],
           "origin_trait": [
             "Imperial Allegiance"
           ]
         },
         "info": {
-          "rank": "",
-          "tier": "",
+          "rank": "1",
+          "tier": "S",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -35386,480 +35263,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Terciopelo-4bl": {
-        "weapon_name": "Terciopelo-4bl",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Jagged Edge",
-            "Tempered Edge"
-          ],
-          "column2": [
-            "Swordmaster's Guard",
-            "Heavy Guard"
-          ],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": [
-            "Veist Stinger"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Bequest": {
-        "weapon_name": "Bequest",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Jagged Edge",
-            "Tempered Edge"
-          ],
-          "column2": [
-            "Swordmaster's Guard",
-            "Heavy Guard"
-          ],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": [
-            "Bray Inheritance"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Aurora Dawn": {
-        "weapon_name": "Aurora Dawn",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Jagged Edge",
-            "Tempered Edge"
-          ],
-          "column2": [
-            "Swordmaster's Guard",
-            "Heavy Guard"
-          ],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": [
-            "Vanguard Determination"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Summum Bonum": {
-        "weapon_name": "Summum Bonum",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Jagged Edge",
-            "Tempered Edge"
-          ],
-          "column2": [
-            "Swordmaster's Guard",
-            "Heavy Guard"
-          ],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": [
-            "Collective Purpose"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Abyssal Edge": {
-        "weapon_name": "Abyssal Edge",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Jagged Edge",
-            "Tempered Edge"
-          ],
-          "column2": [
-            "Swordmaster's Guard",
-            "Heavy Guard"
-          ],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": [
-            "Willing Vessel"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Geodetic HSm": {
-        "weapon_name": "Geodetic HSm",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Jagged Edge",
-            "Tempered Edge"
-          ],
-          "column2": [
-            "Swordmaster's Guard",
-            "Heavy Guard"
-          ],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": [
-            "Nadir Focus"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Falling Guillotine": {
-        "weapon_name": "Falling Guillotine",
-        "version": "BRAVE",
-        "perks": {
-          "column1": [
-            "Jagged Edge",
-            "Tempered Edge"
-          ],
-          "column2": [
-            "Swordmaster's Guard",
-            "Heavy Guard"
-          ],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": [
-            "Indomitability"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Ill Omen": {
-        "weapon_name": "Ill Omen",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Jagged Edge",
-            "Tempered Edge"
-          ],
-          "column2": [
-            "Swordmaster's Guard",
-            "Heavy Guard"
-          ],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": [
-            "Radiolaria Transposer"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Hero of Ages": {
-        "weapon_name": "Hero of Ages",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Jagged Edge",
-            "Tempered Edge"
-          ],
-          "column2": [
-            "Swordmaster's Guard",
-            "Heavy Guard"
-          ],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": [
-            "Unburied Treasure"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Nasreddin": {
-        "weapon_name": "Nasreddin",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Jagged Edge",
-            "Tempered Edge"
-          ],
-          "column2": [
-            "Swordmaster's Guard",
-            "Heavy Guard"
-          ],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": [
-            "Veteran's Wisdom"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Sola's Scar": {
-        "weapon_name": "Sola's Scar",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Jagged Edge",
-            "Tempered Edge"
-          ],
-          "column2": [
-            "Swordmaster's Guard",
-            "Heavy Guard"
-          ],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": [
-            "Fleet Footed"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
+          "notes": "usable double damage perks, playable neutral, and best light attack Eager frame",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -35886,15 +35290,22 @@
             "Swordmaster's Guard",
             "Heavy Guard"
           ],
-          "perk1": [],
-          "perk2": [],
+          "perk1": [
+            "Collective Demolition",
+            "Relentless Strikes"
+          ],
+          "perk2": [
+            "Collective Action",
+            "Attrition Orbs",
+            "Eager Edge"
+          ],
           "origin_trait": [
             "Vanguard Determination"
           ]
         },
         "info": {
-          "rank": "",
-          "tier": "",
+          "rank": "2",
+          "tier": "S",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -35902,7 +35313,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
+          "notes": "Eager-swappable exclusive double Collective ability regen",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -35917,27 +35328,35 @@
           }
         }
       },
-      "Night Terror": {
-        "weapon_name": "Night Terror",
-        "version": "",
+      "Falling Guillotine": {
+        "weapon_name": "Falling Guillotine",
+        "version": "BRAVE",
         "perks": {
           "column1": [
-            "Jagged Edge",
-            "Tempered Edge"
+            "Hungry Edge",
+            "Jagged Edge"
           ],
           "column2": [
-            "Swordmaster's Guard",
-            "Heavy Guard"
+            "Heavy Guard",
+            "Swordmaster's Guard"
           ],
-          "perk1": [],
-          "perk2": [],
+          "perk1": [
+            "Attrition Orbs",
+            "Relentless Strikes",
+            "Frenzy"
+          ],
+          "perk2": [
+            "Eager Edge",
+            "Elemental Honing",
+            "Surrounded"
+          ],
           "origin_trait": [
-            "Loss"
+            "Indomitability"
           ]
         },
         "info": {
-          "rank": "",
-          "tier": "",
+          "rank": "3",
+          "tier": "S",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -35945,7 +35364,302 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
+          "notes": "vortex Eager with highest side utility options",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "False Idols": {
+        "weapon_name": "False Idols",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Hungry Edge"
+          ],
+          "column2": [
+            "Heavy Guard",
+            "Swordmaster's Guard"
+          ],
+          "perk1": [
+            "Eager Edge"
+          ],
+          "perk2": [
+            "Burning Ambition",
+            "Surrounded",
+            "Counterattack"
+          ],
+          "origin_trait": [
+            "Dealer's Choice"
+          ]
+        },
+        "info": {
+          "rank": "4",
+          "tier": "S",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Dealer's Choice set option, otherwise not a huge standout",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "The Slammer": {
+        "weapon_name": "The Slammer",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Tempered Edge"
+          ],
+          "column2": [
+            "Heavy Guard",
+            "Swordmaster's Guard"
+          ],
+          "perk1": [
+            "Eager Edge"
+          ],
+          "perk2": [
+            "Cold Steel",
+            "Chaos Reshaped",
+            "Surrounded"
+          ],
+          "origin_trait": [
+            "Problem Solver"
+          ]
+        },
+        "info": {
+          "rank": "5",
+          "tier": "S",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Cold Steel lower value since vortex intrinsic is overload, has Chaos + Problem Solver too",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Nasreddin": {
+        "weapon_name": "Nasreddin",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Honed Edge",
+            "Jagged Edge"
+          ],
+          "column2": [
+            "Heavy Guard",
+            "Swordmaster's Guard"
+          ],
+          "perk1": [
+            "Flash Counter",
+            "Energy Transfer",
+            "Relentless Strikes"
+          ],
+          "perk2": [
+            "Eager Edge",
+            "Whirlwind Blade",
+            "Surrounded"
+          ],
+          "origin_trait": [
+            "Veteran's Wisdom"
+          ]
+        },
+        "info": {
+          "rank": "6",
+          "tier": "S",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "rare Flash Counter + Eager combo, interesting origin too",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Terciopelo-4bl": {
+        "weapon_name": "Terciopelo-4bl",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Honed Edge"
+          ],
+          "column2": [
+            "Heavy Guard",
+            "Swordmaster's Guard"
+          ],
+          "perk1": [
+            "Eager Edge",
+            "Burning Ambition"
+          ],
+          "perk2": [
+            "Chaos Reshaped",
+            "Aggregate Charge",
+            "Incandescent"
+          ],
+          "origin_trait": [
+            "Veist Stinger"
+          ]
+        },
+        "info": {
+          "rank": "7",
+          "tier": "S",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Eager + Chaos on a lightweight, lower impact but not that important",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Bequest": {
+        "weapon_name": "Bequest",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Jagged Edge"
+          ],
+          "column2": [
+            "Swordmaster's Guard"
+          ],
+          "perk1": [
+            "Relentless Strikes",
+            "Jolting Feedback"
+          ],
+          "perk2": [
+            "Redirection",
+            "Elemental Honing",
+            "Surrounded"
+          ],
+          "origin_trait": [
+            "Bray Inheritance"
+          ]
+        },
+        "info": {
+          "rank": "8",
+          "tier": "A",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "insane damage profile frame, lacks true double damage but probably best overall damage sword",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Stryker's Sure-Hand": {
+        "weapon_name": "Stryker's Sure-Hand",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Jagged Edge",
+            "Hungry Edge"
+          ],
+          "column2": [
+            "Swordmaster's Guard",
+            "Heavy Guard"
+          ],
+          "perk1": [
+            "Rampage",
+            "Relentless Strikes",
+            "Repulsor Brace"
+          ],
+          "perk2": [
+            "Redirection",
+            "Surrounded",
+            "Whirlwind Blade"
+          ],
+          "origin_trait": [
+            "Forge's Kin"
+          ]
+        },
+        "info": {
+          "rank": "9",
+          "tier": "A",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "niche kill stacking double damage roll, held back by bad frame but otherwise interesting",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -35972,15 +35686,23 @@
             "Swordmaster's Guard",
             "Heavy Guard"
           ],
-          "perk1": [],
-          "perk2": [],
+          "perk1": [
+            "Attrition Orbs",
+            "Relentless Strikes",
+            "Flash Counter"
+          ],
+          "perk2": [
+            "Whirlwind Blade",
+            "Surrounded",
+            "Eager Edge"
+          ],
           "origin_trait": [
             "Nail, Meet Hammer"
           ]
         },
         "info": {
-          "rank": "",
-          "tier": "",
+          "rank": "10",
+          "tier": "A",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -35988,932 +35710,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Abide the Return": {
-        "weapon_name": "Abide the Return",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Jagged Edge",
-            "Tempered Edge"
-          ],
-          "column2": [
-            "Swordmaster's Guard",
-            "Heavy Guard"
-          ],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": [
-            "Advanced Reflexes"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "The Other Half": {
-        "weapon_name": "The Other Half",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Jagged Edge",
-            "Tempered Edge"
-          ],
-          "column2": [
-            "Swordmaster's Guard",
-            "Heavy Guard"
-          ],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": [
-            "Hot Swap"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Eighty-Six": {
-        "weapon_name": "Eighty-Six",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Jagged Edge",
-            "Tempered Edge"
-          ],
-          "column2": [
-            "Swordmaster's Guard",
-            "Heavy Guard"
-          ],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": [
-            "Bray Legacy"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Goldtusk": {
-        "weapon_name": "Goldtusk",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Jagged Edge",
-            "Tempered Edge"
-          ],
-          "column2": [
-            "Swordmaster's Guard"
-          ],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": [
-            "Veist Stinger"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Temptation's Hook": {
-        "weapon_name": "Temptation's Hook",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Jagged Edge",
-            "Tempered Edge"
-          ],
-          "column2": [
-            "Swordmaster's Guard",
-            "Heavy Guard"
-          ],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": [
-            "Paracausal Fluid"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Stryker's Sure-Hand": {
-        "weapon_name": "Stryker's Sure-Hand",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Jagged Edge",
-            "Tempered Edge"
-          ],
-          "column2": [
-            "Heavy Guard"
-          ],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": [
-            "Forge's Kin"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Dragoncult Sickle": {
-        "weapon_name": "Dragoncult Sickle",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Jagged Edge",
-            "Tempered Edge"
-          ],
-          "column2": [
-            "Swordmaster's Guard",
-            "Heavy Guard"
-          ],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": [
-            "Sundering"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Crown-Splitter": {
-        "weapon_name": "Crown-Splitter",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Jagged Edge",
-            "Tempered Edge"
-          ],
-          "column2": [
-            "Heavy Guard"
-          ],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Double-Edged Answer": {
-        "weapon_name": "Double-Edged Answer",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Jagged Edge",
-            "Tempered Edge"
-          ],
-          "column2": [
-            "Swordmaster's Guard",
-            "Heavy Guard"
-          ],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": [
-            "Nadir Focus"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Negative Space": {
-        "weapon_name": "Negative Space",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Jagged Edge",
-            "Tempered Edge"
-          ],
-          "column2": [
-            "Swordmaster's Guard",
-            "Heavy Guard"
-          ],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Just In Case": {
-        "weapon_name": "Just In Case",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Jagged Edge",
-            "Tempered Edge"
-          ],
-          "column2": [
-            "Swordmaster's Guard",
-            "Heavy Guard"
-          ],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": [
-            "Disaster Plan"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Steel Sybil Z-14": {
-        "weapon_name": "Steel Sybil Z-14",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Jagged Edge",
-            "Tempered Edge"
-          ],
-          "column2": [
-            "Swordmaster's Guard",
-            "Heavy Guard"
-          ],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Death's Razor": {
-        "weapon_name": "Death's Razor",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Jagged Edge",
-            "Tempered Edge"
-          ],
-          "column2": [
-            "Infinite Guard"
-          ],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": [
-            "To Excess"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Falling Guillotine_2": {
-        "weapon_name": "Falling Guillotine",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Jagged Edge",
-            "Tempered Edge"
-          ],
-          "column2": [
-            "Swordmaster's Guard",
-            "Heavy Guard"
-          ],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Half-Truths": {
-        "weapon_name": "Half-Truths",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Jagged Edge",
-            "Tempered Edge"
-          ],
-          "column2": [
-            "Swordmaster's Guard",
-            "Heavy Guard"
-          ],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": [
-            "Hot Swap"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Caretaker": {
-        "weapon_name": "Caretaker",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Jagged Edge",
-            "Tempered Edge"
-          ],
-          "column2": [
-            "Swordmaster's Guard",
-            "Heavy Guard"
-          ],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": [
-            "Noble Deeds"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Honor's Edge": {
-        "weapon_name": "Honor's Edge",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Jagged Edge",
-            "Tempered Edge"
-          ],
-          "column2": [
-            "Swordmaster's Guard",
-            "Heavy Guard"
-          ],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Eternity's Edge": {
-        "weapon_name": "Eternity's Edge",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Jagged Edge",
-            "Tempered Edge"
-          ],
-          "column2": [
-            "Infinite Guard"
-          ],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Throne-Cleaver": {
-        "weapon_name": "Throne-Cleaver",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Jagged Edge",
-            "Tempered Edge"
-          ],
-          "column2": [
-            "Heavy Guard"
-          ],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": [
-            "To Excess"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Quickfang": {
-        "weapon_name": "Quickfang",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Jagged Edge",
-            "Tempered Edge"
-          ],
-          "column2": [
-            "Swordmaster's Guard"
-          ],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Razor's Edge": {
-        "weapon_name": "Razor's Edge",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Jagged Edge",
-            "Tempered Edge"
-          ],
-          "column2": [
-            "Swordmaster's Guard",
-            "Heavy Guard"
-          ],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": [
-            "Skulking Wolf"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Thin Precipice": {
-        "weapon_name": "Thin Precipice",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Jagged Edge",
-            "Tempered Edge"
-          ],
-          "column2": [
-            "Swordmaster's Guard",
-            "Heavy Guard"
-          ],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": [
-            "Unsated Hunger"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "",
+          "notes": "also has Flash + Eager, but with more viable non-movement perks and a worse Eager frame",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -36940,15 +35737,23 @@
             "Swordmaster's Guard",
             "Heavy Guard"
           ],
-          "perk1": [],
-          "perk2": [],
+          "perk1": [
+            "Attrition Orbs",
+            "Relentless Strikes",
+            "Rimestealer"
+          ],
+          "perk2": [
+            "Whirlwind Blade",
+            "Surrounded",
+            "Cold Steel"
+          ],
           "origin_trait": [
             "Dawning Surprise"
           ]
         },
         "info": {
-          "rank": "",
-          "tier": "",
+          "rank": "11",
+          "tier": "A",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -36956,7 +35761,1419 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
+          "notes": "classic stasis combo, otherwise has standard AO + Relentless + damage perks",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Abide the Return": {
+        "weapon_name": "Abide the Return",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Jagged Edge",
+            "Tempered Edge"
+          ],
+          "column2": [
+            "Swordmaster's Guard",
+            "Heavy Guard"
+          ],
+          "perk1": [
+            "Relentless Strikes",
+            "Flash Counter"
+          ],
+          "perk2": [
+            "Redirection",
+            "Elemental Honing",
+            "Eager Edge"
+          ],
+          "origin_trait": [
+            "Advanced Reflexes"
+          ]
+        },
+        "info": {
+          "rank": "12",
+          "tier": "A",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "besides Redirection, standard damage perks + adaptive Eager",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Sola's Scar": {
+        "weapon_name": "Sola's Scar",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Jagged Edge",
+            "Enduring Blade"
+          ],
+          "column2": [
+            "Swordmaster's Guard",
+            "Heavy Guard"
+          ],
+          "perk1": [
+            "Relentless Strikes",
+            "Eager Edge",
+            "Sharp Harvest"
+          ],
+          "perk2": [
+            "Redirection",
+            "Elemental Honing",
+            "Whirlwind Blade"
+          ],
+          "origin_trait": [
+            "Fleet Footed"
+          ]
+        },
+        "info": {
+          "rank": "13",
+          "tier": "A",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Eager and Redirection on a caster, no AO, standard stuff otherwise",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Night Terror": {
+        "weapon_name": "Night Terror",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Jagged Edge",
+            "Tempered Edge"
+          ],
+          "column2": [
+            "Swordmaster's Guard",
+            "Heavy Guard"
+          ],
+          "perk1": [
+            "Relentless Strikes",
+            "Eager Edge",
+            "Flash Counter"
+          ],
+          "perk2": [
+            "Aggregate Charge",
+            "Elemental Honing",
+            "Gear Shift"
+          ],
+          "origin_trait": [
+            "Loss"
+          ]
+        },
+        "info": {
+          "rank": "14",
+          "tier": "A",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "basically Sola's Scar with slightly different perks and no Redirection",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Abyssal Edge": {
+        "weapon_name": "Abyssal Edge",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Jagged Edge",
+            "Tempered Edge"
+          ],
+          "column2": [
+            "Swordmaster's Guard",
+            "Heavy Guard"
+          ],
+          "perk1": [
+            "Relentless Strikes",
+            "Slice",
+            "Flash Counter"
+          ],
+          "perk2": [
+            "Redirection",
+            "Elemental Honing",
+            "Surrounded"
+          ],
+          "origin_trait": [
+            "Willing Vessel"
+          ]
+        },
+        "info": {
+          "rank": "15",
+          "tier": "A",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "nice neutral perks for strand artifact and frame, usable for damage too",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Hero of Ages": {
+        "weapon_name": "Hero of Ages",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Jagged Edge",
+            "Tempered Edge"
+          ],
+          "column2": [
+            "Swordmaster's Guard",
+            "Heavy Guard"
+          ],
+          "perk1": [
+            "Collective Action",
+            "Relentless Strikes",
+            "Flash Counter"
+          ],
+          "perk2": [
+            "Elemental Honing",
+            "Whirlwind Blade",
+            "Chain Reaction"
+          ],
+          "origin_trait": [
+            "Unburied Treasure"
+          ]
+        },
+        "info": {
+          "rank": "16",
+          "tier": "A",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "more consistent long-term double damage than Stryker, also has usable normal damage perks",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Ill Omen": {
+        "weapon_name": "Ill Omen",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Jagged Edge"
+          ],
+          "column2": [
+            "Swordmaster's Guard"
+          ],
+          "perk1": [
+            "Attrition Orbs",
+            "Relentless Strikes"
+          ],
+          "perk2": [
+            "Whirlwind Blade",
+            "Surrounded"
+          ],
+          "origin_trait": [
+            "Radiolaria Transposer"
+          ]
+        },
+        "info": {
+          "rank": "17",
+          "tier": "A",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "typical AO + damage caster",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Temptation's Hook": {
+        "weapon_name": "Temptation's Hook",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Jagged Edge",
+            "Tempered Edge"
+          ],
+          "column2": [
+            "Swordmaster's Guard",
+            "Heavy Guard"
+          ],
+          "perk1": [
+            "Attrition Orbs",
+            "Relentless Strikes"
+          ],
+          "perk2": [
+            "Whirlwind Blade",
+            "En Garde"
+          ],
+          "origin_trait": [
+            "Paracausal Fluid"
+          ]
+        },
+        "info": {
+          "rank": "18",
+          "tier": "A",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "basically Ill Omen with worse stats and no Surrounded",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Eighty-Six": {
+        "weapon_name": "Eighty-Six",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Hungry Edge"
+          ],
+          "column2": [
+            "Swordmaster's Guard"
+          ],
+          "perk1": [
+            "Slice",
+            "Relentless Strikes",
+            "Flash Counter"
+          ],
+          "perk2": [
+            "Attrition Orbs",
+            "Redirection",
+            "En Garde"
+          ],
+          "origin_trait": [
+            "Bray Legacy"
+          ]
+        },
+        "info": {
+          "rank": "19",
+          "tier": "A",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "niche for ability gen thanks to Bray Legacy, otherwise not that interesting",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Dragoncult Sickle": {
+        "weapon_name": "Dragoncult Sickle",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Tempered Edge"
+          ],
+          "column2": [
+            "Swordmaster's Guard",
+            "Heavy Guard"
+          ],
+          "perk1": [
+            "Slice",
+            "Eager Edge"
+          ],
+          "perk2": [
+            "Surrounded",
+            "Attrition Orbs",
+            "Chain Reaction"
+          ],
+          "origin_trait": [
+            "Sundering"
+          ]
+        },
+        "info": {
+          "rank": "20",
+          "tier": "B",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "potentially usable for neutral, otherwise has nothing good for damage",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Geodetic HSm": {
+        "weapon_name": "Geodetic HSm",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Jagged Edge"
+          ],
+          "column2": [
+            "Swordmaster's Guard"
+          ],
+          "perk1": [
+            "Relentless Strikes"
+          ],
+          "perk2": [
+            "Whirlwind Blade"
+          ],
+          "origin_trait": [
+            "Nadir Focus"
+          ]
+        },
+        "info": {
+          "rank": "21",
+          "tier": "B",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "higher impact ammo + Whirlwind adaptive",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Double-Edged Answer": {
+        "weapon_name": "Double-Edged Answer",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Jagged Edge",
+            "Tempered Edge"
+          ],
+          "column2": [
+            "Swordmaster's Guard",
+            "Heavy Guard"
+          ],
+          "perk1": [
+            "Relentless Strikes",
+            "En Garde",
+            "Repulsor Brace"
+          ],
+          "perk2": [
+            "Whirlwind Blade",
+            "Surrounded",
+            "Attrition Orbs"
+          ],
+          "origin_trait": [
+            "Nadir Focus"
+          ]
+        },
+        "info": {
+          "rank": "22",
+          "tier": "B",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "basically Geodetic with more neutral perks and no increased impact",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Goldtusk": {
+        "weapon_name": "Goldtusk",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Jagged Edge"
+          ],
+          "column2": [
+            "Swordmaster's Guard"
+          ],
+          "perk1": [
+            "Relentless Strikes"
+          ],
+          "perk2": [
+            "Whirlwind Blade"
+          ],
+          "origin_trait": [
+            "Veist Stinger"
+          ]
+        },
+        "info": {
+          "rank": "23",
+          "tier": "B",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "decent frame for total and standard perk combo",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Synanceia": {
+        "weapon_name": "Synanceia",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Jagged Edge",
+            "Tempered Edge"
+          ],
+          "column2": [
+            "Swordmaster's Guard",
+            "Heavy Guard"
+          ],
+          "perk1": [
+            "Attrition Orbs",
+            "Relentless Strikes"
+          ],
+          "perk2": [
+            "Elemental Honing",
+            "Surrounded",
+            "Eager Edge"
+          ],
+          "origin_trait": [
+            "Tenacity"
+          ]
+        },
+        "info": {
+          "rank": "24",
+          "tier": "B",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "mediocre Eager frame but decent perk diversity, frame isn't amazing for damage either",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "The Other Half": {
+        "weapon_name": "The Other Half",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Jagged Edge",
+            "Tempered Edge"
+          ],
+          "column2": [
+            "Swordmaster's Guard",
+            "Heavy Guard"
+          ],
+          "perk1": [
+            "Relentless Strikes",
+            "Eager Edge"
+          ],
+          "perk2": [
+            "Whirlwind Blade",
+            "Surrounded"
+          ],
+          "origin_trait": [
+            "Hot Swap"
+          ]
+        },
+        "info": {
+          "rank": "25",
+          "tier": "B",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "stock standard adaptive damage sword with Eager option",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Summum Bonum": {
+        "weapon_name": "Summum Bonum",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Jagged Edge"
+          ],
+          "column2": [
+            "Swordmaster's Guard"
+          ],
+          "perk1": [
+            "Relentless Strikes",
+            "Attrition Orbs",
+            "Deconstruct"
+          ],
+          "perk2": [
+            "Chaos Reshaped",
+            "Elemental Honing",
+            "Surrounded"
+          ],
+          "origin_trait": [
+            "Collective Purpose"
+          ]
+        },
+        "info": {
+          "rank": "26",
+          "tier": "B",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "like Synanceia but no Tenacity for damage increase",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Aurora Dawn": {
+        "weapon_name": "Aurora Dawn",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Jagged Edge"
+          ],
+          "column2": [
+            "Swordmaster's Guard"
+          ],
+          "perk1": [
+            "Sharp Harvest"
+          ],
+          "perk2": [
+            "Elemental Honing",
+            "Whirlwind Blade"
+          ],
+          "origin_trait": [
+            "Accelerated Assault"
+          ]
+        },
+        "info": {
+          "rank": "27",
+          "tier": "C",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "lack of ammo perk hurts enough to sit with the bad adaptives",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Just In Case": {
+        "weapon_name": "Just In Case",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Jagged Edge"
+          ],
+          "column2": [
+            "Swordmaster's Guard"
+          ],
+          "perk1": [
+            "Relentless Strikes",
+            "Flash Counter"
+          ],
+          "perk2": [
+            "Whirlwind Blade",
+            "Collective Action"
+          ],
+          "origin_trait": [
+            "Disaster Plan"
+          ]
+        },
+        "info": {
+          "rank": "28",
+          "tier": "C",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "no AO or Eager, just ammo + Whirlwind copy and paste",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Negative Space": {
+        "weapon_name": "Negative Space",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Jagged Edge"
+          ],
+          "column2": [
+            "Swordmaster's Guard"
+          ],
+          "perk1": [
+            "Relentless Strikes"
+          ],
+          "perk2": [
+            "Whirlwind Blade",
+            "Surrounded"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "29",
+          "tier": "C",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "basically Just In Case",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Steel Sybil Z-14": {
+        "weapon_name": "Steel Sybil Z-14",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Jagged Edge"
+          ],
+          "column2": [
+            "Swordmaster's Guard"
+          ],
+          "perk1": [
+            "Relentless Strikes"
+          ],
+          "perk2": [
+            "Whirlwind Blade"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "30",
+          "tier": "C",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "basically Just In Case",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Half-Truths": {
+        "weapon_name": "Half-Truths",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Tempered Edge"
+          ],
+          "column2": [
+            "Heavy Guard"
+          ],
+          "perk1": [
+            "Relentless Strikes"
+          ],
+          "perk2": [
+            "Eager Edge"
+          ],
+          "origin_trait": [
+            "Hot Swap"
+          ]
+        },
+        "info": {
+          "rank": "31",
+          "tier": "C",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "worst Eager sword in the game",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Crown-Splitter": {
+        "weapon_name": "Crown-Splitter",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Jagged Edge"
+          ],
+          "column2": [
+            "Heavy Guard"
+          ],
+          "perk1": [
+            "Relentless Strikes"
+          ],
+          "perk2": [
+            "Whirlwind Blade",
+            "Surrounded"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "32",
+          "tier": "D",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "bad frame + no special perks",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Caretaker": {
+        "weapon_name": "Caretaker",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Jagged Edge"
+          ],
+          "column2": [
+            "Swordmaster's Guard"
+          ],
+          "perk1": [
+            "Relentless Strikes"
+          ],
+          "perk2": [
+            "Surrounded"
+          ],
+          "origin_trait": [
+            "Noble Deeds"
+          ]
+        },
+        "info": {
+          "rank": "33",
+          "tier": "D",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "only has Surrounded despite good frame",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Honor's Edge": {
+        "weapon_name": "Honor's Edge",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Jagged Edge",
+            "Tempered Edge"
+          ],
+          "column2": [
+            "Swordmaster's Guard",
+            "Heavy Guard"
+          ],
+          "perk1": [
+            "Relentless Strikes"
+          ],
+          "perk2": [
+            "Surrounded",
+            "En Garde"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "34",
+          "tier": "D",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "non-enhanced Caretaker",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Death's Razor": {
+        "weapon_name": "Death's Razor",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Jagged Edge"
+          ],
+          "column2": [
+            "Infinite Guard"
+          ],
+          "perk1": [
+            "Relentless Strikes"
+          ],
+          "perk2": [
+            "Whirlwind Blade",
+            "Surrounded"
+          ],
+          "origin_trait": [
+            "To Excess"
+          ]
+        },
+        "info": {
+          "rank": "35",
+          "tier": "D",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "worst frame with typical ammo + Whirlwind/Surrounded",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Falling Guillotine_2": {
+        "weapon_name": "Falling Guillotine",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Jagged Edge"
+          ],
+          "column2": [
+            "Swordmaster's Guard"
+          ],
+          "perk1": [
+            "Relentless Strikes"
+          ],
+          "perk2": [
+            "Whirlwind Blade",
+            "Surrounded"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "36",
+          "tier": "D",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "same as Death's Razor",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Eternity's Edge": {
+        "weapon_name": "Eternity's Edge",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Jagged Edge"
+          ],
+          "column2": [
+            "Infinite Guard"
+          ],
+          "perk1": [
+            "Relentless Strikes",
+            "Energy Transfer"
+          ],
+          "perk2": [
+            "Whirlwind Blade",
+            "Surrounded"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "37",
+          "tier": "D",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "same as Death's Razor",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Throne-Cleaver": {
+        "weapon_name": "Throne-Cleaver",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Jagged Edge"
+          ],
+          "column2": [
+            "Heavy Guard"
+          ],
+          "perk1": [
+            "Duelist's Trance"
+          ],
+          "perk2": [
+            "Surrounded"
+          ],
+          "origin_trait": [
+            "To Excess"
+          ]
+        },
+        "info": {
+          "rank": "38",
+          "tier": "E",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "no ammo perk and no consistent damage perk on bad frame",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Quickfang": {
+        "weapon_name": "Quickfang",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Jagged Edge"
+          ],
+          "column2": [
+            "Swordmaster's Guard"
+          ],
+          "perk1": [
+            "Relentless Strikes"
+          ],
+          "perk2": [
+            "En Garde"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "39",
+          "tier": "E",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "awful damage perks",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Razor's Edge": {
+        "weapon_name": "Razor's Edge",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Jagged Edge"
+          ],
+          "column2": [
+            "Swordmaster's Guard"
+          ],
+          "perk1": [
+            "Relentless Strikes"
+          ],
+          "perk2": [
+            "Frenzy"
+          ],
+          "origin_trait": [
+            "Skulking Wolf"
+          ]
+        },
+        "info": {
+          "rank": "40",
+          "tier": "E",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "awful damage perks",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Thin Precipice": {
+        "weapon_name": "Thin Precipice",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Jagged Edge"
+          ],
+          "column2": [
+            "Swordmaster's Guard"
+          ],
+          "perk1": [
+            "Relentless Strikes",
+            "Flash Counter"
+          ],
+          "perk2": [
+            "Golden Tricorn",
+            "Chain Reaction"
+          ],
+          "origin_trait": [
+            "Unsated Hunger"
+          ]
+        },
+        "info": {
+          "rank": "41",
+          "tier": "F",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "no usable sustained damage perk on worst frame",
           "description": "",
           "alternatives": "",
           "analysis": {
