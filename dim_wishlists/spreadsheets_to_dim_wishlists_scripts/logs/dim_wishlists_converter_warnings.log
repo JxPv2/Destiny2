@@ -1812,3 +1812,35 @@
     2026-07-15 09:52:28,421 [INFO] -> Parsing nested ledger tab: 'Other'
     2026-07-15 09:52:28,446 [INFO] -> Parsing nested ledger tab: 'Exotic Weapons'
     2026-07-15 09:52:28,473 [INFO] -> Parsing nested ledger tab: 'Exotic Armor (ignore)'
+2026-07-15 17:07:14,635 [INFO] -> ================================================================================
+2026-07-15 17:07:14,635 [INFO] -> 🚀 Launching Isolated DIM Wishlist Text Generation Pipeline...
+2026-07-15 17:07:14,635 [INFO] -> ================================================================================
+  2026-07-15 17:07:14,690 [INFO] -> Processing 'aegis_endgame_spreadsheet_data_scraped.json' (Reason: wishlist_update_required is set to true)...
+    2026-07-15 17:07:14,698 [INFO] -> Parsing nested ledger tab: 'Shopping List'
+    2026-07-15 17:07:14,723 [INFO] -> Parsing nested ledger tab: 'Autos'
+    2026-07-15 17:07:14,800 [INFO] -> Parsing nested ledger tab: 'Bows'
+    2026-07-15 17:07:14,825 [INFO] -> Parsing nested ledger tab: 'HCs'
+    2026-07-15 17:07:14,873 [INFO] -> Parsing nested ledger tab: 'Pulses'
+    2026-07-15 17:07:14,959 [INFO] -> Parsing nested ledger tab: 'Scouts'
+    2026-07-15 17:07:14,997 [INFO] -> Parsing nested ledger tab: 'Sidearms'
+    2026-07-15 17:07:15,030 [INFO] -> Parsing nested ledger tab: 'SMGs'
+      2026-07-15 17:07:15,047 [WARNING] -> FINAL RESULT: Item 'The Hero's Burden' (ID: 2488587246, 1028124540, 2909905776, 1865351684, 4222913208) yielded 0 lines.
+        2026-07-15 17:07:15,047 [WARNING] ->   Reasons:
+        2026-07-15 17:07:15,047 [WARNING] ->     - Perk 'Dimensional Shift' (slot: perk1): hash 3182497402 not in weapon pool
+        2026-07-15 17:07:15,047 [WARNING] ->     - Perk 'Chaos Reshaped' (slot: perk2): hash 3640170453 not in weapon pool
+        2026-07-15 17:07:15,047 [WARNING] ->     - All 10 combinations rejected by pool validation
+    2026-07-15 17:07:15,075 [INFO] -> Parsing nested ledger tab: 'BGLs'
+    2026-07-15 17:07:15,109 [INFO] -> Parsing nested ledger tab: 'Fusions'
+    2026-07-15 17:07:15,151 [INFO] -> Parsing nested ledger tab: 'Glaives'
+    2026-07-15 17:07:15,180 [INFO] -> Parsing nested ledger tab: 'Shotguns'
+    2026-07-15 17:07:15,223 [INFO] -> Parsing nested ledger tab: 'Snipers'
+    2026-07-15 17:07:15,264 [INFO] -> Parsing nested ledger tab: 'Rocket Sidearms'
+    2026-07-15 17:07:15,284 [INFO] -> Parsing nested ledger tab: 'Traces'
+    2026-07-15 17:07:15,300 [INFO] -> Parsing nested ledger tab: 'HGLs'
+    2026-07-15 17:07:15,325 [INFO] -> Parsing nested ledger tab: 'LFRs'
+    2026-07-15 17:07:15,342 [INFO] -> Parsing nested ledger tab: 'LMGs'
+    2026-07-15 17:07:15,465 [INFO] -> Parsing nested ledger tab: 'Rockets'
+    2026-07-15 17:07:15,505 [INFO] -> Parsing nested ledger tab: 'Swords'
+    2026-07-15 17:07:15,575 [INFO] -> Parsing nested ledger tab: 'Other'
+    2026-07-15 17:07:15,599 [INFO] -> Parsing nested ledger tab: 'Exotic Weapons'
+    2026-07-15 17:07:15,624 [INFO] -> Parsing nested ledger tab: 'Exotic Armor (ignore)'

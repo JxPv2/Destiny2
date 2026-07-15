@@ -6,7 +6,7 @@
       "patch": "Pantheon 2.0"
     },
     "link": "https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY",
-    "scrape_date": "2026-07-15 09:52:27"
+    "scrape_date": "2026-07-15 17:07:14"
   },
   "workbooks": {
     "Shopping List": {
@@ -2760,6 +2760,151 @@
           }
         }
       },
+      "VS Pyroelectric Propellant": {
+        "weapon_name": "VS Pyroelectric Propellant",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel",
+            "Arrowhead Brake"
+          ],
+          "column2": [
+            "High-Caliber Rounds",
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Attrition Orbs"
+          ],
+          "perk2": [
+            "Jolting Feedback",
+            "Gear Shift"
+          ],
+          "origin_trait": [
+            "Bray Legacy"
+          ]
+        },
+        "info": {
+          "rank": "14",
+          "tier": "A",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "excellent archetype, origin, splash access, just not as lethal as some surrounding options",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Snipehunt Mk. 47": {
+        "weapon_name": "Snipehunt Mk. 47",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel",
+            "Arrowhead Brake"
+          ],
+          "column2": [
+            "High-Caliber Rounds",
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Jolting Feedback"
+          ],
+          "perk2": [
+            "Chaos Reshaped",
+            "Voltshot",
+            "Attrition Orbs"
+          ],
+          "origin_trait": [
+            "Tex Balanced Stock"
+          ]
+        },
+        "info": {
+          "rank": "15",
+          "tier": "A",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "double splash on arc is not that strong, JF + Chaos is unique, origin is pretty mediocre",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Arctic Haze": {
+        "weapon_name": "Arctic Haze",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel",
+            "Arrowhead Brake"
+          ],
+          "column2": [
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Incandescent",
+            "Heal Clip"
+          ],
+          "perk2": [
+            "Burning Ambition",
+            "Rampage"
+          ],
+          "origin_trait": [
+            "Winterized Gear"
+          ]
+        },
+        "info": {
+          "rank": "16",
+          "tier": "A",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "decent archetype and double solar splash, weaker than void options though",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
       "The Ringing Nail": {
         "weapon_name": "The Ringing Nail",
         "version": "",
@@ -2787,7 +2932,7 @@
           ]
         },
         "info": {
-          "rank": "14",
+          "rank": "17",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -2797,54 +2942,6 @@
           "usage": "",
           "source": "",
           "notes": "worse damage profile than Arctic Haze but has better origin trait and breaker access",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "VS Pyroelectric Propellant": {
-        "weapon_name": "VS Pyroelectric Propellant",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel",
-            "Arrowhead Brake"
-          ],
-          "column2": [
-            "High-Caliber Rounds",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Attrition Orbs"
-          ],
-          "perk2": [
-            "Jolting Feedback",
-            "Gear Shift"
-          ],
-          "origin_trait": [
-            "Bray Legacy"
-          ]
-        },
-        "info": {
-          "rank": "15",
-          "tier": "A",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "excellent archetype, origin, splash access, just not as lethal as some surrounding options",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -2883,7 +2980,7 @@
           ]
         },
         "info": {
-          "rank": "16",
+          "rank": "18",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -2930,7 +3027,7 @@
           ]
         },
         "info": {
-          "rank": "17",
+          "rank": "19",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -2978,7 +3075,7 @@
           ]
         },
         "info": {
-          "rank": "18",
+          "rank": "20",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -3027,103 +3124,6 @@
           ]
         },
         "info": {
-          "rank": "19",
-          "tier": "A",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "decent orb generator, solid archetype, but definitely a downgrade from Scathelocke",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Snipehunt Mk. 47": {
-        "weapon_name": "Snipehunt Mk. 47",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel",
-            "Arrowhead Brake"
-          ],
-          "column2": [
-            "High-Caliber Rounds",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Jolting Feedback"
-          ],
-          "perk2": [
-            "Chaos Reshaped",
-            "Voltshot",
-            "Attrition Orbs"
-          ],
-          "origin_trait": [
-            "Tex Balanced Stock"
-          ]
-        },
-        "info": {
-          "rank": "20",
-          "tier": "A",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "double splash on arc is not that strong, JF + Chaos is unique, origin is pretty mediocre",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Arctic Haze": {
-        "weapon_name": "Arctic Haze",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel",
-            "Arrowhead Brake"
-          ],
-          "column2": [
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Incandescent",
-            "Heal Clip"
-          ],
-          "perk2": [
-            "Burning Ambition",
-            "Rampage"
-          ],
-          "origin_trait": [
-            "Winterized Gear"
-          ]
-        },
-        "info": {
           "rank": "21",
           "tier": "A",
           "priority": "",
@@ -3133,7 +3133,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "decent archetype and double solar splash, weaker than void options though",
+          "notes": "decent orb generator, solid archetype, but definitely a downgrade from Scathelocke",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -16360,8 +16360,8 @@
       }
     },
     "SMGs": {
-      "Unforgiven": {
-        "weapon_name": "Unforgiven",
+      "The Title": {
+        "weapon_name": "The Title",
         "version": "",
         "perks": {
           "column1": [
@@ -16410,8 +16410,8 @@
           }
         }
       },
-      "Multimach CCX": {
-        "weapon_name": "Multimach CCX",
+      "No Survivors": {
+        "weapon_name": "No Survivors",
         "version": "",
         "perks": {
           "column1": [
@@ -16457,8 +16457,8 @@
           }
         }
       },
-      "The Recluse": {
-        "weapon_name": "The Recluse",
+      "The Hero's Burden": {
+        "weapon_name": "The Hero's Burden",
         "version": "",
         "perks": {
           "column1": [
@@ -16505,8 +16505,8 @@
           }
         }
       },
-      "Bug-Out Bag": {
-        "weapon_name": "Bug-Out Bag",
+      "CALUS Mini-Tool": {
+        "weapon_name": "CALUS Mini-Tool",
         "version": "",
         "perks": {
           "column1": [
@@ -16554,8 +16554,8 @@
           }
         }
       },
-      "M-17 \"Fast Talker\"": {
-        "weapon_name": "M-17 \"Fast Talker\"",
+      "Imminence": {
+        "weapon_name": "Imminence",
         "version": "",
         "perks": {
           "column1": [
@@ -16600,8 +16600,8 @@
           }
         }
       },
-      "MIDA Mini-Tool": {
-        "weapon_name": "MIDA Mini-Tool",
+      "Mirror Imago": {
+        "weapon_name": "Mirror Imago",
         "version": "",
         "perks": {
           "column1": [
@@ -16649,8 +16649,8 @@
           }
         }
       },
-      "Yeartide Apex": {
-        "weapon_name": "Yeartide Apex",
+      "Yarovit MG4": {
+        "weapon_name": "Yarovit MG4",
         "version": "",
         "perks": {
           "column1": [
@@ -16698,8 +16698,8 @@
           }
         }
       },
-      "Submission": {
-        "weapon_name": "Submission",
+      "Subjunctive": {
+        "weapon_name": "Subjunctive",
         "version": "",
         "perks": {
           "column1": [
@@ -16743,8 +16743,8 @@
           }
         }
       },
-      "Vikala SMG4": {
-        "weapon_name": "Vikala SMG4",
+      "Unending Tempest": {
+        "weapon_name": "Unending Tempest",
         "version": "",
         "perks": {
           "column1": [
@@ -16791,8 +16791,8 @@
           }
         }
       },
-      "The Title": {
-        "weapon_name": "The Title",
+      "The Showrunner": {
+        "weapon_name": "The Showrunner",
         "version": "",
         "perks": {
           "column1": [
@@ -16888,9 +16888,9 @@
           }
         }
       },
-      "No Survivors": {
+      "No Survivors_2": {
         "weapon_name": "No Survivors",
-        "version": "",
+        "version": "RotN",
         "perks": {
           "column1": [
             "Fluted Barrel",
@@ -16985,7 +16985,7 @@
           }
         }
       },
-      "Imminence": {
+      "Imminence_2": {
         "weapon_name": "Imminence",
         "version": "",
         "perks": {
@@ -17177,9 +17177,9 @@
           }
         }
       },
-      "No Survivors_2": {
-        "weapon_name": "No Survivors",
-        "version": "RotN",
+      "Noxious Vetiver": {
+        "weapon_name": "Noxious Vetiver",
+        "version": "",
         "perks": {
           "column1": [
             "Fluted Barrel",
@@ -17271,8 +17271,8 @@
           }
         }
       },
-      "Noxious Vetiver": {
-        "weapon_name": "Noxious Vetiver",
+      "Out of Bounds": {
+        "weapon_name": "Out of Bounds",
         "version": "",
         "perks": {
           "column1": [
@@ -17317,8 +17317,8 @@
           }
         }
       },
-      "Out of Bounds": {
-        "weapon_name": "Out of Bounds",
+      "Parabellum_2": {
+        "weapon_name": "Parabellum",
         "version": "",
         "perks": {
           "column1": [
@@ -17460,8 +17460,8 @@
           }
         }
       },
-      "Unending Tempest": {
-        "weapon_name": "Unending Tempest",
+      "The Title_2": {
+        "weapon_name": "The Title",
         "version": "",
         "perks": {
           "column1": [
@@ -17555,8 +17555,8 @@
           }
         }
       },
-      "DEADHORSE 04": {
-        "weapon_name": "DEADHORSE 04",
+      "Death Adder": {
+        "weapon_name": "Death Adder",
         "version": "",
         "perks": {
           "column1": [
@@ -17696,8 +17696,8 @@
           }
         }
       },
-      "The Hero's Burden": {
-        "weapon_name": "The Hero's Burden",
+      "Synchronic Roulette_2": {
+        "weapon_name": "Synchronic Roulette",
         "version": "",
         "perks": {
           "column1": [
@@ -17743,8 +17743,8 @@
           }
         }
       },
-      "Whatchamacallit": {
-        "weapon_name": "Whatchamacallit",
+      "Vikala SMG4": {
+        "weapon_name": "Vikala SMG4",
         "version": "",
         "perks": {
           "column1": [
@@ -17791,8 +17791,8 @@
           }
         }
       },
-      "The Showrunner": {
-        "weapon_name": "The Showrunner",
+      "The Immortal": {
+        "weapon_name": "The Immortal",
         "version": "",
         "perks": {
           "column1": [
@@ -17838,8 +17838,8 @@
           }
         }
       },
-      "Death Adder": {
-        "weapon_name": "Death Adder",
+      "Enyo-D": {
+        "weapon_name": "Enyo-D",
         "version": "",
         "perks": {
           "column1": [
@@ -17883,8 +17883,8 @@
           }
         }
       },
-      "Subjunctive": {
-        "weapon_name": "Subjunctive",
+      "Stochastic Variable": {
+        "weapon_name": "Stochastic Variable",
         "version": "",
         "perks": {
           "column1": [
@@ -18024,8 +18024,8 @@
           }
         }
       },
-      "The Immortal": {
-        "weapon_name": "The Immortal",
+      "Synchronic Roulette_3": {
+        "weapon_name": "Synchronic Roulette",
         "version": "",
         "perks": {
           "column1": [
@@ -18072,8 +18072,8 @@
           }
         }
       },
-      "CALUS Mini-Tool": {
-        "weapon_name": "CALUS Mini-Tool",
+      "Cold Front": {
+        "weapon_name": "Cold Front",
         "version": "",
         "perks": {
           "column1": [
@@ -18166,8 +18166,8 @@
           }
         }
       },
-      "Mirror Imago": {
-        "weapon_name": "Mirror Imago",
+      "No Survivors_3": {
+        "weapon_name": "No Survivors",
         "version": "",
         "perks": {
           "column1": [
@@ -18259,8 +18259,8 @@
           }
         }
       },
-      "Yarovit MG4": {
-        "weapon_name": "Yarovit MG4",
+      "Whatchamacallit": {
+        "weapon_name": "Whatchamacallit",
         "version": "",
         "perks": {
           "column1": [
@@ -18402,8 +18402,8 @@
           }
         }
       },
-      "Cold Front": {
-        "weapon_name": "Cold Front",
+      "DEADHORSE 04": {
+        "weapon_name": "DEADHORSE 04",
         "version": "",
         "perks": {
           "column1": [
@@ -18545,8 +18545,8 @@
           }
         }
       },
-      "Escape Velocity": {
-        "weapon_name": "Escape Velocity",
+      "Every Waking Moment_2": {
+        "weapon_name": "Every Waking Moment",
         "version": "",
         "perks": {
           "column1": [
@@ -18681,8 +18681,8 @@
           }
         }
       },
-      "Stochastic Variable": {
-        "weapon_name": "Stochastic Variable",
+      "Shayura's Wrath_2": {
+        "weapon_name": "Shayura's Wrath",
         "version": "",
         "perks": {
           "column1": [
@@ -18772,8 +18772,8 @@
           }
         }
       },
-      "Enyo-D": {
-        "weapon_name": "Enyo-D",
+      "Escape Velocity": {
+        "weapon_name": "Escape Velocity",
         "version": "",
         "perks": {
           "column1": [
@@ -37190,158 +37190,6 @@
       }
     },
     "Other": {
-      "Opaque Hourglass": {
-        "weapon_name": "Opaque Hourglass",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Ultralight Rail"
-          ],
-          "column2": [
-            "Charged Bolts",
-            "Serrated Bolts",
-            "Heavy Bolts"
-          ],
-          "perk1": [
-            "Impulse Amplifier",
-            "Firefly",
-            "Bolt Scavenger"
-          ],
-          "perk2": [
-            "Elemental Honing",
-            "Dragonfly",
-            "Firing Line"
-          ],
-          "origin_trait": [
-            "Frame of Reference"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "no double damage but solid reload/damage perks",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Submersion": {
-        "weapon_name": "Submersion",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Ultralight Rail"
-          ],
-          "column2": [
-            "Charged Bolts",
-            "Serrated Bolts",
-            "Heavy Bolts"
-          ],
-          "perk1": [
-            "Auto-Loading Holster",
-            "Bolt Scavenger",
-            "Lead from Light"
-          ],
-          "perk2": [
-            "Aggregate Charge",
-            "Headstone",
-            "Chill Clip"
-          ],
-          "origin_trait": [
-            "Contending Cascade"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "cool add clear option",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "A Good Shout": {
-        "weapon_name": "A Good Shout",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Ultralight Rail"
-          ],
-          "column2": [
-            "Charged Bolts",
-            "Serrated Bolts",
-            "Heavy Bolts"
-          ],
-          "perk1": [
-            "Envious Arsenal",
-            "Bolt Scavenger",
-            "Withering Gaze"
-          ],
-          "perk2": [
-            "High Ground",
-            "Box Breathing"
-          ],
-          "origin_trait": [
-            "Accelerated Assault"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "potential damage option if High Ground is usable on a boss",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
       "Refurbished A499": {
         "weapon_name": "Refurbished A499",
         "version": "",
@@ -37366,8 +37214,8 @@
           ]
         },
         "info": {
-          "rank": "",
-          "tier": "",
+          "rank": "1",
+          "tier": "S",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -37417,7 +37265,7 @@
           ]
         },
         "info": {
-          "rank": "",
+          "rank": "2",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -37468,7 +37316,7 @@
           ]
         },
         "info": {
-          "rank": "",
+          "rank": "3",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -37478,6 +37326,56 @@
           "usage": "",
           "source": "",
           "notes": "excellent ammo gen + roam + damage perks",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "A Good Shout": {
+        "weapon_name": "A Good Shout",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Ultralight Rail"
+          ],
+          "column2": [
+            "Heavy Bolts",
+            "Serrated Bolts",
+            "Charged Bolts"
+          ],
+          "perk1": [
+            "Envious Arsenal",
+            "Bolt Scavenger",
+            "Withering Gaze"
+          ],
+          "perk2": [
+            "High Ground",
+            "Box Breathing"
+          ],
+          "origin_trait": [
+            "Accelerated Assault"
+          ]
+        },
+        "info": {
+          "rank": "4",
+          "tier": "S",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "potential damage option if High Ground is usable on a boss",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -37519,7 +37417,7 @@
           ]
         },
         "info": {
-          "rank": "",
+          "rank": "5",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -37529,6 +37427,57 @@
           "usage": "",
           "source": "",
           "notes": "mostly irrelevant in a post-rocket pulse DPS era",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Submersion": {
+        "weapon_name": "Submersion",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Ultralight Rail"
+          ],
+          "column2": [
+            "Heavy Bolts",
+            "Serrated Bolts",
+            "Charged Bolts"
+          ],
+          "perk1": [
+            "Auto-Loading Holster",
+            "Bolt Scavenger",
+            "Lead from Light"
+          ],
+          "perk2": [
+            "Aggregate Charge",
+            "Headstone",
+            "Chill Clip"
+          ],
+          "origin_trait": [
+            "Contending Cascade"
+          ]
+        },
+        "info": {
+          "rank": "6",
+          "tier": "B",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "cool add clear option",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -37567,7 +37516,7 @@
           ]
         },
         "info": {
-          "rank": "",
+          "rank": "7",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -37590,310 +37539,44 @@
             "power": ""
           }
         }
-      }
-    },
-    "Exotic Weapons": {
-      "Tractor Cannon": {
-        "weapon_name": "Tractor Cannon",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "S",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "utility",
-          "type": "power",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "30% debuff on all targets (including immune), Suppressing and weakening blast, The Scientific Method movement and handling bonus",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Viable",
-            "dps": "Optimal",
-            "day1": "Optimal",
-            "chall": "Optimal",
-            "speed": "Optimal",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
       },
-      "Choir of One": {
-        "weapon_name": "Choir of One",
+      "Opaque Hourglass": {
+        "weapon_name": "Opaque Hourglass",
         "version": "",
         "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
+          "column1": [
+            "Ultralight Rail"
+          ],
+          "column2": [
+            "Heavy Bolts",
+            "Serrated Bolts",
+            "Charged Bolts"
+          ],
+          "perk1": [
+            "Impulse Amplifier",
+            "Firefly",
+            "Bolt Scavenger"
+          ],
+          "perk2": [
+            "Elemental Honing",
+            "Dragonfly",
+            "Master of Arms"
+          ],
+          "origin_trait": [
+            "Frame of Reference"
+          ]
         },
         "info": {
-          "rank": "",
-          "tier": "A",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "add clear",
-          "type": "special",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Hip fire ammo dump mode with high burst, ADS mode with increased precision damage, Modified Radiolaria Transposer",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Optimal",
-            "dps": "Wasted",
-            "day1": "Optimal",
-            "chall": "Optimal",
-            "speed": "Optimal",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Parasite": {
-        "weapon_name": "Parasite",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "A",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "DPS",
-          "type": "power",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Worm's Hunger burst projectile, Worm Byproduct other weapons damage boost",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Viable",
-            "dps": "Optimal",
-            "day1": "Optimal",
-            "chall": "Viable",
-            "speed": "Viable",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Still Hunt": {
-        "weapon_name": "Still Hunt",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "A",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "DPS",
-          "type": "special",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Golden Gun granted on 6 crits or 12 orbs, Returns ammo when Golden Gun is cast",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Situational",
-            "dps": "Optimal",
-            "day1": "Optimal",
-            "chall": "Optimal",
-            "speed": "Optimal",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Ergo Sum": {
-        "weapon_name": "Ergo Sum",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "B",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "utility",
-          "type": "special",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Special ammo sword with different exotic traits, Increased damage and grenade regen while Transcendent, Regens ammo on Prismatic grenade damage",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Optimal",
-            "dps": "Viable",
-            "day1": "Viable",
-            "chall": "Situational",
-            "speed": "Optimal",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Finality's Auger": {
-        "weapon_name": "Finality's Auger",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "B",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "DPS",
-          "type": "power",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Targetable turret creation on 3 ammo consumption, Regular BnS LFR mode otherwise",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Situational",
-            "dps": "Viable",
-            "day1": "Optimal",
-            "chall": "Optimal",
-            "speed": "Situational",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Turncoat": {
-        "weapon_name": "Turncoat",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "add clear",
-          "type": "primary",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Fafnir": {
-        "weapon_name": "Fafnir",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "utility",
-          "type": "power",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Cull's Shadow": {
-        "weapon_name": "Cull's Shadow",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "",
+          "rank": "8",
+          "tier": "C",
           "priority": "",
           "role": "",
           "purpose": "",
           "tags": "",
-          "type": "special",
+          "type": "",
           "usage": "",
           "source": "",
-          "notes": "",
+          "notes": "no double damage but solid reload/damage perks",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -37907,9 +37590,11 @@
             "power": ""
           }
         }
-      },
-      "Gjallarhorn": {
-        "weapon_name": "Gjallarhorn",
+      }
+    },
+    "Exotic Weapons": {
+      "Ace of Spades": {
+        "weapon_name": "Ace of Spades",
         "version": "",
         "perks": {
           "column1": [],
@@ -37920,182 +37605,7 @@
         },
         "info": {
           "rank": "",
-          "tier": "B",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "utility, add clear",
-          "type": "power",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "~26% damage to legendary rockets, Homing rocket with secondary missile on kill",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Situational",
-            "dps": "Viable",
-            "day1": "Viable",
-            "chall": "Situational",
-            "speed": "Optimal",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Praxic Blade": {
-        "weapon_name": "Praxic Blade",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "B",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "utility, add clear",
-          "type": "special",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Customizable sword multitool, Changes effects based on subclass",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Optimal",
-            "dps": "Situational",
-            "day1": "Viable",
-            "chall": "Situational",
-            "speed": "Viable",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "The Navigator": {
-        "weapon_name": "The Navigator",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "B",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "utility",
-          "type": "special",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Heal on hit, regen, and Woven Mail for shot allies, Sever on shot enemies, Grapple point creation on alt fire",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Situational",
-            "dps": "Optimal",
-            "day1": "Viable",
-            "chall": "Optimal",
-            "speed": "Viable",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Alethonym": {
-        "weapon_name": "Alethonym",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "C",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "utility",
-          "type": "primary",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Fires stacking DoT missiles that embed, Generates Vestiges on hit, Special reload to give special at 50% or heavy at 100%",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Wasted",
-            "dps": "Situational",
-            "day1": "Situational",
-            "chall": "Viable",
-            "speed": "Viable",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Divinity": {
-        "weapon_name": "Divinity",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "C",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "utility",
-          "type": "special",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Overload, 15% debuff, Crit creation, damage burst every 4s",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Wasted",
-            "dps": "Viable",
-            "day1": "Optimal",
-            "chall": "Wasted",
-            "speed": "Situational",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Graviton Lance": {
-        "weapon_name": "Graviton Lance",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "C",
+          "tier": "F",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -38104,189 +37614,14 @@
           "usage": "",
           "source": "",
           "notes": "",
-          "description": "Seeking void orbs on kill, Turnabout, Vorpal Weapon",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Viable",
-            "dps": "Wasted",
-            "day1": "Situational",
-            "chall": "Viable",
-            "speed": "Wasted",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Legend of Acrius": {
-        "weapon_name": "Legend of Acrius",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "C",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "DPS",
-          "type": "power",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Shock blast, Trench Barrel",
+          "description": "50% Kill Clip for 6 shots, Firefly",
           "alternatives": "",
           "analysis": {
             "roam": "Wasted",
-            "dps": "Viable",
-            "day1": "Optimal",
-            "chall": "Situational",
-            "speed": "Wasted",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Lord of Wolves": {
-        "weapon_name": "Lord of Wolves",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "C",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "DPS",
-          "type": "special",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Massively increased damage on hip-fire, Fires scorching bursts of bullets",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Situational",
-            "dps": "Viable",
-            "day1": "Viable",
-            "chall": "Situational",
-            "speed": "Wasted",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Trinity Ghoul": {
-        "weapon_name": "Trinity Ghoul",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "C",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "add clear",
-          "type": "primary",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Lightning Rod chains on kill",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Viable",
             "dps": "Wasted",
-            "day1": "Situational",
-            "chall": "Situational",
-            "speed": "Situational",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Whirling Ovation": {
-        "weapon_name": "Whirling Ovation",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "C",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "DPS",
-          "type": "power",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Anticipation charges on dealing damage, Variable rocket damage based on charge, Doesn't need to reload",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Situational",
-            "dps": "Viable",
-            "day1": "Optimal",
-            "chall": "Viable",
-            "speed": "Situational",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Wolfsbane": {
-        "weapon_name": "Wolfsbane",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "C",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "DPS",
-          "type": "power",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Spawns Quicksilver nanites that heal on hit, Full charge from light attacks gives bonus damage, Charged heavy attack creates flaming cyclone",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Situational",
-            "dps": "Viable",
-            "day1": "Viable",
+            "day1": "Wasted",
             "chall": "Wasted",
-            "speed": "Situational",
+            "speed": "Wasted",
             "effect": "",
             "flex": "",
             "power": ""
@@ -38328,6 +37663,41 @@
           }
         }
       },
+      "Alethonym": {
+        "weapon_name": "Alethonym",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "C",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "utility",
+          "type": "primary",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Fires stacking DoT missiles that embed, Generates Vestiges on hit, Special reload to give special at 50% or heavy at 100%",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Wasted",
+            "dps": "Situational",
+            "day1": "Situational",
+            "chall": "Viable",
+            "speed": "Viable",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
       "Anarchy": {
         "weapon_name": "Anarchy",
         "version": "",
@@ -38357,6 +37727,41 @@
             "day1": "Situational",
             "chall": "Wasted",
             "speed": "Viable",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Arbalest": {
+        "weapon_name": "Arbalest",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "E",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "utility",
+          "type": "special",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Anti-Barrier, one shots elemental shields, Genesis, Disruption Break",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Wasted",
+            "dps": "Wasted",
+            "day1": "Wasted",
+            "chall": "Wasted",
+            "speed": "Wasted",
             "effect": "",
             "flex": "",
             "power": ""
@@ -38398,6 +37803,41 @@
           }
         }
       },
+      "Barrow-Dyad": {
+        "weapon_name": "Barrow-Dyad",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "E",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "DPS, add clear",
+          "type": "primary",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Stored hits converted into high-damage seekers, Reloads quickly while stowed, Several selectable catalysts/traits",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Wasted",
+            "dps": "Wasted",
+            "day1": "Wasted",
+            "chall": "Wasted",
+            "speed": "Wasted",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
       "Bastion": {
         "weapon_name": "Bastion",
         "version": "",
@@ -38426,6 +37866,76 @@
             "dps": "Situational",
             "day1": "Wasted",
             "chall": "Situational",
+            "speed": "Wasted",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Black Talon": {
+        "weapon_name": "Black Talon",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "F",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "add clear",
+          "type": "power",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Void projectiles on heavy, 10% extra damage per Void debuff",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Wasted",
+            "dps": "Wasted",
+            "day1": "Wasted",
+            "chall": "Wasted",
+            "speed": "Wasted",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Borealis": {
+        "weapon_name": "Borealis",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "F",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "add clear",
+          "type": "special",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "The Fundamentals, ~37% damage for 5 shots and mag refill on matched shield break",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Wasted",
+            "dps": "Wasted",
+            "day1": "Wasted",
+            "chall": "Wasted",
             "speed": "Wasted",
             "effect": "",
             "flex": "",
@@ -38468,6 +37978,111 @@
           }
         }
       },
+      "Centrifuse": {
+        "weapon_name": "Centrifuse",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "F",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "add clear",
+          "type": "primary",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Movement-based charged blinding explosions, Passive charge",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Wasted",
+            "dps": "Wasted",
+            "day1": "Wasted",
+            "chall": "Wasted",
+            "speed": "Wasted",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Cerberus+1": {
+        "weapon_name": "Cerberus+1",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "F",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "add clear",
+          "type": "primary",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "4 barrels, 50% damage and reduced spread for 7s on special kill-reload",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Wasted",
+            "dps": "Wasted",
+            "day1": "Wasted",
+            "chall": "Wasted",
+            "speed": "Wasted",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Choir of One": {
+        "weapon_name": "Choir of One",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "A",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "add clear",
+          "type": "special",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Hip fire ammo dump mode with high burst, ADS mode with increased precision damage, Modified Radiolaria Transposer",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Optimal",
+            "dps": "Wasted",
+            "day1": "Optimal",
+            "chall": "Optimal",
+            "speed": "Optimal",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
       "Cloudstrike": {
         "weapon_name": "Cloudstrike",
         "version": "",
@@ -38497,6 +38112,76 @@
             "day1": "Wasted",
             "chall": "Wasted",
             "speed": "Situational",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Coldheart": {
+        "weapon_name": "Coldheart",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "E",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "add clear",
+          "type": "special",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Charge-based Ionic Trace generation and damage scaling",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Wasted",
+            "dps": "Wasted",
+            "day1": "Wasted",
+            "chall": "Wasted",
+            "speed": "Wasted",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Collective Obligation": {
+        "weapon_name": "Collective Obligation",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "E",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "add clear",
+          "type": "primary",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Cycles debuffs on-hit and transfers them, 20% damage for 15s with Void Leech active, Void buffs refill mag",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Situational",
+            "dps": "Wasted",
+            "day1": "Wasted",
+            "chall": "Wasted",
+            "speed": "Wasted",
             "effect": "",
             "flex": "",
             "power": ""
@@ -38538,6 +38223,111 @@
           }
         }
       },
+      "Crimson": {
+        "weapon_name": "Crimson",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "F",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "add clear",
+          "type": "primary",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Health and regen on kills, Refill on precision kill",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Wasted",
+            "dps": "Wasted",
+            "day1": "Wasted",
+            "chall": "Situational",
+            "speed": "Wasted",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Cryosthesia 77K": {
+        "weapon_name": "Cryosthesia 77K",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "F",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "add clear",
+          "type": "primary",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Freeze burst alt mode on kill, Mag refill on frozen kill",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Wasted",
+            "dps": "Wasted",
+            "day1": "Wasted",
+            "chall": "Wasted",
+            "speed": "Wasted",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Cull's Shadow": {
+        "weapon_name": "Cull's Shadow",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "special",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
       "D.A.R.C.I.": {
         "weapon_name": "D.A.R.C.I.",
         "version": "",
@@ -38564,6 +38354,41 @@
           "analysis": {
             "roam": "Wasted",
             "dps": "Viable",
+            "day1": "Wasted",
+            "chall": "Wasted",
+            "speed": "Wasted",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Dead Man's Tale": {
+        "weapon_name": "Dead Man's Tale",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "F",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "add clear",
+          "type": "primary",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Up to 0.86x reload duration on precision hit, 28% damage at 5 stacks, Reloads mag proportionally based on stacks",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Wasted",
+            "dps": "Wasted",
             "day1": "Wasted",
             "chall": "Wasted",
             "speed": "Wasted",
@@ -38608,6 +38433,251 @@
           }
         }
       },
+      "Deathbringer": {
+        "weapon_name": "Deathbringer",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "E",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "DPS, add clear",
+          "type": "power",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Falling tracking height-scaled projectiles",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Wasted",
+            "dps": "Situational",
+            "day1": "Wasted",
+            "chall": "Wasted",
+            "speed": "Wasted",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Delicate Tomb": {
+        "weapon_name": "Delicate Tomb",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "E",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "add clear",
+          "type": "special",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Jolt, 2x damage, and partial refill on Ionic Trace pickup, Kills have Ionic Trace spawn chance",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Wasted",
+            "dps": "Wasted",
+            "day1": "Wasted",
+            "chall": "Wasted",
+            "speed": "Wasted",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Deterministic Chaos": {
+        "weapon_name": "Deterministic Chaos",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "F",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "add clear",
+          "type": "power",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Volatile every 4th shot, Weaken every 16th shot, Anti-Barrier",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Wasted",
+            "dps": "Wasted",
+            "day1": "Wasted",
+            "chall": "Wasted",
+            "speed": "Wasted",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Devil's Ruin": {
+        "weapon_name": "Devil's Ruin",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "F",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "add clear",
+          "type": "primary",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Unstoppable, Charged burst on Firesprite pickup",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Wasted",
+            "dps": "Wasted",
+            "day1": "Wasted",
+            "chall": "Wasted",
+            "speed": "Wasted",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Divinity": {
+        "weapon_name": "Divinity",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "C",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "utility",
+          "type": "special",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Overload, 15% debuff, Crit creation, damage burst every 4s",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Wasted",
+            "dps": "Viable",
+            "day1": "Optimal",
+            "chall": "Wasted",
+            "speed": "Situational",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Dragon's Breath": {
+        "weapon_name": "Dragon's Breath",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "E",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "DPS, add clear",
+          "type": "power",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Embeds a continuously igniting projectile, Auto-loads upon reaching 5 stacks (2 ignitions)",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Wasted",
+            "dps": "Wasted",
+            "day1": "Wasted",
+            "chall": "Wasted",
+            "speed": "Wasted",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Duality": {
+        "weapon_name": "Duality",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "E",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "DPS",
+          "type": "special",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Dual pellet/slug mode, On Black Wings stacking damage perk",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Wasted",
+            "dps": "Wasted",
+            "day1": "Wasted",
+            "chall": "Wasted",
+            "speed": "Wasted",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
       "Edge of Action": {
         "weapon_name": "Edge of Action",
         "version": "",
@@ -38637,6 +38707,111 @@
             "day1": "Wasted",
             "chall": "Situational",
             "speed": "Situational",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Edge of Concurrence": {
+        "weapon_name": "Edge of Concurrence",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "F",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "add clear",
+          "type": "special",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Chain lightning seeker",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Wasted",
+            "dps": "Wasted",
+            "day1": "Wasted",
+            "chall": "Wasted",
+            "speed": "Wasted",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Edge of Intent": {
+        "weapon_name": "Edge of Intent",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "F",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "utility",
+          "type": "special",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Healing turret",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Wasted",
+            "dps": "Wasted",
+            "day1": "Wasted",
+            "chall": "Wasted",
+            "speed": "Wasted",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Ergo Sum": {
+        "weapon_name": "Ergo Sum",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "B",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "utility",
+          "type": "special",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Special ammo sword with different exotic traits, Increased damage and grenade regen while Transcendent, Regens ammo on Prismatic grenade damage",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Optimal",
+            "dps": "Viable",
+            "day1": "Viable",
+            "chall": "Situational",
+            "speed": "Optimal",
             "effect": "",
             "flex": "",
             "power": ""
@@ -38713,6 +38888,286 @@
           }
         }
       },
+      "Ex Diris": {
+        "weapon_name": "Ex Diris",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "E",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "DPS, add clear",
+          "type": "special",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Enrage-based fire rate buff, Never reloads, Amplified and overshield/blind moths on kill",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Wasted",
+            "dps": "Wasted",
+            "day1": "Wasted",
+            "chall": "Wasted",
+            "speed": "Wasted",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Eyes of Tomorrow": {
+        "weapon_name": "Eyes of Tomorrow",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "E",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "add clear",
+          "type": "power",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "50% damage boost and ammo refund on 4 kills",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Wasted",
+            "dps": "Wasted",
+            "day1": "Wasted",
+            "chall": "Wasted",
+            "speed": "Wasted",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Fafnir": {
+        "weapon_name": "Fafnir",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "utility",
+          "type": "power",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Fighting Lion": {
+        "weapon_name": "Fighting Lion",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "F",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "add clear",
+          "type": "primary",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "70 reload for 7s on damage dealt, 24.5% damage to shields, Volatile on hit, Kills near Fighting Lion damage refill mag",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Wasted",
+            "dps": "Wasted",
+            "day1": "Wasted",
+            "chall": "Wasted",
+            "speed": "Wasted",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Final Warning": {
+        "weapon_name": "Final Warning",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "E",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "DPS, add clear",
+          "type": "primary",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Unraveling tracking projectile burst, 100% crit damage on ADS",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Situational",
+            "dps": "Wasted",
+            "day1": "Wasted",
+            "chall": "Wasted",
+            "speed": "Wasted",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Finality's Auger": {
+        "weapon_name": "Finality's Auger",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "B",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "DPS",
+          "type": "power",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Targetable turret creation on 3 ammo consumption, Regular BnS LFR mode otherwise",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Situational",
+            "dps": "Viable",
+            "day1": "Optimal",
+            "chall": "Optimal",
+            "speed": "Situational",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Forerunner": {
+        "weapon_name": "Forerunner",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "E",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "add clear",
+          "type": "special",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Special grenade on kill-reload",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Wasted",
+            "dps": "Wasted",
+            "day1": "Wasted",
+            "chall": "Wasted",
+            "speed": "Wasted",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Gjallarhorn": {
+        "weapon_name": "Gjallarhorn",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "B",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "utility, add clear",
+          "type": "power",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "~26% damage to legendary rockets, Homing rocket with secondary missile on kill",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Situational",
+            "dps": "Viable",
+            "day1": "Viable",
+            "chall": "Situational",
+            "speed": "Optimal",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
       "Grand Overture": {
         "weapon_name": "Grand Overture",
         "version": "",
@@ -38740,6 +39195,251 @@
             "roam": "Wasted",
             "dps": "Situational",
             "day1": "Situational",
+            "chall": "Wasted",
+            "speed": "Wasted",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Graviton Lance": {
+        "weapon_name": "Graviton Lance",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "C",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "add clear",
+          "type": "primary",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Seeking void orbs on kill, Turnabout, Vorpal Weapon",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Viable",
+            "dps": "Wasted",
+            "day1": "Situational",
+            "chall": "Viable",
+            "speed": "Wasted",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Graviton Spike": {
+        "weapon_name": "Graviton Spike",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "E",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "add clear",
+          "type": "primary",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "3 crits or kills overcharge 3 shots of alternate mode, Stasis spawns crystals, Arc has lightning, Temporal Alignment: 20% damage on both overcharges",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Situational",
+            "dps": "Wasted",
+            "day1": "Wasted",
+            "chall": "Wasted",
+            "speed": "Wasted",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Hard Light": {
+        "weapon_name": "Hard Light",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "F",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "add clear",
+          "type": "primary",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "The Fundamentals, Buffed ricochet rounds",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Wasted",
+            "dps": "Wasted",
+            "day1": "Wasted",
+            "chall": "Wasted",
+            "speed": "Wasted",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Hawkmoon": {
+        "weapon_name": "Hawkmoon",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "F",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "add clear",
+          "type": "primary",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Up to 1736% damage on final shot after 7 crits",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Wasted",
+            "dps": "Wasted",
+            "day1": "Wasted",
+            "chall": "Wasted",
+            "speed": "Wasted",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Heartshadow": {
+        "weapon_name": "Heartshadow",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "E",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "utility, DPS",
+          "type": "power",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Invisibility and weaken on heavy attack, 25% damage boost for 2.5s after invisibility ends, 50%? movement speed while invisible",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Wasted",
+            "dps": "Wasted",
+            "day1": "Wasted",
+            "chall": "Wasted",
+            "speed": "Wasted",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Heir Apparent": {
+        "weapon_name": "Heir Apparent",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "F",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "add clear",
+          "type": "power",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Spun-up arc shield",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Wasted",
+            "dps": "Wasted",
+            "day1": "Wasted",
+            "chall": "Wasted",
+            "speed": "Wasted",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Heirloom": {
+        "weapon_name": "Heirloom",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "E",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "add clear",
+          "type": "special",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "3 tier ADS time to charge explosive bolt, Intrinsic Unstoppable, Heat-based exhaust",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Wasted",
+            "dps": "Wasted",
+            "day1": "Wasted",
             "chall": "Wasted",
             "speed": "Wasted",
             "effect": "",
@@ -38853,6 +39553,41 @@
           }
         }
       },
+      "Jötunn": {
+        "weapon_name": "Jötunn",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "F",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "add clear",
+          "type": "special",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Scorching tracking projectile, Cornered, Incandescent",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Wasted",
+            "dps": "Wasted",
+            "day1": "Wasted",
+            "chall": "Wasted",
+            "speed": "Wasted",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
       "Khvostov 7G-0X": {
         "weapon_name": "Khvostov 7G-0X",
         "version": "",
@@ -38880,846 +39615,6 @@
             "roam": "Situational",
             "dps": "Wasted",
             "day1": "Situational",
-            "chall": "Wasted",
-            "speed": "Wasted",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Lumina": {
-        "weapon_name": "Lumina",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "D",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "utility",
-          "type": "primary",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "2 Remnants on kill, Single target 35% buff Noble Rounds",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Wasted",
-            "dps": "Situational",
-            "day1": "Wasted",
-            "chall": "Wasted",
-            "speed": "Situational",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "New Land Beyond": {
-        "weapon_name": "New Land Beyond",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "D",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "DPS",
-          "type": "special",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Asymptotically stacking durationless on-crit buff, Sprint cancellable bolt-action firing",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Situational",
-            "dps": "Situational",
-            "day1": "Situational",
-            "chall": "Situational",
-            "speed": "Wasted",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Outbreak Perfected": {
-        "weapon_name": "Outbreak Perfected",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "D",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "DPS, add clear",
-          "type": "primary",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Nanite spawn on precision hits",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Situational",
-            "dps": "Wasted",
-            "day1": "Wasted",
-            "chall": "Wasted",
-            "speed": "Wasted",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Salvation's Grip": {
-        "weapon_name": "Salvation's Grip",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "D",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "utility",
-          "type": "power",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Stasis crystal projectiles",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Wasted",
-            "dps": "Wasted",
-            "day1": "Wasted",
-            "chall": "Wasted",
-            "speed": "Viable",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Sunshot": {
-        "weapon_name": "Sunshot",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "D",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "add clear",
-          "type": "primary",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Scorching explosions on kill",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Viable",
-            "dps": "Wasted",
-            "day1": "Situational",
-            "chall": "Situational",
-            "speed": "Wasted",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Tessellation": {
-        "weapon_name": "Tessellation",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "D",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "add clear, DPS",
-          "type": "special",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Explosive projectile on grenade consumption",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Situational",
-            "dps": "Wasted",
-            "day1": "Wasted",
-            "chall": "Wasted",
-            "speed": "Viable",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "The Fourth Horseman": {
-        "weapon_name": "The Fourth Horseman",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "D",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "DPS",
-          "type": "special",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Increased damage on successive shots",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Wasted",
-            "dps": "Situational",
-            "day1": "Wasted",
-            "chall": "Wasted",
-            "speed": "Viable",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Thunderlord": {
-        "weapon_name": "Thunderlord",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "D",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "DPS, add clear",
-          "type": "power",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Overload, Ramping fire rate, Lightning strike every 13 hits or kill",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Wasted",
-            "dps": "Situational",
-            "day1": "Wasted",
-            "chall": "Wasted",
-            "speed": "Wasted",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Vexcalibur": {
-        "weapon_name": "Vexcalibur",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "D",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "utility",
-          "type": "special",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Spread bolts, Allied Void Overshield on block, Full energy on overshield melee kill",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Situational",
-            "dps": "Wasted",
-            "day1": "Situational",
-            "chall": "Wasted",
-            "speed": "Wasted",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Arbalest": {
-        "weapon_name": "Arbalest",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "E",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "utility",
-          "type": "special",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Anti-Barrier, one shots elemental shields, Genesis, Disruption Break",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Wasted",
-            "dps": "Wasted",
-            "day1": "Wasted",
-            "chall": "Wasted",
-            "speed": "Wasted",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Barrow-Dyad": {
-        "weapon_name": "Barrow-Dyad",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "E",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "DPS, add clear",
-          "type": "primary",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Stored hits converted into high-damage seekers, Reloads quickly while stowed, Several selectable catalysts/traits",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Wasted",
-            "dps": "Wasted",
-            "day1": "Wasted",
-            "chall": "Wasted",
-            "speed": "Wasted",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Coldheart": {
-        "weapon_name": "Coldheart",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "E",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "add clear",
-          "type": "special",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Charge-based Ionic Trace generation and damage scaling",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Wasted",
-            "dps": "Wasted",
-            "day1": "Wasted",
-            "chall": "Wasted",
-            "speed": "Wasted",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Collective Obligation": {
-        "weapon_name": "Collective Obligation",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "E",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "add clear",
-          "type": "primary",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Cycles debuffs on-hit and transfers them, 20% damage for 15s with Void Leech active, Void buffs refill mag",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Situational",
-            "dps": "Wasted",
-            "day1": "Wasted",
-            "chall": "Wasted",
-            "speed": "Wasted",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Deathbringer": {
-        "weapon_name": "Deathbringer",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "E",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "DPS, add clear",
-          "type": "power",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Falling tracking height-scaled projectiles",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Wasted",
-            "dps": "Situational",
-            "day1": "Wasted",
-            "chall": "Wasted",
-            "speed": "Wasted",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Delicate Tomb": {
-        "weapon_name": "Delicate Tomb",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "E",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "add clear",
-          "type": "special",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Jolt, 2x damage, and partial refill on Ionic Trace pickup, Kills have Ionic Trace spawn chance",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Wasted",
-            "dps": "Wasted",
-            "day1": "Wasted",
-            "chall": "Wasted",
-            "speed": "Wasted",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Dragon's Breath": {
-        "weapon_name": "Dragon's Breath",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "E",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "DPS, add clear",
-          "type": "power",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Embeds a continuously igniting projectile, Auto-loads upon reaching 5 stacks (2 ignitions)",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Wasted",
-            "dps": "Wasted",
-            "day1": "Wasted",
-            "chall": "Wasted",
-            "speed": "Wasted",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Duality": {
-        "weapon_name": "Duality",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "E",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "DPS",
-          "type": "special",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Dual pellet/slug mode, On Black Wings stacking damage perk",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Wasted",
-            "dps": "Wasted",
-            "day1": "Wasted",
-            "chall": "Wasted",
-            "speed": "Wasted",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Ex Diris": {
-        "weapon_name": "Ex Diris",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "E",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "DPS, add clear",
-          "type": "special",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Enrage-based fire rate buff, Never reloads, Amplified and overshield/blind moths on kill",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Wasted",
-            "dps": "Wasted",
-            "day1": "Wasted",
-            "chall": "Wasted",
-            "speed": "Wasted",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Eyes of Tomorrow": {
-        "weapon_name": "Eyes of Tomorrow",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "E",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "add clear",
-          "type": "power",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "50% damage boost and ammo refund on 4 kills",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Wasted",
-            "dps": "Wasted",
-            "day1": "Wasted",
-            "chall": "Wasted",
-            "speed": "Wasted",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Final Warning": {
-        "weapon_name": "Final Warning",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "E",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "DPS, add clear",
-          "type": "primary",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Unraveling tracking projectile burst, 100% crit damage on ADS",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Situational",
-            "dps": "Wasted",
-            "day1": "Wasted",
-            "chall": "Wasted",
-            "speed": "Wasted",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Forerunner": {
-        "weapon_name": "Forerunner",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "E",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "add clear",
-          "type": "special",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Special grenade on kill-reload",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Wasted",
-            "dps": "Wasted",
-            "day1": "Wasted",
-            "chall": "Wasted",
-            "speed": "Wasted",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Graviton Spike": {
-        "weapon_name": "Graviton Spike",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "E",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "add clear",
-          "type": "primary",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "3 crits or kills overcharge 3 shots of alternate mode, Stasis spawns crystals, Arc has lightning, Temporal Alignment: 20% damage on both overcharges",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Situational",
-            "dps": "Wasted",
-            "day1": "Wasted",
-            "chall": "Wasted",
-            "speed": "Wasted",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Heartshadow": {
-        "weapon_name": "Heartshadow",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "E",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "utility, DPS",
-          "type": "power",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Invisibility and weaken on heavy attack, 25% damage boost for 2.5s after invisibility ends, 50%? movement speed while invisible",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Wasted",
-            "dps": "Wasted",
-            "day1": "Wasted",
-            "chall": "Wasted",
-            "speed": "Wasted",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Heirloom": {
-        "weapon_name": "Heirloom",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "E",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "add clear",
-          "type": "special",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "3 tier ADS time to charge explosive bolt, Intrinsic Unstoppable, Heat-based exhaust",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Wasted",
-            "dps": "Wasted",
-            "day1": "Wasted",
             "chall": "Wasted",
             "speed": "Wasted",
             "effect": "",
@@ -39763,6 +39658,41 @@
           }
         }
       },
+      "Legend of Acrius": {
+        "weapon_name": "Legend of Acrius",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "C",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "DPS",
+          "type": "power",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Shock blast, Trench Barrel",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Wasted",
+            "dps": "Viable",
+            "day1": "Optimal",
+            "chall": "Situational",
+            "speed": "Wasted",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
       "Leviathan's Breath": {
         "weapon_name": "Leviathan's Breath",
         "version": "",
@@ -39792,6 +39722,146 @@
             "day1": "Wasted",
             "chall": "Wasted",
             "speed": "Wasted",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Lodestar": {
+        "weapon_name": "Lodestar",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "F",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "add clear",
+          "type": "primary",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Meter filled by doing Arc damage, Special reload to consume energy and jolt on hipfire hit, 30% damage against Arc-debuffed enemies while ADS",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Wasted",
+            "dps": "Wasted",
+            "day1": "Wasted",
+            "chall": "Situational",
+            "speed": "Wasted",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Lord of Wolves": {
+        "weapon_name": "Lord of Wolves",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "C",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "DPS",
+          "type": "special",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Massively increased damage on hip-fire, Fires scorching bursts of bullets",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Situational",
+            "dps": "Viable",
+            "day1": "Viable",
+            "chall": "Situational",
+            "speed": "Wasted",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Lorentz Driver": {
+        "weapon_name": "Lorentz Driver",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "F",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "add clear",
+          "type": "special",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Void implosion on kill, Lagrangian Sight target marking and ammo generation",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Wasted",
+            "dps": "Wasted",
+            "day1": "Wasted",
+            "chall": "Wasted",
+            "speed": "Wasted",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Lumina": {
+        "weapon_name": "Lumina",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "D",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "utility",
+          "type": "primary",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "2 Remnants on kill, Single target 35% buff Noble Rounds",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Wasted",
+            "dps": "Situational",
+            "day1": "Wasted",
+            "chall": "Wasted",
+            "speed": "Situational",
             "effect": "",
             "flex": "",
             "power": ""
@@ -39903,6 +39973,41 @@
           }
         }
       },
+      "MIDA Multi-Tool": {
+        "weapon_name": "MIDA Multi-Tool",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "F",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "add clear",
+          "type": "primary",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Movement bonus, Radar during ADS",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Wasted",
+            "dps": "Wasted",
+            "day1": "Wasted",
+            "chall": "Wasted",
+            "speed": "Wasted",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
       "Monte Carlo": {
         "weapon_name": "Monte Carlo",
         "version": "",
@@ -39973,6 +40078,41 @@
           }
         }
       },
+      "New Land Beyond": {
+        "weapon_name": "New Land Beyond",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "D",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "DPS",
+          "type": "special",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Asymptotically stacking durationless on-crit buff, Sprint cancellable bolt-action firing",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Situational",
+            "dps": "Situational",
+            "day1": "Situational",
+            "chall": "Situational",
+            "speed": "Wasted",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
       "New Malpais": {
         "weapon_name": "New Malpais",
         "version": "",
@@ -39995,6 +40135,76 @@
           "source": "",
           "notes": "",
           "description": "Embedding projectiles that detonate on alternate fire, Suspends on 2 shots detonated, Detonations unravel",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Wasted",
+            "dps": "Wasted",
+            "day1": "Wasted",
+            "chall": "Wasted",
+            "speed": "Wasted",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "No Time to Explain": {
+        "weapon_name": "No Time to Explain",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "F",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "add clear",
+          "type": "primary",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Time-slip portal on precision hits",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Wasted",
+            "dps": "Wasted",
+            "day1": "Wasted",
+            "chall": "Wasted",
+            "speed": "Wasted",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "One Thousand Voices": {
+        "weapon_name": "One Thousand Voices",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "F",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "DPS",
+          "type": "power",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "10 bolt igniting solar explosion",
           "alternatives": "",
           "analysis": {
             "roam": "Wasted",
@@ -40043,6 +40253,76 @@
           }
         }
       },
+      "Outbreak Perfected": {
+        "weapon_name": "Outbreak Perfected",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "D",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "DPS, add clear",
+          "type": "primary",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Nanite spawn on precision hits",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Situational",
+            "dps": "Wasted",
+            "day1": "Wasted",
+            "chall": "Wasted",
+            "speed": "Wasted",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Parasite": {
+        "weapon_name": "Parasite",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "A",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "DPS",
+          "type": "power",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Worm's Hunger burst projectile, Worm Byproduct other weapons damage boost",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Viable",
+            "dps": "Optimal",
+            "day1": "Optimal",
+            "chall": "Viable",
+            "speed": "Viable",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
       "Polaris Lance": {
         "weapon_name": "Polaris Lance",
         "version": "",
@@ -40072,6 +40352,41 @@
             "day1": "Wasted",
             "chall": "Wasted",
             "speed": "Wasted",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Praxic Blade": {
+        "weapon_name": "Praxic Blade",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "B",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "utility, add clear",
+          "type": "special",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Customizable sword multitool, Changes effects based on subclass",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Optimal",
+            "dps": "Situational",
+            "day1": "Viable",
+            "chall": "Situational",
+            "speed": "Viable",
             "effect": "",
             "flex": "",
             "power": ""
@@ -40288,6 +40603,76 @@
           }
         }
       },
+      "Ruinous Effigy": {
+        "weapon_name": "Ruinous Effigy",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "F",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "add clear",
+          "type": "special",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Transmutation spheres on kill",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Wasted",
+            "dps": "Wasted",
+            "day1": "Wasted",
+            "chall": "Wasted",
+            "speed": "Wasted",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Salvation's Grip": {
+        "weapon_name": "Salvation's Grip",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "D",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "utility",
+          "type": "power",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Stasis crystal projectiles",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Wasted",
+            "dps": "Wasted",
+            "day1": "Wasted",
+            "chall": "Wasted",
+            "speed": "Viable",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
       "Service of Luzaku": {
         "weapon_name": "Service of Luzaku",
         "version": "",
@@ -40313,6 +40698,41 @@
           "alternatives": "",
           "analysis": {
             "roam": "Situational",
+            "dps": "Wasted",
+            "day1": "Wasted",
+            "chall": "Wasted",
+            "speed": "Wasted",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Skyburner's Oath": {
+        "weapon_name": "Skyburner's Oath",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "F",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "add clear",
+          "type": "primary",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Hip-fired scorching slugs, +18% against Cabal",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Wasted",
             "dps": "Wasted",
             "day1": "Wasted",
             "chall": "Wasted",
@@ -40393,6 +40813,216 @@
           }
         }
       },
+      "Still Hunt": {
+        "weapon_name": "Still Hunt",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "A",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "DPS",
+          "type": "special",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Golden Gun granted on 6 crits or 12 orbs, Returns ammo when Golden Gun is cast",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Situational",
+            "dps": "Optimal",
+            "day1": "Optimal",
+            "chall": "Optimal",
+            "speed": "Optimal",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Sturm": {
+        "weapon_name": "Sturm",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "F",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "add clear",
+          "type": "primary",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Overcharged rounds",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Wasted",
+            "dps": "Wasted",
+            "day1": "Wasted",
+            "chall": "Wasted",
+            "speed": "Wasted",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Sunshot": {
+        "weapon_name": "Sunshot",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "D",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "add clear",
+          "type": "primary",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Scorching explosions on kill",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Viable",
+            "dps": "Wasted",
+            "day1": "Situational",
+            "chall": "Situational",
+            "speed": "Wasted",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "SUROS Regime": {
+        "weapon_name": "SUROS Regime",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "F",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "add clear",
+          "type": "primary",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Ramping fire rate",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Wasted",
+            "dps": "Wasted",
+            "day1": "Wasted",
+            "chall": "Wasted",
+            "speed": "Wasted",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Sweet Business": {
+        "weapon_name": "Sweet Business",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "F",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "add clear",
+          "type": "primary",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Ramping fire rate, Occasional explosive round",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Wasted",
+            "dps": "Wasted",
+            "day1": "Wasted",
+            "chall": "Wasted",
+            "speed": "Wasted",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Symmetry": {
+        "weapon_name": "Symmetry",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "F",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "add clear",
+          "type": "primary",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Tracking arc seekers, Dynamic charge stacks",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Wasted",
+            "dps": "Wasted",
+            "day1": "Wasted",
+            "chall": "Wasted",
+            "speed": "Wasted",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
       "Tarrabah": {
         "weapon_name": "Tarrabah",
         "version": "",
@@ -40428,6 +41058,181 @@
           }
         }
       },
+      "Telesto": {
+        "weapon_name": "Telesto",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "F",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "add clear",
+          "type": "special",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Sticky proximity bolts, Special reload after 3 Void triple kills for bolt storm",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Wasted",
+            "dps": "Wasted",
+            "day1": "Wasted",
+            "chall": "Wasted",
+            "speed": "Wasted",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Tessellation": {
+        "weapon_name": "Tessellation",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "D",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "add clear, DPS",
+          "type": "special",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Explosive projectile on grenade consumption",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Situational",
+            "dps": "Wasted",
+            "day1": "Wasted",
+            "chall": "Wasted",
+            "speed": "Viable",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "The Chaperone": {
+        "weapon_name": "The Chaperone",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "F",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "DPS",
+          "type": "special",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "The Roadborn precision damage buff",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Wasted",
+            "dps": "Wasted",
+            "day1": "Wasted",
+            "chall": "Wasted",
+            "speed": "Wasted",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "The Colony": {
+        "weapon_name": "The Colony",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "F",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "add clear, DPS",
+          "type": "power",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Seeking crawling arachnid projectiles",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Wasted",
+            "dps": "Wasted",
+            "day1": "Wasted",
+            "chall": "Wasted",
+            "speed": "Wasted",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "The Fourth Horseman": {
+        "weapon_name": "The Fourth Horseman",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "D",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "DPS",
+          "type": "special",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Increased damage on successive shots",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Wasted",
+            "dps": "Situational",
+            "day1": "Wasted",
+            "chall": "Wasted",
+            "speed": "Viable",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
       "The Huckleberry": {
         "weapon_name": "The Huckleberry",
         "version": "",
@@ -40453,6 +41258,41 @@
           "alternatives": "",
           "analysis": {
             "roam": "Situational",
+            "dps": "Wasted",
+            "day1": "Wasted",
+            "chall": "Wasted",
+            "speed": "Wasted",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "The Jade Rabbit": {
+        "weapon_name": "The Jade Rabbit",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "F",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "add clear",
+          "type": "primary",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Buffs body damage on precision hits",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Wasted",
             "dps": "Wasted",
             "day1": "Wasted",
             "chall": "Wasted",
@@ -40498,6 +41338,41 @@
           }
         }
       },
+      "The Last Word": {
+        "weapon_name": "The Last Word",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "F",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "add clear",
+          "type": "primary",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Fan Fire hip fire precision hit damage increase",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Wasted",
+            "dps": "Wasted",
+            "day1": "Wasted",
+            "chall": "Wasted",
+            "speed": "Wasted",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
       "The Manticore": {
         "weapon_name": "The Manticore",
         "version": "",
@@ -40520,6 +41395,76 @@
           "source": "",
           "notes": "",
           "description": "Special hover mode charged on hits, Up to 100% damage while hovering, Partial refund on airborne kill and 15HP Void Overshield",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Wasted",
+            "dps": "Wasted",
+            "day1": "Wasted",
+            "chall": "Wasted",
+            "speed": "Wasted",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "The Navigator": {
+        "weapon_name": "The Navigator",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "B",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "utility",
+          "type": "special",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Heal on hit, regen, and Woven Mail for shot allies, Sever on shot enemies, Grapple point creation on alt fire",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Situational",
+            "dps": "Optimal",
+            "day1": "Viable",
+            "chall": "Optimal",
+            "speed": "Viable",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "The Prospector": {
+        "weapon_name": "The Prospector",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "F",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "DPS, add clear",
+          "type": "power",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Exploding submunition grenades",
           "alternatives": "",
           "analysis": {
             "roam": "Wasted",
@@ -40638,6 +41583,76 @@
           }
         }
       },
+      "Thorn": {
+        "weapon_name": "Thorn",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "F",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "add clear",
+          "type": "primary",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Poison on hit, Remnant on kill, Soul Devourer increased poison damage",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Wasted",
+            "dps": "Wasted",
+            "day1": "Wasted",
+            "chall": "Wasted",
+            "speed": "Wasted",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Thunderlord": {
+        "weapon_name": "Thunderlord",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "D",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "DPS, add clear",
+          "type": "power",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Overload, Ramping fire rate, Lightning strike every 13 hits or kill",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Wasted",
+            "dps": "Situational",
+            "day1": "Wasted",
+            "chall": "Wasted",
+            "speed": "Wasted",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
       "Ticuu's Divination": {
         "weapon_name": "Ticuu's Divination",
         "version": "",
@@ -40743,6 +41758,251 @@
           }
         }
       },
+      "Tractor Cannon": {
+        "weapon_name": "Tractor Cannon",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "S",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "utility",
+          "type": "power",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "30% debuff on all targets (including immune), Suppressing and weakening blast, The Scientific Method movement and handling bonus",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Viable",
+            "dps": "Optimal",
+            "day1": "Optimal",
+            "chall": "Optimal",
+            "speed": "Optimal",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Traveler's Chosen": {
+        "weapon_name": "Traveler's Chosen",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "F",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "add clear",
+          "type": "primary",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Gathering Light stacks on kill, Full ability recharge on consuming 10 stacks",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Wasted",
+            "dps": "Wasted",
+            "day1": "Wasted",
+            "chall": "Wasted",
+            "speed": "Wasted",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Trespasser": {
+        "weapon_name": "Trespasser",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "F",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "add clear",
+          "type": "primary",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Unrepentant boosted burst on kill-reload",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Wasted",
+            "dps": "Wasted",
+            "day1": "Wasted",
+            "chall": "Wasted",
+            "speed": "Wasted",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Trinity Ghoul": {
+        "weapon_name": "Trinity Ghoul",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "C",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "add clear",
+          "type": "primary",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Lightning Rod chains on kill",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Viable",
+            "dps": "Wasted",
+            "day1": "Situational",
+            "chall": "Situational",
+            "speed": "Situational",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Truth": {
+        "weapon_name": "Truth",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "F",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "add clear, DPS",
+          "type": "power",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Aggressive tracking 3 shot mag",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Wasted",
+            "dps": "Wasted",
+            "day1": "Wasted",
+            "chall": "Wasted",
+            "speed": "Wasted",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Turncoat": {
+        "weapon_name": "Turncoat",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "add clear",
+          "type": "primary",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Two-Tailed Fox": {
+        "weapon_name": "Two-Tailed Fox",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "F",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "DPS",
+          "type": "power",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Multi-affinity trio of homing rockets, Applies suppression, scorch, and jolt",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Wasted",
+            "dps": "Wasted",
+            "day1": "Wasted",
+            "chall": "Wasted",
+            "speed": "Wasted",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
       "Verglas Curve": {
         "weapon_name": "Verglas Curve",
         "version": "",
@@ -40807,6 +42067,146 @@
             "day1": "Wasted",
             "chall": "Wasted",
             "speed": "Wasted",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Vexcalibur": {
+        "weapon_name": "Vexcalibur",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "D",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "utility",
+          "type": "special",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Spread bolts, Allied Void Overshield on block, Full energy on overshield melee kill",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Situational",
+            "dps": "Wasted",
+            "day1": "Situational",
+            "chall": "Wasted",
+            "speed": "Wasted",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Vigilance Wing": {
+        "weapon_name": "Vigilance Wing",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "F",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "add clear",
+          "type": "primary",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Regen on ally death, Stat boosts if solo",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Wasted",
+            "dps": "Wasted",
+            "day1": "Wasted",
+            "chall": "Wasted",
+            "speed": "Wasted",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Wavesplitter": {
+        "weapon_name": "Wavesplitter",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "F",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "add clear",
+          "type": "special",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Oscillating damage level, Supercharged Battery suppression on orb pickup",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Wasted",
+            "dps": "Wasted",
+            "day1": "Wasted",
+            "chall": "Wasted",
+            "speed": "Wasted",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Whirling Ovation": {
+        "weapon_name": "Whirling Ovation",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "C",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "DPS",
+          "type": "power",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Anticipation charges on dealing damage, Variable rocket damage based on charge, Doesn't need to reload",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Situational",
+            "dps": "Viable",
+            "day1": "Optimal",
+            "chall": "Viable",
+            "speed": "Situational",
             "effect": "",
             "flex": "",
             "power": ""
@@ -40918,1511 +42318,6 @@
           }
         }
       },
-      "Witherhoard": {
-        "weapon_name": "Witherhoard",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "E",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "add clear",
-          "type": "special",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Poisoning direct shots do DoT over 9.5s, Poisoning ground pools do DoT over 4.5s",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Situational",
-            "dps": "Situational",
-            "day1": "Wasted",
-            "chall": "Wasted",
-            "speed": "Wasted",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Xenophage": {
-        "weapon_name": "Xenophage",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "E",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "add clear",
-          "type": "power",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Solar explosive rounds",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Wasted",
-            "dps": "Wasted",
-            "day1": "Wasted",
-            "chall": "Wasted",
-            "speed": "Situational",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Ace of Spades": {
-        "weapon_name": "Ace of Spades",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "F",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "add clear",
-          "type": "primary",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "50% Kill Clip for 6 shots, Firefly",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Wasted",
-            "dps": "Wasted",
-            "day1": "Wasted",
-            "chall": "Wasted",
-            "speed": "Wasted",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Black Talon": {
-        "weapon_name": "Black Talon",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "F",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "add clear",
-          "type": "power",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Void projectiles on heavy, 10% extra damage per Void debuff",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Wasted",
-            "dps": "Wasted",
-            "day1": "Wasted",
-            "chall": "Wasted",
-            "speed": "Wasted",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Borealis": {
-        "weapon_name": "Borealis",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "F",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "add clear",
-          "type": "special",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "The Fundamentals, ~37% damage for 5 shots and mag refill on matched shield break",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Wasted",
-            "dps": "Wasted",
-            "day1": "Wasted",
-            "chall": "Wasted",
-            "speed": "Wasted",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Centrifuse": {
-        "weapon_name": "Centrifuse",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "F",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "add clear",
-          "type": "primary",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Movement-based charged blinding explosions, Passive charge",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Wasted",
-            "dps": "Wasted",
-            "day1": "Wasted",
-            "chall": "Wasted",
-            "speed": "Wasted",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Cerberus+1": {
-        "weapon_name": "Cerberus+1",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "F",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "add clear",
-          "type": "primary",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "4 barrels, 50% damage and reduced spread for 7s on special kill-reload",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Wasted",
-            "dps": "Wasted",
-            "day1": "Wasted",
-            "chall": "Wasted",
-            "speed": "Wasted",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Crimson": {
-        "weapon_name": "Crimson",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "F",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "add clear",
-          "type": "primary",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Health and regen on kills, Refill on precision kill",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Wasted",
-            "dps": "Wasted",
-            "day1": "Wasted",
-            "chall": "Situational",
-            "speed": "Wasted",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Cryosthesia 77K": {
-        "weapon_name": "Cryosthesia 77K",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "F",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "add clear",
-          "type": "primary",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Freeze burst alt mode on kill, Mag refill on frozen kill",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Wasted",
-            "dps": "Wasted",
-            "day1": "Wasted",
-            "chall": "Wasted",
-            "speed": "Wasted",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Dead Man's Tale": {
-        "weapon_name": "Dead Man's Tale",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "F",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "add clear",
-          "type": "primary",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Up to 0.86x reload duration on precision hit, 28% damage at 5 stacks, Reloads mag proportionally based on stacks",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Wasted",
-            "dps": "Wasted",
-            "day1": "Wasted",
-            "chall": "Wasted",
-            "speed": "Wasted",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Deterministic Chaos": {
-        "weapon_name": "Deterministic Chaos",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "F",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "add clear",
-          "type": "power",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Volatile every 4th shot, Weaken every 16th shot, Anti-Barrier",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Wasted",
-            "dps": "Wasted",
-            "day1": "Wasted",
-            "chall": "Wasted",
-            "speed": "Wasted",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Devil's Ruin": {
-        "weapon_name": "Devil's Ruin",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "F",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "add clear",
-          "type": "primary",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Unstoppable, Charged burst on Firesprite pickup",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Wasted",
-            "dps": "Wasted",
-            "day1": "Wasted",
-            "chall": "Wasted",
-            "speed": "Wasted",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Edge of Concurrence": {
-        "weapon_name": "Edge of Concurrence",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "F",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "add clear",
-          "type": "special",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Chain lightning seeker",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Wasted",
-            "dps": "Wasted",
-            "day1": "Wasted",
-            "chall": "Wasted",
-            "speed": "Wasted",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Edge of Intent": {
-        "weapon_name": "Edge of Intent",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "F",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "utility",
-          "type": "special",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Healing turret",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Wasted",
-            "dps": "Wasted",
-            "day1": "Wasted",
-            "chall": "Wasted",
-            "speed": "Wasted",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Fighting Lion": {
-        "weapon_name": "Fighting Lion",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "F",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "add clear",
-          "type": "primary",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "70 reload for 7s on damage dealt, 24.5% damage to shields, Volatile on hit, Kills near Fighting Lion damage refill mag",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Wasted",
-            "dps": "Wasted",
-            "day1": "Wasted",
-            "chall": "Wasted",
-            "speed": "Wasted",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Hard Light": {
-        "weapon_name": "Hard Light",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "F",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "add clear",
-          "type": "primary",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "The Fundamentals, Buffed ricochet rounds",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Wasted",
-            "dps": "Wasted",
-            "day1": "Wasted",
-            "chall": "Wasted",
-            "speed": "Wasted",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Hawkmoon": {
-        "weapon_name": "Hawkmoon",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "F",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "add clear",
-          "type": "primary",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Up to 1736% damage on final shot after 7 crits",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Wasted",
-            "dps": "Wasted",
-            "day1": "Wasted",
-            "chall": "Wasted",
-            "speed": "Wasted",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Heir Apparent": {
-        "weapon_name": "Heir Apparent",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "F",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "add clear",
-          "type": "power",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Spun-up arc shield",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Wasted",
-            "dps": "Wasted",
-            "day1": "Wasted",
-            "chall": "Wasted",
-            "speed": "Wasted",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Jötunn": {
-        "weapon_name": "Jötunn",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "F",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "add clear",
-          "type": "special",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Scorching tracking projectile, Cornered, Incandescent",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Wasted",
-            "dps": "Wasted",
-            "day1": "Wasted",
-            "chall": "Wasted",
-            "speed": "Wasted",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Lodestar": {
-        "weapon_name": "Lodestar",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "F",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "add clear",
-          "type": "primary",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Meter filled by doing Arc damage, Special reload to consume energy and jolt on hipfire hit, 30% damage against Arc-debuffed enemies while ADS",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Wasted",
-            "dps": "Wasted",
-            "day1": "Wasted",
-            "chall": "Situational",
-            "speed": "Wasted",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Lorentz Driver": {
-        "weapon_name": "Lorentz Driver",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "F",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "add clear",
-          "type": "special",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Void implosion on kill, Lagrangian Sight target marking and ammo generation",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Wasted",
-            "dps": "Wasted",
-            "day1": "Wasted",
-            "chall": "Wasted",
-            "speed": "Wasted",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "MIDA Multi-Tool": {
-        "weapon_name": "MIDA Multi-Tool",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "F",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "add clear",
-          "type": "primary",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Movement bonus, Radar during ADS",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Wasted",
-            "dps": "Wasted",
-            "day1": "Wasted",
-            "chall": "Wasted",
-            "speed": "Wasted",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "No Time to Explain": {
-        "weapon_name": "No Time to Explain",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "F",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "add clear",
-          "type": "primary",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Time-slip portal on precision hits",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Wasted",
-            "dps": "Wasted",
-            "day1": "Wasted",
-            "chall": "Wasted",
-            "speed": "Wasted",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "One Thousand Voices": {
-        "weapon_name": "One Thousand Voices",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "F",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "DPS",
-          "type": "power",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "10 bolt igniting solar explosion",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Wasted",
-            "dps": "Wasted",
-            "day1": "Wasted",
-            "chall": "Wasted",
-            "speed": "Wasted",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Ruinous Effigy": {
-        "weapon_name": "Ruinous Effigy",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "F",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "add clear",
-          "type": "special",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Transmutation spheres on kill",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Wasted",
-            "dps": "Wasted",
-            "day1": "Wasted",
-            "chall": "Wasted",
-            "speed": "Wasted",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Skyburner's Oath": {
-        "weapon_name": "Skyburner's Oath",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "F",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "add clear",
-          "type": "primary",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Hip-fired scorching slugs, +18% against Cabal",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Wasted",
-            "dps": "Wasted",
-            "day1": "Wasted",
-            "chall": "Wasted",
-            "speed": "Wasted",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Sturm": {
-        "weapon_name": "Sturm",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "F",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "add clear",
-          "type": "primary",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Overcharged rounds",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Wasted",
-            "dps": "Wasted",
-            "day1": "Wasted",
-            "chall": "Wasted",
-            "speed": "Wasted",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "SUROS Regime": {
-        "weapon_name": "SUROS Regime",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "F",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "add clear",
-          "type": "primary",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Ramping fire rate",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Wasted",
-            "dps": "Wasted",
-            "day1": "Wasted",
-            "chall": "Wasted",
-            "speed": "Wasted",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Sweet Business": {
-        "weapon_name": "Sweet Business",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "F",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "add clear",
-          "type": "primary",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Ramping fire rate, Occasional explosive round",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Wasted",
-            "dps": "Wasted",
-            "day1": "Wasted",
-            "chall": "Wasted",
-            "speed": "Wasted",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Symmetry": {
-        "weapon_name": "Symmetry",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "F",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "add clear",
-          "type": "primary",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Tracking arc seekers, Dynamic charge stacks",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Wasted",
-            "dps": "Wasted",
-            "day1": "Wasted",
-            "chall": "Wasted",
-            "speed": "Wasted",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Telesto": {
-        "weapon_name": "Telesto",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "F",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "add clear",
-          "type": "special",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Sticky proximity bolts, Special reload after 3 Void triple kills for bolt storm",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Wasted",
-            "dps": "Wasted",
-            "day1": "Wasted",
-            "chall": "Wasted",
-            "speed": "Wasted",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "The Chaperone": {
-        "weapon_name": "The Chaperone",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "F",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "DPS",
-          "type": "special",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "The Roadborn precision damage buff",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Wasted",
-            "dps": "Wasted",
-            "day1": "Wasted",
-            "chall": "Wasted",
-            "speed": "Wasted",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "The Colony": {
-        "weapon_name": "The Colony",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "F",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "add clear, DPS",
-          "type": "power",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Seeking crawling arachnid projectiles",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Wasted",
-            "dps": "Wasted",
-            "day1": "Wasted",
-            "chall": "Wasted",
-            "speed": "Wasted",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "The Jade Rabbit": {
-        "weapon_name": "The Jade Rabbit",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "F",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "add clear",
-          "type": "primary",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Buffs body damage on precision hits",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Wasted",
-            "dps": "Wasted",
-            "day1": "Wasted",
-            "chall": "Wasted",
-            "speed": "Wasted",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "The Last Word": {
-        "weapon_name": "The Last Word",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "F",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "add clear",
-          "type": "primary",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Fan Fire hip fire precision hit damage increase",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Wasted",
-            "dps": "Wasted",
-            "day1": "Wasted",
-            "chall": "Wasted",
-            "speed": "Wasted",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "The Prospector": {
-        "weapon_name": "The Prospector",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "F",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "DPS, add clear",
-          "type": "power",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Exploding submunition grenades",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Wasted",
-            "dps": "Wasted",
-            "day1": "Wasted",
-            "chall": "Wasted",
-            "speed": "Wasted",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Thorn": {
-        "weapon_name": "Thorn",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "F",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "add clear",
-          "type": "primary",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Poison on hit, Remnant on kill, Soul Devourer increased poison damage",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Wasted",
-            "dps": "Wasted",
-            "day1": "Wasted",
-            "chall": "Wasted",
-            "speed": "Wasted",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Traveler's Chosen": {
-        "weapon_name": "Traveler's Chosen",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "F",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "add clear",
-          "type": "primary",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Gathering Light stacks on kill, Full ability recharge on consuming 10 stacks",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Wasted",
-            "dps": "Wasted",
-            "day1": "Wasted",
-            "chall": "Wasted",
-            "speed": "Wasted",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Trespasser": {
-        "weapon_name": "Trespasser",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "F",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "add clear",
-          "type": "primary",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Unrepentant boosted burst on kill-reload",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Wasted",
-            "dps": "Wasted",
-            "day1": "Wasted",
-            "chall": "Wasted",
-            "speed": "Wasted",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Truth": {
-        "weapon_name": "Truth",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "F",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "add clear, DPS",
-          "type": "power",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Aggressive tracking 3 shot mag",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Wasted",
-            "dps": "Wasted",
-            "day1": "Wasted",
-            "chall": "Wasted",
-            "speed": "Wasted",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Two-Tailed Fox": {
-        "weapon_name": "Two-Tailed Fox",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "F",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "DPS",
-          "type": "power",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Multi-affinity trio of homing rockets, Applies suppression, scorch, and jolt",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Wasted",
-            "dps": "Wasted",
-            "day1": "Wasted",
-            "chall": "Wasted",
-            "speed": "Wasted",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Vigilance Wing": {
-        "weapon_name": "Vigilance Wing",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "F",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "add clear",
-          "type": "primary",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Regen on ally death, Stat boosts if solo",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Wasted",
-            "dps": "Wasted",
-            "day1": "Wasted",
-            "chall": "Wasted",
-            "speed": "Wasted",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Wavesplitter": {
-        "weapon_name": "Wavesplitter",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "",
-          "tier": "F",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "add clear",
-          "type": "special",
-          "usage": "",
-          "source": "",
-          "notes": "",
-          "description": "Oscillating damage level, Supercharged Battery suppression on orb pickup",
-          "alternatives": "",
-          "analysis": {
-            "roam": "Wasted",
-            "dps": "Wasted",
-            "day1": "Wasted",
-            "chall": "Wasted",
-            "speed": "Wasted",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
       "Wish-Ender": {
         "weapon_name": "Wish-Ender",
         "version": "",
@@ -42493,6 +42388,76 @@
           }
         }
       },
+      "Witherhoard": {
+        "weapon_name": "Witherhoard",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "E",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "add clear",
+          "type": "special",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Poisoning direct shots do DoT over 9.5s, Poisoning ground pools do DoT over 4.5s",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Situational",
+            "dps": "Situational",
+            "day1": "Wasted",
+            "chall": "Wasted",
+            "speed": "Wasted",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Wolfsbane": {
+        "weapon_name": "Wolfsbane",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "C",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "DPS",
+          "type": "power",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Spawns Quicksilver nanites that heal on hit, Full charge from light attacks gives bonus damage, Charged heavy attack creates flaming cyclone",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Situational",
+            "dps": "Viable",
+            "day1": "Viable",
+            "chall": "Wasted",
+            "speed": "Situational",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
       "Worldline Zero": {
         "weapon_name": "Worldline Zero",
         "version": "",
@@ -42515,6 +42480,41 @@
           "source": "",
           "notes": "",
           "description": "Tesseract blink attack after sprinting",
+          "alternatives": "",
+          "analysis": {
+            "roam": "Wasted",
+            "dps": "Wasted",
+            "day1": "Wasted",
+            "chall": "Wasted",
+            "speed": "Situational",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Xenophage": {
+        "weapon_name": "Xenophage",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "",
+          "tier": "E",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "add clear",
+          "type": "power",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "Solar explosive rounds",
           "alternatives": "",
           "analysis": {
             "roam": "Wasted",

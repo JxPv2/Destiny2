@@ -1,36 +1,16 @@
 WEAPON,,INFO,,,,,,,PERKS,,,,,ANALYSIS,,
 🖼️,Name,Season,Energy,Frame,Source,Stun,Ammo,⬆️,Barrel,Mag,Perk 1,Perk 2,Origin Trait,Notes,Rank,Tier
-,Opaque Hourglass,27,Arc,High-Impact,Desert Perpetual,,47,Yes,Ultralight Rail,"Charged Bolts
-Serrated Bolts
-Heavy Bolts","Impulse Amplifier
-Firefly
-Bolt Scavenger","Elemental Honing
-Dragonfly
-Firing Line",Frame of Reference,no double damage but solid reload/damage perks,,
-,Submersion,27,Stasis,High-Impact,Tenet of Bravery,,26,Yes,Ultralight Rail,"Charged Bolts
-Serrated Bolts
-Heavy Bolts","Auto-Loading Holster
-Bolt Scavenger
-Lead from Light","Aggregate Charge
-Headstone
-Chill Clip",Contending Cascade,cool add clear option,,
-,A Good Shout,28,Void,High-Impact,"Tenet of Bravery, Zavala",,60,Yes,Ultralight Rail,"Charged Bolts
-Serrated Bolts
-Heavy Bolts","Envious Arsenal
-Bolt Scavenger
-Withering Gaze","High Ground
-Box Breathing",Accelerated Assault,potential damage option if High Ground is usable on a boss,,
 ,Refurbished A499,28,Kinetic,Disruption,Tharsis Outpost,,26,Yes,Fluted Barrel,Flared Magwell,"Snapshot Sights
 Bewildering Burst
 Gutshot Straight","Aggregate Charge
-Envious Assassin",Accelerated Assault,first of its kind; powerful archetype with mediocre 1st column,,
+Envious Assassin",Accelerated Assault,first of its kind; powerful archetype with mediocre 1st column,1,S
 ,Veillantif-D,29,Solar,Micro-Missile,SRL,,25,Yes,"Quick Launch
 Volatile Launch","Extended Mag
 Tactical Mag","Air Trigger
 Heal Clip
 Blast Distributor","Incandescent
 Desperate Measures
-Burning Ambition",Häkke Breach Armaments,even higher base ammo gen than Mint,,S
+Burning Ambition",Häkke Breach Armaments,even higher base ammo gen than Mint,2,S
 ,Mint Retrograde,29,Strand,Micro-Missile,Pinnacle Ops,,9,Yes,"Quick Launch
 Volatile Launch","Extended Mag
 Tactical Mag","Field Prep
@@ -38,15 +18,35 @@ Beacon Rounds
 Hatchling
 ","Master of Arms
 Chain Reaction
-Slice",Accelerated Assault,excellent ammo gen + roam + damage perks,,S
+Slice",Accelerated Assault,excellent ammo gen + roam + damage perks,3,S
+,A Good Shout,28,Void,High-Impact,"Tenet of Bravery, Zavala",,60,Yes,Ultralight Rail,"Heavy Bolts
+Serrated Bolts
+Charged Bolts","Envious Arsenal
+Bolt Scavenger
+Withering Gaze","High Ground
+Box Breathing",Accelerated Assault,potential damage option if High Ground is usable on a boss,4,S
 ,Psi Aeterna IV,28,Arc,Micro-Missile,"Tenet of Bravery, Zavala",,11,Yes,"Quick Launch
 Volatile Launch","Extended Mag
 Tactical Mag","Trickle Charge
 Blast Distributor
 Beacon Rounds","One for All
 Adrenaline Junkie
-Rolling Storm",Accelerated Assault,mostly irrelevant in a post-rocket pulse DPS era,,A
+Rolling Storm",Accelerated Assault,mostly irrelevant in a post-rocket pulse DPS era,5,A
+,Submersion,27,Stasis,High-Impact,Tenet of Bravery,,26,Yes,Ultralight Rail,"Heavy Bolts
+Serrated Bolts
+Charged Bolts","Auto-Loading Holster
+Bolt Scavenger
+Lead from Light","Aggregate Charge
+Headstone
+Chill Clip",Contending Cascade,cool add clear option,6,B
 ,Uncivil Discourse,28,Arc,Dynamic (180RPM),Lawless Frontier,,65,Yes,Fluted Barrel,"Ionized Heatsink
 Overclocked Heatsink","Air Trigger
 Cooling Baubles","Precision Instrument
-Desperate Measures",Accelerated Assault,"not useful for much in a post-LP nerf era, decent crit MDPS but otherwise overshadowed",,B
+Desperate Measures",Accelerated Assault,"not useful for much in a post-LP nerf era, decent crit MDPS but otherwise overshadowed",7,B
+,Opaque Hourglass,27,Arc,High-Impact,Desert Perpetual,,47,Yes,Ultralight Rail,"Heavy Bolts
+Serrated Bolts
+Charged Bolts","Impulse Amplifier
+Firefly
+Bolt Scavenger","Elemental Honing
+Dragonfly
+Master of Arms",Frame of Reference,no double damage but solid reload/damage perks,8,C
