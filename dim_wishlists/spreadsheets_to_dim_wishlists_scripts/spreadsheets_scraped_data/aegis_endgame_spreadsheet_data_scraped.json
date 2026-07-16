@@ -6,7 +6,7 @@
       "patch": "Pantheon 2.0"
     },
     "link": "https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY",
-    "scrape_date": "2026-07-16 01:50:22"
+    "scrape_date": "2026-07-16 09:59:27"
   },
   "workbooks": {
     "Shopping List": {
@@ -24479,7 +24479,7 @@
           "perk2": [
             "One-Two Punch",
             "Gear Shift",
-            "Cascade Point"
+            "Jolting Feedback"
           ],
           "origin_trait": [
             "Photoinhibition"
@@ -24487,7 +24487,7 @@
         },
         "info": {
           "rank": "27",
-          "tier": "C",
+          "tier": "B",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -24495,7 +24495,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "no Grave Robber but has some perk diversity, Reconstruction usable enough for 12P",
+          "notes": "no Grave Robber but has some perk diversity, JF can jolt in one shot",
           "description": "",
           "alternatives": "",
           "analysis": {
