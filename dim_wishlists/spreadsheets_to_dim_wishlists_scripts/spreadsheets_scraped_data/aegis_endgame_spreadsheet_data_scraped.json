@@ -6,7 +6,7 @@
       "patch": "Pantheon 2.0"
     },
     "link": "https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY",
-    "scrape_date": "2026-07-15 17:07:14"
+    "scrape_date": "2026-07-16 01:50:22"
   },
   "workbooks": {
     "Shopping List": {
@@ -16360,8 +16360,8 @@
       }
     },
     "SMGs": {
-      "The Title": {
-        "weapon_name": "The Title",
+      "Unforgiven": {
+        "weapon_name": "Unforgiven",
         "version": "",
         "perks": {
           "column1": [
@@ -16410,8 +16410,8 @@
           }
         }
       },
-      "No Survivors": {
-        "weapon_name": "No Survivors",
+      "Multimach CCX": {
+        "weapon_name": "Multimach CCX",
         "version": "",
         "perks": {
           "column1": [
@@ -16457,8 +16457,8 @@
           }
         }
       },
-      "The Hero's Burden": {
-        "weapon_name": "The Hero's Burden",
+      "The Recluse": {
+        "weapon_name": "The Recluse",
         "version": "",
         "perks": {
           "column1": [
@@ -16505,8 +16505,8 @@
           }
         }
       },
-      "CALUS Mini-Tool": {
-        "weapon_name": "CALUS Mini-Tool",
+      "Bug-Out Bag": {
+        "weapon_name": "Bug-Out Bag",
         "version": "",
         "perks": {
           "column1": [
@@ -16554,8 +16554,8 @@
           }
         }
       },
-      "Imminence": {
-        "weapon_name": "Imminence",
+      "M-17 \"Fast Talker\"": {
+        "weapon_name": "M-17 \"Fast Talker\"",
         "version": "",
         "perks": {
           "column1": [
@@ -16600,57 +16600,8 @@
           }
         }
       },
-      "Mirror Imago": {
-        "weapon_name": "Mirror Imago",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel",
-            "Arrowhead Brake"
-          ],
-          "column2": [
-            "High-Caliber Rounds",
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Attrition Orbs",
-            "Heal Clip"
-          ],
-          "perk2": [
-            "Incandescent",
-            "Burning Ambition"
-          ],
-          "origin_trait": [
-            "Vanguard Determination"
-          ]
-        },
-        "info": {
-          "rank": "6",
-          "tier": "S",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "less perk diversity than Yeartide but arguably better origin trait",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Yarovit MG4": {
-        "weapon_name": "Yarovit MG4",
+      "Yeartide Apex": {
+        "weapon_name": "Yeartide Apex",
         "version": "",
         "perks": {
           "column1": [
@@ -16674,7 +16625,7 @@
           ]
         },
         "info": {
-          "rank": "7",
+          "rank": "6",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -16698,8 +16649,57 @@
           }
         }
       },
-      "Subjunctive": {
-        "weapon_name": "Subjunctive",
+      "MIDA Mini-Tool": {
+        "weapon_name": "MIDA Mini-Tool",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel",
+            "Arrowhead Brake"
+          ],
+          "column2": [
+            "High-Caliber Rounds",
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Attrition Orbs",
+            "Heal Clip"
+          ],
+          "perk2": [
+            "Incandescent",
+            "Burning Ambition"
+          ],
+          "origin_trait": [
+            "Vanguard Determination"
+          ]
+        },
+        "info": {
+          "rank": "7",
+          "tier": "S",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "less perk diversity than Yeartide but arguably better origin trait",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Submission": {
+        "weapon_name": "Submission",
         "version": "",
         "perks": {
           "column1": [
@@ -16743,8 +16743,8 @@
           }
         }
       },
-      "Unending Tempest": {
-        "weapon_name": "Unending Tempest",
+      "Vikala SMG4": {
+        "weapon_name": "Vikala SMG4",
         "version": "",
         "perks": {
           "column1": [
@@ -16791,8 +16791,8 @@
           }
         }
       },
-      "The Showrunner": {
-        "weapon_name": "The Showrunner",
+      "The Title": {
+        "weapon_name": "The Title",
         "version": "",
         "perks": {
           "column1": [
@@ -16888,9 +16888,9 @@
           }
         }
       },
-      "No Survivors_2": {
+      "No Survivors": {
         "weapon_name": "No Survivors",
-        "version": "RotN",
+        "version": "",
         "perks": {
           "column1": [
             "Fluted Barrel",
@@ -16985,7 +16985,7 @@
           }
         }
       },
-      "Imminence_2": {
+      "Imminence": {
         "weapon_name": "Imminence",
         "version": "",
         "perks": {
@@ -17177,9 +17177,9 @@
           }
         }
       },
-      "Noxious Vetiver": {
-        "weapon_name": "Noxious Vetiver",
-        "version": "",
+      "No Survivors_2": {
+        "weapon_name": "No Survivors",
+        "version": "RotN",
         "perks": {
           "column1": [
             "Fluted Barrel",
@@ -17271,8 +17271,8 @@
           }
         }
       },
-      "Out of Bounds": {
-        "weapon_name": "Out of Bounds",
+      "Noxious Vetiver": {
+        "weapon_name": "Noxious Vetiver",
         "version": "",
         "perks": {
           "column1": [
@@ -17317,8 +17317,8 @@
           }
         }
       },
-      "Parabellum_2": {
-        "weapon_name": "Parabellum",
+      "Out of Bounds": {
+        "weapon_name": "Out of Bounds",
         "version": "",
         "perks": {
           "column1": [
@@ -17460,8 +17460,8 @@
           }
         }
       },
-      "The Title_2": {
-        "weapon_name": "The Title",
+      "Unending Tempest": {
+        "weapon_name": "Unending Tempest",
         "version": "",
         "perks": {
           "column1": [
@@ -17555,8 +17555,8 @@
           }
         }
       },
-      "Death Adder": {
-        "weapon_name": "Death Adder",
+      "DEADHORSE 04": {
+        "weapon_name": "DEADHORSE 04",
         "version": "",
         "perks": {
           "column1": [
@@ -17696,8 +17696,8 @@
           }
         }
       },
-      "Synchronic Roulette_2": {
-        "weapon_name": "Synchronic Roulette",
+      "The Hero's Burden": {
+        "weapon_name": "The Hero's Burden",
         "version": "",
         "perks": {
           "column1": [
@@ -17743,8 +17743,8 @@
           }
         }
       },
-      "Vikala SMG4": {
-        "weapon_name": "Vikala SMG4",
+      "Whatchamacallit": {
+        "weapon_name": "Whatchamacallit",
         "version": "",
         "perks": {
           "column1": [
@@ -17791,8 +17791,8 @@
           }
         }
       },
-      "The Immortal": {
-        "weapon_name": "The Immortal",
+      "The Showrunner": {
+        "weapon_name": "The Showrunner",
         "version": "",
         "perks": {
           "column1": [
@@ -17838,8 +17838,8 @@
           }
         }
       },
-      "Enyo-D": {
-        "weapon_name": "Enyo-D",
+      "Death Adder": {
+        "weapon_name": "Death Adder",
         "version": "",
         "perks": {
           "column1": [
@@ -17883,8 +17883,8 @@
           }
         }
       },
-      "Stochastic Variable": {
-        "weapon_name": "Stochastic Variable",
+      "Subjunctive": {
+        "weapon_name": "Subjunctive",
         "version": "",
         "perks": {
           "column1": [
@@ -18024,8 +18024,8 @@
           }
         }
       },
-      "Synchronic Roulette_3": {
-        "weapon_name": "Synchronic Roulette",
+      "The Immortal": {
+        "weapon_name": "The Immortal",
         "version": "",
         "perks": {
           "column1": [
@@ -18072,8 +18072,8 @@
           }
         }
       },
-      "Cold Front": {
-        "weapon_name": "Cold Front",
+      "CALUS Mini-Tool": {
+        "weapon_name": "CALUS Mini-Tool",
         "version": "",
         "perks": {
           "column1": [
@@ -18166,8 +18166,8 @@
           }
         }
       },
-      "No Survivors_3": {
-        "weapon_name": "No Survivors",
+      "Mirror Imago": {
+        "weapon_name": "Mirror Imago",
         "version": "",
         "perks": {
           "column1": [
@@ -18259,8 +18259,8 @@
           }
         }
       },
-      "Whatchamacallit": {
-        "weapon_name": "Whatchamacallit",
+      "Yarovit MG4": {
+        "weapon_name": "Yarovit MG4",
         "version": "",
         "perks": {
           "column1": [
@@ -18402,8 +18402,8 @@
           }
         }
       },
-      "DEADHORSE 04": {
-        "weapon_name": "DEADHORSE 04",
+      "Cold Front": {
+        "weapon_name": "Cold Front",
         "version": "",
         "perks": {
           "column1": [
@@ -18545,8 +18545,8 @@
           }
         }
       },
-      "Every Waking Moment_2": {
-        "weapon_name": "Every Waking Moment",
+      "Escape Velocity": {
+        "weapon_name": "Escape Velocity",
         "version": "",
         "perks": {
           "column1": [
@@ -18681,8 +18681,8 @@
           }
         }
       },
-      "Shayura's Wrath_2": {
-        "weapon_name": "Shayura's Wrath",
+      "Stochastic Variable": {
+        "weapon_name": "Stochastic Variable",
         "version": "",
         "perks": {
           "column1": [
@@ -18772,8 +18772,8 @@
           }
         }
       },
-      "Escape Velocity": {
-        "weapon_name": "Escape Velocity",
+      "Enyo-D": {
+        "weapon_name": "Enyo-D",
         "version": "",
         "perks": {
           "column1": [
@@ -21101,6 +21101,102 @@
           }
         }
       },
+      "Burden of Guilt": {
+        "weapon_name": "Burden of Guilt",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel",
+            "Arrowhead Brake"
+          ],
+          "column2": [
+            "Accelerated Coils"
+          ],
+          "perk1": [
+            "Envious Arsenal"
+          ],
+          "perk2": [
+            "Aggregate Charge",
+            "Controlled Burst",
+            "Chill Clip"
+          ],
+          "origin_trait": [
+            "Fleet Footed"
+          ]
+        },
+        "info": {
+          "rank": "14",
+          "tier": "B",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "faster triple stun option than Deliverance, first column a little lacking, still not really relevant",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Deliverance": {
+        "weapon_name": "Deliverance",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel",
+            "Arrowhead Brake"
+          ],
+          "column2": [
+            "Accelerated Coils"
+          ],
+          "perk1": [
+            "Crystalline Corpsebloom",
+            "Demolitionist"
+          ],
+          "perk2": [
+            "Chill Clip",
+            "Chain Reaction"
+          ],
+          "origin_trait": [
+            "Souldrinker"
+          ]
+        },
+        "info": {
+          "rank": "15",
+          "tier": "B",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "interesting double splash option but ammo economy isn't great, triple stun not that relevant in most cases",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
       "Null Composure": {
         "weapon_name": "Null Composure",
         "version": "",
@@ -21126,7 +21222,7 @@
           ]
         },
         "info": {
-          "rank": "14",
+          "rank": "16",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -21174,7 +21270,7 @@
           ]
         },
         "info": {
-          "rank": "15",
+          "rank": "17",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -21222,7 +21318,7 @@
           ]
         },
         "info": {
-          "rank": "16",
+          "rank": "18",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -21271,7 +21367,7 @@
           ]
         },
         "info": {
-          "rank": "17",
+          "rank": "19",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -21320,7 +21416,7 @@
           ]
         },
         "info": {
-          "rank": "18",
+          "rank": "20",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -21344,8 +21440,8 @@
           }
         }
       },
-      "Burden of Guilt": {
-        "weapon_name": "Burden of Guilt",
+      "Tempered Dynamo": {
+        "weapon_name": "Tempered Dynamo",
         "version": "",
         "perks": {
           "column1": [
@@ -21356,67 +21452,20 @@
             "Accelerated Coils"
           ],
           "perk1": [
-            "Envious Arsenal"
+            "Rewind Rounds",
+            "Impromptu Ammunition"
           ],
           "perk2": [
-            "Aggregate Charge",
-            "Controlled Burst",
-            "Chill Clip"
+            "Gear Shift",
+            "Discord",
+            "Jolting Feedback"
           ],
           "origin_trait": [
-            "Fleet Footed"
+            "Forge's Kin"
           ]
         },
         "info": {
-          "rank": "19",
-          "tier": "B",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "middling archetype, just an okay refill perk, awful origin, but good 2nd column selection",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Deliverance": {
-        "weapon_name": "Deliverance",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel",
-            "Arrowhead Brake"
-          ],
-          "column2": [
-            "Accelerated Coils"
-          ],
-          "perk1": [
-            "Crystalline Corpsebloom",
-            "Demolitionist"
-          ],
-          "perk2": [
-            "Chill Clip",
-            "Chain Reaction"
-          ],
-          "origin_trait": [
-            "Souldrinker"
-          ]
-        },
-        "info": {
-          "rank": "20",
+          "rank": "21",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -21425,7 +21474,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "interesting double splash option but ammo economy isn't great",
+          "notes": "interesting damage perk combo, sadly on the worst fusion frame, has one shot jolt too",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -21462,7 +21511,7 @@
           ]
         },
         "info": {
-          "rank": "21",
+          "rank": "22",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -21510,7 +21559,7 @@
           ]
         },
         "info": {
-          "rank": "22",
+          "rank": "23",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -21558,7 +21607,7 @@
           ]
         },
         "info": {
-          "rank": "23",
+          "rank": "24",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -21607,7 +21656,7 @@
           ]
         },
         "info": {
-          "rank": "24",
+          "rank": "25",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -21654,7 +21703,7 @@
           ]
         },
         "info": {
-          "rank": "25",
+          "rank": "26",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -21701,7 +21750,7 @@
           ]
         },
         "info": {
-          "rank": "26",
+          "rank": "27",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -21747,7 +21796,7 @@
           ]
         },
         "info": {
-          "rank": "27",
+          "rank": "28",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -21797,7 +21846,7 @@
           ]
         },
         "info": {
-          "rank": "28",
+          "rank": "29",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -21845,54 +21894,6 @@
           ]
         },
         "info": {
-          "rank": "29",
-          "tier": "C",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "no great pairings with Discord, no real damage perks, and only ALH on an okay frame",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Tempered Dynamo": {
-        "weapon_name": "Tempered Dynamo",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel",
-            "Arrowhead Brake"
-          ],
-          "column2": [
-            "Accelerated Coils"
-          ],
-          "perk1": [
-            "Rewind Rounds",
-            "Impromptu Ammunition"
-          ],
-          "perk2": [
-            "Gear Shift",
-            "Discord"
-          ],
-          "origin_trait": [
-            "Forge's Kin"
-          ]
-        },
-        "info": {
           "rank": "30",
           "tier": "C",
           "priority": "",
@@ -21902,7 +21903,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "interesting damage perk combo, sadly on the worst fusion frame",
+          "notes": "no great pairings with Discord, no real damage perks, and only ALH on an okay frame",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -29213,54 +29214,6 @@
           }
         }
       },
-      "Keraunios": {
-        "weapon_name": "Keraunios",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel"
-          ],
-          "column2": [
-            "Light Battery"
-          ],
-          "perk1": [
-            "Shoot to Loot",
-            "Fourth Time's the Charm"
-          ],
-          "perk2": [
-            "Chain Reaction",
-            "Jolting Feedback",
-            "Detonator Beam"
-          ],
-          "origin_trait": [
-            "Classy Contender"
-          ]
-        },
-        "info": {
-          "rank": "3",
-          "tier": "A",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "decently fast jolt application, also has StL + Chain for pickups, just not as strong with artifact",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
       "Hollow Denial": {
         "weapon_name": "Hollow Denial",
         "version": "",
@@ -29283,7 +29236,7 @@
           ]
         },
         "info": {
-          "rank": "4",
+          "rank": "3",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -29331,7 +29284,7 @@
           ]
         },
         "info": {
-          "rank": "5",
+          "rank": "4",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -29341,6 +29294,54 @@
           "usage": "",
           "source": "",
           "notes": "best anti-barrier trace option, also solid for solar Verity use cases",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Keraunios": {
+        "weapon_name": "Keraunios",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Light Battery"
+          ],
+          "perk1": [
+            "Shoot to Loot",
+            "Fourth Time's the Charm"
+          ],
+          "perk2": [
+            "Chain Reaction",
+            "Jolting Feedback",
+            "Detonator Beam"
+          ],
+          "origin_trait": [
+            "Classy Contender"
+          ]
+        },
+        "info": {
+          "rank": "5",
+          "tier": "A",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "decently fast jolt application, also has StL + Chain for pickups, just not as strong with artifact",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -29427,7 +29428,7 @@
         },
         "info": {
           "rank": "7",
-          "tier": "B",
+          "tier": "A",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -35790,7 +35791,7 @@
           ],
           "perk1": [
             "Relentless Strikes",
-            "Flash Counter"
+            "Sharp Harvest"
           ],
           "perk2": [
             "Redirection",
