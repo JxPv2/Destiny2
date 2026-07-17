@@ -1901,3 +1901,30 @@
 2026-07-16 17:05:09,759 [INFO] -> ================================================================================
 2026-07-16 17:05:09,760 [INFO] -> 🚀 Launching Isolated DIM Wishlist Text Generation Pipeline...
 2026-07-16 17:05:09,760 [INFO] -> ================================================================================
+2026-07-17 01:53:58,461 [INFO] -> ================================================================================
+2026-07-17 01:53:58,461 [INFO] -> 🚀 Launching Isolated DIM Wishlist Text Generation Pipeline...
+2026-07-17 01:53:58,462 [INFO] -> ================================================================================
+  2026-07-17 01:53:58,519 [INFO] -> Processing 'aegis_endgame_spreadsheet_data_scraped.json' (Reason: wishlist_update_required is set to true)...
+    2026-07-17 01:53:58,527 [INFO] -> Parsing nested ledger tab: 'Shopping List'
+    2026-07-17 01:53:58,554 [INFO] -> Parsing nested ledger tab: 'Autos'
+    2026-07-17 01:53:58,624 [INFO] -> Parsing nested ledger tab: 'Bows'
+    2026-07-17 01:53:58,648 [INFO] -> Parsing nested ledger tab: 'HCs'
+    2026-07-17 01:53:58,696 [INFO] -> Parsing nested ledger tab: 'Pulses'
+    2026-07-17 01:53:58,773 [INFO] -> Parsing nested ledger tab: 'Scouts'
+    2026-07-17 01:53:58,807 [INFO] -> Parsing nested ledger tab: 'Sidearms'
+    2026-07-17 01:53:58,839 [INFO] -> Parsing nested ledger tab: 'SMGs'
+    2026-07-17 01:53:58,883 [INFO] -> Parsing nested ledger tab: 'BGLs'
+    2026-07-17 01:53:58,916 [INFO] -> Parsing nested ledger tab: 'Fusions'
+    2026-07-17 01:53:58,951 [INFO] -> Parsing nested ledger tab: 'Glaives'
+    2026-07-17 01:53:58,977 [INFO] -> Parsing nested ledger tab: 'Shotguns'
+    2026-07-17 01:53:59,019 [INFO] -> Parsing nested ledger tab: 'Snipers'
+    2026-07-17 01:53:59,062 [INFO] -> Parsing nested ledger tab: 'Rocket Sidearms'
+    2026-07-17 01:53:59,081 [INFO] -> Parsing nested ledger tab: 'Traces'
+    2026-07-17 01:53:59,095 [INFO] -> Parsing nested ledger tab: 'HGLs'
+    2026-07-17 01:53:59,122 [INFO] -> Parsing nested ledger tab: 'LFRs'
+    2026-07-17 01:53:59,140 [INFO] -> Parsing nested ledger tab: 'LMGs'
+    2026-07-17 01:53:59,264 [INFO] -> Parsing nested ledger tab: 'Rockets'
+    2026-07-17 01:53:59,304 [INFO] -> Parsing nested ledger tab: 'Swords'
+    2026-07-17 01:53:59,373 [INFO] -> Parsing nested ledger tab: 'Other'
+    2026-07-17 01:53:59,391 [INFO] -> Parsing nested ledger tab: 'Exotic Weapons'
+    2026-07-17 01:53:59,417 [INFO] -> Parsing nested ledger tab: 'Exotic Armor (ignore)'
