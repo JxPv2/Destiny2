@@ -6,7 +6,7 @@
       "patch": "Pantheon 2.0"
     },
     "link": "https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY",
-    "scrape_date": "2026-07-17 01:53:58"
+    "scrape_date": "2026-07-18 01:44:17"
   },
   "workbooks": {
     "Shopping List": {
@@ -35293,7 +35293,8 @@
           ],
           "perk1": [
             "Collective Demolition",
-            "Relentless Strikes"
+            "Relentless Strikes",
+            "Repulsor Brace"
           ],
           "perk2": [
             "Collective Action",
@@ -37202,7 +37203,7 @@
             "Flared Magwell"
           ],
           "perk1": [
-            "Snapshot Sights",
+            "Lone Wolf",
             "Bewildering Burst",
             "Gutshot Straight"
           ],
