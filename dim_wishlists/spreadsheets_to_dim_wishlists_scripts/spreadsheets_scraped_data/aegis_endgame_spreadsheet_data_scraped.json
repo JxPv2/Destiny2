@@ -6,7 +6,7 @@
       "patch": "Pantheon 2.0"
     },
     "link": "https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY",
-    "scrape_date": "2026-07-18 01:44:17"
+    "scrape_date": "2026-07-18 09:16:26"
   },
   "workbooks": {
     "Shopping List": {
@@ -3532,6 +3532,53 @@
           }
         }
       },
+      "Come to Pass": {
+        "weapon_name": "Come to Pass",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel",
+            "Arrowhead Brake"
+          ],
+          "column2": [
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Supercharged Magazine",
+            "Shoot to Loot"
+          ],
+          "perk2": [
+            "Jolting Feedback"
+          ],
+          "origin_trait": [
+            "Psychohack"
+          ]
+        },
+        "info": {
+          "rank": "30",
+          "tier": "B",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "great origin and archetype, no double stagger combo and mediocre 1st column",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
       "Rufus's Fury": {
         "weapon_name": "Rufus's Fury",
         "version": "",
@@ -3556,7 +3603,7 @@
           ]
         },
         "info": {
-          "rank": "30",
+          "rank": "31",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -3606,7 +3653,7 @@
           ]
         },
         "info": {
-          "rank": "31",
+          "rank": "32",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -3655,7 +3702,7 @@
           ]
         },
         "info": {
-          "rank": "32",
+          "rank": "33",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -3704,53 +3751,6 @@
           ]
         },
         "info": {
-          "rank": "33",
-          "tier": "C",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "best archetype but very mediocre 1st column, arc splash is underwhelming, niche origin",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Come to Pass": {
-        "weapon_name": "Come to Pass",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel",
-            "Arrowhead Brake"
-          ],
-          "column2": [
-            "Alloy Magazine"
-          ],
-          "perk1": [
-            "Supercharged Magazine",
-            "Shoot to Loot"
-          ],
-          "perk2": [
-            "Jolting Feedback"
-          ],
-          "origin_trait": [
-            "Psychohack"
-          ]
-        },
-        "info": {
           "rank": "34",
           "tier": "C",
           "priority": "",
@@ -3760,7 +3760,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "great origin and archetype, no double stagger combo and mediocre 1st column",
+          "notes": "best archetype but very mediocre 1st column, arc splash is underwhelming, niche origin",
           "description": "",
           "alternatives": "",
           "analysis": {
