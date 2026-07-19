@@ -6,7 +6,7 @@
       "patch": "Pantheon 2.0"
     },
     "link": "https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY",
-    "scrape_date": "2026-07-19 01:52:35"
+    "scrape_date": "2026-07-19 16:47:05"
   },
   "workbooks": {
     "Shopping List": {
@@ -31641,7 +31641,8 @@
             "Accelerated Coils"
           ],
           "perk1": [
-            "Envious Arsenal"
+            "Envious Arsenal",
+            "Rapid Hit"
           ],
           "perk2": [
             "Precision Instrument"
