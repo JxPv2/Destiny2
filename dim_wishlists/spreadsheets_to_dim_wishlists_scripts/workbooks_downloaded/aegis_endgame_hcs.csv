@@ -1,5 +1,5 @@
 WEAPON,,INFO,,,,,,,PERKS,,,,,ANALYSIS,,
-🖼️,Name,Season,Energy,Frame,Source,Stun,Ammo,⬆️,Barrel,Mag,Perk 1,Perk 2,Origin Trait,Notes,Rank,Tier
+🖼️,Name,Season,Energy,Frame,Source,Stun,Ammo,⬆️,Barrel,Mag,Perk 1,Perk 2,Origin Trait,Notes,#,Tier
 ,Kindled Orchid,29,Void,Adaptive,Arena Ops,,60,Yes,Fluted Barrel,Alloy Magazine,"Repulsor Brace
 Shoot to Loot","Destabilizing Rounds
 Explosive Payload
@@ -13,7 +13,7 @@ Collective Action",Carrion Munitions,"most potent damage profile with almost eve
 Dragonfly
 Collective Demolition
 ","Destabilizing Rounds
-Master of Arms",Cursed Thrall,"great overall, strong but build-dependent origin, solid perks",3,S
+Master of Arms",Cursed Thrall,"great overall, strong but build-dependent origin, solid perks and better frame than Kindled",3,S
 ,Exalted Truth,29,Void,Adaptive,Trials,,58,Yes,Fluted Barrel,Alloy Magazine,"Destabilizing Rounds
 Withering Gaze",Repulsor Brace,Fleet Footed,"not particularly remarkable but has classic void combo on good frame, poor origin, only Withering option",4,S
 ,Modified B-7 Pistol,28,Stasis,Dynamic,Tharsis Outpost,,54,Yes,Fluted Barrel,Enhanced Heatsink,Firefly,"Headstone
@@ -80,7 +80,8 @@ Vorpal Weapon","Trench Barrel
 Cascade Point
 Desperate Measures",Häkke Breach Armaments,"pairs well with Lucky Pants when avoiding Out of Luck, honestly not much use otherwise",22,B
 ,Maahes HC4,29,Void,Heavy Burst,Banshee,,50,Yes,Fluted Barrel,Alloy Magazine,Repulsor Brace,"Destabilizing Rounds
-Golden Tricorn",Omolon Fluid Dynamics,"decent frame, not the best QoL, classic void combo, bad origin",23,B
+Golden Tricorn
+Frenzy",Omolon Fluid Dynamics,"decent frame, not the best QoL, classic void combo, bad origin",23,B
 ,Seventh Seraph Officer Revolver,29,Kinetic,Precision,Cosmodrome,,52,Yes,Fluted Barrel,Seraph Rounds,"Bewildering Burst
 Shoot to Loot",Explosive Payload,Eyes Up,"basically a worse Service Revolver for neutral, similar for StL + EP though",24,B
 ,Bold Endings,29,Stasis,Heavy Burst,Pale Heart,,49,Yes,Fluted Barrel,Alloy Magazine,"Headstone

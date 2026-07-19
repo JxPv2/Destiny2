@@ -6,7 +6,7 @@
       "patch": "Pantheon 2.0"
     },
     "link": "https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY",
-    "scrape_date": "2026-07-18 16:45:33"
+    "scrape_date": "2026-07-19 01:52:35"
   },
   "workbooks": {
     "Shopping List": {
@@ -2155,7 +2155,7 @@
           ]
         },
         "info": {
-          "rank": "1",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -2204,7 +2204,7 @@
           ]
         },
         "info": {
-          "rank": "2",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -2253,7 +2253,7 @@
           ]
         },
         "info": {
-          "rank": "3",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -2304,7 +2304,7 @@
           ]
         },
         "info": {
-          "rank": "4",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -2352,7 +2352,7 @@
           ]
         },
         "info": {
-          "rank": "5",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -2401,7 +2401,7 @@
           ]
         },
         "info": {
-          "rank": "6",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -2450,7 +2450,7 @@
           ]
         },
         "info": {
-          "rank": "7",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -2498,7 +2498,7 @@
           ]
         },
         "info": {
-          "rank": "8",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -2546,7 +2546,7 @@
           ]
         },
         "info": {
-          "rank": "9",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -2594,7 +2594,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "10",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -2642,7 +2642,7 @@
           ]
         },
         "info": {
-          "rank": "11",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -2689,7 +2689,7 @@
           ]
         },
         "info": {
-          "rank": "12",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -2736,7 +2736,7 @@
           ]
         },
         "info": {
-          "rank": "13",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -2784,7 +2784,7 @@
           ]
         },
         "info": {
-          "rank": "14",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -2833,7 +2833,7 @@
           ]
         },
         "info": {
-          "rank": "15",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -2881,7 +2881,7 @@
           ]
         },
         "info": {
-          "rank": "16",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -2932,7 +2932,7 @@
           ]
         },
         "info": {
-          "rank": "17",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -2980,7 +2980,7 @@
           ]
         },
         "info": {
-          "rank": "18",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -3027,7 +3027,7 @@
           ]
         },
         "info": {
-          "rank": "19",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -3075,7 +3075,7 @@
           ]
         },
         "info": {
-          "rank": "20",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -3124,7 +3124,7 @@
           ]
         },
         "info": {
-          "rank": "21",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -3171,7 +3171,7 @@
           ]
         },
         "info": {
-          "rank": "22",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -3220,7 +3220,7 @@
           ]
         },
         "info": {
-          "rank": "23",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -3268,7 +3268,7 @@
           ]
         },
         "info": {
-          "rank": "24",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -3315,7 +3315,7 @@
           ]
         },
         "info": {
-          "rank": "25",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -3363,7 +3363,7 @@
           ]
         },
         "info": {
-          "rank": "26",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -3399,7 +3399,8 @@
           ],
           "perk1": [
             "Reciprocity",
-            "Redirection"
+            "Redirection",
+            "Slice"
           ],
           "perk2": [
             "Hatchling",
@@ -3410,7 +3411,7 @@
           ]
         },
         "info": {
-          "rank": "27",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -3419,7 +3420,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "Physic is sadly useless, completely overshadowed by DECATUR",
+          "notes": "Physic is sadly useless, completely overshadowed by DECATUR, also no Slice any more",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -3458,7 +3459,7 @@
           ]
         },
         "info": {
-          "rank": "28",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -3508,7 +3509,7 @@
           ]
         },
         "info": {
-          "rank": "29",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -3555,7 +3556,7 @@
           ]
         },
         "info": {
-          "rank": "30",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -3603,7 +3604,7 @@
           ]
         },
         "info": {
-          "rank": "31",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -3653,7 +3654,7 @@
           ]
         },
         "info": {
-          "rank": "32",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -3702,7 +3703,7 @@
           ]
         },
         "info": {
-          "rank": "33",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -3751,7 +3752,7 @@
           ]
         },
         "info": {
-          "rank": "34",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -3799,7 +3800,7 @@
           ]
         },
         "info": {
-          "rank": "35",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -3846,7 +3847,7 @@
           ]
         },
         "info": {
-          "rank": "36",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -3894,7 +3895,7 @@
           ]
         },
         "info": {
-          "rank": "37",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -3943,7 +3944,7 @@
           ]
         },
         "info": {
-          "rank": "38",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -3992,7 +3993,7 @@
           ]
         },
         "info": {
-          "rank": "39",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -4041,7 +4042,7 @@
           ]
         },
         "info": {
-          "rank": "40",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -4088,7 +4089,7 @@
           ]
         },
         "info": {
-          "rank": "41",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -4136,7 +4137,7 @@
           ]
         },
         "info": {
-          "rank": "42",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -4184,7 +4185,7 @@
           ]
         },
         "info": {
-          "rank": "43",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -4232,7 +4233,7 @@
           ]
         },
         "info": {
-          "rank": "44",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -4280,7 +4281,7 @@
           ]
         },
         "info": {
-          "rank": "45",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -4327,7 +4328,7 @@
           ]
         },
         "info": {
-          "rank": "46",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -4374,7 +4375,7 @@
           ]
         },
         "info": {
-          "rank": "47",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -4422,7 +4423,7 @@
           ]
         },
         "info": {
-          "rank": "48",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -4469,7 +4470,7 @@
           ]
         },
         "info": {
-          "rank": "49",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -4517,7 +4518,7 @@
           ]
         },
         "info": {
-          "rank": "50",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -4565,7 +4566,7 @@
           ]
         },
         "info": {
-          "rank": "51",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -4612,7 +4613,7 @@
           ]
         },
         "info": {
-          "rank": "52",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -4659,7 +4660,7 @@
           ]
         },
         "info": {
-          "rank": "53",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -4706,7 +4707,7 @@
           ]
         },
         "info": {
-          "rank": "54",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -4753,7 +4754,7 @@
           ]
         },
         "info": {
-          "rank": "55",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -4802,7 +4803,7 @@
           ]
         },
         "info": {
-          "rank": "56",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -4849,7 +4850,7 @@
           ]
         },
         "info": {
-          "rank": "57",
+          "rank": "",
           "tier": "E",
           "priority": "",
           "role": "",
@@ -4895,7 +4896,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "58",
+          "rank": "",
           "tier": "E",
           "priority": "",
           "role": "",
@@ -4943,7 +4944,7 @@
           ]
         },
         "info": {
-          "rank": "59",
+          "rank": "",
           "tier": "E",
           "priority": "",
           "role": "",
@@ -4990,7 +4991,7 @@
           ]
         },
         "info": {
-          "rank": "60",
+          "rank": "",
           "tier": "E",
           "priority": "",
           "role": "",
@@ -5035,7 +5036,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "61",
+          "rank": "",
           "tier": "E",
           "priority": "",
           "role": "",
@@ -5083,7 +5084,7 @@
           ]
         },
         "info": {
-          "rank": "1",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -5130,7 +5131,7 @@
           ]
         },
         "info": {
-          "rank": "2",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -5176,7 +5177,7 @@
           ]
         },
         "info": {
-          "rank": "3",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -5225,7 +5226,7 @@
           ]
         },
         "info": {
-          "rank": "4",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -5271,7 +5272,7 @@
           ]
         },
         "info": {
-          "rank": "5",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -5320,7 +5321,7 @@
           ]
         },
         "info": {
-          "rank": "6",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -5368,7 +5369,7 @@
           ]
         },
         "info": {
-          "rank": "7",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -5416,7 +5417,7 @@
           ]
         },
         "info": {
-          "rank": "8",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -5462,7 +5463,7 @@
           ]
         },
         "info": {
-          "rank": "9",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -5509,7 +5510,7 @@
           ]
         },
         "info": {
-          "rank": "10",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -5558,7 +5559,7 @@
           ]
         },
         "info": {
-          "rank": "11",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -5606,7 +5607,7 @@
           ]
         },
         "info": {
-          "rank": "12",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -5653,7 +5654,7 @@
           ]
         },
         "info": {
-          "rank": "13",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -5700,7 +5701,7 @@
           ]
         },
         "info": {
-          "rank": "14",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -5746,7 +5747,7 @@
           ]
         },
         "info": {
-          "rank": "15",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -5792,7 +5793,7 @@
           ]
         },
         "info": {
-          "rank": "16",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -5837,7 +5838,7 @@
           ]
         },
         "info": {
-          "rank": "17",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -5880,7 +5881,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "18",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -5927,7 +5928,7 @@
           ]
         },
         "info": {
-          "rank": "19",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -5973,7 +5974,7 @@
           ]
         },
         "info": {
-          "rank": "20",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -6019,7 +6020,7 @@
           ]
         },
         "info": {
-          "rank": "21",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -6065,7 +6066,7 @@
           ]
         },
         "info": {
-          "rank": "22",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -6109,7 +6110,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "23",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -6154,7 +6155,7 @@
           ]
         },
         "info": {
-          "rank": "24",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -6199,7 +6200,7 @@
           ]
         },
         "info": {
-          "rank": "25",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -6245,7 +6246,7 @@
           ]
         },
         "info": {
-          "rank": "26",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -6288,7 +6289,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "27",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -6336,7 +6337,7 @@
           ]
         },
         "info": {
-          "rank": "28",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -6386,7 +6387,7 @@
           ]
         },
         "info": {
-          "rank": "1",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -6435,7 +6436,7 @@
           ]
         },
         "info": {
-          "rank": "2",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -6483,7 +6484,7 @@
           ]
         },
         "info": {
-          "rank": "3",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -6492,7 +6493,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "great overall, strong but build-dependent origin, solid perks",
+          "notes": "great overall, strong but build-dependent origin, solid perks and better frame than Kindled",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -6529,7 +6530,7 @@
           ]
         },
         "info": {
-          "rank": "4",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -6575,7 +6576,7 @@
           ]
         },
         "info": {
-          "rank": "5",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -6624,7 +6625,7 @@
           ]
         },
         "info": {
-          "rank": "6",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -6672,7 +6673,7 @@
           ]
         },
         "info": {
-          "rank": "7",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -6720,7 +6721,7 @@
           ]
         },
         "info": {
-          "rank": "8",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -6769,7 +6770,7 @@
           ]
         },
         "info": {
-          "rank": "9",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -6817,7 +6818,7 @@
           ]
         },
         "info": {
-          "rank": "10",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -6864,7 +6865,7 @@
           ]
         },
         "info": {
-          "rank": "11",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -6911,7 +6912,7 @@
           ]
         },
         "info": {
-          "rank": "12",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -6959,7 +6960,7 @@
           ]
         },
         "info": {
-          "rank": "13",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -7007,7 +7008,7 @@
           ]
         },
         "info": {
-          "rank": "14",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -7050,7 +7051,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "15",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -7098,7 +7099,7 @@
           ]
         },
         "info": {
-          "rank": "16",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -7146,7 +7147,7 @@
           ]
         },
         "info": {
-          "rank": "17",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -7195,7 +7196,7 @@
           ]
         },
         "info": {
-          "rank": "18",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -7241,7 +7242,7 @@
           ]
         },
         "info": {
-          "rank": "19",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -7287,7 +7288,7 @@
           ]
         },
         "info": {
-          "rank": "20",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -7333,7 +7334,7 @@
           ]
         },
         "info": {
-          "rank": "21",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -7381,7 +7382,7 @@
           ]
         },
         "info": {
-          "rank": "22",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -7420,14 +7421,15 @@
           ],
           "perk2": [
             "Destabilizing Rounds",
-            "Golden Tricorn"
+            "Golden Tricorn",
+            "Frenzy"
           ],
           "origin_trait": [
             "Omolon Fluid Dynamics"
           ]
         },
         "info": {
-          "rank": "23",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -7473,7 +7475,7 @@
           ]
         },
         "info": {
-          "rank": "24",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -7519,7 +7521,7 @@
           ]
         },
         "info": {
-          "rank": "25",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -7567,7 +7569,7 @@
           ]
         },
         "info": {
-          "rank": "26",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -7614,7 +7616,7 @@
           ]
         },
         "info": {
-          "rank": "27",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -7662,7 +7664,7 @@
           ]
         },
         "info": {
-          "rank": "28",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -7710,7 +7712,7 @@
           ]
         },
         "info": {
-          "rank": "29",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -7756,7 +7758,7 @@
           ]
         },
         "info": {
-          "rank": "30",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -7802,7 +7804,7 @@
           ]
         },
         "info": {
-          "rank": "31",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -7847,7 +7849,7 @@
           ]
         },
         "info": {
-          "rank": "32",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -7895,7 +7897,7 @@
           ]
         },
         "info": {
-          "rank": "33",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -7938,7 +7940,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "34",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -7985,7 +7987,7 @@
           ]
         },
         "info": {
-          "rank": "35",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -8031,7 +8033,7 @@
           ]
         },
         "info": {
-          "rank": "36",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -8076,7 +8078,7 @@
           ]
         },
         "info": {
-          "rank": "37",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -8121,7 +8123,7 @@
           ]
         },
         "info": {
-          "rank": "38",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -8167,7 +8169,7 @@
           ]
         },
         "info": {
-          "rank": "39",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -8214,7 +8216,7 @@
           ]
         },
         "info": {
-          "rank": "40",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -8260,7 +8262,7 @@
           ]
         },
         "info": {
-          "rank": "41",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -8306,7 +8308,7 @@
           ]
         },
         "info": {
-          "rank": "42",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -8353,7 +8355,7 @@
           ]
         },
         "info": {
-          "rank": "43",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -8399,7 +8401,7 @@
           ]
         },
         "info": {
-          "rank": "44",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -8445,7 +8447,7 @@
           ]
         },
         "info": {
-          "rank": "45",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -8492,7 +8494,7 @@
           ]
         },
         "info": {
-          "rank": "46",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -8537,7 +8539,7 @@
           ]
         },
         "info": {
-          "rank": "47",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -8582,7 +8584,7 @@
           ]
         },
         "info": {
-          "rank": "48",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -8627,7 +8629,7 @@
           ]
         },
         "info": {
-          "rank": "49",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -8674,7 +8676,7 @@
           ]
         },
         "info": {
-          "rank": "50",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -8720,7 +8722,7 @@
           ]
         },
         "info": {
-          "rank": "51",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -8765,7 +8767,7 @@
           ]
         },
         "info": {
-          "rank": "52",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -8813,7 +8815,7 @@
           ]
         },
         "info": {
-          "rank": "53",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -8858,7 +8860,7 @@
           ]
         },
         "info": {
-          "rank": "54",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -8904,7 +8906,7 @@
           ]
         },
         "info": {
-          "rank": "55",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -8949,7 +8951,7 @@
           ]
         },
         "info": {
-          "rank": "56",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -8993,7 +8995,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "57",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -9037,7 +9039,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "58",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -9083,7 +9085,7 @@
           ]
         },
         "info": {
-          "rank": "59",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -9128,7 +9130,7 @@
           ]
         },
         "info": {
-          "rank": "60",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -9173,7 +9175,7 @@
           ]
         },
         "info": {
-          "rank": "61",
+          "rank": "",
           "tier": "E",
           "priority": "",
           "role": "",
@@ -9223,7 +9225,7 @@
           ]
         },
         "info": {
-          "rank": "62",
+          "rank": "",
           "tier": "E",
           "priority": "",
           "role": "",
@@ -9271,7 +9273,7 @@
           ]
         },
         "info": {
-          "rank": "63",
+          "rank": "",
           "tier": "E",
           "priority": "",
           "role": "",
@@ -9317,7 +9319,7 @@
           ]
         },
         "info": {
-          "rank": "64",
+          "rank": "",
           "tier": "E",
           "priority": "",
           "role": "",
@@ -9362,7 +9364,7 @@
           ]
         },
         "info": {
-          "rank": "65",
+          "rank": "",
           "tier": "E",
           "priority": "",
           "role": "",
@@ -9407,7 +9409,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "66",
+          "rank": "",
           "tier": "E",
           "priority": "",
           "role": "",
@@ -9450,7 +9452,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "67",
+          "rank": "",
           "tier": "E",
           "priority": "",
           "role": "",
@@ -9495,7 +9497,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "68",
+          "rank": "",
           "tier": "E",
           "priority": "",
           "role": "",
@@ -9547,7 +9549,7 @@
           ]
         },
         "info": {
-          "rank": "1",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -9596,7 +9598,7 @@
           ]
         },
         "info": {
-          "rank": "2",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -9645,7 +9647,7 @@
           ]
         },
         "info": {
-          "rank": "3",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -9694,7 +9696,7 @@
           ]
         },
         "info": {
-          "rank": "4",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -9743,7 +9745,7 @@
           ]
         },
         "info": {
-          "rank": "5",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -9793,7 +9795,7 @@
           ]
         },
         "info": {
-          "rank": "6",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -9842,7 +9844,7 @@
           ]
         },
         "info": {
-          "rank": "7",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -9892,7 +9894,7 @@
           ]
         },
         "info": {
-          "rank": "8",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -9943,7 +9945,7 @@
           ]
         },
         "info": {
-          "rank": "9",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -9991,7 +9993,7 @@
           ]
         },
         "info": {
-          "rank": "10",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -10039,7 +10041,7 @@
           ]
         },
         "info": {
-          "rank": "11",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -10089,7 +10091,7 @@
           ]
         },
         "info": {
-          "rank": "12",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -10134,7 +10136,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "13",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -10183,7 +10185,7 @@
           ]
         },
         "info": {
-          "rank": "14",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -10231,7 +10233,7 @@
           ]
         },
         "info": {
-          "rank": "15",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -10280,7 +10282,7 @@
           ]
         },
         "info": {
-          "rank": "16",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -10330,7 +10332,7 @@
           ]
         },
         "info": {
-          "rank": "17",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -10379,7 +10381,7 @@
           ]
         },
         "info": {
-          "rank": "18",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -10427,7 +10429,7 @@
           ]
         },
         "info": {
-          "rank": "19",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -10473,7 +10475,7 @@
           ]
         },
         "info": {
-          "rank": "20",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -10521,7 +10523,7 @@
           ]
         },
         "info": {
-          "rank": "21",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -10569,7 +10571,7 @@
           ]
         },
         "info": {
-          "rank": "22",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -10616,7 +10618,7 @@
           ]
         },
         "info": {
-          "rank": "23",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -10663,7 +10665,7 @@
           ]
         },
         "info": {
-          "rank": "24",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -10709,7 +10711,7 @@
           ]
         },
         "info": {
-          "rank": "25",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -10758,7 +10760,7 @@
           ]
         },
         "info": {
-          "rank": "26",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -10808,7 +10810,7 @@
           ]
         },
         "info": {
-          "rank": "27",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -10857,7 +10859,7 @@
           ]
         },
         "info": {
-          "rank": "28",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -10906,7 +10908,7 @@
           ]
         },
         "info": {
-          "rank": "29",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -10955,7 +10957,7 @@
           ]
         },
         "info": {
-          "rank": "30",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -11002,7 +11004,7 @@
           ]
         },
         "info": {
-          "rank": "31",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -11050,7 +11052,7 @@
           ]
         },
         "info": {
-          "rank": "32",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -11096,7 +11098,7 @@
           ]
         },
         "info": {
-          "rank": "33",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -11142,7 +11144,7 @@
           ]
         },
         "info": {
-          "rank": "34",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -11188,7 +11190,7 @@
           ]
         },
         "info": {
-          "rank": "35",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -11236,7 +11238,7 @@
           ]
         },
         "info": {
-          "rank": "36",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -11283,7 +11285,7 @@
           ]
         },
         "info": {
-          "rank": "37",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -11330,7 +11332,7 @@
           ]
         },
         "info": {
-          "rank": "38",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -11376,7 +11378,7 @@
           ]
         },
         "info": {
-          "rank": "39",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -11422,7 +11424,7 @@
           ]
         },
         "info": {
-          "rank": "40",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -11468,7 +11470,7 @@
           ]
         },
         "info": {
-          "rank": "41",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -11514,7 +11516,7 @@
           ]
         },
         "info": {
-          "rank": "42",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -11560,7 +11562,7 @@
           ]
         },
         "info": {
-          "rank": "43",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -11607,7 +11609,7 @@
           ]
         },
         "info": {
-          "rank": "44",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -11655,7 +11657,7 @@
           ]
         },
         "info": {
-          "rank": "45",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -11703,7 +11705,7 @@
           ]
         },
         "info": {
-          "rank": "46",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -11750,7 +11752,7 @@
           ]
         },
         "info": {
-          "rank": "47",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -11799,7 +11801,7 @@
           ]
         },
         "info": {
-          "rank": "48",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -11848,7 +11850,7 @@
           ]
         },
         "info": {
-          "rank": "49",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -11896,7 +11898,7 @@
           ]
         },
         "info": {
-          "rank": "50",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -11943,7 +11945,7 @@
           ]
         },
         "info": {
-          "rank": "51",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -11990,7 +11992,7 @@
           ]
         },
         "info": {
-          "rank": "52",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -12038,7 +12040,7 @@
           ]
         },
         "info": {
-          "rank": "53",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -12088,7 +12090,7 @@
           ]
         },
         "info": {
-          "rank": "54",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -12136,7 +12138,7 @@
           ]
         },
         "info": {
-          "rank": "55",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -12184,7 +12186,7 @@
           ]
         },
         "info": {
-          "rank": "56",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -12229,7 +12231,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "57",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -12275,7 +12277,7 @@
           ]
         },
         "info": {
-          "rank": "58",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -12320,7 +12322,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "59",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -12371,7 +12373,7 @@
           ]
         },
         "info": {
-          "rank": "1",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -12418,7 +12420,7 @@
           ]
         },
         "info": {
-          "rank": "2",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -12465,7 +12467,7 @@
           ]
         },
         "info": {
-          "rank": "3",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -12513,7 +12515,7 @@
           ]
         },
         "info": {
-          "rank": "4",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -12562,7 +12564,7 @@
           ]
         },
         "info": {
-          "rank": "5",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -12610,7 +12612,7 @@
           ]
         },
         "info": {
-          "rank": "6",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -12657,7 +12659,7 @@
           ]
         },
         "info": {
-          "rank": "7",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -12706,7 +12708,7 @@
           ]
         },
         "info": {
-          "rank": "8",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -12754,7 +12756,7 @@
           ]
         },
         "info": {
-          "rank": "9",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -12803,7 +12805,7 @@
           ]
         },
         "info": {
-          "rank": "10",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -12851,7 +12853,7 @@
           ]
         },
         "info": {
-          "rank": "11",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -12898,7 +12900,7 @@
           ]
         },
         "info": {
-          "rank": "12",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -12946,7 +12948,7 @@
           ]
         },
         "info": {
-          "rank": "13",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -12992,7 +12994,7 @@
           ]
         },
         "info": {
-          "rank": "14",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -13039,7 +13041,7 @@
           ]
         },
         "info": {
-          "rank": "15",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -13087,7 +13089,7 @@
           ]
         },
         "info": {
-          "rank": "16",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -13135,7 +13137,7 @@
           ]
         },
         "info": {
-          "rank": "17",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -13181,7 +13183,7 @@
           ]
         },
         "info": {
-          "rank": "18",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -13229,7 +13231,7 @@
           ]
         },
         "info": {
-          "rank": "19",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -13274,7 +13276,7 @@
           ]
         },
         "info": {
-          "rank": "20",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -13321,7 +13323,7 @@
           ]
         },
         "info": {
-          "rank": "21",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -13369,7 +13371,7 @@
           ]
         },
         "info": {
-          "rank": "22",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -13416,7 +13418,7 @@
           ]
         },
         "info": {
-          "rank": "23",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -13463,7 +13465,7 @@
           ]
         },
         "info": {
-          "rank": "24",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -13509,7 +13511,7 @@
           ]
         },
         "info": {
-          "rank": "25",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -13556,7 +13558,7 @@
           ]
         },
         "info": {
-          "rank": "26",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -13601,7 +13603,7 @@
           ]
         },
         "info": {
-          "rank": "27",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -13647,7 +13649,7 @@
           ]
         },
         "info": {
-          "rank": "28",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -13695,7 +13697,7 @@
           ]
         },
         "info": {
-          "rank": "29",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -13742,7 +13744,7 @@
           ]
         },
         "info": {
-          "rank": "30",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -13787,7 +13789,7 @@
           ]
         },
         "info": {
-          "rank": "31",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -13833,7 +13835,7 @@
           ]
         },
         "info": {
-          "rank": "32",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -13880,7 +13882,7 @@
           ]
         },
         "info": {
-          "rank": "33",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -13927,7 +13929,7 @@
           ]
         },
         "info": {
-          "rank": "34",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -13973,7 +13975,7 @@
           ]
         },
         "info": {
-          "rank": "35",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -14020,7 +14022,7 @@
           ]
         },
         "info": {
-          "rank": "36",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -14066,7 +14068,7 @@
           ]
         },
         "info": {
-          "rank": "37",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -14112,7 +14114,7 @@
           ]
         },
         "info": {
-          "rank": "38",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -14158,7 +14160,7 @@
           ]
         },
         "info": {
-          "rank": "39",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -14203,7 +14205,7 @@
           ]
         },
         "info": {
-          "rank": "40",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -14249,7 +14251,7 @@
           ]
         },
         "info": {
-          "rank": "41",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -14292,7 +14294,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "42",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -14338,7 +14340,7 @@
           ]
         },
         "info": {
-          "rank": "43",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -14381,7 +14383,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "44",
+          "rank": "",
           "tier": "E",
           "priority": "",
           "role": "",
@@ -14424,7 +14426,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "45",
+          "rank": "",
           "tier": "E",
           "priority": "",
           "role": "",
@@ -14468,7 +14470,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "46",
+          "rank": "",
           "tier": "E",
           "priority": "",
           "role": "",
@@ -14516,7 +14518,7 @@
           ]
         },
         "info": {
-          "rank": "47",
+          "rank": "",
           "tier": "E",
           "priority": "",
           "role": "",
@@ -14560,7 +14562,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "48",
+          "rank": "",
           "tier": "E",
           "priority": "",
           "role": "",
@@ -14607,7 +14609,7 @@
           ]
         },
         "info": {
-          "rank": "1",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -14656,7 +14658,7 @@
           ]
         },
         "info": {
-          "rank": "2",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -14704,7 +14706,7 @@
           ]
         },
         "info": {
-          "rank": "3",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -14751,7 +14753,7 @@
           ]
         },
         "info": {
-          "rank": "4",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -14800,7 +14802,7 @@
           ]
         },
         "info": {
-          "rank": "5",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -14847,7 +14849,7 @@
           ]
         },
         "info": {
-          "rank": "6",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -14893,7 +14895,7 @@
           ]
         },
         "info": {
-          "rank": "7",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -14939,7 +14941,7 @@
           ]
         },
         "info": {
-          "rank": "8",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -14985,7 +14987,7 @@
           ]
         },
         "info": {
-          "rank": "9",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -15032,7 +15034,7 @@
           ]
         },
         "info": {
-          "rank": "10",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -15079,7 +15081,7 @@
           ]
         },
         "info": {
-          "rank": "11",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -15125,7 +15127,7 @@
           ]
         },
         "info": {
-          "rank": "12",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -15172,7 +15174,7 @@
           ]
         },
         "info": {
-          "rank": "13",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -15217,7 +15219,7 @@
           ]
         },
         "info": {
-          "rank": "14",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -15264,7 +15266,7 @@
           ]
         },
         "info": {
-          "rank": "15",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -15312,7 +15314,7 @@
           ]
         },
         "info": {
-          "rank": "16",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -15357,7 +15359,7 @@
           ]
         },
         "info": {
-          "rank": "17",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -15406,7 +15408,7 @@
           ]
         },
         "info": {
-          "rank": "18",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -15455,7 +15457,7 @@
           ]
         },
         "info": {
-          "rank": "19",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -15503,7 +15505,7 @@
           ]
         },
         "info": {
-          "rank": "20",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -15549,7 +15551,7 @@
           ]
         },
         "info": {
-          "rank": "21",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -15596,7 +15598,7 @@
           ]
         },
         "info": {
-          "rank": "22",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -15642,7 +15644,7 @@
           ]
         },
         "info": {
-          "rank": "23",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -15688,7 +15690,7 @@
           ]
         },
         "info": {
-          "rank": "24",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -15735,7 +15737,7 @@
           ]
         },
         "info": {
-          "rank": "25",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -15783,7 +15785,7 @@
           ]
         },
         "info": {
-          "rank": "26",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -15831,7 +15833,7 @@
           ]
         },
         "info": {
-          "rank": "27",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -15878,7 +15880,7 @@
           ]
         },
         "info": {
-          "rank": "28",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -15926,7 +15928,7 @@
           ]
         },
         "info": {
-          "rank": "29",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -15971,7 +15973,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "30",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -16015,7 +16017,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "31",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -16061,7 +16063,7 @@
           ]
         },
         "info": {
-          "rank": "32",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -16109,7 +16111,7 @@
           ]
         },
         "info": {
-          "rank": "33",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -16154,7 +16156,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "34",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -16201,7 +16203,7 @@
           ]
         },
         "info": {
-          "rank": "35",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -16245,7 +16247,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "36",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -16290,7 +16292,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "37",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -16334,7 +16336,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "38",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -16386,7 +16388,7 @@
           ]
         },
         "info": {
-          "rank": "1",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -16433,7 +16435,7 @@
           ]
         },
         "info": {
-          "rank": "2",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -16481,7 +16483,7 @@
           ]
         },
         "info": {
-          "rank": "3",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -16530,7 +16532,7 @@
           ]
         },
         "info": {
-          "rank": "4",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -16576,7 +16578,7 @@
           ]
         },
         "info": {
-          "rank": "5",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -16625,7 +16627,7 @@
           ]
         },
         "info": {
-          "rank": "6",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -16674,7 +16676,7 @@
           ]
         },
         "info": {
-          "rank": "7",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -16719,7 +16721,7 @@
           ]
         },
         "info": {
-          "rank": "8",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -16767,7 +16769,7 @@
           ]
         },
         "info": {
-          "rank": "9",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -16815,7 +16817,7 @@
           ]
         },
         "info": {
-          "rank": "10",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -16864,7 +16866,7 @@
           ]
         },
         "info": {
-          "rank": "11",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -16913,7 +16915,7 @@
           ]
         },
         "info": {
-          "rank": "12",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -16961,7 +16963,7 @@
           ]
         },
         "info": {
-          "rank": "13",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -17010,7 +17012,7 @@
           ]
         },
         "info": {
-          "rank": "14",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -17058,7 +17060,7 @@
           ]
         },
         "info": {
-          "rank": "15",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -17106,7 +17108,7 @@
           ]
         },
         "info": {
-          "rank": "16",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -17153,7 +17155,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "17",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -17201,7 +17203,7 @@
           ]
         },
         "info": {
-          "rank": "18",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -17247,7 +17249,7 @@
           ]
         },
         "info": {
-          "rank": "19",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -17293,7 +17295,7 @@
           ]
         },
         "info": {
-          "rank": "20",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -17340,7 +17342,7 @@
           ]
         },
         "info": {
-          "rank": "21",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -17388,7 +17390,7 @@
           ]
         },
         "info": {
-          "rank": "22",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -17436,7 +17438,7 @@
           ]
         },
         "info": {
-          "rank": "23",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -17484,7 +17486,7 @@
           ]
         },
         "info": {
-          "rank": "24",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -17531,7 +17533,7 @@
           ]
         },
         "info": {
-          "rank": "25",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -17578,7 +17580,7 @@
           ]
         },
         "info": {
-          "rank": "26",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -17623,7 +17625,7 @@
           ]
         },
         "info": {
-          "rank": "27",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -17672,7 +17674,7 @@
           ]
         },
         "info": {
-          "rank": "28",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -17719,7 +17721,7 @@
           ]
         },
         "info": {
-          "rank": "29",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -17767,7 +17769,7 @@
           ]
         },
         "info": {
-          "rank": "30",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -17814,7 +17816,7 @@
           ]
         },
         "info": {
-          "rank": "31",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -17859,7 +17861,7 @@
           ]
         },
         "info": {
-          "rank": "32",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -17906,7 +17908,7 @@
           ]
         },
         "info": {
-          "rank": "33",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -17953,7 +17955,7 @@
           ]
         },
         "info": {
-          "rank": "34",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -18000,7 +18002,7 @@
           ]
         },
         "info": {
-          "rank": "35",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -18048,7 +18050,7 @@
           ]
         },
         "info": {
-          "rank": "36",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -18095,7 +18097,7 @@
           ]
         },
         "info": {
-          "rank": "37",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -18142,7 +18144,7 @@
           ]
         },
         "info": {
-          "rank": "38",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -18188,7 +18190,7 @@
           ]
         },
         "info": {
-          "rank": "39",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -18235,7 +18237,7 @@
           ]
         },
         "info": {
-          "rank": "40",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -18284,7 +18286,7 @@
           ]
         },
         "info": {
-          "rank": "41",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -18330,7 +18332,7 @@
           ]
         },
         "info": {
-          "rank": "42",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -18378,7 +18380,7 @@
           ]
         },
         "info": {
-          "rank": "43",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -18425,7 +18427,7 @@
           ]
         },
         "info": {
-          "rank": "44",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -18474,7 +18476,7 @@
           ]
         },
         "info": {
-          "rank": "45",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -18521,7 +18523,7 @@
           ]
         },
         "info": {
-          "rank": "46",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -18565,7 +18567,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "47",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -18611,7 +18613,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "48",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -18657,7 +18659,7 @@
           ]
         },
         "info": {
-          "rank": "49",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -18703,7 +18705,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "50",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -18748,7 +18750,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "51",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -18795,7 +18797,7 @@
           ]
         },
         "info": {
-          "rank": "52",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -18843,7 +18845,7 @@
           ]
         },
         "info": {
-          "rank": "53",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -18894,7 +18896,7 @@
           ]
         },
         "info": {
-          "rank": "1",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -18943,7 +18945,7 @@
           ]
         },
         "info": {
-          "rank": "2",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -18994,7 +18996,7 @@
           ]
         },
         "info": {
-          "rank": "3",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -19043,7 +19045,7 @@
           ]
         },
         "info": {
-          "rank": "4",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -19092,7 +19094,7 @@
           ]
         },
         "info": {
-          "rank": "5",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -19139,7 +19141,7 @@
           ]
         },
         "info": {
-          "rank": "6",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -19188,7 +19190,7 @@
           ]
         },
         "info": {
-          "rank": "7",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -19235,7 +19237,7 @@
           ]
         },
         "info": {
-          "rank": "8",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -19284,7 +19286,7 @@
           ]
         },
         "info": {
-          "rank": "9",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -19333,7 +19335,7 @@
           ]
         },
         "info": {
-          "rank": "10",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -19381,7 +19383,7 @@
           ]
         },
         "info": {
-          "rank": "11",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -19429,7 +19431,7 @@
           ]
         },
         "info": {
-          "rank": "12",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -19478,7 +19480,7 @@
           ]
         },
         "info": {
-          "rank": "13",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -19524,7 +19526,7 @@
           ]
         },
         "info": {
-          "rank": "14",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -19570,7 +19572,7 @@
           ]
         },
         "info": {
-          "rank": "15",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -19618,7 +19620,7 @@
           ]
         },
         "info": {
-          "rank": "16",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -19666,7 +19668,7 @@
           ]
         },
         "info": {
-          "rank": "17",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -19714,7 +19716,7 @@
           ]
         },
         "info": {
-          "rank": "18",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -19761,7 +19763,7 @@
           ]
         },
         "info": {
-          "rank": "19",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -19809,7 +19811,7 @@
           ]
         },
         "info": {
-          "rank": "20",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -19857,7 +19859,7 @@
           ]
         },
         "info": {
-          "rank": "21",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -19903,7 +19905,7 @@
           ]
         },
         "info": {
-          "rank": "22",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -19950,7 +19952,7 @@
           ]
         },
         "info": {
-          "rank": "23",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -20000,7 +20002,7 @@
           ]
         },
         "info": {
-          "rank": "24",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -20046,7 +20048,7 @@
           ]
         },
         "info": {
-          "rank": "25",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -20094,7 +20096,7 @@
           ]
         },
         "info": {
-          "rank": "26",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -20141,7 +20143,7 @@
           ]
         },
         "info": {
-          "rank": "27",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -20187,7 +20189,7 @@
           ]
         },
         "info": {
-          "rank": "28",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -20232,7 +20234,7 @@
           ]
         },
         "info": {
-          "rank": "29",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -20275,7 +20277,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "30",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -20320,7 +20322,7 @@
           ]
         },
         "info": {
-          "rank": "31",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -20364,7 +20366,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "32",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -20409,7 +20411,7 @@
           ]
         },
         "info": {
-          "rank": "33",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -20454,7 +20456,7 @@
           ]
         },
         "info": {
-          "rank": "34",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -20504,7 +20506,7 @@
           ]
         },
         "info": {
-          "rank": "1",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -20551,7 +20553,7 @@
           ]
         },
         "info": {
-          "rank": "2",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -20600,7 +20602,7 @@
           ]
         },
         "info": {
-          "rank": "3",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -20649,7 +20651,7 @@
           ]
         },
         "info": {
-          "rank": "4",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -20696,7 +20698,7 @@
           ]
         },
         "info": {
-          "rank": "5",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -20745,7 +20747,7 @@
           ]
         },
         "info": {
-          "rank": "6",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -20795,7 +20797,7 @@
           ]
         },
         "info": {
-          "rank": "7",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -20841,7 +20843,7 @@
           ]
         },
         "info": {
-          "rank": "8",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -20888,7 +20890,7 @@
           ]
         },
         "info": {
-          "rank": "9",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -20936,7 +20938,7 @@
           ]
         },
         "info": {
-          "rank": "10",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -20983,7 +20985,7 @@
           ]
         },
         "info": {
-          "rank": "11",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -21030,7 +21032,7 @@
           ]
         },
         "info": {
-          "rank": "12",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -21077,7 +21079,7 @@
           ]
         },
         "info": {
-          "rank": "13",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -21125,7 +21127,7 @@
           ]
         },
         "info": {
-          "rank": "14",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -21173,7 +21175,7 @@
           ]
         },
         "info": {
-          "rank": "15",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -21222,7 +21224,7 @@
           ]
         },
         "info": {
-          "rank": "16",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -21270,7 +21272,7 @@
           ]
         },
         "info": {
-          "rank": "17",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -21318,7 +21320,7 @@
           ]
         },
         "info": {
-          "rank": "18",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -21367,7 +21369,7 @@
           ]
         },
         "info": {
-          "rank": "19",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -21416,7 +21418,7 @@
           ]
         },
         "info": {
-          "rank": "20",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -21465,7 +21467,7 @@
           ]
         },
         "info": {
-          "rank": "21",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -21511,7 +21513,7 @@
           ]
         },
         "info": {
-          "rank": "22",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -21559,7 +21561,7 @@
           ]
         },
         "info": {
-          "rank": "23",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -21607,7 +21609,7 @@
           ]
         },
         "info": {
-          "rank": "24",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -21656,7 +21658,7 @@
           ]
         },
         "info": {
-          "rank": "25",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -21703,7 +21705,7 @@
           ]
         },
         "info": {
-          "rank": "26",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -21750,7 +21752,7 @@
           ]
         },
         "info": {
-          "rank": "27",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -21796,7 +21798,7 @@
           ]
         },
         "info": {
-          "rank": "28",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -21846,7 +21848,7 @@
           ]
         },
         "info": {
-          "rank": "29",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -21894,7 +21896,7 @@
           ]
         },
         "info": {
-          "rank": "30",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -21941,7 +21943,7 @@
           ]
         },
         "info": {
-          "rank": "31",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -21988,7 +21990,7 @@
           ]
         },
         "info": {
-          "rank": "32",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -22036,7 +22038,7 @@
           ]
         },
         "info": {
-          "rank": "33",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -22083,7 +22085,7 @@
           ]
         },
         "info": {
-          "rank": "34",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -22127,7 +22129,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "35",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -22174,7 +22176,7 @@
           ]
         },
         "info": {
-          "rank": "36",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -22220,7 +22222,7 @@
           ]
         },
         "info": {
-          "rank": "37",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -22266,7 +22268,7 @@
           ]
         },
         "info": {
-          "rank": "38",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -22314,7 +22316,7 @@
           ]
         },
         "info": {
-          "rank": "39",
+          "rank": "",
           "tier": "E",
           "priority": "",
           "role": "",
@@ -22361,7 +22363,7 @@
           ]
         },
         "info": {
-          "rank": "40",
+          "rank": "",
           "tier": "E",
           "priority": "",
           "role": "",
@@ -22408,7 +22410,7 @@
           ]
         },
         "info": {
-          "rank": "41",
+          "rank": "",
           "tier": "E",
           "priority": "",
           "role": "",
@@ -22452,7 +22454,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "42",
+          "rank": "",
           "tier": "E",
           "priority": "",
           "role": "",
@@ -22498,7 +22500,7 @@
           ]
         },
         "info": {
-          "rank": "43",
+          "rank": "",
           "tier": "E",
           "priority": "",
           "role": "",
@@ -22550,7 +22552,7 @@
           ]
         },
         "info": {
-          "rank": "1",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -22600,7 +22602,7 @@
           ]
         },
         "info": {
-          "rank": "2",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -22650,7 +22652,7 @@
           ]
         },
         "info": {
-          "rank": "3",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -22699,7 +22701,7 @@
           ]
         },
         "info": {
-          "rank": "4",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -22748,7 +22750,7 @@
           ]
         },
         "info": {
-          "rank": "5",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -22798,7 +22800,7 @@
           ]
         },
         "info": {
-          "rank": "6",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -22847,7 +22849,7 @@
           ]
         },
         "info": {
-          "rank": "7",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -22897,7 +22899,7 @@
           ]
         },
         "info": {
-          "rank": "8",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -22945,7 +22947,7 @@
           ]
         },
         "info": {
-          "rank": "9",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -22995,7 +22997,7 @@
           ]
         },
         "info": {
-          "rank": "10",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -23045,7 +23047,7 @@
           ]
         },
         "info": {
-          "rank": "11",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -23095,7 +23097,7 @@
           ]
         },
         "info": {
-          "rank": "12",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -23145,7 +23147,7 @@
           ]
         },
         "info": {
-          "rank": "13",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -23194,7 +23196,7 @@
           ]
         },
         "info": {
-          "rank": "14",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -23245,7 +23247,7 @@
           ]
         },
         "info": {
-          "rank": "1",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -23294,7 +23296,7 @@
           ]
         },
         "info": {
-          "rank": "2",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -23343,7 +23345,7 @@
           ]
         },
         "info": {
-          "rank": "3",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -23391,7 +23393,7 @@
           ]
         },
         "info": {
-          "rank": "4",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -23439,7 +23441,7 @@
           ]
         },
         "info": {
-          "rank": "5",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -23487,7 +23489,7 @@
           ]
         },
         "info": {
-          "rank": "6",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -23535,7 +23537,7 @@
           ]
         },
         "info": {
-          "rank": "7",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -23582,7 +23584,7 @@
           ]
         },
         "info": {
-          "rank": "8",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -23631,7 +23633,7 @@
           ]
         },
         "info": {
-          "rank": "9",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -23678,7 +23680,7 @@
           ]
         },
         "info": {
-          "rank": "10",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -23725,7 +23727,7 @@
           ]
         },
         "info": {
-          "rank": "11",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -23772,7 +23774,7 @@
           ]
         },
         "info": {
-          "rank": "12",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -23818,7 +23820,7 @@
           ]
         },
         "info": {
-          "rank": "13",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -23866,7 +23868,7 @@
           ]
         },
         "info": {
-          "rank": "14",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -23914,7 +23916,7 @@
           ]
         },
         "info": {
-          "rank": "15",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -23962,7 +23964,7 @@
           ]
         },
         "info": {
-          "rank": "16",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -24011,7 +24013,7 @@
           ]
         },
         "info": {
-          "rank": "17",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -24059,7 +24061,7 @@
           ]
         },
         "info": {
-          "rank": "18",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -24107,7 +24109,7 @@
           ]
         },
         "info": {
-          "rank": "19",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -24155,7 +24157,7 @@
           ]
         },
         "info": {
-          "rank": "20",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -24201,7 +24203,7 @@
           ]
         },
         "info": {
-          "rank": "21",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -24248,7 +24250,7 @@
           ]
         },
         "info": {
-          "rank": "22",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -24294,7 +24296,7 @@
           ]
         },
         "info": {
-          "rank": "23",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -24342,7 +24344,7 @@
           ]
         },
         "info": {
-          "rank": "24",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -24389,7 +24391,7 @@
           ]
         },
         "info": {
-          "rank": "25",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -24438,7 +24440,7 @@
           ]
         },
         "info": {
-          "rank": "26",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -24486,7 +24488,7 @@
           ]
         },
         "info": {
-          "rank": "27",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -24533,7 +24535,7 @@
           ]
         },
         "info": {
-          "rank": "28",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -24581,7 +24583,7 @@
           ]
         },
         "info": {
-          "rank": "29",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -24630,7 +24632,7 @@
           ]
         },
         "info": {
-          "rank": "30",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -24677,7 +24679,7 @@
           ]
         },
         "info": {
-          "rank": "31",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -24724,7 +24726,7 @@
           ]
         },
         "info": {
-          "rank": "32",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -24771,7 +24773,7 @@
           ]
         },
         "info": {
-          "rank": "33",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -24819,7 +24821,7 @@
           ]
         },
         "info": {
-          "rank": "34",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -24867,7 +24869,7 @@
           ]
         },
         "info": {
-          "rank": "35",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -24914,7 +24916,7 @@
           ]
         },
         "info": {
-          "rank": "36",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -24960,7 +24962,7 @@
           ]
         },
         "info": {
-          "rank": "37",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -25006,7 +25008,7 @@
           ]
         },
         "info": {
-          "rank": "38",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -25053,7 +25055,7 @@
           ]
         },
         "info": {
-          "rank": "39",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -25098,7 +25100,7 @@
           ]
         },
         "info": {
-          "rank": "40",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -25145,7 +25147,7 @@
           ]
         },
         "info": {
-          "rank": "41",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -25191,7 +25193,7 @@
           ]
         },
         "info": {
-          "rank": "42",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -25240,7 +25242,7 @@
           ]
         },
         "info": {
-          "rank": "43",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -25286,7 +25288,7 @@
           ]
         },
         "info": {
-          "rank": "44",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -25332,7 +25334,7 @@
           ]
         },
         "info": {
-          "rank": "45",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -25379,7 +25381,7 @@
           ]
         },
         "info": {
-          "rank": "46",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -25426,7 +25428,7 @@
           ]
         },
         "info": {
-          "rank": "47",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -25471,7 +25473,7 @@
           ]
         },
         "info": {
-          "rank": "48",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -25518,7 +25520,7 @@
           ]
         },
         "info": {
-          "rank": "49",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -25564,7 +25566,7 @@
           ]
         },
         "info": {
-          "rank": "50",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -25610,7 +25612,7 @@
           ]
         },
         "info": {
-          "rank": "51",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -25654,7 +25656,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "52",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -25700,7 +25702,7 @@
           ]
         },
         "info": {
-          "rank": "53",
+          "rank": "",
           "tier": "E",
           "priority": "",
           "role": "",
@@ -25747,7 +25749,7 @@
           ]
         },
         "info": {
-          "rank": "54",
+          "rank": "",
           "tier": "E",
           "priority": "",
           "role": "",
@@ -25791,7 +25793,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "55",
+          "rank": "",
           "tier": "E",
           "priority": "",
           "role": "",
@@ -25838,7 +25840,7 @@
           ]
         },
         "info": {
-          "rank": "56",
+          "rank": "",
           "tier": "E",
           "priority": "",
           "role": "",
@@ -25884,7 +25886,7 @@
           ]
         },
         "info": {
-          "rank": "57",
+          "rank": "",
           "tier": "E",
           "priority": "",
           "role": "",
@@ -25930,7 +25932,7 @@
           ]
         },
         "info": {
-          "rank": "58",
+          "rank": "",
           "tier": "E",
           "priority": "",
           "role": "",
@@ -25973,7 +25975,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "59",
+          "rank": "",
           "tier": "F",
           "priority": "",
           "role": "",
@@ -26016,7 +26018,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "60",
+          "rank": "",
           "tier": "F",
           "priority": "",
           "role": "",
@@ -26065,7 +26067,7 @@
           ]
         },
         "info": {
-          "rank": "1",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -26113,7 +26115,7 @@
           ]
         },
         "info": {
-          "rank": "2",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -26162,7 +26164,7 @@
           ]
         },
         "info": {
-          "rank": "3",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -26211,7 +26213,7 @@
           ]
         },
         "info": {
-          "rank": "4",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -26259,7 +26261,7 @@
           ]
         },
         "info": {
-          "rank": "5",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -26306,7 +26308,7 @@
           ]
         },
         "info": {
-          "rank": "6",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -26352,7 +26354,7 @@
           ]
         },
         "info": {
-          "rank": "7",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -26397,7 +26399,7 @@
           ]
         },
         "info": {
-          "rank": "8",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -26446,7 +26448,7 @@
           ]
         },
         "info": {
-          "rank": "9",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -26493,7 +26495,7 @@
           ]
         },
         "info": {
-          "rank": "10",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -26541,7 +26543,7 @@
           ]
         },
         "info": {
-          "rank": "11",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -26589,7 +26591,7 @@
           ]
         },
         "info": {
-          "rank": "12",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -26637,7 +26639,7 @@
           ]
         },
         "info": {
-          "rank": "13",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -26686,7 +26688,7 @@
           ]
         },
         "info": {
-          "rank": "14",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -26734,7 +26736,7 @@
           ]
         },
         "info": {
-          "rank": "15",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -26783,7 +26785,7 @@
           ]
         },
         "info": {
-          "rank": "16",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -26829,7 +26831,7 @@
           ]
         },
         "info": {
-          "rank": "17",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -26878,7 +26880,7 @@
           ]
         },
         "info": {
-          "rank": "18",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -26927,7 +26929,7 @@
           ]
         },
         "info": {
-          "rank": "19",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -26974,7 +26976,7 @@
           ]
         },
         "info": {
-          "rank": "20",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -27023,7 +27025,7 @@
           ]
         },
         "info": {
-          "rank": "21",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -27070,7 +27072,7 @@
           ]
         },
         "info": {
-          "rank": "22",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -27118,7 +27120,7 @@
           ]
         },
         "info": {
-          "rank": "23",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -27166,7 +27168,7 @@
           ]
         },
         "info": {
-          "rank": "24",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -27214,7 +27216,7 @@
           ]
         },
         "info": {
-          "rank": "25",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -27262,7 +27264,7 @@
           ]
         },
         "info": {
-          "rank": "26",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -27310,7 +27312,7 @@
           ]
         },
         "info": {
-          "rank": "27",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -27356,7 +27358,7 @@
           ]
         },
         "info": {
-          "rank": "28",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -27401,7 +27403,7 @@
           ]
         },
         "info": {
-          "rank": "29",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -27449,7 +27451,7 @@
           ]
         },
         "info": {
-          "rank": "30",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -27498,7 +27500,7 @@
           ]
         },
         "info": {
-          "rank": "31",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -27545,7 +27547,7 @@
           ]
         },
         "info": {
-          "rank": "32",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -27593,7 +27595,7 @@
           ]
         },
         "info": {
-          "rank": "33",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -27640,7 +27642,7 @@
           ]
         },
         "info": {
-          "rank": "34",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -27689,7 +27691,7 @@
           ]
         },
         "info": {
-          "rank": "35",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -27737,7 +27739,7 @@
           ]
         },
         "info": {
-          "rank": "36",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -27785,7 +27787,7 @@
           ]
         },
         "info": {
-          "rank": "37",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -27830,7 +27832,7 @@
           ]
         },
         "info": {
-          "rank": "38",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -27876,7 +27878,7 @@
           ]
         },
         "info": {
-          "rank": "39",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -27924,7 +27926,7 @@
           ]
         },
         "info": {
-          "rank": "40",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -27970,7 +27972,7 @@
           ]
         },
         "info": {
-          "rank": "41",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -28017,7 +28019,7 @@
           ]
         },
         "info": {
-          "rank": "42",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -28064,7 +28066,7 @@
           ]
         },
         "info": {
-          "rank": "43",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -28110,7 +28112,7 @@
           ]
         },
         "info": {
-          "rank": "44",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -28156,7 +28158,7 @@
           ]
         },
         "info": {
-          "rank": "45",
+          "rank": "",
           "tier": "E",
           "priority": "",
           "role": "",
@@ -28201,7 +28203,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "46",
+          "rank": "",
           "tier": "E",
           "priority": "",
           "role": "",
@@ -28248,7 +28250,7 @@
           ]
         },
         "info": {
-          "rank": "47",
+          "rank": "",
           "tier": "E",
           "priority": "",
           "role": "",
@@ -28293,7 +28295,7 @@
           ]
         },
         "info": {
-          "rank": "48",
+          "rank": "",
           "tier": "E",
           "priority": "",
           "role": "",
@@ -28336,7 +28338,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "49",
+          "rank": "",
           "tier": "E",
           "priority": "",
           "role": "",
@@ -28380,7 +28382,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "50",
+          "rank": "",
           "tier": "E",
           "priority": "",
           "role": "",
@@ -28425,7 +28427,7 @@
           ]
         },
         "info": {
-          "rank": "51",
+          "rank": "",
           "tier": "E",
           "priority": "",
           "role": "",
@@ -28468,7 +28470,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "52",
+          "rank": "",
           "tier": "E",
           "priority": "",
           "role": "",
@@ -28513,7 +28515,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "53",
+          "rank": "",
           "tier": "E",
           "priority": "",
           "role": "",
@@ -28559,7 +28561,7 @@
           ]
         },
         "info": {
-          "rank": "54",
+          "rank": "",
           "tier": "F",
           "priority": "",
           "role": "",
@@ -28604,7 +28606,7 @@
           ]
         },
         "info": {
-          "rank": "55",
+          "rank": "",
           "tier": "F",
           "priority": "",
           "role": "",
@@ -28648,7 +28650,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "56",
+          "rank": "",
           "tier": "F",
           "priority": "",
           "role": "",
@@ -28691,7 +28693,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "57",
+          "rank": "",
           "tier": "F",
           "priority": "",
           "role": "",
@@ -28743,7 +28745,7 @@
           ]
         },
         "info": {
-          "rank": "1",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -28793,7 +28795,7 @@
           ]
         },
         "info": {
-          "rank": "2",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -28845,7 +28847,7 @@
           ]
         },
         "info": {
-          "rank": "3",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -28895,7 +28897,7 @@
           ]
         },
         "info": {
-          "rank": "4",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -28944,7 +28946,7 @@
           ]
         },
         "info": {
-          "rank": "5",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -28994,7 +28996,7 @@
           ]
         },
         "info": {
-          "rank": "6",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -29044,7 +29046,7 @@
           ]
         },
         "info": {
-          "rank": "7",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -29093,7 +29095,7 @@
           ]
         },
         "info": {
-          "rank": "8",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -29142,7 +29144,7 @@
           ]
         },
         "info": {
-          "rank": "1",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -29190,7 +29192,7 @@
           ]
         },
         "info": {
-          "rank": "2",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -29236,7 +29238,7 @@
           ]
         },
         "info": {
-          "rank": "3",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -29284,7 +29286,7 @@
           ]
         },
         "info": {
-          "rank": "4",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -29332,7 +29334,7 @@
           ]
         },
         "info": {
-          "rank": "5",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -29381,7 +29383,7 @@
           ]
         },
         "info": {
-          "rank": "6",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -29427,7 +29429,7 @@
           ]
         },
         "info": {
-          "rank": "7",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -29473,7 +29475,7 @@
           ]
         },
         "info": {
-          "rank": "8",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -29522,7 +29524,7 @@
           ]
         },
         "info": {
-          "rank": "9",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -29571,7 +29573,7 @@
           ]
         },
         "info": {
-          "rank": "10",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -29616,7 +29618,7 @@
           ]
         },
         "info": {
-          "rank": "11",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -29663,7 +29665,7 @@
           ]
         },
         "info": {
-          "rank": "12",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -29715,7 +29717,7 @@
           ]
         },
         "info": {
-          "rank": "1",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -29763,7 +29765,7 @@
           ]
         },
         "info": {
-          "rank": "2",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -29811,7 +29813,7 @@
           ]
         },
         "info": {
-          "rank": "3",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -29861,7 +29863,7 @@
           ]
         },
         "info": {
-          "rank": "4",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -29910,7 +29912,7 @@
           ]
         },
         "info": {
-          "rank": "5",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -29957,7 +29959,7 @@
           ]
         },
         "info": {
-          "rank": "6",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -30005,7 +30007,7 @@
           ]
         },
         "info": {
-          "rank": "7",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -30052,7 +30054,7 @@
           ]
         },
         "info": {
-          "rank": "8",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -30100,7 +30102,7 @@
           ]
         },
         "info": {
-          "rank": "9",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -30148,7 +30150,7 @@
           ]
         },
         "info": {
-          "rank": "10",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -30196,7 +30198,7 @@
           ]
         },
         "info": {
-          "rank": "11",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -30246,7 +30248,7 @@
           ]
         },
         "info": {
-          "rank": "12",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -30295,7 +30297,7 @@
           ]
         },
         "info": {
-          "rank": "13",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -30345,7 +30347,7 @@
           ]
         },
         "info": {
-          "rank": "14",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -30394,7 +30396,7 @@
           ]
         },
         "info": {
-          "rank": "15",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -30442,7 +30444,7 @@
           ]
         },
         "info": {
-          "rank": "16",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -30491,7 +30493,7 @@
           ]
         },
         "info": {
-          "rank": "17",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -30538,7 +30540,7 @@
           ]
         },
         "info": {
-          "rank": "18",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -30585,7 +30587,7 @@
           ]
         },
         "info": {
-          "rank": "19",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -30632,7 +30634,7 @@
           ]
         },
         "info": {
-          "rank": "20",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -30676,7 +30678,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "21",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -30721,7 +30723,7 @@
           ]
         },
         "info": {
-          "rank": "22",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -30766,7 +30768,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "23",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -30813,7 +30815,7 @@
           ]
         },
         "info": {
-          "rank": "24",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -30857,7 +30859,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "25",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -30900,7 +30902,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "26",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -30949,7 +30951,7 @@
           ]
         },
         "info": {
-          "rank": "1",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -30996,7 +30998,7 @@
           ]
         },
         "info": {
-          "rank": "2",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -31042,7 +31044,7 @@
           ]
         },
         "info": {
-          "rank": "3",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -31088,7 +31090,7 @@
           ]
         },
         "info": {
-          "rank": "4",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -31136,7 +31138,7 @@
           ]
         },
         "info": {
-          "rank": "5",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -31183,7 +31185,7 @@
           ]
         },
         "info": {
-          "rank": "6",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -31232,7 +31234,7 @@
           ]
         },
         "info": {
-          "rank": "7",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -31278,7 +31280,7 @@
           ]
         },
         "info": {
-          "rank": "8",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -31323,7 +31325,7 @@
           ]
         },
         "info": {
-          "rank": "9",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -31370,7 +31372,7 @@
           ]
         },
         "info": {
-          "rank": "10",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -31417,7 +31419,7 @@
           ]
         },
         "info": {
-          "rank": "11",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -31465,7 +31467,7 @@
           ]
         },
         "info": {
-          "rank": "12",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -31513,7 +31515,7 @@
           ]
         },
         "info": {
-          "rank": "13",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -31560,7 +31562,7 @@
           ]
         },
         "info": {
-          "rank": "14",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -31604,7 +31606,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "15",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -31649,7 +31651,7 @@
           ]
         },
         "info": {
-          "rank": "16",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -31695,7 +31697,7 @@
           ]
         },
         "info": {
-          "rank": "17",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -31738,7 +31740,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "18",
+          "rank": "",
           "tier": "E",
           "priority": "",
           "role": "",
@@ -31781,7 +31783,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "19",
+          "rank": "",
           "tier": "E",
           "priority": "",
           "role": "",
@@ -31834,7 +31836,7 @@
           ]
         },
         "info": {
-          "rank": "1",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -31886,7 +31888,7 @@
           ]
         },
         "info": {
-          "rank": "2",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -31937,7 +31939,7 @@
           ]
         },
         "info": {
-          "rank": "3",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -31987,7 +31989,7 @@
           ]
         },
         "info": {
-          "rank": "4",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -32039,7 +32041,7 @@
           ]
         },
         "info": {
-          "rank": "5",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -32090,7 +32092,7 @@
           ]
         },
         "info": {
-          "rank": "6",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -32141,7 +32143,7 @@
           ]
         },
         "info": {
-          "rank": "7",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -32193,7 +32195,7 @@
           ]
         },
         "info": {
-          "rank": "8",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -32244,7 +32246,7 @@
           ]
         },
         "info": {
-          "rank": "9",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -32296,7 +32298,7 @@
           ]
         },
         "info": {
-          "rank": "10",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -32347,7 +32349,7 @@
           ]
         },
         "info": {
-          "rank": "11",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -32397,7 +32399,7 @@
           ]
         },
         "info": {
-          "rank": "12",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -32448,7 +32450,7 @@
           ]
         },
         "info": {
-          "rank": "13",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -32499,7 +32501,7 @@
           ]
         },
         "info": {
-          "rank": "14",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -32549,7 +32551,7 @@
           ]
         },
         "info": {
-          "rank": "15",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -32600,7 +32602,7 @@
           ]
         },
         "info": {
-          "rank": "16",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -32651,7 +32653,7 @@
           ]
         },
         "info": {
-          "rank": "17",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -32702,7 +32704,7 @@
           ]
         },
         "info": {
-          "rank": "18",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -32752,7 +32754,7 @@
           ]
         },
         "info": {
-          "rank": "19",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -32803,7 +32805,7 @@
           ]
         },
         "info": {
-          "rank": "20",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -32854,7 +32856,7 @@
           ]
         },
         "info": {
-          "rank": "21",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -32905,7 +32907,7 @@
           ]
         },
         "info": {
-          "rank": "22",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -32953,7 +32955,7 @@
           ]
         },
         "info": {
-          "rank": "23",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -33004,7 +33006,7 @@
           ]
         },
         "info": {
-          "rank": "24",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -33054,7 +33056,7 @@
           ]
         },
         "info": {
-          "rank": "25",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -33106,7 +33108,7 @@
           ]
         },
         "info": {
-          "rank": "26",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -33158,7 +33160,7 @@
           ]
         },
         "info": {
-          "rank": "27",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -33210,7 +33212,7 @@
           ]
         },
         "info": {
-          "rank": "28",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -33260,7 +33262,7 @@
           ]
         },
         "info": {
-          "rank": "29",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -33306,7 +33308,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "30",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -33354,7 +33356,7 @@
           ]
         },
         "info": {
-          "rank": "31",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -33401,7 +33403,7 @@
           ]
         },
         "info": {
-          "rank": "32",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -33451,7 +33453,7 @@
           ]
         },
         "info": {
-          "rank": "33",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -33498,7 +33500,7 @@
           ]
         },
         "info": {
-          "rank": "34",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -33546,7 +33548,7 @@
           ]
         },
         "info": {
-          "rank": "35",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -33593,7 +33595,7 @@
           ]
         },
         "info": {
-          "rank": "36",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -33644,7 +33646,7 @@
           ]
         },
         "info": {
-          "rank": "1",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -33693,8 +33695,8 @@
           ]
         },
         "info": {
-          "rank": "2",
-          "tier": "S",
+          "rank": "",
+          "tier": "A",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -33703,6 +33705,55 @@
           "usage": "",
           "source": "",
           "notes": "in theory strongest double damage in the game, especially with Sentinel flicker",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Apex Predator": {
+        "weapon_name": "Apex Predator",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "Impact Casing"
+          ],
+          "perk1": [
+            "Cluster Bomb",
+            "Reconstruction",
+            "Chain Reaction"
+          ],
+          "perk2": [
+            "Reaper's Tithe",
+            "Surrounded",
+            "Bipod"
+          ],
+          "origin_trait": [
+            "Explosive Pact"
+          ]
+        },
+        "info": {
+          "rank": "",
+          "tier": "A",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "Cluster + Reaper's/Surrounded has some niche usage, also has Chain + Bipod",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -33742,7 +33793,7 @@
           ]
         },
         "info": {
-          "rank": "3",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -33790,7 +33841,7 @@
           ]
         },
         "info": {
-          "rank": "4",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -33839,7 +33890,7 @@
           ]
         },
         "info": {
-          "rank": "5",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -33849,55 +33900,6 @@
           "usage": "",
           "source": "",
           "notes": "burst specialist with high damage high investment perks + Frame of Reference",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Apex Predator": {
-        "weapon_name": "Apex Predator",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Quick Launch"
-          ],
-          "column2": [
-            "Impact Casing"
-          ],
-          "perk1": [
-            "Cluster Bomb",
-            "Reconstruction",
-            "Chain Reaction"
-          ],
-          "perk2": [
-            "Reaper's Tithe",
-            "Surrounded",
-            "Bipod"
-          ],
-          "origin_trait": [
-            "Explosive Pact"
-          ]
-        },
-        "info": {
-          "rank": "6",
-          "tier": "A",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "Cluster + Reaper's/Surrounded has some niche usage, also has Chain + Bipod",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -33936,7 +33938,7 @@
           ]
         },
         "info": {
-          "rank": "7",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -33946,6 +33948,53 @@
           "usage": "",
           "source": "",
           "notes": "Supercharged isn't that effective, otherwise pretty decent if using Gear Shift",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Red Herring": {
+        "weapon_name": "Red Herring",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "Impact Casing"
+          ],
+          "perk1": [
+            "Reconstruction",
+            "Cluster Bomb"
+          ],
+          "perk2": [
+            "Elemental Honing",
+            "Lasting Impression"
+          ],
+          "origin_trait": [
+            "Psychohack"
+          ]
+        },
+        "info": {
+          "rank": "",
+          "tier": "A",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "pretty limited perk pool, Psychohack is decent on a rocket though",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -33983,7 +34032,7 @@
           ]
         },
         "info": {
-          "rank": "8",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -34029,7 +34078,7 @@
           ]
         },
         "info": {
-          "rank": "9",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -34077,7 +34126,7 @@
           ]
         },
         "info": {
-          "rank": "10",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -34125,7 +34174,7 @@
           ]
         },
         "info": {
-          "rank": "11",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -34174,7 +34223,7 @@
           ]
         },
         "info": {
-          "rank": "12",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -34222,7 +34271,7 @@
           ]
         },
         "info": {
-          "rank": "13",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -34232,52 +34281,6 @@
           "usage": "",
           "source": "",
           "notes": "seems great for roam content",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Red Herring": {
-        "weapon_name": "Red Herring",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Quick Launch"
-          ],
-          "column2": [
-            "Impact Casing"
-          ],
-          "perk1": [
-            "Reconstruction",
-            "Cluster Bomb"
-          ],
-          "perk2": [
-            "Elemental Honing"
-          ],
-          "origin_trait": [
-            "Psychohack"
-          ]
-        },
-        "info": {
-          "rank": "14",
-          "tier": "B",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "pretty limited perk pool, Psychohack is decent on a rocket though",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -34316,7 +34319,7 @@
           ]
         },
         "info": {
-          "rank": "15",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -34365,8 +34368,8 @@
           ]
         },
         "info": {
-          "rank": "16",
-          "tier": "C",
+          "rank": "",
+          "tier": "B",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -34375,6 +34378,55 @@
           "usage": "",
           "source": "",
           "notes": "just a double damage high-impact after Bray Legacy fix",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Pyroclastic Flow": {
+        "weapon_name": "Pyroclastic Flow",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Quick Launch"
+          ],
+          "column2": [
+            "Impact Casing"
+          ],
+          "perk1": [
+            "Cluster Bomb",
+            "Auto-Loading Holster",
+            "Field Prep"
+          ],
+          "perk2": [
+            "Bipod",
+            "Aggregate Charge",
+            "Surrounded"
+          ],
+          "origin_trait": [
+            "Fail-deadly"
+          ]
+        },
+        "info": {
+          "rank": "",
+          "tier": "B",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "interesting Cluster/Bipod tracking option for roam, Fail-deadly for mag too",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -34413,7 +34465,7 @@
           ]
         },
         "info": {
-          "rank": "17",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -34459,7 +34511,7 @@
           ]
         },
         "info": {
-          "rank": "18",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -34507,7 +34559,7 @@
           ]
         },
         "info": {
-          "rank": "19",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -34517,55 +34569,6 @@
           "usage": "",
           "source": "",
           "notes": "Slide/Bipod an option for roam",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Pyroclastic Flow": {
-        "weapon_name": "Pyroclastic Flow",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Quick Launch"
-          ],
-          "column2": [
-            "Impact Casing"
-          ],
-          "perk1": [
-            "Cluster Bomb",
-            "Auto-Loading Holster",
-            "Field Prep"
-          ],
-          "perk2": [
-            "Bipod",
-            "Aggregate Charge",
-            "Surrounded"
-          ],
-          "origin_trait": [
-            "Fail-deadly"
-          ]
-        },
-        "info": {
-          "rank": "20",
-          "tier": "C",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "interesting Cluster/Bipod tracking option for roam, Fail-deadly for mag too",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -34604,7 +34607,7 @@
           ]
         },
         "info": {
-          "rank": "21",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -34651,7 +34654,7 @@
           ]
         },
         "info": {
-          "rank": "22",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -34699,7 +34702,7 @@
           ]
         },
         "info": {
-          "rank": "24",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -34747,7 +34750,7 @@
           ]
         },
         "info": {
-          "rank": "25",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -34795,7 +34798,7 @@
           ]
         },
         "info": {
-          "rank": "26",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -34844,7 +34847,7 @@
           ]
         },
         "info": {
-          "rank": "27",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -34890,7 +34893,7 @@
           ]
         },
         "info": {
-          "rank": "28",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -34933,7 +34936,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "29",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -34980,7 +34983,7 @@
           ]
         },
         "info": {
-          "rank": "30",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -35023,7 +35026,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "31",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -35068,7 +35071,7 @@
           ]
         },
         "info": {
-          "rank": "32",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -35114,7 +35117,7 @@
           ]
         },
         "info": {
-          "rank": "33",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -35161,7 +35164,7 @@
           ]
         },
         "info": {
-          "rank": "34",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -35204,7 +35207,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "35",
+          "rank": "",
           "tier": "E",
           "priority": "",
           "role": "",
@@ -35255,7 +35258,7 @@
           ]
         },
         "info": {
-          "rank": "1",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -35306,7 +35309,7 @@
           ]
         },
         "info": {
-          "rank": "2",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -35357,7 +35360,7 @@
           ]
         },
         "info": {
-          "rank": "3",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -35405,7 +35408,7 @@
           ]
         },
         "info": {
-          "rank": "4",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -35453,7 +35456,7 @@
           ]
         },
         "info": {
-          "rank": "5",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -35504,7 +35507,7 @@
           ]
         },
         "info": {
-          "rank": "6",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -35553,7 +35556,7 @@
           ]
         },
         "info": {
-          "rank": "7",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -35601,7 +35604,7 @@
           ]
         },
         "info": {
-          "rank": "8",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -35652,7 +35655,7 @@
           ]
         },
         "info": {
-          "rank": "9",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -35703,7 +35706,7 @@
           ]
         },
         "info": {
-          "rank": "10",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -35754,7 +35757,7 @@
           ]
         },
         "info": {
-          "rank": "11",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -35804,7 +35807,7 @@
           ]
         },
         "info": {
-          "rank": "12",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -35855,7 +35858,7 @@
           ]
         },
         "info": {
-          "rank": "13",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -35906,7 +35909,7 @@
           ]
         },
         "info": {
-          "rank": "14",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -35957,7 +35960,7 @@
           ]
         },
         "info": {
-          "rank": "15",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -36008,7 +36011,7 @@
           ]
         },
         "info": {
-          "rank": "16",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -36055,7 +36058,7 @@
           ]
         },
         "info": {
-          "rank": "17",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -36104,7 +36107,7 @@
           ]
         },
         "info": {
-          "rank": "18",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -36153,7 +36156,7 @@
           ]
         },
         "info": {
-          "rank": "19",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -36202,7 +36205,7 @@
           ]
         },
         "info": {
-          "rank": "20",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -36247,7 +36250,7 @@
           ]
         },
         "info": {
-          "rank": "21",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -36298,7 +36301,7 @@
           ]
         },
         "info": {
-          "rank": "22",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -36343,7 +36346,7 @@
           ]
         },
         "info": {
-          "rank": "23",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -36393,7 +36396,7 @@
           ]
         },
         "info": {
-          "rank": "24",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -36442,7 +36445,7 @@
           ]
         },
         "info": {
-          "rank": "25",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -36491,7 +36494,7 @@
           ]
         },
         "info": {
-          "rank": "26",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -36537,7 +36540,7 @@
           ]
         },
         "info": {
-          "rank": "27",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -36584,7 +36587,7 @@
           ]
         },
         "info": {
-          "rank": "28",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -36628,7 +36631,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "29",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -36671,7 +36674,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "30",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -36716,7 +36719,7 @@
           ]
         },
         "info": {
-          "rank": "31",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",
@@ -36760,7 +36763,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "32",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -36805,7 +36808,7 @@
           ]
         },
         "info": {
-          "rank": "33",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -36851,7 +36854,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "34",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -36897,7 +36900,7 @@
           ]
         },
         "info": {
-          "rank": "35",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -36941,7 +36944,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "36",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -36986,7 +36989,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "37",
+          "rank": "",
           "tier": "D",
           "priority": "",
           "role": "",
@@ -37031,7 +37034,7 @@
           ]
         },
         "info": {
-          "rank": "38",
+          "rank": "",
           "tier": "E",
           "priority": "",
           "role": "",
@@ -37074,7 +37077,7 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "39",
+          "rank": "",
           "tier": "E",
           "priority": "",
           "role": "",
@@ -37119,7 +37122,7 @@
           ]
         },
         "info": {
-          "rank": "40",
+          "rank": "",
           "tier": "E",
           "priority": "",
           "role": "",
@@ -37166,7 +37169,7 @@
           ]
         },
         "info": {
-          "rank": "41",
+          "rank": "",
           "tier": "F",
           "priority": "",
           "role": "",
@@ -37216,7 +37219,7 @@
           ]
         },
         "info": {
-          "rank": "1",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -37267,7 +37270,7 @@
           ]
         },
         "info": {
-          "rank": "2",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -37318,7 +37321,7 @@
           ]
         },
         "info": {
-          "rank": "3",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -37368,7 +37371,7 @@
           ]
         },
         "info": {
-          "rank": "4",
+          "rank": "",
           "tier": "S",
           "priority": "",
           "role": "",
@@ -37419,7 +37422,7 @@
           ]
         },
         "info": {
-          "rank": "5",
+          "rank": "",
           "tier": "A",
           "priority": "",
           "role": "",
@@ -37470,7 +37473,7 @@
           ]
         },
         "info": {
-          "rank": "6",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -37518,7 +37521,7 @@
           ]
         },
         "info": {
-          "rank": "7",
+          "rank": "",
           "tier": "B",
           "priority": "",
           "role": "",
@@ -37569,7 +37572,7 @@
           ]
         },
         "info": {
-          "rank": "8",
+          "rank": "",
           "tier": "C",
           "priority": "",
           "role": "",

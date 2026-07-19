@@ -1,5 +1,5 @@
 WEAPON,,,INFO,,,,,,PERKS,,,,,ANALYSIS,,
-🖼️,Name,Season,Energy,Frame,Source,Stun,Ammo,⬆️,Barrel,Mag,Perk 1,Perk 2,Origin Trait,Notes,Rank,Tier
+🖼️,Name,Season,Energy,Frame,Source,Stun,Ammo,⬆️,Barrel,Mag,Perk 1,Perk 2,Origin Trait,Notes,#,Tier
 ,Joxer's Longsword,29,Void,Heavy Burst,Crucible,,49,Yes,Fluted Barrel,"High-Caliber Rounds
 Alloy Magazine","Repulsor Brace
 Dragonfly
@@ -97,7 +97,7 @@ Gear Shift",Cursed Thrall,"excellent origin, solid frame, and good arc diversity
 Arrowhead Brake","High-Caliber Rounds
 Alloy Magazine","Heal Clip
 Shoot to Loot",Incandescent,Nano-Munitions,worse damage profile than Jurassic but has barrier intrinsic and better origin,19,A
-,Jurassic Green,25,Solar,Rapid,?,,47,Yes,"Fluted Barrel
+,Jurassic Green,25,Solar,Rapid,Festival of the Lost,,47,Yes,"Fluted Barrel
 Arrowhead Brake",Alloy Magazine,Heal Clip,Incandescent,Field-Tested,"classic Heal Clip + Incandescent combo on solid frame, decent origin",20,A
 ,Darkest Before,29,Solar,Rapid,Prophecy,,50,Yes,"Fluted Barrel
 Arrowhead Brake","High-Caliber Rounds

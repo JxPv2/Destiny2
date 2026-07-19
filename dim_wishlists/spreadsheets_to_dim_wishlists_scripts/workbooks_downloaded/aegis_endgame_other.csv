@@ -1,5 +1,5 @@
 WEAPON,,INFO,,,,,,,PERKS,,,,,ANALYSIS,,
-🖼️,Name,Season,Energy,Frame,Source,Stun,Ammo,⬆️,Barrel,Mag,Perk 1,Perk 2,Origin Trait,Notes,Rank,Tier
+🖼️,Name,Season,Energy,Frame,Source,Stun,Ammo,⬆️,Barrel,Mag,Perk 1,Perk 2,Origin Trait,Notes,#,Tier
 ,Refurbished A499,28,Kinetic,Disruption,Tharsis Outpost,,26,Yes,Fluted Barrel,Flared Magwell,"Lone Wolf
 Bewildering Burst
 Gutshot Straight","Aggregate Charge
@@ -39,7 +39,7 @@ Bolt Scavenger
 Lead from Light","Aggregate Charge
 Headstone
 Chill Clip",Contending Cascade,cool add clear option,6,B
-,Uncivil Discourse,28,Arc,Dynamic (180RPM),Lawless Frontier,,65,Yes,Fluted Barrel,"Ionized Heatsink
+,Uncivil Discourse,28,Arc,Dynamic,Lawless Frontier,,65,Yes,Fluted Barrel,"Ionized Heatsink
 Overclocked Heatsink","Air Trigger
 Cooling Baubles","Precision Instrument
 Desperate Measures",Accelerated Assault,"not useful for much in a post-LP nerf era, decent crit MDPS but otherwise overshadowed",7,B

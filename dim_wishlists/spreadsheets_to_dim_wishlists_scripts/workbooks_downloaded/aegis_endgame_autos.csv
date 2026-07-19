@@ -1,5 +1,5 @@
 WEAPON,,INFO,,,,,,,PERKS,,,,,ANALYSIS,,
-🖼️,Name,Season,Energy,Frame,Source,Stun,Ammo,⬆️,Barrel,Mag,Perk 1,Perk 2,Origin Trait,Notes,Rank,Tier
+🖼️,Name,Season,Energy,Frame,Source,Stun,Ammo,⬆️,Barrel,Mag,Perk 1,Perk 2,Origin Trait,Notes,#,Tier
 ,No Hesitation,29,Solar,Support,Pale Heart,,54,Yes,Full Bore,Accurized Rounds,"Physic
 Burning Ambition","Chaos Reshaped
 Attrition Orbs
@@ -116,8 +116,9 @@ Arrowhead Brake",Alloy Magazine,Repulsor Brace,"Onslaught
 Attrition Orbs
 Golden Tricorn",Wild Card,"would be pretty good with Destabilizing access, good frame, great origin",26,B
 ,Adamantite,29,Strand,Support,Pit of Heresy,,54,Yes,Full Bore,Accurized Rounds,"Reciprocity
-Redirection","Hatchling
-Tear",Heretical Behavior,"Physic is sadly useless, completely overshadowed by DECATUR",27,B
+Redirection
+Slice","Hatchling
+Tear",Heretical Behavior,"Physic is sadly useless, completely overshadowed by DECATUR, also no Slice any more",27,B
 ,The Forward Path,29,Strand,Adaptive,Iron Banner,,60,Yes,"Fluted Barrel
 Arrowhead Brake","Flared Magwell
 Alloy Magazine",Slice,"Tear
