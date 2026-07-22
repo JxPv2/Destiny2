@@ -6,7 +6,7 @@
       "patch": "Pantheon 2.0"
     },
     "link": "https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY",
-    "scrape_date": "2026-07-21 01:52:08"
+    "scrape_date": "2026-07-22 01:51:25"
   },
   "workbooks": {
     "Shopping List": {
@@ -4338,6 +4338,53 @@
           "usage": "",
           "source": "",
           "notes": "awful perks outside of kinetic combo, origin not great on weapon type",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Khvostov 7G-02": {
+        "weapon_name": "Khvostov 7G-02",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Hammer-Forged Rifling"
+          ],
+          "column2": [
+            "Alloy Magazine"
+          ],
+          "perk1": [
+            "Demolitionist",
+            "Pugilist",
+            "Strategist"
+          ],
+          "perk2": [
+            "Attrition Orbs"
+          ],
+          "origin_trait": [
+            "Dealer's Choice"
+          ]
+        },
+        "info": {
+          "rank": "",
+          "tier": "D",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "good frame and AO access, also part of Dealer's set, zero splash to speak of though",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -30936,7 +30983,7 @@
             "Fluted Barrel"
           ],
           "column2": [
-            "Accelerated Coils"
+            "Enhanced Battery"
           ],
           "perk1": [
             "Fourth Time's the Charm",
@@ -30983,7 +31030,7 @@
             "Fluted Barrel"
           ],
           "column2": [
-            "Accelerated Coils"
+            "Enhanced Battery"
           ],
           "perk1": [
             "Fourth Time's the Charm"
@@ -31030,7 +31077,7 @@
             "Fluted Barrel"
           ],
           "column2": [
-            "Accelerated Coils"
+            "Enhanced Battery"
           ],
           "perk1": [
             "Triple Tap"
@@ -31076,7 +31123,7 @@
             "Fluted Barrel"
           ],
           "column2": [
-            "Accelerated Coils"
+            "Enhanced Battery"
           ],
           "perk1": [
             "Triple Tap"
@@ -31122,7 +31169,7 @@
             "Fluted Barrel"
           ],
           "column2": [
-            "Accelerated Coils"
+            "Enhanced Battery"
           ],
           "perk1": [
             "Clown Cartridge",
@@ -31170,7 +31217,7 @@
             "Arrowhead Brake"
           ],
           "column2": [
-            "Accelerated Coils"
+            "Enhanced Battery"
           ],
           "perk1": [
             "Rewind Rounds"
@@ -31217,7 +31264,7 @@
             "Arrowhead Brake"
           ],
           "column2": [
-            "Accelerated Coils"
+            "Enhanced Battery"
           ],
           "perk1": [
             "Clown Cartridge",
@@ -31266,7 +31313,7 @@
             "Fluted Barrel"
           ],
           "column2": [
-            "Accelerated Coils"
+            "Enhanced Battery"
           ],
           "perk1": [
             "Clown Cartridge",
@@ -31312,7 +31359,7 @@
             "Fluted Barrel"
           ],
           "column2": [
-            "Accelerated Coils"
+            "Enhanced Battery"
           ],
           "perk1": [
             "Clown Cartridge"
@@ -31357,7 +31404,7 @@
             "Arrowhead Brake"
           ],
           "column2": [
-            "Accelerated Coils"
+            "Enhanced Battery"
           ],
           "perk1": [
             "Rewind Rounds",
@@ -31404,7 +31451,7 @@
             "Fluted Barrel"
           ],
           "column2": [
-            "Accelerated Coils"
+            "Enhanced Battery"
           ],
           "perk1": [
             "Envious Assassin"
@@ -31451,7 +31498,7 @@
             "Arrowhead Brake"
           ],
           "column2": [
-            "Accelerated Coils"
+            "Enhanced Battery"
           ],
           "perk1": [
             "Envious Arsenal",
@@ -31499,7 +31546,7 @@
             "Arrowhead Brake"
           ],
           "column2": [
-            "Accelerated Coils"
+            "Enhanced Battery"
           ],
           "perk1": [
             "Reconstruction",
@@ -31547,7 +31594,7 @@
             "Arrowhead Brake"
           ],
           "column2": [
-            "Accelerated Coils"
+            "Enhanced Battery"
           ],
           "perk1": [
             "Envious Assassin",
@@ -31594,7 +31641,7 @@
             "Fluted Barrel"
           ],
           "column2": [
-            "Accelerated Coils"
+            "Enhanced Battery"
           ],
           "perk1": [
             "Clown Cartridge",
@@ -31638,7 +31685,7 @@
             "Arrowhead Brake"
           ],
           "column2": [
-            "Accelerated Coils"
+            "Enhanced Battery"
           ],
           "perk1": [
             "Envious Arsenal",
@@ -31684,7 +31731,7 @@
             "Arrowhead Brake"
           ],
           "column2": [
-            "Accelerated Coils"
+            "Enhanced Battery"
           ],
           "perk1": [
             "Field Prep",
@@ -31730,7 +31777,7 @@
             "Fluted Barrel"
           ],
           "column2": [
-            "Accelerated Coils"
+            "Enhanced Battery"
           ],
           "perk1": [
             "Field Prep"
@@ -31773,7 +31820,7 @@
             "Fluted Barrel"
           ],
           "column2": [
-            "Accelerated Coils"
+            "Enhanced Battery"
           ],
           "perk1": [
             "Pulse Monitor"
