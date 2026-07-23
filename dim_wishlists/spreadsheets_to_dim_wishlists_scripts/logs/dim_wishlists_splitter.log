@@ -2747,3 +2747,21 @@
   2026-07-23 01:58:34,300 [INFO] -> ================================================================================
   2026-07-23 01:58:34,300 [INFO] -> Wishlist Splitter complete (no-op — nothing to process).
   2026-07-23 01:58:34,300 [INFO] -> ================================================================================
+2026-07-23 10:12:33,483 [INFO] -> ================================================================================
+2026-07-23 10:12:33,483 [INFO] -> 🚀 Starting Wishlist Splitter...
+2026-07-23 10:12:33,484 [INFO] -> ================================================================================
+  2026-07-23 10:12:33,484 [INFO] -> 🔍 Selective mode active: processing sources with wishlist_split_required=True
+  2026-07-23 10:12:33,502 [INFO] -> Processing source: aegis_boss-damage
+    2026-07-23 10:12:33,502 [INFO] ->   Wishlist: dim_wishlists/aegis_boss-damage_spreadsheet_dim_wishlist.txt
+    2026-07-23 10:12:33,502 [INFO] ->   Scraped:  spreadsheets_scraped_data/aegis_boss-damage_spreadsheet_data_scraped.json
+    2026-07-23 10:12:33,504 [INFO] ->   Parsed 109 weapon blocks
+    2026-07-23 10:12:34,790 [INFO] -> Wrote 8 blocks to dim_wishlists/splitted_dim_wishlists/aegis_boss-damage_spreadsheet_dim_wishlist_rank_1.txt
+    2026-07-23 10:12:36,131 [INFO] -> Wrote 33 blocks to dim_wishlists/splitted_dim_wishlists/aegis_boss-damage_spreadsheet_dim_wishlist_rank_1-2.txt
+    2026-07-23 10:12:37,423 [INFO] -> Wrote 71 blocks to dim_wishlists/splitted_dim_wishlists/aegis_boss-damage_spreadsheet_dim_wishlist_rank_1-3.txt
+  2026-07-23 10:12:37,423 [INFO] ->   ✅ Cleared wishlist_split_required for 'aegis_boss-damage'
+  2026-07-23 10:12:37,423 [INFO] ->   ⏭️  Skipping aegis_speedrunner (no changes and all outputs exist)
+  2026-07-23 10:12:37,424 [INFO] ->   ⏭️  Skipping aegis_endgame (no changes and all outputs exist)
+  2026-07-23 10:12:37,424 [INFO] -> State synchronized. Splitter flags committed to 'local_version_state.json'
+  2026-07-23 10:12:37,424 [INFO] -> ================================================================================
+  2026-07-23 10:12:37,424 [INFO] -> Wishlist Splitter complete.
+  2026-07-23 10:12:37,424 [INFO] -> ================================================================================
