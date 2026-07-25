@@ -777,3 +777,7 @@
 2026-07-24 17:21:00,194 [INFO] [aegis_speedrunner] -> 🚀 Initializing Data Extraction Pipeline Engine: [aegis_speedrunner]
 2026-07-24 17:21:00,194 [INFO] [aegis_speedrunner] -> ================================================================================
   2026-07-24 17:21:00,194 [INFO] [aegis_speedrunner] -> 🟩 Speedrunner data profiles match registry definitions. Scraping skipped.
+2026-07-25 01:53:50,569 [INFO] [aegis_speedrunner] -> ================================================================================
+2026-07-25 01:53:50,569 [INFO] [aegis_speedrunner] -> 🚀 Initializing Data Extraction Pipeline Engine: [aegis_speedrunner]
+2026-07-25 01:53:50,569 [INFO] [aegis_speedrunner] -> ================================================================================
+  2026-07-25 01:53:50,569 [INFO] [aegis_speedrunner] -> 🟩 Speedrunner data profiles match registry definitions. Scraping skipped.
