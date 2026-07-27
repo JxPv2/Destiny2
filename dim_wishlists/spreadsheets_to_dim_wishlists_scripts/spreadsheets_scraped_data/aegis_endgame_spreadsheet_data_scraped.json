@@ -6,7 +6,7 @@
       "patch": "Pantheon 2.0"
     },
     "link": "https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY",
-    "scrape_date": "2026-07-26 01:57:57"
+    "scrape_date": "2026-07-27 02:05:40"
   },
   "workbooks": {
     "Shopping List": {
@@ -3372,7 +3372,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "would be pretty good with Destabilizing access, good frame, great origin",
+          "notes": "would be pretty good with Destabilizing access, good frame, great origin, artifact option",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -16906,6 +16906,7 @@
           ],
           "perk2": [
             "Meganeura",
+            "Onslaught",
             "Demoralize"
           ],
           "origin_trait": [
