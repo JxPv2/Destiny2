@@ -6,7 +6,7 @@
       "patch": "Pantheon 2.0"
     },
     "link": "https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY",
-    "scrape_date": "2026-07-27 02:05:40"
+    "scrape_date": "2026-07-28 01:47:27"
   },
   "workbooks": {
     "Shopping List": {
@@ -29701,7 +29701,8 @@
             "Light Battery"
           ],
           "perk1": [
-            "Wellspring"
+            "Wellspring",
+            "Envious Arsenal"
           ],
           "perk2": [
             "Tear",
