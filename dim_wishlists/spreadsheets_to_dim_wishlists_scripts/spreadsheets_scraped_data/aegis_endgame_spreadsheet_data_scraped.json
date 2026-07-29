@@ -6,7 +6,7 @@
       "patch": "Pantheon 2.0"
     },
     "link": "https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY",
-    "scrape_date": "2026-07-28 01:47:27"
+    "scrape_date": "2026-07-29 01:49:49"
   },
   "workbooks": {
     "Shopping List": {
@@ -6422,7 +6422,8 @@
           ],
           "perk1": [
             "Repulsor Brace",
-            "Shoot to Loot"
+            "Shoot to Loot",
+            "Kill Clip"
           ],
           "perk2": [
             "Destabilizing Rounds",
