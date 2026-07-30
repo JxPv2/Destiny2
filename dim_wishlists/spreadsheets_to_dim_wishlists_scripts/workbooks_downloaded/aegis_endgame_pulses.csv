@@ -1,238 +1,238 @@
-WEAPON,,,INFO,,,,,,PERKS,,,,,ANALYSIS,,
-🖼️,Name,Season,Energy,Frame,Source,Stun,Ammo,⬆️,Barrel,Mag,Perk 1,Perk 2,Origin Trait,Notes,#,Tier
+WEAPON,,,INFO,,,,,,PERKS,,,,,,ANALYSIS,,
+🖼️,Name,Season,Energy,Frame,Source,Stun,Ammo,⬆️,Barrel,Mag,MW,Perk 1,Perk 2,Origin Trait,Notes,#,Tier
 ,Joxer's Longsword,29,Void,Heavy Burst,Crucible,,49,Yes,Fluted Barrel,"High-Caliber Rounds
-Alloy Magazine","Repulsor Brace
+Alloy Magazine",Reload,"Repulsor Brace
 Dragonfly
 Shoot to Loot","Destabilizing Rounds
 Withering Gaze
 Kill Clip",Accelerated Assault,"solid origin, great frame, good perk diversity, has double stagger access too",1,S
 ,Claws of the Wolf,29,Void,Rapid,Iron Banner,,46,Yes,"Fluted Barrel
 Arrowhead Brake","High-Caliber Rounds
-Alloy Magazine",Repulsor Brace,"Destabilizing Rounds
+Alloy Magazine",Reload,Repulsor Brace,"Destabilizing Rounds
 Rampage
 Attrition Orbs",Skulking Wolf,nice origin paired with solid frame and classic void combo,2,S
 ,The Martlet,28,Void,Lightweight,Trials,,56,Yes,"Fluted Barrel
-Arrowhead Brake",Alloy Magazine,"Repulsor Brace
+Arrowhead Brake",Alloy Magazine,Reload,"Repulsor Brace
 Firefly","Destabilizing Rounds
 Withering Gaze
 Desperate Measures",Fleet Footed,"trades better origin trait for Firefly alternative in first column, not really worth",3,S
 ,Gridskipper,29,Void,Rapid,"World, Banshee",,55,Yes,"Fluted Barrel
 Arrowhead Brake","High-Caliber Rounds
-Alloy Magazine","Repulsor Brace
+Alloy Magazine",Reload,"Repulsor Brace
 Demoralize","Destabilizing Rounds
 Desperate Measures",Splicer Surge,basically just worse than Claws but still good,4,S
-,Nullify,24,Solar,Heavy Burst,Salvation's Edge,,51,Yes,Fluted Barrel,Alloy Magazine,"Heal Clip
+,Nullify,24,Solar,Heavy Burst,Salvation's Edge,,51,Yes,Fluted Barrel,Alloy Magazine,Reload,"Heal Clip
 Firefly
 Burning Ambition","Incandescent
 Meganeura
 Chaos Reshaped",Collective Purpose,"definitely the most diverse solar double splash option, just not a great origin trait, sadly no high-cal",5,S
 ,Veles-X,29,Void,Aggressive Burst,Solo Ops,,54,Yes,"Fluted Barrel
 Arrowhead Brake","High-Caliber Rounds
-Alloy Magazine","Repulsor Brace
+Alloy Magazine",Reload,"Repulsor Brace
 Demoralize","Destabilizing Rounds
 Withering Gaze
 Firefly",Vanguard Determination,some double splash pairings but mediocre frame and origin,6,S
 ,High Tyrant,28,Void,Balanced,Equilibrium,,58,Yes,"Fluted Barrel
-Arrowhead Brake",Enhanced Heatsink,"Repulsor Brace
+Arrowhead Brake",Enhanced Heatsink,Cooling Efficiency,"Repulsor Brace
 Destabilizing Rounds","Meganeura
 Demoralize
 Withering Gaze",Imperial Allegiance,"no Destab in 2nd column but can be covered by artifact setup, very potent if accounted for",7,S
 ,Elsie's Rifle,29,Void,High-Impact,Onslaught,,52,Yes,"Fluted Barrel
 Arrowhead Brake","High-Caliber Rounds
-Alloy Magazine","Repulsor Brace
+Alloy Magazine",Reload,"Repulsor Brace
 Dimensional Shift","Destabilizing Rounds
 Demoralize
 Desperate Measures",Indomitability,"double stagger, standard void combos, better origin than Premonition",8,S
 ,Premonition,29,Void,High-Impact,Moon,,53,Yes,"Fluted Barrel
 Arrowhead Brake","High-Caliber Rounds
-Alloy Magazine","Repulsor Brace
+Alloy Magazine",Reload,"Repulsor Brace
 Firefly
 Demoralize","Destabilizing Rounds
 Meganeura
 Withering Gaze",Loss,"has double stagger, lots of perk diversity, just a bad frame and origin",9,S
 ,The Time-Worn Spire,29,Stasis,Rapid,Iron Banner,,53,Yes,"Fluted Barrel
 Arrowhead Brake","High-Caliber Rounds
-Alloy Magazine",Firefly,"Headstone
+Alloy Magazine",Reload,Firefly,"Headstone
 Crystalline Corpsebloom",Skulking Wolf,probably as good as a stasis pulse gets,10,A
 ,All or Nothing,28,Strand,Dynamic,Tharsis Outpost,,56,Yes,"Fluted Barrel
-Arrowhead Brake",Enhanced Heatsink,"Firefly
+Arrowhead Brake",Enhanced Heatsink,Cooling Efficiency,"Firefly
 Slice","Tear
 Hatchling",Accelerated Assault,pretty solid strand double splash on a good frame with a good origin,11,A
 ,"Chattering Bone
 Pantheon version",29,Kinetic,Lightweight,Pantheon,,49,Yes,"Fluted Barrel
-Arrowhead Brake",Alloy Magazine,"Kill Clip
+Arrowhead Brake",Alloy Magazine,Reload,"Kill Clip
 Attrition Orbs
 Bewildering Burst","Kinetic Tremors
 Chaos Reshaped
 Ancillary Ordinance",Elliptical Orbit,"better perk diversity than normal version, much better origin",12,A
 ,Redrix's Estoc,29,Stasis,Legacy PR-55,Competitive,,60,Yes,"Fluted Barrel
-Arrowhead Brake",Alloy Magazine,"Firefly
+Arrowhead Brake",Alloy Magazine,Reload,"Firefly
 Crystalline Corpsebloom",Headstone,None,"best stasis double splash combos but no origin, solid frame though",13,A
 ,Hailing Confusion,29,Stasis,Adaptive,Europa,,49,Yes,"Fluted Barrel
 Arrowhead Brake","High-Caliber Rounds
-Alloy Magazine","Headstone
+Alloy Magazine",Reload,"Headstone
 Rimestealer","Meganeura
 Crystalline Corpsebloom",Winterized Gear,"good for crystal spam, bad origin and okay frame",14,A
 ,New Purpose,29,Stasis,High-Impact,Duality,,60,Yes,"Fluted Barrel
 Arrowhead Brake","High-Caliber Rounds
-Alloy Magazine",Headstone,"Meganeura
+Alloy Magazine",Reload,Headstone,"Meganeura
 Rimestealer",Bitterspite,"basically Hailing Confusion with better origin, worse frame, less perks, and double stagger",15,A
 ,Blast Furnace,29,Kinetic,Aggressive Burst,Onslaught,,55,Yes,"Fluted Barrel
-Arrowhead Brake",Alloy Magazine,"Kinetic Tremors
+Arrowhead Brake",Alloy Magazine,Reload,"Kinetic Tremors
 Ancillary Ordinance
 Bewildering Burst","Chaos Reshaped
 Firefly",Forge's Kin,mediocre frame but everything else is about as good as you can ask for on a kinetic pulse,16,A
 ,The Messenger,29,Kinetic,High-Impact,Trials,,49,Yes,"Fluted Barrel
 Arrowhead Brake","High-Caliber Rounds
-Alloy Magazine","Firefly
+Alloy Magazine",Reload,"Firefly
 Bewildering Burst
 Stopping Power","Kinetic Tremors
 Ancillary Ordinance",Wild Card,"has triple stagger option, otherwise similar to Blast Furnace with worse origin",17,A
 ,Oversoul Edict,29,Arc,Rapid,Crota's End,,57,Yes,"Fluted Barrel
 Arrowhead Brake","High-Caliber Rounds
-Alloy Magazine",Rolling Storm,"Voltshot
+Alloy Magazine",Reload,Rolling Storm,"Voltshot
 Jolting Feedback
 Gear Shift",Cursed Thrall,"excellent origin, solid frame, and good arc diversity in 2nd column",18,A
 ,Adhortative,29,Solar,Adaptive,Starcrossed,,52,Yes,"Fluted Barrel
 Arrowhead Brake","High-Caliber Rounds
-Alloy Magazine","Heal Clip
+Alloy Magazine",Reload,"Heal Clip
 Shoot to Loot",Incandescent,Nano-Munitions,worse damage profile than Jurassic but has barrier intrinsic and better origin,19,A
 ,Jurassic Green,25,Solar,Rapid,Festival of the Lost,,47,Yes,"Fluted Barrel
-Arrowhead Brake",Alloy Magazine,Heal Clip,Incandescent,Field-Tested,"classic Heal Clip + Incandescent combo on solid frame, decent origin",20,A
+Arrowhead Brake",Alloy Magazine,Reload,Heal Clip,Incandescent,Field-Tested,"classic Heal Clip + Incandescent combo on solid frame, decent origin",20,A
 ,Darkest Before,29,Solar,Rapid,Prophecy,,50,Yes,"Fluted Barrel
 Arrowhead Brake","High-Caliber Rounds
-Alloy Magazine",Heal Clip,"Incandescent
+Alloy Magazine",Reload,Heal Clip,"Incandescent
 Burning Ambition",Crossing Over,Burning Ambition option but otherwise worse origin than Jurassic,21,A
 ,Chattering Bone,29,Kinetic,Lightweight,Last Wish,,49,Yes,"Fluted Barrel
-Arrowhead Brake",Alloy Magazine,"Kill Clip
+Arrowhead Brake",Alloy Magazine,Reload,"Kill Clip
 Ancillary Ordinance
 Stopping Power",Kinetic Tremors,Explosive Pact,"interesting single target + KT combo on a good frame, bad origin though",22,A
 ,Battle Scar,29,Kinetic,Lightweight,EDZ,,51,Yes,"Fluted Barrel
-Arrowhead Brake",Alloy Magazine,"Attrition Orbs
+Arrowhead Brake",Alloy Magazine,Reload,"Attrition Orbs
 Shoot to Loot",Kinetic Tremors,Veteran's Wisdom,"excellent origin for KT, solid first column despite lacking double splash",23,A
 ,Stars in Shadow,27,Solar,High-Impact,"Tenet of Bravery, Shaxx",,49,Yes,"Fluted Barrel
-Arrowhead Brake",Alloy Magazine,Heal Clip,"Incandescent
+Arrowhead Brake",Alloy Magazine,Reload,Heal Clip,"Incandescent
 Burning Ambition",Wild Card,"classic solar survivability combo, just bad frame and decent origin",24,A
 ,Infinite Paths 8,29,Arc,Lightweight,"World, Banshee",,55,Yes,"Fluted Barrel
-Arrowhead Brake",Alloy Magazine,Dragonfly,Voltshot,Radiolaria Transposer,Dragonfly not great but Voltshot has higher enough uptime to be equal to JF vs. other A tier picks,25,A
+Arrowhead Brake",Alloy Magazine,Reload,Dragonfly,Voltshot,Radiolaria Transposer,Dragonfly not great but Voltshot has higher enough uptime to be equal to JF vs. other A tier picks,25,A
 ,"Relentless
 RotN version",26,Strand,High-Impact,Rite of the Nine,,40,Yes,"Fluted Barrel
 Arrowhead Brake","High-Caliber Rounds
-Alloy Magazine","Tear
+Alloy Magazine",Reload,"Tear
 Firefly
 Slice",Hatchling,Gravity Well,"double stagger with decent double splash and unique origin, just not a good frame",26,A
 ,Belisarius-D,29,Strand,Aggressive Burst,Competitive,,59,Yes,"Fluted Barrel
 Arrowhead Brake","High-Caliber Rounds
-Alloy Magazine","Tear
+Alloy Magazine",Reload,"Tear
 Slice
 Dragonfly","Firefly
 Hatchling",Häkke Breach Armaments,"bad frame but decent double strand splash otherwise, has double stagger too",27,A
 ,Relentless,29,Strand,High-Impact,Prophecy,,40,Yes,"Fluted Barrel
 Arrowhead Brake","High-Caliber Rounds
-Alloy Magazine","Tear
+Alloy Magazine",Reload,"Tear
 Firefly
 Slice",Hatchling,Crossing Over,essentially identical to RotN version with worse origin,28,A
 ,Insidious,29,Arc,Aggressive Burst,Vow of the Disciple,,59,Yes,"Fluted Barrel
-Arrowhead Brake",Alloy Magazine,"Rolling Storm
+Arrowhead Brake",Alloy Magazine,Reload,"Rolling Storm
 Dragonfly
 Frenzy","Voltshot
 Chaos Reshaped",Souldrinker,"basically Infinite Paths but worse due to frame, similar origin quality and more perk diversity",29,A
 ,Bygones,29,Kinetic,Adaptive,Gambit,,60,Yes,"Fluted Barrel
 Arrowhead Brake","High-Caliber Rounds
-Alloy Magazine","Attrition Orbs
+Alloy Magazine",Reload,"Attrition Orbs
 Shoot to Loot
 Stopping Power",Kinetic Tremors,Gun and Run,basically worse profile Battle Scar with much worse origin and barrier access,30,A
 ,Smite of Merain,29,Kinetic,Adaptive,King's Fall,,49,Yes,"Fluted Barrel
-Arrowhead Brake",Alloy Magazine,"Ancillary Ordinance
+Arrowhead Brake",Alloy Magazine,Reload,"Ancillary Ordinance
 Bewildering Burst",Firefly,Runneth Over,"okay double splash, not as potent as top kinetic options",31,B
 ,Sacred Provenance,29,Kinetic,Aggressive Burst,Garden of Salvation,,52,Yes,"Fluted Barrel
 Arrowhead Brake","High-Caliber Rounds
-Alloy Magazine",Stopping Power,"Kinetic Tremors
+Alloy Magazine",Reload,Stopping Power,"Kinetic Tremors
 Firefly",Photoinhibition,"triple stagger + KT/Firefly, bad frame and okay origin but sort of interesting",32,B
-,Corrasion,29,Arc,Heavy Burst,Encore,,52,Yes,Fluted Barrel,Alloy Magazine,"Air Trigger
+,Corrasion,29,Arc,Heavy Burst,Encore,,52,Yes,Fluted Barrel,Alloy Magazine,Reload,"Air Trigger
 Pugilist",Voltshot,Radiolaria Transposer,best single splash Voltshot pulse,33,B
 ,Vantage Point,25,Arc,Adaptive,"Xur, Kell's Fall?",,53,Yes,"Fluted Barrel
-Arrowhead Brake",Alloy Magazine,Deconstruct,Jolting Feedback,Dark Ether Reaper,basically Horror's Least with a different refill perk and maybe a slightly better origin,34,B
+Arrowhead Brake",Alloy Magazine,Reload,Deconstruct,Jolting Feedback,Dark Ether Reaper,basically Horror's Least with a different refill perk and maybe a slightly better origin,34,B
 ,Horror's Least,28,Arc,Rapid,"Tenet of Bravery, Zavala",,56,Yes,"Fluted Barrel
-Arrowhead Brake",Alloy Magazine,Trickle Charge,Jolting Feedback,Accelerated Assault,"good JF user and solid origin + frame, but disapppointing 1st column and arc splash isn't great",35,B
+Arrowhead Brake",Alloy Magazine,Reload,Trickle Charge,Jolting Feedback,Accelerated Assault,"good JF user and solid origin + frame, but disapppointing 1st column and arc splash isn't great",35,B
 ,Phyllotactic Spiral,29,Arc,High-Impact,Neomuna,,48,Yes,"Fluted Barrel
 Arrowhead Brake","High-Caliber Rounds
-Alloy Magazine","Rapid Hit
+Alloy Magazine",Reload,"Rapid Hit
 Trickle Charge",Voltshot,Nanotech Tracer Missiles,"double stagger, bad first column, bad frame, but Voltshot + NTM",36,B
 ,Nightshade,29,Strand,Lightweight,Fireteam Ops,,46,Yes,"Fluted Barrel
 Arrowhead Brake","High-Caliber Rounds
-Alloy Magazine",Slice,Hatchling,Accelerated Assault,"solid frame and origin, perks are just alright for strand",37,B
+Alloy Magazine",Reload,Slice,Hatchling,Accelerated Assault,"solid frame and origin, perks are just alright for strand",37,B
 ,Jorum's Claw,29,Solar,Adaptive,Iron Banner,,56,Yes,"Fluted Barrel
 Arrowhead Brake","High-Caliber Rounds
-Alloy Magazine",Outlaw,Incandescent,Skulking Wolf,"good origin and typical reload + Incandescent combo, decent frame",38,B
+Alloy Magazine",Reload,Outlaw,Incandescent,Skulking Wolf,"good origin and typical reload + Incandescent combo, decent frame",38,B
 ,Aisha's Care,29,Strand,Heavy Burst,Trials,,51,Yes,Fluted Barrel,"High-Caliber Rounds
-Alloy Magazine",Slice,Hatchling,Omolon Fluid Dynamics,"double stagger available, otherwise not very remarkable strand combo and origin",39,B
+Alloy Magazine",Reload,Slice,Hatchling,Omolon Fluid Dynamics,"double stagger available, otherwise not very remarkable strand combo and origin",39,B
 ,BxR-55 Battler,29,Solar,Legacy PR-55,Dares,,60,Yes,"Fluted Barrel
-Arrowhead Brake",Alloy Magazine,Demolitionist,Incandescent,Hot Swap,"good frame and decent splash perk, nothing else really going for it",40,C
+Arrowhead Brake",Alloy Magazine,Reload,Demolitionist,Incandescent,Hot Swap,"good frame and decent splash perk, nothing else really going for it",40,C
 ,Stay Frosty,29,Stasis,Lightweight,Tenet of Bravery,,51,Yes,"Fluted Barrel
-Arrowhead Brake",Alloy Magazine,Rimestealer,Headstone,Dawning Surprise,"outdated stasis combo with okay origin, solid frame",41,C
+Arrowhead Brake",Alloy Magazine,Reload,Rimestealer,Headstone,Dawning Surprise,"outdated stasis combo with okay origin, solid frame",41,C
 ,Cruel Mercy,29,Arc,Heavy Burst,Zavala,,56,Yes,Fluted Barrel,"High-Caliber Rounds
-Alloy Magazine",Dragonfly,Rolling Storm,Vanguard Determination,"no strong splash perk, double stagger, good frame, mediocre origin",42,C
+Alloy Magazine",Reload,Dragonfly,Rolling Storm,Vanguard Determination,"no strong splash perk, double stagger, good frame, mediocre origin",42,C
 ,Psi Hermetic V,22,Stasis,High-Impact,Banshee,,52,Yes,"Fluted Barrel
-Arrowhead Brake",Alloy Magazine,Enlightened Action,Headstone,Wild Card,"middling origin, bad frame, and basically just Headstone",43,C
+Arrowhead Brake",Alloy Magazine,Reload,Enlightened Action,Headstone,Wild Card,"middling origin, bad frame, and basically just Headstone",43,C
 ,Disparity,29,Stasis,Aggressive Burst,Seraph's Shield,,53,Yes,"Fluted Barrel
-Arrowhead Brake",Alloy Magazine,"Rapid Hit
+Arrowhead Brake",Alloy Magazine,Reload,"Rapid Hit
 Pugilist",Headstone,Ambush,"mediocre origin and frame, awful 1st column, basically just Headstone",44,C
 ,Syncopation-53,29,Stasis,Adaptive,Banshee,,45,Yes,"Fluted Barrel
 Arrowhead Brake","High-Caliber Rounds
-Alloy Magazine","Compulsive Reloader
+Alloy Magazine",Reload,"Compulsive Reloader
 Outlaw",Headstone,Suros Synergy,"worse first column than Disparity, better frame",45,C
 ,Last Thursday,27,Strand,Adaptive,Kepler,,57,Yes,"Fluted Barrel
 Arrowhead Brake","High-Caliber Rounds
-Alloy Magazine",Rapid Hit,"Hatchling
+Alloy Magazine",Reload,Rapid Hit,"Hatchling
 Slice",Exhaustive Research,"okay frame and origin, but disappointing perk combo",46,C
 ,Different Times,29,Strand,Rapid,Xur,,50,Yes,"Fluted Barrel
 Arrowhead Brake","High-Caliber Rounds
-Alloy Magazine",Outlaw,Hatchling,Unsated Hunger,"one of the weaker examples of reload + splash, mediocre origin and decent frame",47,C
+Alloy Magazine",Reload,Outlaw,Hatchling,Unsated Hunger,"one of the weaker examples of reload + splash, mediocre origin and decent frame",47,C
 ,Yesteryear,29,Void,Adaptive,Gambit,,52,Yes,"Fluted Barrel
 Arrowhead Brake","High-Caliber Rounds
-Alloy Magazine",Outlaw,"Repulsor Brace
+Alloy Magazine",Reload,Outlaw,"Repulsor Brace
 Dragonfly
 Rampage",Gun and Run,"technically usable thanks to volatile access from artifact, otherwise terrible",48,C
 ,Piece of Mind,29,Kinetic,Rapid,Vox Obscura,,53,Yes,"Fluted Barrel
 Arrowhead Brake","High-Caliber Rounds
-Alloy Magazine","Compulsive Reloader
+Alloy Magazine",Reload,"Compulsive Reloader
 Overflow","Focused Fury
 Adrenaline Junkie
 ",Land Tank,Land Tank is a standout but everything else here is terrible besides frame,49,D
 ,Ogma PR6,29,Solar,Lightweight,Banshee,,45,Yes,"Fluted Barrel
-Arrowhead Brake",Alloy Magazine,"Demolitionist
+Arrowhead Brake",Alloy Magazine,Reload,"Demolitionist
 Unrelenting","Dragonfly
 Adrenaline Junkie",Omolon Fluid Dynamics,"outdated splash and terrible perks otherwise, frame decent and bad origin",50,D
 ,Outlast,21,Solar,Rapid,Xur,,47,No,"Fluted Barrel
 Arrowhead Brake","High-Caliber Rounds
-Alloy Magazine",Outlaw,Dragonfly,Disaster Plan,decent frame and basically nothing else going on besides standard reload + splash,51,D
+Alloy Magazine",Reload,Outlaw,Dragonfly,Disaster Plan,decent frame and basically nothing else going on besides standard reload + splash,51,D
 ,Autumn Wind,29,Kinetic,Rapid,Crucible,,58,Yes,"Fluted Barrel
 Arrowhead Brake","High-Caliber Rounds
-Alloy Magazine",Demolitionist,Rampage,Accelerated Assault,"great frame and origin, everything else is terrible",52,D
+Alloy Magazine",Reload,Demolitionist,Rampage,Accelerated Assault,"great frame and origin, everything else is terrible",52,D
 ,Forge's Pledge,15,Solar,Adaptive,Iron Banner,,54,No,"Fluted Barrel
-Arrowhead Brake",Alloy Magazine,"Surplus
+Arrowhead Brake",Alloy Magazine,Reload,"Surplus
 Auto-Loading Holster","Rampage
 Unrelenting",Skulking Wolf,"good origin, everything else is mediocre to bad",53,D
 ,The Third Axiom,29,Arc,Adaptive,Zavala,,47,Yes,"Fluted Barrel
 Arrowhead Brake","High-Caliber Rounds
-Alloy Magazine","Surplus
+Alloy Magazine",Reload,"Surplus
 Feeding Frenzy","Dragonfly
 Rampage
 One for All",Vanguard Determination,"extremely outdated perk pool, at least it has an origin trait",54,D
 ,Scalar Potential,29,Arc,Rapid,Starcrossed,,47,Yes,"Fluted Barrel
-Arrowhead Brake",Alloy Magazine,Enlightened Action,"High Ground
+Arrowhead Brake",Alloy Magazine,Reload,Enlightened Action,"High Ground
 Focused Fury
 Golden Tricorn",Dragon's Vengeance,"basically just reload + single target, some more modern options in 2nd column but still D tier",55,D
 ,Cold Denial,29,Kinetic,High-Impact,Xur,,46,Yes,"Fluted Barrel
 Arrowhead Brake","High-Caliber Rounds
-Alloy Magazine",Enlightened Action,"Swashbuckler
+Alloy Magazine",Reload,Enlightened Action,"Swashbuckler
 Desperado",Paracausal Fluid,"double stagger, everything else is bad",56,D
 ,Jian 7 Rifle,10,Arc,Adaptive,"Xur, Dares",,55,No,SLO-12 Post,"High-Caliber Rounds
-Alloy Magazine",Grave Robber,"Dragonfly
+Alloy Magazine",Reload,Grave Robber,"Dragonfly
 Rampage",None,"mediocre frame, no origin, awful 1st column, mediocre 2nd column",57,D
 ,Last Perdition,29,Void,Adaptive,Crucible,,54,Yes,"Fluted Barrel
-Arrowhead Brake",Alloy Magazine,Outlaw,Rampage,Roar of Battle,"classic reload + single target, post-buff Rampage is okay, origin and frame are okay",58,D
+Arrowhead Brake",Alloy Magazine,Reload,Outlaw,Rampage,Roar of Battle,"classic reload + single target, post-buff Rampage is okay, origin and frame are okay",58,D
 ,Legal Action II,15,Kinetic,High-Impact,"Xur, Dares",,47,No,"Fluted Barrel
-Arrowhead Brake",Alloy Magazine,"Surplus
+Arrowhead Brake",Alloy Magazine,Reload,"Surplus
 Feeding Frenzy",Rampage,None,"bad frame, bad perks, not enhanceable, no origin trait",59,D
