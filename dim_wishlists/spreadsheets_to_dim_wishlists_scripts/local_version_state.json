@@ -5,13 +5,13 @@
       "wishlist_split_required": false,
       "workbooks": {
         "Changelog": {
-          "local_saved_hash": "b3ecdef621c5932238f0b253fcbb95d4ac08ccb1e51fa59b04e593b927e07ea4",
-          "last_check": "2026-07-30T17:16:25.349245+00:00",
+          "local_saved_hash": "36f90b6b181560c9248ddd41050b14690f52beac9b8807921507fb6f129196ba",
+          "last_check": "2026-07-31T01:59:36.807710+00:00",
           "workbook_scrape_update_required": false
         },
         "Equipment (WIP)": {
           "local_saved_hash": "544d51357cb312855c4f8135f6d002f2e64016221add206b2bb7ab7e3cd6263e",
-          "last_check": "2026-07-30T17:16:25.417267+00:00",
+          "last_check": "2026-07-31T01:59:36.764889+00:00",
           "workbook_scrape_update_required": false
         }
       }
@@ -22,7 +22,7 @@
       "workbooks": {
         "Weapons": {
           "local_saved_hash": "542f63774d60b7daf6efb780a2333d4774df347105b12f985d58d9fe378b7a2c",
-          "last_check": "2026-07-30T17:16:25.732083+00:00",
+          "last_check": "2026-07-31T01:59:37.252507+00:00",
           "workbook_scrape_update_required": false
         }
       }
@@ -33,127 +33,127 @@
       "workbooks": {
         "Status": {
           "local_saved_hash": "2a5aff7720512c499ded91b1d45daa5c54d832de0db93760dee095d699013f89",
-          "last_check": "2026-07-30T17:16:26.105857+00:00",
+          "last_check": "2026-07-31T01:59:37.884750+00:00",
           "workbook_scrape_update_required": false
         },
         "Changelog": {
           "local_saved_hash": "65539b237c0960c3c4a908148b7eccb79d1b904fa9fc4ff22d977178849010ad",
-          "last_check": "2026-07-30T17:16:26.116981+00:00",
+          "last_check": "2026-07-31T01:59:37.842514+00:00",
           "workbook_scrape_update_required": false
         },
         "Shopping List": {
           "local_saved_hash": "ca9b1beb0fe7074fcb73585336376a76afa9dd53e63284d3f0574affb43fcafb",
-          "last_check": "2026-07-30T17:16:26.154112+00:00",
+          "last_check": "2026-07-31T01:59:37.907666+00:00",
           "workbook_scrape_update_required": false
         },
         "Autos": {
           "local_saved_hash": "c6133549208894fd44e1c9e29dbd97d14908b9ff2038720d836042d47957ef20",
-          "last_check": "2026-07-30T17:16:26.145215+00:00",
+          "last_check": "2026-07-31T01:59:37.864532+00:00",
           "workbook_scrape_update_required": false
         },
         "Bows": {
           "local_saved_hash": "9ed3d98a71445e88b7fcd9ff7fcdf2d335a32edac1ebba664bbd59510888fb1c",
-          "last_check": "2026-07-30T17:16:26.393672+00:00",
+          "last_check": "2026-07-31T01:59:38.437994+00:00",
           "workbook_scrape_update_required": false
         },
         "HCs": {
           "local_saved_hash": "df902b0b9d1cd94760576cf3372ffef73f6dad4950a860364365cf59a447322f",
-          "last_check": "2026-07-30T17:16:26.457489+00:00",
+          "last_check": "2026-07-31T01:59:38.361593+00:00",
           "workbook_scrape_update_required": false
         },
         "Pulses": {
           "local_saved_hash": "e9d4c4bb2438933bafb78008e2a54e85cc03f63d1b4c11c12f0605461ebbac34",
-          "last_check": "2026-07-30T17:16:26.446651+00:00",
+          "last_check": "2026-07-31T01:59:38.411417+00:00",
           "workbook_scrape_update_required": false
         },
         "Scouts": {
           "local_saved_hash": "993da57113b1f2abb2822395737d180d37e3371df4b66a8055bedec9226c3262",
-          "last_check": "2026-07-30T17:16:26.491360+00:00",
+          "last_check": "2026-07-31T01:59:38.433904+00:00",
           "workbook_scrape_update_required": false
         },
         "Sidearms": {
           "local_saved_hash": "573f8ae4f9ca3e8c261b5636fffa783b34d8c31e7d017d200e02ea1b46868697",
-          "last_check": "2026-07-30T17:16:26.710688+00:00",
+          "last_check": "2026-07-31T01:59:38.847139+00:00",
           "workbook_scrape_update_required": false
         },
         "SMGs": {
           "local_saved_hash": "35534fd7d9bcb933b9a34b1cf05a9f62850b6d529f8519fd5520a42e892d89e5",
-          "last_check": "2026-07-30T17:16:26.764731+00:00",
+          "last_check": "2026-07-31T01:59:38.978879+00:00",
           "workbook_scrape_update_required": false
         },
         "BGLs": {
           "local_saved_hash": "b536d4fdbf008ae6034ec1412a7ac4125f9fc78b60d6dc4464ef5f3d5c318e39",
-          "last_check": "2026-07-30T17:16:26.785797+00:00",
+          "last_check": "2026-07-31T01:59:38.910870+00:00",
           "workbook_scrape_update_required": false
         },
         "Fusions": {
           "local_saved_hash": "d3e1852240893ee6a9f4adb217c2ca5e239c2b1f293a6d0d9b760353e3e999d3",
-          "last_check": "2026-07-30T17:16:26.803854+00:00",
+          "last_check": "2026-07-31T01:59:38.945293+00:00",
           "workbook_scrape_update_required": false
         },
         "Glaives": {
           "local_saved_hash": "744f0a93088242617c03d456fe324b14670710fb58f124b0050ad5a672c806dc",
-          "last_check": "2026-07-30T17:16:27.086579+00:00",
+          "last_check": "2026-07-31T01:59:39.402859+00:00",
           "workbook_scrape_update_required": false
         },
         "Shotguns": {
           "local_saved_hash": "5a3edc23cce9e848572b142f0989c92a3af7bb0a764df138d33ad2394c500def",
-          "last_check": "2026-07-30T17:16:27.080695+00:00",
+          "last_check": "2026-07-31T01:59:39.414436+00:00",
           "workbook_scrape_update_required": false
         },
         "Snipers": {
           "local_saved_hash": "608d2dd6e9369baf026c9b1b46bc7d5fe79f1fad5e741a895a81e45e6cdc59bd",
-          "last_check": "2026-07-30T17:16:27.127343+00:00",
+          "last_check": "2026-07-31T01:59:39.468260+00:00",
           "workbook_scrape_update_required": false
         },
         "Rocket Sidearms": {
           "local_saved_hash": "5a06bdc519c31a59fde86e3f29a91ec4a1c5ceea78f6306465ae916976e20fb9",
-          "last_check": "2026-07-30T17:16:27.112593+00:00",
+          "last_check": "2026-07-31T01:59:39.574746+00:00",
           "workbook_scrape_update_required": false
         },
         "Traces": {
           "local_saved_hash": "4ec3fe92386273a055d3bf69a7f6ace2dafd7861e6ed2472703056d36dfe1286",
-          "last_check": "2026-07-30T17:16:27.400996+00:00",
+          "last_check": "2026-07-31T01:59:39.927012+00:00",
           "workbook_scrape_update_required": false
         },
         "HGLs": {
           "local_saved_hash": "f49178cc420e1b827793e265748988fbe32c7c7fe7817250acb65ce43f688bf6",
-          "last_check": "2026-07-30T17:16:27.477780+00:00",
+          "last_check": "2026-07-31T01:59:39.914148+00:00",
           "workbook_scrape_update_required": false
         },
         "LFRs": {
           "local_saved_hash": "2079601cc98a625acb77d18c97e078446fdaa73e88527e86834f35080cf74fa6",
-          "last_check": "2026-07-30T17:16:27.443330+00:00",
+          "last_check": "2026-07-31T01:59:39.881264+00:00",
           "workbook_scrape_update_required": false
         },
         "LMGs": {
           "local_saved_hash": "ca180377bbbbe351ee2bb4b9f1f4ad98c1529f58088b90599855fb951754d1cf",
-          "last_check": "2026-07-30T17:16:27.438546+00:00",
+          "last_check": "2026-07-31T01:59:40.102182+00:00",
           "workbook_scrape_update_required": false
         },
         "Rockets": {
           "local_saved_hash": "40e800048a8e032ddd8a897d34c8b98d1901b0bbc39f0503f1f693783ebcad34",
-          "last_check": "2026-07-30T17:16:27.720764+00:00",
+          "last_check": "2026-07-31T01:59:40.328390+00:00",
           "workbook_scrape_update_required": false
         },
         "Swords": {
           "local_saved_hash": "14a152f514f11b8e30ecb0bb075e739133572c9e7f7147fabb3355bacf1bdad6",
-          "last_check": "2026-07-30T17:16:27.731300+00:00",
+          "last_check": "2026-07-31T01:59:40.420667+00:00",
           "workbook_scrape_update_required": false
         },
         "Other": {
           "local_saved_hash": "8986d32b6975b6cef59c51d17b394c0b982fd50693c74636aa33dfd7bda33220",
-          "last_check": "2026-07-30T17:16:27.759797+00:00",
+          "last_check": "2026-07-31T01:59:40.394162+00:00",
           "workbook_scrape_update_required": false
         },
         "Exotic Weapons": {
           "local_saved_hash": "9368f705798662b7c9bfcab16a099c72c2eb9080aa79c2a9efe6401c3963bfe9",
-          "last_check": "2026-07-30T17:16:27.821680+00:00",
+          "last_check": "2026-07-31T01:59:40.589593+00:00",
           "workbook_scrape_update_required": false
         },
         "Exotic Armor (ignore)": {
           "local_saved_hash": "633738577e872c716b684cbed402634c9e668021d9b36b7a658fff871a07210f",
-          "last_check": "2026-07-30T17:16:28.043212+00:00",
+          "last_check": "2026-07-31T01:59:40.801413+00:00",
           "workbook_scrape_update_required": false
         }
       }
@@ -164,6 +164,6 @@
     "bungie_manifest_download_required": false,
     "bungie_manifest_compile_required": false,
     "local_saved_version": "244213.26.06.29.2000-1-bnet.65583",
-    "last_check": "2026-07-30T17:16:24.921745+00:00"
+    "last_check": "2026-07-31T01:59:36.267205+00:00"
   }
 }
