@@ -3,7 +3,7 @@ WEAPON,,INFO,,,,,,,PERKS,,,,,,ANALYSIS,,
 ,Conspiracy Honed,28,Stasis,Dynamic,Equilibrium,,43,Yes,Fluted Barrel,"Ionized Heatsink
 Overclocked Heatsink",Cooling Efficiency,Vorpal Weapon,"Bait and Switch
 Firing Line",Imperial Allegiance,insanely powercrept archetype with double damage perks,1,S
-,Something Something,28,Kinetic,Aggressive,"Tenet of Bravery, Zavala",,37,Yes,Fluted Barrel,Extended Mag,Handling,"Triple Tap
+,Something Something,28,Kinetic,Aggressive,"Tenet of Bravery, Zavala",,37,Yes,Fluted Barrel,Tactical Mag,Handling,"Triple Tap
 Discord","Elemental Honing
 All-Star
 Redirection",Accelerated Assault,"outdamages Praedyth with origin, also has Succession combo",2,S
@@ -26,45 +26,45 @@ Lead from Gold","Elemental Honing
 Precision Instrument",Photoinhibition,"basically Rapid Growth but solar, has Incendiary access with Sniper's",6,A
 ,Rapid Growth,29,Arc,Rapid,Tenet of Bravery,,45,Yes,Fluted Barrel,Tactical Mag,Handling,Fourth Time's the Charm,"Aggregate Charge
 Gear Shift",Dream Work,"solid option for energy slot, only really used for surge matching though",7,A
-,Adored,29,Arc,Adaptive,Pinnacle Ops,,36,Yes,Fluted Barrel,Extended Mag,Handling,Fourth Time's the Charm,Elemental Honing,Accelerated Assault,basically the energy slot Something Something situation,8,A
+,Adored,29,Arc,Adaptive,Pinnacle Ops,,36,Yes,Fluted Barrel,Tactical Mag,Handling,Fourth Time's the Charm,Elemental Honing,Accelerated Assault,basically the energy slot Something Something situation,8,A
 ,Father's Sins,29,Void,Rapid,Throne World,,48,Yes,Fluted Barrel,Tactical Mag,Handling,"Triple Tap
 Lead from Gold
 Shoot to Loot","Bait and Switch
 Withering Gaze
 Focused Fury",Psychohack,"highest utility Withering Gaze sniper due to exhausting origin and StL access, LFG swap too",9,A
-,Critical Anomaly,29,Stasis,Aggressive,Salvation's Edge,,47,Yes,Fluted Barrel,Extended Mag,Handling,"Chill Clip
+,Critical Anomaly,29,Stasis,Aggressive,Salvation's Edge,,47,Yes,Fluted Barrel,Tactical Mag,Handling,"Chill Clip
 Rampage","Chaos Reshaped
 Mega Kill Clip",Collective Purpose,"only really relevant due to Chill Clip, which sees less use in current meta",10,A
 ,Apostate,29,Arc,Rapid,Moon,,51,Yes,Fluted Barrel,Tactical Mag,Handling,"Shoot to Loot
 Triple Tap
 Lead from Gold","Explosive Payload
 Gear Shift",Loss,"only StL + EP energy rapid, has some utility in challenge content, otherwise has okay perks",11,A
-,Succession,29,Kinetic,Aggressive,Deep Stone Crypt,,50,Yes,Fluted Barrel,Extended Mag,Handling,"Discord
+,Succession,29,Kinetic,Aggressive,Deep Stone Crypt,,50,Yes,Fluted Barrel,Tactical Mag,Handling,"Discord
 Reconstruction","Redirection
 Elemental Honing
 Recombination",Bray Inheritance,"most well-known Discord sniper due to Redirection combo, otherwise not great",12,A
-,Last Foray,29,Solar,Aggressive,EDZ,,29,Yes,Fluted Barrel,Extended Mag,Handling,"Rewind Rounds
+,Last Foray,29,Solar,Aggressive,EDZ,,29,Yes,Fluted Barrel,Tactical Mag,Handling,"Rewind Rounds
 Discord","Bait and Switch
 Incandescent
 Cascade Point",Veteran's Wisdom,in contention for best add clear sniper due to Incendiary artifact mod and Veteran's Wisdom,13,A
 ,"Succession
-BRAVE version",29,Kinetic,Aggressive,Onslaught,,50,Yes,Fluted Barrel,Extended Mag,Handling,"Kinetic Tremors
+BRAVE version",29,Kinetic,Aggressive,Onslaught,,50,Yes,Fluted Barrel,Tactical Mag,Handling,"Kinetic Tremors
 Harmony
 Demolitionist","Recombination
 Aggregate Charge
 Mega Kill Clip",Indomitability,"very high burst for roam with KT/Harmony + Recombination, sadly no Redirection",14,A
-,Tatara Gaze,29,Arc,Aggressive,Arena Ops,,45,Yes,Fluted Barrel,Extended Mag,Handling,"Discord
+,Tatara Gaze,29,Arc,Aggressive,Arena Ops,,45,Yes,Fluted Barrel,Tactical Mag,Handling,"Discord
 Rewind Rounds","Redirection
 Elemental Honing
 Mega Kill Clip",Forge's Kin,Succession combination with less artifact synergy,15,B
-,Volta Bracket,29,Strand,Aggressive,Neomuna,,28,Yes,Fluted Barrel,Extended Mag,Handling,"Shoot to Loot
+,Volta Bracket,29,Strand,Aggressive,Neomuna,,28,Yes,Fluted Barrel,Tactical Mag,Handling,"Shoot to Loot
 Triple Tap
 Lucky Shot","Explosive Payload
 Cascade Point
 Mega Kill Clip",Nanotech Tracer Missiles,"only StL + EP kinetic special, has okay perks otherwise",16,B
 ,The Supremacy,29,Kinetic,Rapid,Last Wish,,42,Yes,Fluted Barrel,Appended Mag,Handling,"Lead from Gold
 Discord",Kinetic Tremors,Explosive Pact,"LFG + KT good for roam, but definitely overshadowed by other kinetic roam snipers now",17,B
-,Trophy Hunter,29,Void,Aggressive,Nessus,,39,Yes,Fluted Barrel,Extended Mag,Handling,"Triple Tap
+,Trophy Hunter,29,Void,Aggressive,Nessus,,39,Yes,Fluted Barrel,Tactical Mag,Handling,"Triple Tap
 Auto-Loading Holster
 Lead from Gold","Aggregate Charge
 Bait and Switch
@@ -89,7 +89,7 @@ Demoralize",Unburied Treasure,"Succession combo on a void option for artifact sy
 Discord","High Ground
 Under-Over
 Firing Line",Head Rush,best-in-slot barrier stun option for harder content,23,C
-,Luna Regolith III,22,Solar,Aggressive,Zavala,,32,Yes,Fluted Barrel,Extended Mag,Handling,"Triple Tap
+,Luna Regolith III,22,Solar,Aggressive,Zavala,,32,Yes,Fluted Barrel,Tactical Mag,Handling,"Triple Tap
 Shoot to Loot","High Ground
 Cascade Point
 Explosive Payload",Wild Card,"slower-firing StL + EP option vs. Apostate, otherwise has okay perks",24,C
@@ -97,7 +97,7 @@ Explosive Payload",Wild Card,"slower-firing StL + EP option vs. Apostate, otherw
 Rampage","Redirection
 Elemental Honing
 All-Star",Loss,"Redirection is maybe a little more appealing than Yasmin perks, also has niche in Rampage",25,C
-,Defiance of Yasmin,29,Kinetic,Adaptive,King's Fall,,35,Yes,Fluted Barrel,Extended Mag,Handling,"Rewind Rounds
+,Defiance of Yasmin,29,Kinetic,Adaptive,King's Fall,,35,Yes,Fluted Barrel,Tactical Mag,Handling,"Rewind Rounds
 Shoot to Loot
 Lead from Gold","All-Star
 Aggregate Charge",Runneth Over,"nice perk diversity in 1st column, can dump with Kinetic Synthesis",26,C
@@ -108,7 +108,7 @@ Headstone",Veist Stinger,"StL with no EP, but also has Veist + okay FTTC combo",
 ,Eye of Sol,29,Kinetic,Adaptive,Trials,,45,Yes,Fluted Barrel,Appended Mag,Handling,Triple Tap,"Aggregate Charge
 Kinetic Tremors",Wild Card,basically a downgrade from Yasmin but still basically the same use case,28,C
 ,IKELOS_SR_v1.0.3,29,Solar,Rapid,Seraph's Shield,,45,Yes,Fluted Barrel,Tactical Mag,Handling,Fourth Time's the Charm,Focused Fury,Rasputin's Arsenal,generic rapid with FTTC + middling damage perk,29,C
-,ALLEN 05,29,Strand,Adaptive,Distortions,,41,Yes,Fluted Barrel,Extended Mag,Handling,"Fourth Time's the Charm
+,ALLEN 05,29,Strand,Adaptive,Distortions,,41,Yes,Fluted Barrel,Tactical Mag,Handling,"Fourth Time's the Charm
 Shoot to Loot","Precision Instrument
 Firing Line
 Mega Kill Clip",Carrion Munitions,worse than IKELOS_SR due to frame despite increased perk diversity,30,C
@@ -117,7 +117,7 @@ Attrition Orbs
 Lead from Gold","Precision Instrument
 Explosive Payload
 Deconstruct",Problem Solver,"AO + EP is potentially interesting, otherwise a very average adaptive",31,C
-,Veleda-F,25,Void,Aggressive,Banshee,,33,Yes,Fluted Barrel,Extended Mag,Handling,"Deconstruct
+,Veleda-F,25,Void,Aggressive,Banshee,,33,Yes,Fluted Barrel,Tactical Mag,Handling,"Deconstruct
 Slickdraw","Withering Gaze
 Focused Fury",Häkke Breach Armaments,"Withering aggressive with QoL 1st column, nothing special",32,C
 ,Sovereignty,25,Void,Adaptive,"Xur, Kell's Fall?",,40,Yes,Fluted Barrel,Appended Mag,Handling,"Explosive Payload
@@ -127,7 +127,7 @@ Desperate Measures",Dark Ether Reaper,"lower damage per shot for Withering vs. V
 ,Fugue-55,16,Void,Adaptive,Banshee,,45,No,Fluted Barrel,Appended Mag,Handling,"Fourth Time's the Charm
 Lead from Gold","Focused Fury
 Firing Line",Suros Synergy,"Fury is arguably better than ALLEN and Uzume, but has nothing else going for it",34,C
-,Keen Thistle,29,Solar,Aggressive,Trials,,45,Yes,Fluted Barrel,Extended Mag,Handling,"Envious Arsenal
+,Keen Thistle,29,Solar,Aggressive,Trials,,45,Yes,Fluted Barrel,Tactical Mag,Handling,"Envious Arsenal
 Triple Tap
 Lead from Gold","Elemental Honing
 Bait and Switch
@@ -136,26 +136,26 @@ Fourth Time's the Charm",Häkke Breach Armaments,"best of the non-FTTC snipers, 
 Shoot to Loot
 Explosive Payload","High Ground
 Precision Instrument",Bray Legacy,"TT + mediocre damage perk rapid, has StL to distinguish it",36,D
-,Occluded Finality,29,Arc,Aggressive,Iron Banner,,59,Yes,Fluted Barrel,Extended Mag,Handling,"Triple Tap
+,Occluded Finality,29,Arc,Aggressive,Iron Banner,,59,Yes,Fluted Barrel,Appended Mag,Handling,"Triple Tap
 Rewind Rounds","Aggregate Charge
 Elemental Honing
 Precision Instrument",Skulking Wolf,better damage perks but worse frame and no StL vs. Shoreline,37,D
 ,A Distant Pull,29,Stasis,Rapid,Xur,,39,Yes,Fluted Barrel,Tactical Mag,Handling,Triple Tap,Focused Fury,Unsated Hunger,like Shoreline but no StL and a more consistent damage perk,38,D
-,Silicon Neuroma,16,Kinetic,Aggressive,Zavala,,35,No,Fluted Barrel,Extended Mag,Handling,Triple Tap,"Focused Fury
+,Silicon Neuroma,16,Kinetic,Aggressive,Zavala,,35,No,Fluted Barrel,Tactical Mag,Handling,Triple Tap,"Focused Fury
 Firing Line",Stunning Recovery,worse frame than A Distant Pull,39,D
-,Albruna-D,19,Arc,Aggressive,Gambit,,45,Yes,Fluted Barrel,Extended Mag,Handling,"Triple Tap
+,Albruna-D,19,Arc,Aggressive,Gambit,,45,Yes,Fluted Barrel,Tactical Mag,Handling,"Triple Tap
 Explosive Payload","Cascade Point
 Firing Line
 Vorpal Weapon",Häkke Breach Armaments,like Neuroma but no Fury,40,D
 ,Gallu RR3,17,Arc,Adaptive,Banshee,,35,No,Fluted Barrel,Appended Mag,Handling,"Overflow
 Shoot to Loot",Focused Fury,Omolon Fluid Dynamics,"no ammo gen perk vs. higher D snipers, StL instead",41,D
-,Frozen Orbit,29,Void,Aggressive,Crucible,,45,Yes,Fluted Barrel,Extended Mag,Handling,"Triple Tap
+,Frozen Orbit,29,Void,Aggressive,Crucible,,45,Yes,Fluted Barrel,Tactical Mag,Handling,"Triple Tap
 Lead from Gold","High Ground
 Cascade Point",Roar of Battle,"TT + low tier 2nd column, also an aggressive",42,D
 ,Twilight Oath,29,Solar,Rapid,Dreaming City,,45,Yes,Fluted Barrel,Tactical Mag,Handling,"Lucky Shot
 Envious Assassin","Bait and Switch
 Precision Instrument",Advanced Reflexes,"no ammo gen perk, but has decent dump and damage perks",43,D
-,Mechabre,29,Arc,Aggressive,Tenet of Bravery,,45,Yes,Fluted Barrel,Extended Mag,Handling,Triple Tap,"Firing Line
+,Mechabre,29,Arc,Aggressive,Tenet of Bravery,,45,Yes,Fluted Barrel,Tactical Mag,Handling,Triple Tap,"Firing Line
 Vorpal Weapon",Search Party,last sniper with ammo gen + usable damage perks,44,D
 ,Persuader,22,Void,Rapid,Zavala,,42,No,Fluted Barrel,Tactical Mag,Handling,Discord,"Destabilizing Rounds
 High Ground",Vanguard's Vindication,has some okay perks to pair with Discord but very one-dimensional,45,E
@@ -167,9 +167,9 @@ Elemental Honing
 Mega Kill Clip",Gun and Run,basically Mercurial with more niche damage perks,47,E
 ,Thoughtless,29,Stasis,Adaptive,Vox Obscura,,48,Yes,Fluted Barrel,Appended Mag,Handling,Overflow,Firing Line,Land Tank,"very dated perk pool, no updated Fury",48,E
 ,Distant Tumulus,10,Solar,Rapid,Xur,,47,No,Fluted Barrel,Tactical Mag,Handling,Clown Cartridge,Firing Line,None,Thoughtless with better frame and worse overflow perk,49,E
-,The Long Walk,15,Solar,Aggressive,Prophecy,,41,No,Fluted Barrel,Extended Mag,Handling,"Overflow
+,The Long Walk,15,Solar,Aggressive,Prophecy,,41,No,Fluted Barrel,Tactical Mag,Handling,"Overflow
 Clown Cartridge",Firing Line,None,has two overflow perks but worse frame than upper E snipers,50,E
-,Bite of the Fox,29,Kinetic,Aggressive,Iron Banner,,38,Yes,Fluted Barrel,Extended Mag,Handling,Envious Assassin,Vorpal Weapon,Skulking Wolf,damage perk downgrade vs. higher E snipers,51,E
+,Bite of the Fox,29,Kinetic,Aggressive,Iron Banner,,38,Yes,Fluted Barrel,Tactical Mag,Handling,Envious Assassin,Vorpal Weapon,Skulking Wolf,damage perk downgrade vs. higher E snipers,51,E
 ,Shepherd's Watch,15,Kinetic,Adaptive,"Xur, Dares",,32,No,Fluted Barrel,Appended Mag,Handling,Lead from Gold,Firing Line,None,LFG is okay but definitely worse than standard overflow perks,52,E
 ,Far Future,13,Solar,Adaptive,"Xur, Dares",,30,No,Fluted Barrel,Appended Mag,Handling,"Auto-Loading Holster
 Lead from Gold","Frenzy
