@@ -6,7 +6,7 @@
       "patch": "Pantheon 2.0"
     },
     "link": "https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY",
-    "scrape_date": "2026-08-04 10:28:27"
+    "scrape_date": "2026-08-04 17:30:21"
   },
   "workbooks": {
     "Shopping List": {
@@ -376,7 +376,7 @@
           "perk2": [
             "Master of Arms",
             "Chain Reaction",
-            "Slice*"
+            "Slice"
           ],
           "origin_trait": []
         },
@@ -2918,7 +2918,7 @@
           "perk1": [
             "Reciprocity",
             "Redirection",
-            "Slice*"
+            "Slice"
           ],
           "perk2": [
             "Hatchling",
@@ -31034,7 +31034,7 @@
             "Fluted Barrel"
           ],
           "column2": [
-            "Enhanced Battery"
+            "Ionized Battery"
           ],
           "perk1": [
             "Fourth Time's the Charm",
@@ -37413,7 +37413,7 @@
           "perk2": [
             "Master of Arms",
             "Chain Reaction",
-            "Slice*"
+            "Slice"
           ],
           "origin_trait": [
             "Accelerated Assault"
