@@ -1,42 +1,214 @@
 Role,🖼️,Name,Source,#,Priority,Column 1,Column 2,Alternatives
-kinetic support auto,,Adamantite,Xur,3,low,Slice,Attrition Orbs,DECATUR 02
-energy support auto,,No Hesitation,Pale Heart,3,low,Physic,"Chaos Reshaped
-Attrition Orbs","Cusp Sempiternal
-Chrysura Melo"
-kinetic legendary primary,,Modified B-7 Pistol,Renegades,3,low,Firefly,"Headstone
-Crystalline Corpsebloom","Multimach CCX
-Submission
-Scathelocke"
-energy legendary primary,,Compact Defender,Renegades,3,low,Destabilizing Rounds,Repulsor Brace,"Reckless Oracle
-IRONWOOD 03
-Bug-Out Bag"
-kinetic StL primary,,Vulpecula,Shattered Throne,2,medium,Shoot to Loot,Explosive Payload,"Service Revolver
-Seventh Seraph Officer Revolver
-Corundum Hammer"
-energy StL primary,,Kindled Orchid,Arena Ops,3,low,Shoot to Loot,Explosive Payload,"Vouchsafe
-Nature Reclaimed
-Tarnished Mettle"
-kinetic StL special,,Volta Bracket,Neomuna,4,niche,Shoot to Loot,Explosive Payload,N/A
-energy StL special,,Lotus-Eater,N/A,2,medium,Shoot to Loot,"Withering Gaze
-Destabilizing Rounds",Apostate
-kinetic area denial,,Ouster Engine,Pinnacle Ops,2,medium,"Air Trigger
-Auto-Loading Holster
-Rimestealer","Chain Reaction
-Aggregate Charge
-Crystalline Corpsebloom","Festival Flight
-Lost Signal"
+DPS crossbow,,A Good Shout,"Tenet of Bravery, Zavala",1,high,"Envious Arsenal
+Bolt Scavenger
+Withering Gaze","High Ground
+Box Breathing",Submersion
+DPS heavy sniper,,Refurbished A499,Renegades,1,high,"Lone Wolf
+Bewildering Burst
+Gutshot Straight","Aggregate Charge
+Envious Assassin",N/A
+DPS rocket,,Hezen Vengeance,Vault of Glass,1,high,"Cluster Bomb
+Envious Arsenal
+Overflow","Aggregate Charge
+Elemental Honing
+Bipod","Bellowing Giant
+Apex Predator
+The Hothead"
+energy rocket pulse,,Veillantif-D,SRL,1,high,"Air Trigger
+Heal Clip
+Blast Distributor","Incandescent
+Desperate Measures
+Burning Ambition",Psi Aeterna IV
+exotic debuff,,Tractor Cannon,Exotic quest,1,high,N/A,N/A,"Divinity
+Fafnir"
+exotic DPS buff,,Hierarchy of Needs,Spire of the Watcher,1,high,N/A,N/A,"Gjallarhorn
+D.A.R.C.I.
+Ergo Sum"
+exotic roam,,Choir of One,Encore,1,high,Onslaught,N/A,"Praxic Blade
+Dead Messenger
+Gjallarhorn"
+exotic sustained heavy,,Truth,Kiosk,1,high,N/A,N/A,"Leviathan's Breath
+One Thousand Voices"
+kinetic DPS sniper,,Conspiracy Honed,Equilibrium,1,high,Vorpal Weapon,"Bait and Switch
+Firing Line","Something Something
+Praedyth's Revenge
+Succession"
+kinetic rocket pulse,,Mint Retrograde,Pinnacle Ops,1,high,"Field Prep
+Beacon Rounds
+Hatchling
+","Master of Arms
+Chain Reaction
+Slice*",N/A
 energy area denial,,VS Velocity Baton,Vesper's Host,2,medium,"Repulsor Brace
 Envious Arsenal
 Unrelenting","Destabilizing Rounds
 Chain Reaction
 Attrition Orbs","Psychopomp
 Motif-41"
+energy DPS shotgun,,Found Verdict,Vault of Glass,2,medium,"Aggregate Charge
+Discord
+Rewind Rounds","Trench Barrel
+One-Two Punch
+Gear Shift","Unvoiced
+Felwinter's Lie
+A Sudden Death"
+energy rocket sidearm,,Lotus-Eater,Pinnacle Ops,2,medium,"Repulsor Brace
+Air Trigger
+Shoot to Loot","Destabilizing Rounds
+Surrounded
+Withering Gaze","Returned Memory
+Indebted Kindness
+Aberrant Action"
+energy StL special,,Lotus-Eater,N/A,2,medium,Shoot to Loot,"Withering Gaze
+Destabilizing Rounds",Apostate
+energy trace,,Chronophage,Encore,2,medium,"Repulsor Brace
+Shoot to Loot","Destabilizing Rounds
+Desperate Measures","Hollow Denial
+Retraced Path
+Acasia's Dejection"
+exotic burst heavy,,Parasite,Exotic quest,2,medium,N/A,N/A,"Whirling Ovation
+Grand Overture"
+exotic burst special,,Still Hunt,Exotic quest,2,medium,N/A,N/A,"Merciless
+The Fourth Horseman
+Izanagi's Burden"
+kinetic area denial,,Ouster Engine,Pinnacle Ops,2,medium,"Air Trigger
+Auto-Loading Holster
+Rimestealer","Chain Reaction
+Aggregate Charge
+Crystalline Corpsebloom","Festival Flight
+Lost Signal"
+kinetic DPS shotgun,,Threat Level,Pantheon,2,medium,"Cascade Point
+One-Two Punch
+Lead from Gold","All-Star
+Trench Barrel
+Chaos Reshaped","Heritage
+Perfect Paradox
+Until Its Return"
+kinetic rocket sidearm,,High Albedo,Europa,2,medium,"Bewildering Burst
+Lead from Gold
+Stopping Power","Kinetic Tremors
+All-Star
+Ancillary Ordinance","Tinasha's Mastery
+The Call"
+kinetic StL primary,,Vulpecula,Shattered Throne,2,medium,Shoot to Loot,Explosive Payload,"Service Revolver
+Seventh Seraph Officer Revolver
+Corundum Hammer"
+kinetic trace,,Unsworn,Sundered Doctrine,2,medium,"Shoot to Loot
+Tear","Chaos Reshaped
+Hatchling
+Detonator Beam","Incisor
+Action Item"
 movement GL,,Gizmo Weft,Tenet of Bravery,2,medium,Air Trigger,Bipod,Theodolite
-kinetic wave frame,,New Pacific Epitaph,Ghosts of the Deep,4,niche,"Chain Reaction
-Unrelenting
-Air Trigger","Redirection
-Crystalline Corpsebloom
-Reaper's Tithe",Permafrost
+movement sword,,"Falling Guillotine
+BRAVE version",Onslaught,2,medium,"Attrition Orbs
+Relentless Strikes
+Frenzy","Eager Edge
+Elemental Honing
+Surrounded","The Slammer
+False Idols
+Sullen Claw"
+precision roam total,,The Helmsman,Crucible,2,medium,"Discord
+Light Touch
+Snapshot Sights","Elemental Honing
+Gear Shift
+Vorpal Weapon","New Land Beyond
+Refurbished A499"
+12P shotgun,,Perfect Paradox,"World, Banshee",3,low,"Pugilist
+Stopping Power
+Threat Detector","One-Two Punch
+Trench Barrel
+All-Star","Basso Ostinato
+IKELOS_SG_v1.0.3
+One Small Step"
+add clear LMG,,Corrective Measure,Vault of Glass,3,low,"Demolitionist
+Destabilizing Rounds
+Redirection","Killing Tally
+Demoralize
+One for All","Hammerhead
+Song of Ir Yût
+Pro Memoria"
+add clear rocket,,Bellowing Giant,Arena Ops,3,low,"Air Trigger
+Overflow",Bipod,"Apex Predator
+The When and Where
+Pyroclastic Flow"
+ammo generator,,Alethonym,Kiosk,3,low,N/A,N/A,Ice Breaker
+DPS drum GL,,Edge Transit,Onslaught,3,low,"Cascade Point
+Envious Arsenal
+Chain Reaction","Explosive Light
+Bait and Switch
+Elemental Honing","VS Chill Inhibitor
+The Ever-Present
+Koraxis's Distress"
+DPS sword,,Bequest,Deep Stone Crypt,3,low,"Relentless Strikes
+Jolting Feedback","Elemental Honing
+Surrounded
+Redirection","Synanceia
+Sullen Claw
+Wolfsbane"
+energy DPS sniper,,Omniscient Eye,Garden of Salvation,3,low,"Fourth Time's the Charm
+Lead from Gold","Elemental Honing
+Precision Instrument","Rapid Growth
+Embraced Identity
+Adored"
+energy legendary primary,,Compact Defender,Renegades,3,low,Destabilizing Rounds,Repulsor Brace,"Reckless Oracle
+IRONWOOD 03
+Bug-Out Bag"
+energy StL primary,,Kindled Orchid,Arena Ops,3,low,Shoot to Loot,Explosive Payload,"Vouchsafe
+Nature Reclaimed
+Tarnished Mettle"
+energy support auto,,No Hesitation,Pale Heart,3,low,Physic,"Chaos Reshaped
+Attrition Orbs","Cusp Sempiternal
+Chrysura Melo"
+exotic energy primary,,Collective Obligation,Vow of the Disciple,3,low,N/A,N/A,"Graviton LAnce
+Vex Mythoclast"
+exotic kinetic primary,,Khvostov 7G-0X,Exotic quest,3,low,N/A,N/A,"Necrochasm
+Osteo Striga
+The Huckleberry"
+exotic melee buff,,Bastion,Kiosk,3,low,N/A,N/A,The Navigator
+exotic tick heavy,,Anarchy,Kiosk,3,low,N/A,N/A,Finality's Auger
+fast death,,Pure Recollection,"Tenet of Bravery, Shaxx",3,low,Envious Arsenal,Withering Gaze,Gunnora's Axe
+kinetic legendary primary,,Modified B-7 Pistol,Renegades,3,low,Firefly,"Headstone
+Crystalline Corpsebloom","Multimach CCX
+Submission
+Scathelocke"
+kinetic support auto,,Adamantite,Xur,3,low,Slice,Attrition Orbs,DECATUR 02
+Withering Gaze primary,,Vouchsafe,Epic Desert Perpetual,3,low,Shoot to Loot,Withering Gaze,"Cusp Sempiternal
+Aisha's Embrace
+Joxer's Longsword"
+Withering Gaze special,,Lotus-Eater,N/A,3,low,Shoot to Loot,Withering Gaze,"Glacioclasm
+Wilderflight
+Father's Sins"
+blinding GL,,Lingering Dread,Duality,4,niche,Auto-Loading Holster,"Bipod
+Chill Clip","Wilderflight
+Liturgy
+Salvager's Salvo"
+Collective Demolition tick,,Chivalric Fire,Solo Ops,4,niche,Collective Demolition,"Collective Action
+Attrition Orbs
+Eager Edge","Cartesian Coordinate
+Techeun Force
+Hezen Vengeance"
+compressed wave,,Love and Death,Moon,4,niche,"Cascade Point
+Envious Arsenal
+Impromptu Ammunition","Aggregate Charge
+Bait and Switch
+Chain Reaction","Dimensional Hypotrochoid
+Hullabaloo"
+DPS breech GL,,Gizmo Weft,Tenet of Bravery,4,niche,Envious Arsenal,"Aggregate Charge
+Elemental Honing
+Bait and Switch","Wilderflight
+Salvager's Salvo
+Liturgy"
+DPS linear,,Eyes Unveiled,Pit of Heresy,4,niche,"Fourth Time's the Charm
+Mega Kill Clip","Elemental Honing
+Chain Reaction","Cataclysmic
+Taipan-4fr"
+energy glaive,,Ecliptic Distaff,Solo Ops,4,niche,"Repulsor Brace
+Disruption Break
+Immovable Object","Chaos Reshaped
+Close to Melee
+Withering Gaze","The Heron
+Lubrae's Ruin
+Judgment of Kelgorath"
 energy wave frame,,"Forbearance
 BRAVE version",Onslaught,4,niche,"Redirection
 Air Trigger
@@ -45,83 +217,13 @@ Desperate Measures
 Voltshot","Romantic Death
 Forbearance
 Martyr's Retribution"
-blinding GL,,Lingering Dread,Duality,4,niche,Auto-Loading Holster,"Bipod
-Chill Clip","Wilderflight
-Liturgy
-Salvager's Salvo"
-DPS breech GL,,Gizmo Weft,Tenet of Bravery,4,niche,Envious Arsenal,"Aggregate Charge
-Elemental Honing
-Bait and Switch","Wilderflight
-Salvager's Salvo
-Liturgy"
-Withering Gaze primary,,Vouchsafe,Epic Desert Perpetual,3,low,Shoot to Loot,Withering Gaze,"Cusp Sempiternal
-Aisha's Embrace
-Joxer's Longsword"
-Withering Gaze special,,Lotus-Eater,N/A,3,low,Shoot to Loot,Withering Gaze,"Glacioclasm
-Wilderflight
-Father's Sins"
-Collective Demolition tick,,Chivalric Fire,Solo Ops,4,niche,Collective Demolition,"Collective Action
-Attrition Orbs
-Eager Edge","Cartesian Coordinate
-Techeun Force
-Hezen Vengeance"
 kinetic glaive,,Refusal of the Call,Pit of Heresy,4,niche,"Slice
 Close to Melee
 Chain Reaction","Chaos Reshaped
 Replenishing Aegis",Rake Angle
-energy glaive,,Ecliptic Distaff,Solo Ops,4,niche,"Repulsor Brace
-Disruption Break
-Immovable Object","Chaos Reshaped
-Close to Melee
-Withering Gaze","The Heron
-Lubrae's Ruin
-Judgment of Kelgorath"
-kinetic DPS shotgun,,Threat Level,Pantheon,2,medium,"Cascade Point
-One-Two Punch
-Lead from Gold","All-Star
-Trench Barrel
-Chaos Reshaped","Heritage
-Perfect Paradox
-Until Its Return"
-energy DPS shotgun,,Found Verdict,Vault of Glass,2,medium,"Aggregate Charge
-Discord
-Rewind Rounds","Trench Barrel
-One-Two Punch
-Gear Shift","Unvoiced
-Felwinter's Lie
-A Sudden Death"
-12P shotgun,,Perfect Paradox,"World, Banshee",3,low,"Pugilist
-Stopping Power
-Threat Detector","One-Two Punch
-Trench Barrel
-All-Star","Basso Ostinato
-IKELOS_SG_v1.0.3
-One Small Step"
-kinetic DPS sniper,,Conspiracy Honed,Equilibrium,1,high,Vorpal Weapon,"Bait and Switch
-Firing Line","Something Something
-Praedyth's Revenge
-Succession"
-energy DPS sniper,,Omniscient Eye,Garden of Salvation,3,low,"Fourth Time's the Charm
-Lead from Gold","Elemental Honing
-Precision Instrument","Rapid Growth
-Embraced Identity
-Adored"
-precision roam total,,The Helmsman,Crucible,2,medium,"Discord
-Light Touch
-Snapshot Sights","Elemental Honing
-Gear Shift
-Vorpal Weapon","New Land Beyond
-Refurbished A499"
-fast death,,Pure Recollection,"Tenet of Bravery, Shaxx",3,low,Envious Arsenal,Withering Gaze,Gunnora's Axe
-energy rocket sidearm,,Lotus-Eater,Pinnacle Ops,2,medium,"Repulsor Brace
-Air Trigger
-Shoot to Loot","Destabilizing Rounds
-Surrounded
-Withering Gaze","Returned Memory
-Indebted Kindness
-Aberrant Action"
-kinetic rocket sidearm,,High Albedo,Europa,2,medium,"Bewildering Burst
-Lead from Gold
-Stopping Power","Kinetic Tremors
-All-Star
-Ancillary Ordinance",
+kinetic StL special,,Volta Bracket,Neomuna,4,niche,Shoot to Loot,Explosive Payload,N/A
+kinetic wave frame,,New Pacific Epitaph,Ghosts of the Deep,4,niche,"Chain Reaction
+Unrelenting
+Air Trigger","Redirection
+Crystalline Corpsebloom
+Reaper's Tithe",Permafrost

@@ -6,37 +6,40 @@
       "patch": "Pantheon 2.0"
     },
     "link": "https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY",
-    "scrape_date": "2026-08-04 01:45:45"
+    "scrape_date": "2026-08-04 10:28:27"
   },
   "workbooks": {
     "Shopping List": {
-      "Adamantite": {
-        "weapon_name": "Adamantite",
+      "A Good Shout": {
+        "weapon_name": "A Good Shout",
         "version": "",
         "perks": {
           "column1": [],
           "column2": [],
           "perk1": [
-            "Slice"
+            "Envious Arsenal",
+            "Bolt Scavenger",
+            "Withering Gaze"
           ],
           "perk2": [
-            "Attrition Orbs"
+            "High Ground",
+            "Box Breathing"
           ],
           "origin_trait": []
         },
         "info": {
-          "rank": "3",
+          "rank": "1",
           "tier": "",
-          "priority": "low",
-          "role": "kinetic support auto",
+          "priority": "high",
+          "role": "DPS crossbow",
           "purpose": "",
           "tags": "",
           "type": "",
           "usage": "",
-          "source": "Xur",
+          "source": "Tenet of Bravery, Zavala",
           "notes": "",
           "description": "",
-          "alternatives": "DECATUR 02",
+          "alternatives": "Submersion",
           "analysis": {
             "roam": "",
             "dps": "",
@@ -49,227 +52,33 @@
           }
         }
       },
-      "No Hesitation": {
-        "weapon_name": "No Hesitation",
+      "Refurbished A499": {
+        "weapon_name": "Refurbished A499",
         "version": "",
         "perks": {
           "column1": [],
           "column2": [],
           "perk1": [
-            "Physic"
+            "Lone Wolf",
+            "Bewildering Burst",
+            "Gutshot Straight"
           ],
           "perk2": [
-            "Chaos Reshaped",
-            "Attrition Orbs"
+            "Aggregate Charge",
+            "Envious Assassin"
           ],
           "origin_trait": []
         },
         "info": {
-          "rank": "3",
+          "rank": "1",
           "tier": "",
-          "priority": "low",
-          "role": "energy support auto",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "Pale Heart",
-          "notes": "",
-          "description": "",
-          "alternatives": "Cusp Sempiternal, Chrysura Melo",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Modified B-7 Pistol": {
-        "weapon_name": "Modified B-7 Pistol",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [
-            "Firefly"
-          ],
-          "perk2": [
-            "Headstone",
-            "Crystalline Corpsebloom"
-          ],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "3",
-          "tier": "",
-          "priority": "low",
-          "role": "kinetic legendary primary",
+          "priority": "high",
+          "role": "DPS heavy sniper",
           "purpose": "",
           "tags": "",
           "type": "",
           "usage": "",
           "source": "Renegades",
-          "notes": "",
-          "description": "",
-          "alternatives": "Multimach CCX, Submission, Scathelocke",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Compact Defender": {
-        "weapon_name": "Compact Defender",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [
-            "Destabilizing Rounds"
-          ],
-          "perk2": [
-            "Repulsor Brace"
-          ],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "3",
-          "tier": "",
-          "priority": "low",
-          "role": "energy legendary primary",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "Renegades",
-          "notes": "",
-          "description": "",
-          "alternatives": "Reckless Oracle, IRONWOOD 03, Bug-Out Bag",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Vulpecula": {
-        "weapon_name": "Vulpecula",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [
-            "Shoot to Loot"
-          ],
-          "perk2": [
-            "Explosive Payload"
-          ],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "2",
-          "tier": "",
-          "priority": "medium",
-          "role": "kinetic StL primary",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "Shattered Throne",
-          "notes": "",
-          "description": "",
-          "alternatives": "Service Revolver, Seventh Seraph Officer Revolver, Corundum Hammer",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Kindled Orchid": {
-        "weapon_name": "Kindled Orchid",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [
-            "Shoot to Loot"
-          ],
-          "perk2": [
-            "Explosive Payload"
-          ],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "3",
-          "tier": "",
-          "priority": "low",
-          "role": "energy StL primary",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "Arena Ops",
-          "notes": "",
-          "description": "",
-          "alternatives": "Vouchsafe, Nature Reclaimed, Tarnished Mettle",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Volta Bracket": {
-        "weapon_name": "Volta Bracket",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [
-            "Shoot to Loot"
-          ],
-          "perk2": [
-            "Explosive Payload"
-          ],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "4",
-          "tier": "",
-          "priority": "niche",
-          "role": "kinetic StL special",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "Neomuna",
           "notes": "",
           "description": "",
           "alternatives": "",
@@ -285,34 +94,37 @@
           }
         }
       },
-      "Lotus-Eater": {
-        "weapon_name": "Lotus-Eater",
+      "Hezen Vengeance": {
+        "weapon_name": "Hezen Vengeance",
         "version": "",
         "perks": {
           "column1": [],
           "column2": [],
           "perk1": [
-            "Shoot to Loot"
+            "Cluster Bomb",
+            "Envious Arsenal",
+            "Overflow"
           ],
           "perk2": [
-            "Withering Gaze",
-            "Destabilizing Rounds"
+            "Aggregate Charge",
+            "Elemental Honing",
+            "Bipod"
           ],
           "origin_trait": []
         },
         "info": {
-          "rank": "2",
+          "rank": "1",
           "tier": "",
-          "priority": "medium",
-          "role": "energy StL special",
+          "priority": "high",
+          "role": "DPS rocket",
           "purpose": "",
           "tags": "",
           "type": "",
           "usage": "",
-          "source": "",
+          "source": "Vault of Glass",
           "notes": "",
           "description": "",
-          "alternatives": "Apostate",
+          "alternatives": "Bellowing Giant, Apex Predator, The Hothead",
           "analysis": {
             "roam": "",
             "dps": "",
@@ -325,29 +137,254 @@
           }
         }
       },
-      "Ouster Engine": {
-        "weapon_name": "Ouster Engine",
+      "Veillantif-D": {
+        "weapon_name": "Veillantif-D",
         "version": "",
         "perks": {
           "column1": [],
           "column2": [],
           "perk1": [
             "Air Trigger",
-            "Auto-Loading Holster",
-            "Rimestealer"
+            "Heal Clip",
+            "Blast Distributor"
           ],
           "perk2": [
-            "Chain Reaction",
-            "Aggregate Charge",
-            "Crystalline Corpsebloom"
+            "Incandescent",
+            "Desperate Measures",
+            "Burning Ambition"
           ],
           "origin_trait": []
         },
         "info": {
-          "rank": "2",
+          "rank": "1",
           "tier": "",
-          "priority": "medium",
-          "role": "kinetic area denial",
+          "priority": "high",
+          "role": "energy rocket pulse",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "SRL",
+          "notes": "",
+          "description": "",
+          "alternatives": "Psi Aeterna IV",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Tractor Cannon": {
+        "weapon_name": "Tractor Cannon",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "1",
+          "tier": "",
+          "priority": "high",
+          "role": "exotic debuff",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "Exotic quest",
+          "notes": "",
+          "description": "",
+          "alternatives": "Divinity, Fafnir",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Hierarchy of Needs": {
+        "weapon_name": "Hierarchy of Needs",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "1",
+          "tier": "",
+          "priority": "high",
+          "role": "exotic DPS buff",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "Spire of the Watcher",
+          "notes": "",
+          "description": "",
+          "alternatives": "Gjallarhorn, D.A.R.C.I., Ergo Sum",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Choir of One": {
+        "weapon_name": "Choir of One",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [
+            "Onslaught"
+          ],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "1",
+          "tier": "",
+          "priority": "high",
+          "role": "exotic roam",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "Encore",
+          "notes": "",
+          "description": "",
+          "alternatives": "Praxic Blade, Dead Messenger, Gjallarhorn",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Truth": {
+        "weapon_name": "Truth",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "1",
+          "tier": "",
+          "priority": "high",
+          "role": "exotic sustained heavy",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "Kiosk",
+          "notes": "",
+          "description": "",
+          "alternatives": "Leviathan's Breath, One Thousand Voices",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Conspiracy Honed": {
+        "weapon_name": "Conspiracy Honed",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [
+            "Vorpal Weapon"
+          ],
+          "perk2": [
+            "Bait and Switch",
+            "Firing Line"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "1",
+          "tier": "",
+          "priority": "high",
+          "role": "kinetic DPS sniper",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "Equilibrium",
+          "notes": "",
+          "description": "",
+          "alternatives": "Something Something, Praedyth's Revenge, Succession",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Mint Retrograde": {
+        "weapon_name": "Mint Retrograde",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [
+            "Field Prep",
+            "Beacon Rounds",
+            "Hatchling"
+          ],
+          "perk2": [
+            "Master of Arms",
+            "Chain Reaction",
+            "Slice*"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "1",
+          "tier": "",
+          "priority": "high",
+          "role": "kinetic rocket pulse",
           "purpose": "",
           "tags": "",
           "type": "",
@@ -355,7 +392,7 @@
           "source": "Pinnacle Ops",
           "notes": "",
           "description": "",
-          "alternatives": "Festival Flight, Lost Signal",
+          "alternatives": "",
           "analysis": {
             "roam": "",
             "dps": "",
@@ -411,17 +448,21 @@
           }
         }
       },
-      "Gizmo Weft": {
-        "weapon_name": "Gizmo Weft",
+      "Found Verdict": {
+        "weapon_name": "Found Verdict",
         "version": "",
         "perks": {
           "column1": [],
           "column2": [],
           "perk1": [
-            "Air Trigger"
+            "Aggregate Charge",
+            "Discord",
+            "Rewind Rounds"
           ],
           "perk2": [
-            "Bipod"
+            "Trench Barrel",
+            "One-Two Punch",
+            "Gear Shift"
           ],
           "origin_trait": []
         },
@@ -429,15 +470,15 @@
           "rank": "2",
           "tier": "",
           "priority": "medium",
-          "role": "movement GL",
+          "role": "energy DPS shotgun",
           "purpose": "",
           "tags": "",
           "type": "",
           "usage": "",
-          "source": "Tenet of Bravery",
+          "source": "Vault of Glass",
           "notes": "",
           "description": "",
-          "alternatives": "Theodolite",
+          "alternatives": "Unvoiced, Felwinter's Lie, A Sudden Death",
           "analysis": {
             "roam": "",
             "dps": "",
@@ -450,200 +491,37 @@
           }
         }
       },
-      "New Pacific Epitaph": {
-        "weapon_name": "New Pacific Epitaph",
+      "Lotus-Eater": {
+        "weapon_name": "Lotus-Eater",
         "version": "",
         "perks": {
           "column1": [],
           "column2": [],
           "perk1": [
-            "Chain Reaction",
-            "Unrelenting",
-            "Air Trigger"
-          ],
-          "perk2": [
-            "Redirection",
-            "Crystalline Corpsebloom",
-            "Reaper's Tithe"
-          ],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "4",
-          "tier": "",
-          "priority": "niche",
-          "role": "kinetic wave frame",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "Ghosts of the Deep",
-          "notes": "",
-          "description": "",
-          "alternatives": "Permafrost",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Forbearance": {
-        "weapon_name": "Forbearance",
-        "version": "BRAVE",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [
-            "Redirection",
+            "Repulsor Brace",
             "Air Trigger",
-            "Unrelenting"
-          ],
-          "perk2": [
-            "Chain Reaction",
-            "Desperate Measures",
-            "Voltshot"
-          ],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "4",
-          "tier": "",
-          "priority": "niche",
-          "role": "energy wave frame",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "Onslaught",
-          "notes": "",
-          "description": "",
-          "alternatives": "Romantic Death, Forbearance, Martyr's Retribution",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Lingering Dread": {
-        "weapon_name": "Lingering Dread",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [
-            "Auto-Loading Holster"
-          ],
-          "perk2": [
-            "Bipod",
-            "Chill Clip"
-          ],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "4",
-          "tier": "",
-          "priority": "niche",
-          "role": "blinding GL",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "Duality",
-          "notes": "",
-          "description": "",
-          "alternatives": "Wilderflight, Liturgy, Salvager's Salvo",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Gizmo Weft_2": {
-        "weapon_name": "Gizmo Weft",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [
-            "Envious Arsenal"
-          ],
-          "perk2": [
-            "Aggregate Charge",
-            "Elemental Honing",
-            "Bait and Switch"
-          ],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "4",
-          "tier": "",
-          "priority": "niche",
-          "role": "DPS breech GL",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "Tenet of Bravery",
-          "notes": "",
-          "description": "",
-          "alternatives": "Wilderflight, Salvager's Salvo, Liturgy",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Vouchsafe": {
-        "weapon_name": "Vouchsafe",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [
             "Shoot to Loot"
           ],
           "perk2": [
+            "Destabilizing Rounds",
+            "Surrounded",
             "Withering Gaze"
           ],
           "origin_trait": []
         },
         "info": {
-          "rank": "3",
+          "rank": "2",
           "tier": "",
-          "priority": "low",
-          "role": "Withering Gaze primary",
+          "priority": "medium",
+          "role": "energy rocket sidearm",
           "purpose": "",
           "tags": "",
           "type": "",
           "usage": "",
-          "source": "Epic Desert Perpetual",
+          "source": "Pinnacle Ops",
           "notes": "",
           "description": "",
-          "alternatives": "Cusp Sempiternal, Aisha's Embrace, Joxer's Longsword",
+          "alternatives": "Returned Memory, Indebted Kindness, Aberrant Action",
           "analysis": {
             "roam": "",
             "dps": "",
@@ -666,15 +544,16 @@
             "Shoot to Loot"
           ],
           "perk2": [
-            "Withering Gaze"
+            "Withering Gaze",
+            "Destabilizing Rounds"
           ],
           "origin_trait": []
         },
         "info": {
-          "rank": "3",
+          "rank": "2",
           "tier": "",
-          "priority": "low",
-          "role": "Withering Gaze special",
+          "priority": "medium",
+          "role": "energy StL special",
           "purpose": "",
           "tags": "",
           "type": "",
@@ -682,7 +561,7 @@
           "source": "",
           "notes": "",
           "description": "",
-          "alternatives": "Glacioclasm, Wilderflight, Father's Sins",
+          "alternatives": "Apostate",
           "analysis": {
             "roam": "",
             "dps": "",
@@ -695,120 +574,148 @@
           }
         }
       },
-      "Chivalric Fire": {
-        "weapon_name": "Chivalric Fire",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [
-            "Collective Demolition"
-          ],
-          "perk2": [
-            "Collective Action",
-            "Attrition Orbs",
-            "Eager Edge"
-          ],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "4",
-          "tier": "",
-          "priority": "niche",
-          "role": "Collective Demolition tick",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "Solo Ops",
-          "notes": "",
-          "description": "",
-          "alternatives": "Cartesian Coordinate, Techeun Force, Hezen Vengeance",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Refusal of the Call": {
-        "weapon_name": "Refusal of the Call",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [
-            "Slice",
-            "Close to Melee",
-            "Chain Reaction"
-          ],
-          "perk2": [
-            "Chaos Reshaped",
-            "Replenishing Aegis"
-          ],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "4",
-          "tier": "",
-          "priority": "niche",
-          "role": "kinetic glaive",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "Pit of Heresy",
-          "notes": "",
-          "description": "",
-          "alternatives": "Rake Angle",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Ecliptic Distaff": {
-        "weapon_name": "Ecliptic Distaff",
+      "Chronophage": {
+        "weapon_name": "Chronophage",
         "version": "",
         "perks": {
           "column1": [],
           "column2": [],
           "perk1": [
             "Repulsor Brace",
-            "Disruption Break",
-            "Immovable Object"
+            "Shoot to Loot"
           ],
           "perk2": [
-            "Chaos Reshaped",
-            "Close to Melee",
-            "Withering Gaze"
+            "Destabilizing Rounds",
+            "Desperate Measures"
           ],
           "origin_trait": []
         },
         "info": {
-          "rank": "4",
+          "rank": "2",
           "tier": "",
-          "priority": "niche",
-          "role": "energy glaive",
+          "priority": "medium",
+          "role": "energy trace",
           "purpose": "",
           "tags": "",
           "type": "",
           "usage": "",
-          "source": "Solo Ops",
+          "source": "Encore",
           "notes": "",
           "description": "",
-          "alternatives": "The Heron, Lubrae's Ruin, Judgment of Kelgorath",
+          "alternatives": "Hollow Denial, Retraced Path, Acasia's Dejection",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Parasite": {
+        "weapon_name": "Parasite",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "2",
+          "tier": "",
+          "priority": "medium",
+          "role": "exotic burst heavy",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "Exotic quest",
+          "notes": "",
+          "description": "",
+          "alternatives": "Whirling Ovation, Grand Overture",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Still Hunt": {
+        "weapon_name": "Still Hunt",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "2",
+          "tier": "",
+          "priority": "medium",
+          "role": "exotic burst special",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "Exotic quest",
+          "notes": "",
+          "description": "",
+          "alternatives": "Merciless, The Fourth Horseman, Izanagi's Burden",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Ouster Engine": {
+        "weapon_name": "Ouster Engine",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [
+            "Air Trigger",
+            "Auto-Loading Holster",
+            "Rimestealer"
+          ],
+          "perk2": [
+            "Chain Reaction",
+            "Aggregate Charge",
+            "Crystalline Corpsebloom"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "2",
+          "tier": "",
+          "priority": "medium",
+          "role": "kinetic area denial",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "Pinnacle Ops",
+          "notes": "",
+          "description": "",
+          "alternatives": "Festival Flight, Lost Signal",
           "analysis": {
             "roam": "",
             "dps": "",
@@ -864,21 +771,21 @@
           }
         }
       },
-      "Found Verdict": {
-        "weapon_name": "Found Verdict",
+      "High Albedo": {
+        "weapon_name": "High Albedo",
         "version": "",
         "perks": {
           "column1": [],
           "column2": [],
           "perk1": [
-            "Aggregate Charge",
-            "Discord",
-            "Rewind Rounds"
+            "Bewildering Burst",
+            "Lead from Gold",
+            "Stopping Power"
           ],
           "perk2": [
-            "Trench Barrel",
-            "One-Two Punch",
-            "Gear Shift"
+            "Kinetic Tremors",
+            "All-Star",
+            "Ancillary Ordinance"
           ],
           "origin_trait": []
         },
@@ -886,15 +793,15 @@
           "rank": "2",
           "tier": "",
           "priority": "medium",
-          "role": "energy DPS shotgun",
+          "role": "kinetic rocket sidearm",
           "purpose": "",
           "tags": "",
           "type": "",
           "usage": "",
-          "source": "Vault of Glass",
+          "source": "Europa",
           "notes": "",
           "description": "",
-          "alternatives": "Unvoiced, Felwinter's Lie, A Sudden Death",
+          "alternatives": "Tinasha's Mastery, The Call",
           "analysis": {
             "roam": "",
             "dps": "",
@@ -907,37 +814,33 @@
           }
         }
       },
-      "Perfect Paradox": {
-        "weapon_name": "Perfect Paradox",
+      "Vulpecula": {
+        "weapon_name": "Vulpecula",
         "version": "",
         "perks": {
           "column1": [],
           "column2": [],
           "perk1": [
-            "Pugilist",
-            "Stopping Power",
-            "Threat Detector"
+            "Shoot to Loot"
           ],
           "perk2": [
-            "One-Two Punch",
-            "Trench Barrel",
-            "All-Star"
+            "Explosive Payload"
           ],
           "origin_trait": []
         },
         "info": {
-          "rank": "3",
+          "rank": "2",
           "tier": "",
-          "priority": "low",
-          "role": "12P shotgun",
+          "priority": "medium",
+          "role": "kinetic StL primary",
           "purpose": "",
           "tags": "",
           "type": "",
           "usage": "",
-          "source": "World, Banshee",
+          "source": "Shattered Throne",
           "notes": "",
           "description": "",
-          "alternatives": "Basso Ostinato, IKELOS_SG_v1.0.3, One Small Step",
+          "alternatives": "Service Revolver, Seventh Seraph Officer Revolver, Corundum Hammer",
           "analysis": {
             "roam": "",
             "dps": "",
@@ -950,34 +853,36 @@
           }
         }
       },
-      "Conspiracy Honed": {
-        "weapon_name": "Conspiracy Honed",
+      "Unsworn": {
+        "weapon_name": "Unsworn",
         "version": "",
         "perks": {
           "column1": [],
           "column2": [],
           "perk1": [
-            "Vorpal Weapon"
+            "Shoot to Loot",
+            "Tear"
           ],
           "perk2": [
-            "Bait and Switch",
-            "Firing Line"
+            "Chaos Reshaped",
+            "Hatchling",
+            "Detonator Beam"
           ],
           "origin_trait": []
         },
         "info": {
-          "rank": "1",
+          "rank": "2",
           "tier": "",
-          "priority": "high",
-          "role": "kinetic DPS sniper",
+          "priority": "medium",
+          "role": "kinetic trace",
           "purpose": "",
           "tags": "",
           "type": "",
           "usage": "",
-          "source": "Equilibrium",
+          "source": "Sundered Doctrine",
           "notes": "",
           "description": "",
-          "alternatives": "Something Something, Praedyth's Revenge, Succession",
+          "alternatives": "Incisor, Action Item",
           "analysis": {
             "roam": "",
             "dps": "",
@@ -990,35 +895,76 @@
           }
         }
       },
-      "Omniscient Eye": {
-        "weapon_name": "Omniscient Eye",
+      "Gizmo Weft": {
+        "weapon_name": "Gizmo Weft",
         "version": "",
         "perks": {
           "column1": [],
           "column2": [],
           "perk1": [
-            "Fourth Time's the Charm",
-            "Lead from Gold"
+            "Air Trigger"
           ],
           "perk2": [
+            "Bipod"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "2",
+          "tier": "",
+          "priority": "medium",
+          "role": "movement GL",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "Tenet of Bravery",
+          "notes": "",
+          "description": "",
+          "alternatives": "Theodolite",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Falling Guillotine": {
+        "weapon_name": "Falling Guillotine",
+        "version": "BRAVE",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [
+            "Attrition Orbs",
+            "Relentless Strikes",
+            "Frenzy"
+          ],
+          "perk2": [
+            "Eager Edge",
             "Elemental Honing",
-            "Precision Instrument"
+            "Surrounded"
           ],
           "origin_trait": []
         },
         "info": {
-          "rank": "3",
+          "rank": "2",
           "tier": "",
-          "priority": "low",
-          "role": "energy DPS sniper",
+          "priority": "medium",
+          "role": "movement sword",
           "purpose": "",
           "tags": "",
           "type": "",
           "usage": "",
-          "source": "Garden of Salvation",
+          "source": "Onslaught",
           "notes": "",
           "description": "",
-          "alternatives": "Rapid Growth, Embraced Identity, Adored",
+          "alternatives": "The Slammer, False Idols, Sullen Claw",
           "analysis": {
             "roam": "",
             "dps": "",
@@ -1074,6 +1020,551 @@
           }
         }
       },
+      "Perfect Paradox": {
+        "weapon_name": "Perfect Paradox",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [
+            "Pugilist",
+            "Stopping Power",
+            "Threat Detector"
+          ],
+          "perk2": [
+            "One-Two Punch",
+            "Trench Barrel",
+            "All-Star"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "3",
+          "tier": "",
+          "priority": "low",
+          "role": "12P shotgun",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "World, Banshee",
+          "notes": "",
+          "description": "",
+          "alternatives": "Basso Ostinato, IKELOS_SG_v1.0.3, One Small Step",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Corrective Measure": {
+        "weapon_name": "Corrective Measure",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [
+            "Demolitionist",
+            "Destabilizing Rounds",
+            "Redirection"
+          ],
+          "perk2": [
+            "Killing Tally",
+            "Demoralize",
+            "One for All"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "3",
+          "tier": "",
+          "priority": "low",
+          "role": "add clear LMG",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "Vault of Glass",
+          "notes": "",
+          "description": "",
+          "alternatives": "Hammerhead, Song of Ir Yût, Pro Memoria",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Bellowing Giant": {
+        "weapon_name": "Bellowing Giant",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [
+            "Air Trigger",
+            "Overflow"
+          ],
+          "perk2": [
+            "Bipod"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "3",
+          "tier": "",
+          "priority": "low",
+          "role": "add clear rocket",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "Arena Ops",
+          "notes": "",
+          "description": "",
+          "alternatives": "Apex Predator, The When and Where, Pyroclastic Flow",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Alethonym": {
+        "weapon_name": "Alethonym",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "3",
+          "tier": "",
+          "priority": "low",
+          "role": "ammo generator",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "Kiosk",
+          "notes": "",
+          "description": "",
+          "alternatives": "Ice Breaker",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Edge Transit": {
+        "weapon_name": "Edge Transit",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [
+            "Cascade Point",
+            "Envious Arsenal",
+            "Chain Reaction"
+          ],
+          "perk2": [
+            "Explosive Light",
+            "Bait and Switch",
+            "Elemental Honing"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "3",
+          "tier": "",
+          "priority": "low",
+          "role": "DPS drum GL",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "Onslaught",
+          "notes": "",
+          "description": "",
+          "alternatives": "VS Chill Inhibitor, The Ever-Present, Koraxis's Distress",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Bequest": {
+        "weapon_name": "Bequest",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [
+            "Relentless Strikes",
+            "Jolting Feedback"
+          ],
+          "perk2": [
+            "Elemental Honing",
+            "Surrounded",
+            "Redirection"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "3",
+          "tier": "",
+          "priority": "low",
+          "role": "DPS sword",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "Deep Stone Crypt",
+          "notes": "",
+          "description": "",
+          "alternatives": "Synanceia, Sullen Claw, Wolfsbane",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Omniscient Eye": {
+        "weapon_name": "Omniscient Eye",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [
+            "Fourth Time's the Charm",
+            "Lead from Gold"
+          ],
+          "perk2": [
+            "Elemental Honing",
+            "Precision Instrument"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "3",
+          "tier": "",
+          "priority": "low",
+          "role": "energy DPS sniper",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "Garden of Salvation",
+          "notes": "",
+          "description": "",
+          "alternatives": "Rapid Growth, Embraced Identity, Adored",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Compact Defender": {
+        "weapon_name": "Compact Defender",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [
+            "Destabilizing Rounds"
+          ],
+          "perk2": [
+            "Repulsor Brace"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "3",
+          "tier": "",
+          "priority": "low",
+          "role": "energy legendary primary",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "Renegades",
+          "notes": "",
+          "description": "",
+          "alternatives": "Reckless Oracle, IRONWOOD 03, Bug-Out Bag",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Kindled Orchid": {
+        "weapon_name": "Kindled Orchid",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [
+            "Shoot to Loot"
+          ],
+          "perk2": [
+            "Explosive Payload"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "3",
+          "tier": "",
+          "priority": "low",
+          "role": "energy StL primary",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "Arena Ops",
+          "notes": "",
+          "description": "",
+          "alternatives": "Vouchsafe, Nature Reclaimed, Tarnished Mettle",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "No Hesitation": {
+        "weapon_name": "No Hesitation",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [
+            "Physic"
+          ],
+          "perk2": [
+            "Chaos Reshaped",
+            "Attrition Orbs"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "3",
+          "tier": "",
+          "priority": "low",
+          "role": "energy support auto",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "Pale Heart",
+          "notes": "",
+          "description": "",
+          "alternatives": "Cusp Sempiternal, Chrysura Melo",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Collective Obligation": {
+        "weapon_name": "Collective Obligation",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "3",
+          "tier": "",
+          "priority": "low",
+          "role": "exotic energy primary",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "Vow of the Disciple",
+          "notes": "",
+          "description": "",
+          "alternatives": "Graviton LAnce, Vex Mythoclast",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Khvostov 7G-0X": {
+        "weapon_name": "Khvostov 7G-0X",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "3",
+          "tier": "",
+          "priority": "low",
+          "role": "exotic kinetic primary",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "Exotic quest",
+          "notes": "",
+          "description": "",
+          "alternatives": "Necrochasm, Osteo Striga, The Huckleberry",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Bastion": {
+        "weapon_name": "Bastion",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "3",
+          "tier": "",
+          "priority": "low",
+          "role": "exotic melee buff",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "Kiosk",
+          "notes": "",
+          "description": "",
+          "alternatives": "The Navigator",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Anarchy": {
+        "weapon_name": "Anarchy",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "3",
+          "tier": "",
+          "priority": "low",
+          "role": "exotic tick heavy",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "Kiosk",
+          "notes": "",
+          "description": "",
+          "alternatives": "Finality's Auger",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
       "Pure Recollection": {
         "weapon_name": "Pure Recollection",
         "version": "",
@@ -1113,37 +1604,34 @@
           }
         }
       },
-      "Lotus-Eater_3": {
-        "weapon_name": "Lotus-Eater",
+      "Modified B-7 Pistol": {
+        "weapon_name": "Modified B-7 Pistol",
         "version": "",
         "perks": {
           "column1": [],
           "column2": [],
           "perk1": [
-            "Repulsor Brace",
-            "Air Trigger",
-            "Shoot to Loot"
+            "Firefly"
           ],
           "perk2": [
-            "Destabilizing Rounds",
-            "Surrounded",
-            "Withering Gaze"
+            "Headstone",
+            "Crystalline Corpsebloom"
           ],
           "origin_trait": []
         },
         "info": {
-          "rank": "2",
+          "rank": "3",
           "tier": "",
-          "priority": "medium",
-          "role": "energy rocket sidearm",
+          "priority": "low",
+          "role": "kinetic legendary primary",
           "purpose": "",
           "tags": "",
           "type": "",
           "usage": "",
-          "source": "Pinnacle Ops",
+          "source": "Renegades",
           "notes": "",
           "description": "",
-          "alternatives": "Returned Memory, Indebted Kindness, Aberrant Action",
+          "alternatives": "Multimach CCX, Submission, Scathelocke",
           "analysis": {
             "roam": "",
             "dps": "",
@@ -1156,37 +1644,527 @@
           }
         }
       },
-      "High Albedo": {
-        "weapon_name": "High Albedo",
+      "Adamantite": {
+        "weapon_name": "Adamantite",
         "version": "",
         "perks": {
           "column1": [],
           "column2": [],
           "perk1": [
-            "Bewildering Burst",
-            "Lead from Gold",
-            "Stopping Power"
+            "Slice"
           ],
           "perk2": [
-            "Kinetic Tremors",
-            "All-Star",
-            "Ancillary Ordinance"
+            "Attrition Orbs"
           ],
           "origin_trait": []
         },
         "info": {
-          "rank": "2",
+          "rank": "3",
           "tier": "",
-          "priority": "medium",
-          "role": "kinetic rocket sidearm",
+          "priority": "low",
+          "role": "kinetic support auto",
           "purpose": "",
           "tags": "",
           "type": "",
           "usage": "",
-          "source": "Europa",
+          "source": "Xur",
+          "notes": "",
+          "description": "",
+          "alternatives": "DECATUR 02",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Vouchsafe": {
+        "weapon_name": "Vouchsafe",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [
+            "Shoot to Loot"
+          ],
+          "perk2": [
+            "Withering Gaze"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "3",
+          "tier": "",
+          "priority": "low",
+          "role": "Withering Gaze primary",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "Epic Desert Perpetual",
+          "notes": "",
+          "description": "",
+          "alternatives": "Cusp Sempiternal, Aisha's Embrace, Joxer's Longsword",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Lotus-Eater_3": {
+        "weapon_name": "Lotus-Eater",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [
+            "Shoot to Loot"
+          ],
+          "perk2": [
+            "Withering Gaze"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "3",
+          "tier": "",
+          "priority": "low",
+          "role": "Withering Gaze special",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "",
+          "description": "",
+          "alternatives": "Glacioclasm, Wilderflight, Father's Sins",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Lingering Dread": {
+        "weapon_name": "Lingering Dread",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [
+            "Auto-Loading Holster"
+          ],
+          "perk2": [
+            "Bipod",
+            "Chill Clip"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "4",
+          "tier": "",
+          "priority": "niche",
+          "role": "blinding GL",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "Duality",
+          "notes": "",
+          "description": "",
+          "alternatives": "Wilderflight, Liturgy, Salvager's Salvo",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Chivalric Fire": {
+        "weapon_name": "Chivalric Fire",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [
+            "Collective Demolition"
+          ],
+          "perk2": [
+            "Collective Action",
+            "Attrition Orbs",
+            "Eager Edge"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "4",
+          "tier": "",
+          "priority": "niche",
+          "role": "Collective Demolition tick",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "Solo Ops",
+          "notes": "",
+          "description": "",
+          "alternatives": "Cartesian Coordinate, Techeun Force, Hezen Vengeance",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Love and Death": {
+        "weapon_name": "Love and Death",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [
+            "Cascade Point",
+            "Envious Arsenal",
+            "Impromptu Ammunition"
+          ],
+          "perk2": [
+            "Aggregate Charge",
+            "Bait and Switch",
+            "Chain Reaction"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "4",
+          "tier": "",
+          "priority": "niche",
+          "role": "compressed wave",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "Moon",
+          "notes": "",
+          "description": "",
+          "alternatives": "Dimensional Hypotrochoid, Hullabaloo",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Gizmo Weft_2": {
+        "weapon_name": "Gizmo Weft",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [
+            "Envious Arsenal"
+          ],
+          "perk2": [
+            "Aggregate Charge",
+            "Elemental Honing",
+            "Bait and Switch"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "4",
+          "tier": "",
+          "priority": "niche",
+          "role": "DPS breech GL",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "Tenet of Bravery",
+          "notes": "",
+          "description": "",
+          "alternatives": "Wilderflight, Salvager's Salvo, Liturgy",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Eyes Unveiled": {
+        "weapon_name": "Eyes Unveiled",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [
+            "Fourth Time's the Charm",
+            "Mega Kill Clip"
+          ],
+          "perk2": [
+            "Elemental Honing",
+            "Chain Reaction"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "4",
+          "tier": "",
+          "priority": "niche",
+          "role": "DPS linear",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "Pit of Heresy",
+          "notes": "",
+          "description": "",
+          "alternatives": "Cataclysmic, Taipan-4fr",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Ecliptic Distaff": {
+        "weapon_name": "Ecliptic Distaff",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [
+            "Repulsor Brace",
+            "Disruption Break",
+            "Immovable Object"
+          ],
+          "perk2": [
+            "Chaos Reshaped",
+            "Close to Melee",
+            "Withering Gaze"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "4",
+          "tier": "",
+          "priority": "niche",
+          "role": "energy glaive",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "Solo Ops",
+          "notes": "",
+          "description": "",
+          "alternatives": "The Heron, Lubrae's Ruin, Judgment of Kelgorath",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Forbearance": {
+        "weapon_name": "Forbearance",
+        "version": "BRAVE",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [
+            "Redirection",
+            "Air Trigger",
+            "Unrelenting"
+          ],
+          "perk2": [
+            "Chain Reaction",
+            "Desperate Measures",
+            "Voltshot"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "4",
+          "tier": "",
+          "priority": "niche",
+          "role": "energy wave frame",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "Onslaught",
+          "notes": "",
+          "description": "",
+          "alternatives": "Romantic Death, Forbearance, Martyr's Retribution",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Refusal of the Call": {
+        "weapon_name": "Refusal of the Call",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [
+            "Slice",
+            "Close to Melee",
+            "Chain Reaction"
+          ],
+          "perk2": [
+            "Chaos Reshaped",
+            "Replenishing Aegis"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "4",
+          "tier": "",
+          "priority": "niche",
+          "role": "kinetic glaive",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "Pit of Heresy",
+          "notes": "",
+          "description": "",
+          "alternatives": "Rake Angle",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Volta Bracket": {
+        "weapon_name": "Volta Bracket",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [
+            "Shoot to Loot"
+          ],
+          "perk2": [
+            "Explosive Payload"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "4",
+          "tier": "",
+          "priority": "niche",
+          "role": "kinetic StL special",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "Neomuna",
           "notes": "",
           "description": "",
           "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "New Pacific Epitaph": {
+        "weapon_name": "New Pacific Epitaph",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [
+            "Chain Reaction",
+            "Unrelenting",
+            "Air Trigger"
+          ],
+          "perk2": [
+            "Redirection",
+            "Crystalline Corpsebloom",
+            "Reaper's Tithe"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "4",
+          "tier": "",
+          "priority": "niche",
+          "role": "kinetic wave frame",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "Ghosts of the Deep",
+          "notes": "",
+          "description": "",
+          "alternatives": "Permafrost",
           "analysis": {
             "roam": "",
             "dps": "",
@@ -34716,9 +35694,9 @@
             "Jolting Feedback"
           ],
           "perk2": [
-            "Redirection",
             "Elemental Honing",
-            "Surrounded"
+            "Surrounded",
+            "Redirection"
           ],
           "origin_trait": [
             "Bray Inheritance"
