@@ -6,7 +6,7 @@
       "patch": "Pantheon 2.0"
     },
     "link": "https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY",
-    "scrape_date": "2026-08-04 17:30:21"
+    "scrape_date": "2026-08-05 01:47:28"
   },
   "workbooks": {
     "Shopping List": {
@@ -405,6 +405,41 @@
           }
         }
       },
+      "Still Hunt": {
+        "weapon_name": "Still Hunt",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "1",
+          "tier": "",
+          "priority": "high",
+          "role": "exotic burst special",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "Exotic quest",
+          "notes": "",
+          "description": "",
+          "alternatives": "Merciless, The Fourth Horseman, Izanagi's Burden",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
       "VS Velocity Baton": {
         "weapon_name": "VS Velocity Baton",
         "version": "",
@@ -638,41 +673,6 @@
           "notes": "",
           "description": "",
           "alternatives": "Whirling Ovation, Grand Overture",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Still Hunt": {
-        "weapon_name": "Still Hunt",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "2",
-          "tier": "",
-          "priority": "medium",
-          "role": "exotic burst special",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "Exotic quest",
-          "notes": "",
-          "description": "",
-          "alternatives": "Merciless, The Fourth Horseman, Izanagi's Burden",
           "analysis": {
             "roam": "",
             "dps": "",
@@ -996,9 +996,9 @@
           "origin_trait": []
         },
         "info": {
-          "rank": "2",
+          "rank": "3",
           "tier": "",
-          "priority": "medium",
+          "priority": "low",
           "role": "precision roam total",
           "purpose": "",
           "tags": "",
@@ -1447,7 +1447,7 @@
           "source": "Vow of the Disciple",
           "notes": "",
           "description": "",
-          "alternatives": "Graviton LAnce, Vex Mythoclast",
+          "alternatives": "Graviton Lance, Vex Mythoclast",
           "analysis": {
             "roam": "",
             "dps": "",

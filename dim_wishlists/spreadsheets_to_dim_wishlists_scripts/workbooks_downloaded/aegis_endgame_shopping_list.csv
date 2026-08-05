@@ -39,6 +39,9 @@ Hatchling
 ","Master of Arms
 Chain Reaction
 Slice",N/A
+exotic burst special,,Still Hunt,Exotic quest,1,high,N/A,N/A,"Merciless
+The Fourth Horseman
+Izanagi's Burden"
 energy area denial,,VS Velocity Baton,Vesper's Host,2,medium,"Repulsor Brace
 Envious Arsenal
 Unrelenting","Destabilizing Rounds
@@ -68,9 +71,6 @@ Retraced Path
 Acasia's Dejection"
 exotic burst heavy,,Parasite,Exotic quest,2,medium,N/A,N/A,"Whirling Ovation
 Grand Overture"
-exotic burst special,,Still Hunt,Exotic quest,2,medium,N/A,N/A,"Merciless
-The Fourth Horseman
-Izanagi's Burden"
 kinetic area denial,,Ouster Engine,Pinnacle Ops,2,medium,"Air Trigger
 Auto-Loading Holster
 Rimestealer","Chain Reaction
@@ -107,7 +107,7 @@ Elemental Honing
 Surrounded","The Slammer
 False Idols
 Sullen Claw"
-precision roam total,,The Helmsman,Crucible,2,medium,"Discord
+precision roam total,,The Helmsman,Crucible,3,low,"Discord
 Light Touch
 Snapshot Sights","Elemental Honing
 Gear Shift
@@ -159,7 +159,7 @@ Tarnished Mettle"
 energy support auto,,No Hesitation,Pale Heart,3,low,Physic,"Chaos Reshaped
 Attrition Orbs","Cusp Sempiternal
 Chrysura Melo"
-exotic energy primary,,Collective Obligation,Vow of the Disciple,3,low,N/A,N/A,"Graviton LAnce
+exotic energy primary,,Collective Obligation,Vow of the Disciple,3,low,N/A,N/A,"Graviton Lance
 Vex Mythoclast"
 exotic kinetic primary,,Khvostov 7G-0X,Exotic quest,3,low,N/A,N/A,"Necrochasm
 Osteo Striga
