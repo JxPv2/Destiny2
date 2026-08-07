@@ -2630,3 +2630,50 @@
 2026-08-06 17:56:40,606 [INFO] -> ================================================================================
 2026-08-06 17:56:40,606 [INFO] -> 🚀 Launching Isolated DIM Wishlist Text Generation Pipeline...
 2026-08-06 17:56:40,607 [INFO] -> ================================================================================
+2026-08-07 02:11:13,727 [INFO] -> ================================================================================
+2026-08-07 02:11:13,727 [INFO] -> 🚀 Launching Isolated DIM Wishlist Text Generation Pipeline...
+2026-08-07 02:11:13,727 [INFO] -> ================================================================================
+  2026-08-07 02:11:13,783 [INFO] -> Processing 'aegis_endgame_spreadsheet_data_scraped.json' (Reason: wishlist_update_required is set to true)...
+    2026-08-07 02:11:13,791 [INFO] -> Parsing nested ledger tab: 'Shopping List'
+      2026-08-07 02:11:13,804 [WARNING] -> PERK MISSING: 'Specialist/Gunner/Skirmisher/Powerhouse' on 'Relativism'
+      2026-08-07 02:11:13,804 [WARNING] -> PERK MISSING: 'Powerhouse + class' on 'Celestial Nighthawk'
+      2026-08-07 02:11:13,804 [WARNING] -> PERK MISSING: 'Skirmisher/Paragon + super' on 'Wormgod Caress'
+      2026-08-07 02:11:13,804 [WARNING] -> PERK MISSING: 'Powerhouse + class' on 'Cuirass of the Falling Star'
+      2026-08-07 02:11:13,805 [WARNING] -> PERK MISSING: 'Gunner + super' on 'Verity's Brow'
+      2026-08-07 02:11:13,805 [WARNING] -> PERK MISSING: 'Powerhouse + class' on 'Sanguine Alchemy'
+      2026-08-07 02:11:13,805 [WARNING] -> FINAL RESULT: Item 'Nezarec's Nightmare' yielded 0 lines.
+      2026-08-07 02:11:13,805 [WARNING] ->   Reason: Item not found in manifest (cleaned name: 'nezarec's nightmare')
+      2026-08-07 02:11:13,805 [WARNING] -> FINAL RESULT: Item 'Yearning Echo' yielded 0 lines.
+      2026-08-07 02:11:13,805 [WARNING] ->   Reason: Item not found in manifest (cleaned name: 'yearning echo')
+      2026-08-07 02:11:13,805 [WARNING] -> FINAL RESULT: Item 'Legacy's Oath' yielded 0 lines.
+      2026-08-07 02:11:13,806 [WARNING] ->   Reason: Item not found in manifest (cleaned name: 'legacy's oath')
+      2026-08-07 02:11:13,806 [WARNING] -> FINAL RESULT: Item 'Atheon's Memory' yielded 0 lines.
+      2026-08-07 02:11:13,806 [WARNING] ->   Reason: Item not found in manifest (cleaned name: 'atheon's memory')
+      2026-08-07 02:11:13,806 [WARNING] -> FINAL RESULT: Item 'Crystocrene' yielded 0 lines.
+      2026-08-07 02:11:13,806 [WARNING] ->   Reason: Item not found in manifest (cleaned name: 'crystocrene')
+      2026-08-07 02:11:13,806 [WARNING] -> FINAL RESULT: Item 'Promised' yielded 0 lines.
+      2026-08-07 02:11:13,806 [WARNING] ->   Reason: Item not found in manifest (cleaned name: 'promised')
+      2026-08-07 02:11:13,806 [WARNING] -> FINAL RESULT: Item 'Exodus Down' yielded 0 lines.
+      2026-08-07 02:11:13,806 [WARNING] ->   Reason: Item not found in manifest (cleaned name: 'exodus down')
+    2026-08-07 02:11:13,834 [INFO] -> Parsing nested ledger tab: 'Autos'
+    2026-08-07 02:11:13,917 [INFO] -> Parsing nested ledger tab: 'Bows'
+    2026-08-07 02:11:13,940 [INFO] -> Parsing nested ledger tab: 'HCs'
+    2026-08-07 02:11:13,983 [INFO] -> Parsing nested ledger tab: 'Pulses'
+    2026-08-07 02:11:14,058 [INFO] -> Parsing nested ledger tab: 'Scouts'
+    2026-08-07 02:11:14,097 [INFO] -> Parsing nested ledger tab: 'Sidearms'
+    2026-08-07 02:11:14,129 [INFO] -> Parsing nested ledger tab: 'SMGs'
+    2026-08-07 02:11:14,170 [INFO] -> Parsing nested ledger tab: 'BGLs'
+    2026-08-07 02:11:14,206 [INFO] -> Parsing nested ledger tab: 'Fusions'
+    2026-08-07 02:11:14,242 [INFO] -> Parsing nested ledger tab: 'Glaives'
+    2026-08-07 02:11:14,268 [INFO] -> Parsing nested ledger tab: 'Shotguns'
+    2026-08-07 02:11:14,315 [INFO] -> Parsing nested ledger tab: 'Snipers'
+    2026-08-07 02:11:14,350 [INFO] -> Parsing nested ledger tab: 'Rocket Sidearms'
+    2026-08-07 02:11:14,375 [INFO] -> Parsing nested ledger tab: 'Traces'
+    2026-08-07 02:11:14,390 [INFO] -> Parsing nested ledger tab: 'HGLs'
+    2026-08-07 02:11:14,411 [INFO] -> Parsing nested ledger tab: 'LFRs'
+    2026-08-07 02:11:14,428 [INFO] -> Parsing nested ledger tab: 'LMGs'
+    2026-08-07 02:11:14,559 [INFO] -> Parsing nested ledger tab: 'Rockets'
+    2026-08-07 02:11:14,591 [INFO] -> Parsing nested ledger tab: 'Swords'
+    2026-08-07 02:11:14,657 [INFO] -> Parsing nested ledger tab: 'Other'
+    2026-08-07 02:11:14,675 [INFO] -> Parsing nested ledger tab: 'Exotic Weapons'
+    2026-08-07 02:11:14,700 [INFO] -> Parsing nested ledger tab: 'Exotic Armor (ignore)'
