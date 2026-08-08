@@ -6,380 +6,10 @@
       "patch": "Pantheon 2.0"
     },
     "link": "https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY",
-    "scrape_date": "2026-08-08 00:59:17"
+    "scrape_date": "2026-08-08 08:29:34"
   },
   "workbooks": {
     "Shopping List": {
-      "Relativism": {
-        "weapon_name": "Relativism",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [
-            "Specialist/Gunner/Skirmisher/Powerhouse"
-          ],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "2",
-          "tier": "",
-          "priority": "medium",
-          "role": "hunter roam",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "Xur, Dual Destiny",
-          "notes": "",
-          "description": "",
-          "alternatives": "Gifted Conviction, Radiant Dance Machines, Fortune's Favor",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Celestial Nighthawk": {
-        "weapon_name": "Celestial Nighthawk",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [
-            "Powerhouse + class"
-          ],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "1",
-          "tier": "",
-          "priority": "high",
-          "role": "hunter DPS",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "Rahool",
-          "notes": "",
-          "description": "",
-          "alternatives": "Fortune's Favor, Mask of Bakris, Speedloader Slacks",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Wormgod Caress": {
-        "weapon_name": "Wormgod Caress",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [
-            "Skirmisher/Paragon + super"
-          ],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "2",
-          "tier": "",
-          "priority": "medium",
-          "role": "titan roam",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "Rahool",
-          "notes": "",
-          "description": "",
-          "alternatives": "Synthoceps, Point-Contact Cannon Brace, Stoicism",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Cuirass of the Falling Star": {
-        "weapon_name": "Cuirass of the Falling Star",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [
-            "Powerhouse + class"
-          ],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "3",
-          "tier": "",
-          "priority": "low",
-          "role": "titan DPS",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "Rahool",
-          "notes": "",
-          "description": "",
-          "alternatives": "Hallowfire Heart, Armamentarium, Hazardous Propulsion",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Verity's Brow": {
-        "weapon_name": "Verity's Brow",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [
-            "Gunner + super"
-          ],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "2",
-          "tier": "",
-          "priority": "medium",
-          "role": "warlock roam",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "Rahool",
-          "notes": "",
-          "description": "",
-          "alternatives": "Winter's Guile, Dawn Chorus, Boots of the Assembler",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Sanguine Alchemy": {
-        "weapon_name": "Sanguine Alchemy",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [
-            "Powerhouse + class"
-          ],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "2",
-          "tier": "",
-          "priority": "medium",
-          "role": "warlock DPS",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "Rahool",
-          "notes": "",
-          "description": "",
-          "alternatives": "Boots of the Assembler, Winter's Guile, Mataiodoxía",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Nezarec's Nightmare": {
-        "weapon_name": "Nezarec's Nightmare",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [
-            "situational"
-          ],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "3",
-          "tier": "",
-          "priority": "low",
-          "role": "miscellaneous",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "Root of Nightmares",
-          "notes": "",
-          "description": "",
-          "alternatives": "Iron Battalion, Iron Panoply, Sage Protector",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Yearning Echo": {
-        "weapon_name": "Yearning Echo",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [
-            "Powerhouse + grenade"
-          ],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "2",
-          "tier": "",
-          "priority": "medium",
-          "role": "ability regen",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "Grasp of Avarice",
-          "notes": "",
-          "description": "",
-          "alternatives": "CODA, Sage Protector, Luminopotent",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Legacy's Oath": {
-        "weapon_name": "Legacy's Oath",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [
-            "situational"
-          ],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "3",
-          "tier": "",
-          "priority": "low",
-          "role": "melee survivability",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "Deep Stone Crypt",
-          "notes": "",
-          "description": "",
-          "alternatives": "Smoke Jumper, Techsed, Swordmaster",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Atheon's Memory": {
-        "weapon_name": "Atheon's Memory",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [
-            "Powerhouse + class"
-          ],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "1",
-          "tier": "",
-          "priority": "high",
-          "role": "damage augmentation",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "Vault of Glass",
-          "notes": "",
-          "description": "",
-          "alternatives": "TM Custom",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
       "Crystocrene": {
         "weapon_name": "Crystocrene",
         "version": "",
@@ -417,14 +47,14 @@
           }
         }
       },
-      "Promised": {
-        "weapon_name": "Promised",
+      "Atheon's Memory": {
+        "weapon_name": "Atheon's Memory",
         "version": "",
         "perks": {
           "column1": [],
           "column2": [],
           "perk1": [
-            "Specialist/Gunner/Skirmisher/Powerhouse"
+            "Powerhouse + class"
           ],
           "perk2": [],
           "origin_trait": []
@@ -433,52 +63,15 @@
           "rank": "1",
           "tier": "",
           "priority": "high",
-          "role": "general DR (2 pcs.)",
+          "role": "damage augmentation",
           "purpose": "",
           "tags": "",
           "type": "",
           "usage": "",
-          "source": "Salvation's Edge",
+          "source": "Vault of Glass",
           "notes": "",
           "description": "",
-          "alternatives": "Smoke Jumper, AION Adapter, Yearning Echo",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Exodus Down": {
-        "weapon_name": "Exodus Down",
-        "version": "",
-        "perks": {
-          "column1": [],
-          "column2": [],
-          "perk1": [
-            "Specialist/Gunner/Skirmisher/Powerhouse"
-          ],
-          "perk2": [],
-          "origin_trait": []
-        },
-        "info": {
-          "rank": "2",
-          "tier": "",
-          "priority": "medium",
-          "role": "general DR (4 pcs.)",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "Nessus",
-          "notes": "",
-          "description": "",
-          "alternatives": "CODA, Deep Explorer, Techeun's Regalia",
+          "alternatives": "TM Custom",
           "analysis": {
             "roam": "",
             "dps": "",
@@ -661,6 +254,41 @@
           }
         }
       },
+      "Still Hunt": {
+        "weapon_name": "Still Hunt",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "1",
+          "tier": "",
+          "priority": "high",
+          "role": "exotic burst special",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "Exotic quest",
+          "notes": "",
+          "description": "",
+          "alternatives": "Merciless, The Fourth Horseman, Izanagi's Burden",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
       "Tractor Cannon": {
         "weapon_name": "Tractor Cannon",
         "version": "",
@@ -803,6 +431,80 @@
           }
         }
       },
+      "Promised": {
+        "weapon_name": "Promised",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [
+            "Specialist/Gunner/Skirmisher/Powerhouse"
+          ],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "1",
+          "tier": "",
+          "priority": "high",
+          "role": "general DR (2 pcs.)",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "Salvation's Edge",
+          "notes": "",
+          "description": "",
+          "alternatives": "Smoke Jumper, AION Adapter, Yearning Echo",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Celestial Nighthawk": {
+        "weapon_name": "Celestial Nighthawk",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [
+            "Powerhouse + class"
+          ],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "1",
+          "tier": "",
+          "priority": "high",
+          "role": "hunter DPS",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "Rahool",
+          "notes": "",
+          "description": "",
+          "alternatives": "Fortune's Favor, Mask of Bakris, Speedloader Slacks",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
       "Conspiracy Honed": {
         "weapon_name": "Conspiracy Honed",
         "version": "",
@@ -886,29 +588,31 @@
           }
         }
       },
-      "Still Hunt": {
-        "weapon_name": "Still Hunt",
+      "Yearning Echo": {
+        "weapon_name": "Yearning Echo",
         "version": "",
         "perks": {
           "column1": [],
           "column2": [],
-          "perk1": [],
+          "perk1": [
+            "Powerhouse + grenade"
+          ],
           "perk2": [],
           "origin_trait": []
         },
         "info": {
-          "rank": "1",
+          "rank": "2",
           "tier": "",
-          "priority": "high",
-          "role": "exotic burst special",
+          "priority": "medium",
+          "role": "ability regen",
           "purpose": "",
           "tags": "",
           "type": "",
           "usage": "",
-          "source": "Exotic quest",
+          "source": "Grasp of Avarice",
           "notes": "",
           "description": "",
-          "alternatives": "Merciless, The Fourth Horseman, Izanagi's Burden",
+          "alternatives": "CODA, Sage Protector, Luminopotent",
           "analysis": {
             "roam": "",
             "dps": "",
@@ -1154,6 +858,80 @@
           "notes": "",
           "description": "",
           "alternatives": "Whirling Ovation, Grand Overture",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Exodus Down": {
+        "weapon_name": "Exodus Down",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [
+            "Specialist/Gunner/Skirmisher/Powerhouse"
+          ],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "2",
+          "tier": "",
+          "priority": "medium",
+          "role": "general DR (4 pcs.)",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "Nessus",
+          "notes": "",
+          "description": "",
+          "alternatives": "CODA, Deep Explorer, Techeun's Regalia",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Relativism": {
+        "weapon_name": "Relativism",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [
+            "Specialist/Gunner/Skirmisher/Powerhouse"
+          ],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "2",
+          "tier": "",
+          "priority": "medium",
+          "role": "hunter roam",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "Xur, Dual Destiny",
+          "notes": "",
+          "description": "",
+          "alternatives": "Gifted Conviction, Radiant Dance Machines, Fortune's Favor",
           "analysis": {
             "roam": "",
             "dps": "",
@@ -1458,37 +1236,105 @@
           }
         }
       },
-      "The Helmsman": {
-        "weapon_name": "The Helmsman",
+      "Wormgod Caress": {
+        "weapon_name": "Wormgod Caress",
         "version": "",
         "perks": {
           "column1": [],
           "column2": [],
           "perk1": [
-            "Discord",
-            "Light Touch",
-            "Snapshot Sights"
+            "Skirmisher/Paragon + super"
           ],
-          "perk2": [
-            "Elemental Honing",
-            "Gear Shift",
-            "Vorpal Weapon"
-          ],
+          "perk2": [],
           "origin_trait": []
         },
         "info": {
-          "rank": "3",
+          "rank": "2",
           "tier": "",
-          "priority": "low",
-          "role": "precision roam total",
+          "priority": "medium",
+          "role": "titan roam",
           "purpose": "",
           "tags": "",
           "type": "",
           "usage": "",
-          "source": "Crucible",
+          "source": "Rahool",
           "notes": "",
           "description": "",
-          "alternatives": "New Land Beyond, Refurbished A499",
+          "alternatives": "Synthoceps, Point-Contact Cannon Brace, Stoicism",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Sanguine Alchemy": {
+        "weapon_name": "Sanguine Alchemy",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [
+            "Powerhouse + class"
+          ],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "2",
+          "tier": "",
+          "priority": "medium",
+          "role": "warlock DPS",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "Rahool",
+          "notes": "",
+          "description": "",
+          "alternatives": "Boots of the Assembler, Winter's Guile, Mataiodoxía",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Verity's Brow": {
+        "weapon_name": "Verity's Brow",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [
+            "Gunner + super"
+          ],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "2",
+          "tier": "",
+          "priority": "medium",
+          "role": "warlock roam",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "Rahool",
+          "notes": "",
+          "description": "",
+          "alternatives": "Winter's Guile, Dawn Chorus, Boots of the Assembler",
           "analysis": {
             "roam": "",
             "dps": "",
@@ -2152,6 +1998,160 @@
           "notes": "",
           "description": "",
           "alternatives": "DECATUR 02",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Legacy's Oath": {
+        "weapon_name": "Legacy's Oath",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [
+            "situational"
+          ],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "3",
+          "tier": "",
+          "priority": "low",
+          "role": "melee survivability",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "Deep Stone Crypt",
+          "notes": "",
+          "description": "",
+          "alternatives": "Smoke Jumper, Techsed, Swordmaster",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Nezarec's Nightmare": {
+        "weapon_name": "Nezarec's Nightmare",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [
+            "situational"
+          ],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "3",
+          "tier": "",
+          "priority": "low",
+          "role": "miscellaneous",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "Root of Nightmares",
+          "notes": "",
+          "description": "",
+          "alternatives": "Iron Battalion, Iron Panoply, Sage Protector",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "The Helmsman": {
+        "weapon_name": "The Helmsman",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [
+            "Discord",
+            "Light Touch",
+            "Snapshot Sights"
+          ],
+          "perk2": [
+            "Elemental Honing",
+            "Gear Shift",
+            "Vorpal Weapon"
+          ],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "3",
+          "tier": "",
+          "priority": "low",
+          "role": "precision roam total",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "Crucible",
+          "notes": "",
+          "description": "",
+          "alternatives": "New Land Beyond, Refurbished A499",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Cuirass of the Falling Star": {
+        "weapon_name": "Cuirass of the Falling Star",
+        "version": "",
+        "perks": {
+          "column1": [],
+          "column2": [],
+          "perk1": [
+            "Powerhouse + class"
+          ],
+          "perk2": [],
+          "origin_trait": []
+        },
+        "info": {
+          "rank": "3",
+          "tier": "",
+          "priority": "low",
+          "role": "titan DPS",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "Rahool",
+          "notes": "",
+          "description": "",
+          "alternatives": "Hallowfire Heart, Armamentarium, Hazardous Propulsion",
           "analysis": {
             "roam": "",
             "dps": "",

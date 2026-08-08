@@ -1,41 +1,8 @@
 Role,🖼️,Name,Source,#,Priority,Column 1,Column 2,Alternatives
-hunter roam,,Relativism,"Xur, Dual Destiny",2,medium,Specialist/Gunner/Skirmisher/Powerhouse,N/A,"Gifted Conviction
-Radiant Dance Machines
-Fortune's Favor"
-hunter DPS,,Celestial Nighthawk,Rahool,1,high,Powerhouse + class,N/A,"Fortune's Favor
-Mask of Bakris
-Speedloader Slacks"
-titan roam,,Wormgod Caress,Rahool,2,medium,Skirmisher/Paragon + super,N/A,"Synthoceps
-Point-Contact Cannon Brace
-Stoicism"
-titan DPS,,Cuirass of the Falling Star,Rahool,3,low,Powerhouse + class,N/A,"Hallowfire Heart
-Armamentarium
-Hazardous Propulsion"
-warlock roam,,Verity's Brow,Rahool,2,medium,Gunner + super,N/A,"Winter's Guile
-Dawn Chorus
-Boots of the Assembler"
-warlock DPS,,Sanguine Alchemy,Rahool,2,medium,Powerhouse + class,N/A,"Boots of the Assembler
-Winter's Guile
-Mataiodoxía"
-miscellaneous,,Nezarec's Nightmare,Root of Nightmares,3,low,situational,N/A,"Iron Battalion
-Iron Panoply
-Sage Protector"
-ability regen,,Yearning Echo,Grasp of Avarice,2,medium,Powerhouse + grenade,N/A,"CODA
-Sage Protector
-Luminopotent"
-melee survivability,,Legacy's Oath,Deep Stone Crypt,3,low,situational,N/A,"Smoke Jumper
-Techsed
-Swordmaster"
-damage augmentation,,Atheon's Memory,Vault of Glass,1,high,Powerhouse + class,N/A,TM Custom
 ammo generation,,Crystocrene,Europa,1,high,Specialist/Gunner/Skirmisher/Powerhouse,N/A,"Oryx's Memory
 Pantheon Resplendent
 Cyberserpent Null"
-general DR (2 pcs.),,Promised,Salvation's Edge,1,high,Specialist/Gunner/Skirmisher/Powerhouse,N/A,"Smoke Jumper
-AION Adapter
-Yearning Echo"
-general DR (4 pcs.),,Exodus Down,Nessus,2,medium,Specialist/Gunner/Skirmisher/Powerhouse,N/A,"CODA
-Deep Explorer
-Techeun's Regalia"
+damage augmentation,,Atheon's Memory,Vault of Glass,1,high,Powerhouse + class,N/A,TM Custom
 DPS crossbow,,A Good Shout,"Tenet of Bravery, Zavala",1,high,"Envious Arsenal
 Bolt Scavenger
 Withering Gaze","High Ground
@@ -56,6 +23,9 @@ Heal Clip
 Blast Distributor","Incandescent
 Desperate Measures
 Burning Ambition",Psi Aeterna IV
+exotic burst special,,Still Hunt,Exotic quest,1,high,N/A,N/A,"Merciless
+The Fourth Horseman
+Izanagi's Burden"
 exotic debuff,,Tractor Cannon,Exotic quest,1,high,N/A,N/A,"Divinity
 Fafnir"
 exotic DPS buff,,Hierarchy of Needs,Spire of the Watcher,1,high,N/A,N/A,"Gjallarhorn
@@ -66,6 +36,12 @@ Dead Messenger
 Gjallarhorn"
 exotic sustained heavy,,Truth,Kiosk,1,high,N/A,N/A,"Leviathan's Breath
 One Thousand Voices"
+general DR (2 pcs.),,Promised,Salvation's Edge,1,high,Specialist/Gunner/Skirmisher/Powerhouse,N/A,"Smoke Jumper
+AION Adapter
+Yearning Echo"
+hunter DPS,,Celestial Nighthawk,Rahool,1,high,Powerhouse + class,N/A,"Fortune's Favor
+Mask of Bakris
+Speedloader Slacks"
 kinetic DPS sniper,,Conspiracy Honed,Equilibrium,1,high,Vorpal Weapon,"Bait and Switch
 Firing Line","Something Something
 Praedyth's Revenge
@@ -76,9 +52,9 @@ Hatchling
 ","Master of Arms
 Chain Reaction
 Slice",N/A
-exotic burst special,,Still Hunt,Exotic quest,1,high,N/A,N/A,"Merciless
-The Fourth Horseman
-Izanagi's Burden"
+ability regen,,Yearning Echo,Grasp of Avarice,2,medium,Powerhouse + grenade,N/A,"CODA
+Sage Protector
+Luminopotent"
 energy area denial,,VS Velocity Baton,Vesper's Host,2,medium,"Repulsor Brace
 Envious Arsenal
 Unrelenting","Destabilizing Rounds
@@ -108,6 +84,12 @@ Retraced Path
 Acasia's Dejection"
 exotic burst heavy,,Parasite,Exotic quest,2,medium,N/A,N/A,"Whirling Ovation
 Grand Overture"
+general DR (4 pcs.),,Exodus Down,Nessus,2,medium,Specialist/Gunner/Skirmisher/Powerhouse,N/A,"CODA
+Deep Explorer
+Techeun's Regalia"
+hunter roam,,Relativism,"Xur, Dual Destiny",2,medium,Specialist/Gunner/Skirmisher/Powerhouse,N/A,"Gifted Conviction
+Radiant Dance Machines
+Fortune's Favor"
 kinetic area denial,,Ouster Engine,Pinnacle Ops,2,medium,"Air Trigger
 Auto-Loading Holster
 Rimestealer","Chain Reaction
@@ -144,12 +126,15 @@ Elemental Honing
 Surrounded","The Slammer
 False Idols
 Sullen Claw"
-precision roam total,,The Helmsman,Crucible,3,low,"Discord
-Light Touch
-Snapshot Sights","Elemental Honing
-Gear Shift
-Vorpal Weapon","New Land Beyond
-Refurbished A499"
+titan roam,,Wormgod Caress,Rahool,2,medium,Skirmisher/Paragon + super,N/A,"Synthoceps
+Point-Contact Cannon Brace
+Stoicism"
+warlock DPS,,Sanguine Alchemy,Rahool,2,medium,Powerhouse + class,N/A,"Boots of the Assembler
+Winter's Guile
+Mataiodoxía"
+warlock roam,,Verity's Brow,Rahool,2,medium,Gunner + super,N/A,"Winter's Guile
+Dawn Chorus
+Boots of the Assembler"
 12P shotgun,,Perfect Paradox,"World, Banshee",3,low,"Pugilist
 Stopping Power
 Threat Detector","One-Two Punch
@@ -209,6 +194,21 @@ Crystalline Corpsebloom","Multimach CCX
 Submission
 Scathelocke"
 kinetic support auto,,Adamantite,Xur,3,low,Slice,Attrition Orbs,DECATUR 02
+melee survivability,,Legacy's Oath,Deep Stone Crypt,3,low,situational,N/A,"Smoke Jumper
+Techsed
+Swordmaster"
+miscellaneous,,Nezarec's Nightmare,Root of Nightmares,3,low,situational,N/A,"Iron Battalion
+Iron Panoply
+Sage Protector"
+precision roam total,,The Helmsman,Crucible,3,low,"Discord
+Light Touch
+Snapshot Sights","Elemental Honing
+Gear Shift
+Vorpal Weapon","New Land Beyond
+Refurbished A499"
+titan DPS,,Cuirass of the Falling Star,Rahool,3,low,Powerhouse + class,N/A,"Hallowfire Heart
+Armamentarium
+Hazardous Propulsion"
 Withering Gaze primary,,Vouchsafe,Dreaming City,3,low,Shoot to Loot,Withering Gaze,"Cusp Sempiternal
 Aisha's Embrace
 Joxer's Longsword"
