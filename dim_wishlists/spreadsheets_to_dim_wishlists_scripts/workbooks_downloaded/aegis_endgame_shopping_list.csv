@@ -76,7 +76,9 @@ Withering Gaze","Returned Memory
 Indebted Kindness
 Aberrant Action"
 energy StL special,,Lotus-Eater,N/A,2,medium,Shoot to Loot,"Withering Gaze
-Destabilizing Rounds",Apostate
+Destabilizing Rounds","Apostate
+Chronophage
+Retraced Path"
 energy trace,,Chronophage,Encore,2,medium,"Repulsor Brace
 Shoot to Loot","Destabilizing Rounds
 Desperate Measures","Hollow Denial
@@ -258,7 +260,7 @@ kinetic glaive,,Refusal of the Call,Pit of Heresy,4,niche,"Slice
 Close to Melee
 Chain Reaction","Chaos Reshaped
 Replenishing Aegis",Rake Angle
-kinetic StL special,,Volta Bracket,Neomuna,4,niche,Shoot to Loot,Explosive Payload,N/A
+kinetic StL special,,Volta Bracket,Neomuna,4,niche,Shoot to Loot,Explosive Payload,Unsworn
 kinetic wave frame,,New Pacific Epitaph,Ghosts of the Deep,4,niche,"Chain Reaction
 Unrelenting
 Air Trigger","Redirection
