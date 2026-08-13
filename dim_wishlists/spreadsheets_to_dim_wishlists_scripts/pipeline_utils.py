@@ -30,6 +30,7 @@ import io
 import tempfile
 import yaml
 import argparse
+import logging.handlers
 from datetime import datetime, timezone
 
 
@@ -422,14 +423,28 @@ def setup_module_logger(name, log_dir, layout=None, warnings_log=False, dupe_key
 
     # Primary log file: everything (INFO and above).
     log_path = os.path.join(log_dir, f"{name}.log")
-    file_handler = logging.FileHandler(log_path, encoding="utf-8")
+    file_handler = logging.handlers.TimedRotatingFileHandler(
+        log_path,
+        encoding="utf-8",
+        when="D",        # rotate by day
+        interval=7,      # every 7 days
+        backupCount=4,   # keep 4 weekly files
+        utc=True         # use UTC so GitHub Actions and local runs agree
+    )
     file_handler.setFormatter(formatter)
     file_handler.setLevel(logging.INFO)
 
     # Optional warnings-only secondary log.
     if warnings_log:
         warnings_path = os.path.join(log_dir, f"{name}_warnings.log")
-        warnings_handler = logging.FileHandler(warnings_path, encoding="utf-8")
+        warnings_handler = logging.handlers.TimedRotatingFileHandler(
+            warnings_path,
+            encoding="utf-8",
+            when="D",
+            interval=7,
+            backupCount=4,
+            utc=True
+        )
         warnings_handler.setFormatter(formatter)
         warnings_handler.setLevel(logging.WARNING)
 
