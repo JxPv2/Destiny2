@@ -11,6 +11,7 @@ import yaml
 import logging
 import itertools
 import unicodedata
+import logging.handlers
 from datetime import datetime
 
 from pipeline_utils import (
@@ -70,9 +71,13 @@ logger = setup_module_logger(
 # builds the handler internally for DuplicateInfoFilter but never adds it to the
 # logger's handler list, so WARNING records never reach it. We attach it here.
 _script_stem = os.path.splitext(os.path.basename(__file__))[0]
-warnings_handler = logging.FileHandler(
+warnings_handler = logging.handlers.TimedRotatingFileHandler(
     os.path.join(LOG_DIR, f"{_script_stem}_warnings.log"),
-    encoding="utf-8"
+    encoding="utf-8",
+    when="D",
+    interval=7,
+    backupCount=4,
+    utc=True
 )
 warnings_handler.setFormatter(custom_formatter)
 warnings_handler.setLevel(logging.WARNING)
