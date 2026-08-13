@@ -10,6 +10,7 @@ import re
 import json
 import yaml
 import logging
+import logging.handlers
 from datetime import datetime
 
 from pipeline_utils import (
@@ -99,7 +100,14 @@ class BaseSpreadsheetScraper:
         LOG_LAYOUT = "%(asctime)s [%(levelname)s] [%(name)s] -> %(message)s"
         custom_formatter = PipelineIndentedFormatter(fmt=LOG_LAYOUT)
 
-        file_handler = logging.FileHandler(log_file_path, encoding='utf-8')
+        file_handler = logging.handlers.TimedRotatingFileHandler(
+            log_file_path,
+            encoding='utf-8',
+            when="D",
+            interval=7,
+            backupCount=4,
+            utc=True
+        )
         file_handler.setFormatter(custom_formatter)
         self.logger.addHandler(file_handler)
 
