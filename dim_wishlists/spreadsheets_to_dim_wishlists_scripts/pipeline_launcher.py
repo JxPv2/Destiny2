@@ -9,6 +9,7 @@ import os
 import sys
 import subprocess
 import logging
+import logging.handlers
 from datetime import datetime
 from pipeline_utils import setup_root_console_logging, SmartIndentFormatter, is_dry_run
 
@@ -44,7 +45,14 @@ if logger.hasHandlers():
 
 # Derive log filename from script name: pipeline_launcher.log.
 log_name = os.path.splitext(os.path.basename(__file__))[0] + ".log"
-file_handler = logging.FileHandler(os.path.join(LOG_DIR, log_name), encoding="utf-8")
+file_handler = logging.handlers.TimedRotatingFileHandler(
+    os.path.join(LOG_DIR, log_name),
+    encoding="utf-8",
+    when="D",
+    interval=7,
+    backupCount=4,
+    utc=True
+)
 file_handler.setFormatter(formatter)
 logger.addHandler(file_handler)
 
