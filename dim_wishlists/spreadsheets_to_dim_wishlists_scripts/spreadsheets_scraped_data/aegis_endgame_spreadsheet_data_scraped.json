@@ -6,7 +6,7 @@
       "patch": "Pantheon 2.0"
     },
     "link": "https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY",
-    "scrape_date": "2026-08-11 01:03:46"
+    "scrape_date": "2026-08-13 09:05:24"
   },
   "workbooks": {
     "Shopping List": {
@@ -145,7 +145,7 @@
           "source": "Rahool",
           "notes": "",
           "description": "",
-          "alternatives": "Fortune's Favor, Mask of Bakris, Speedloader Slacks",
+          "alternatives": "Fortune's Favor, Shards of Galanor, Speedloader Slacks",
           "analysis": {
             "roam": "",
             "dps": "",
@@ -458,7 +458,7 @@
           "tags": "",
           "type": "",
           "usage": "",
-          "source": "Spire of the Watcher",
+          "source": "Exotic quest",
           "notes": "",
           "description": "",
           "alternatives": "Hierarchy of Needs, D.A.R.C.I., Ergo Sum",
@@ -2117,7 +2117,7 @@
           "source": "Duality",
           "notes": "",
           "description": "",
-          "alternatives": "Wilderflight, Liturgy, Salvager's Salvo",
+          "alternatives": "Wilderflight, Liturgy, The Militia's Birthright",
           "analysis": {
             "roam": "",
             "dps": "",
