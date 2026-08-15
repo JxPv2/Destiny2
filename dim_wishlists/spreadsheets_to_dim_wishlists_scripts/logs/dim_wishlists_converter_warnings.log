@@ -64,3 +64,6 @@
 2026-08-15 00:43:59,464 [INFO] -> ================================================================================
   2026-08-15 00:43:59,513 [INFO] -> Processing 'aegis_speedrunner_spreadsheet_data_scraped.json' (Reason: wishlist_update_required is set to true)...
     2026-08-15 00:43:59,515 [INFO] -> Parsing nested ledger tab: 'Weapons'
+2026-08-15 08:16:45,053 [INFO] -> ================================================================================
+2026-08-15 08:16:45,053 [INFO] -> 🚀 Launching Isolated DIM Wishlist Text Generation Pipeline...
+2026-08-15 08:16:45,053 [INFO] -> ================================================================================
