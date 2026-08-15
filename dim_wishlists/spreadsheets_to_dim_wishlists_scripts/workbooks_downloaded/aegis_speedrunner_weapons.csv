@@ -1,229 +1,278 @@
 #,Pic,Name,Rarity,Slot,Affinity,Type,Ammo,Column 1,Column 2,Perk 1,Perk 2,Purpose,Usage,Source
-1,,Ergo Sum,Exotic,Energy,,,,Enduring Blade,Swordmaster's Guard,"Lightweight Frame
-Caster Frame
-Wave Frame","Arc Conductor
-The Perfect Fifth
-Wolfpack Rounds","Splash add clear
-Sword boss damage","CE, SE",Pale Heart
+1,,Ergo Sum,Exotic,Energy,,,,Enduring Blade,Swordmaster's Guard,"Wave frame
+Vortex frame
+Lightweight frame","Arc Conductor
+Wolfpack Rounds
+The Perfect Fifth","Movement
+Add clear
+Damage buff",Universal,Overthrow
+1,,Falling Guillotine,Legendary,Power,,,,Tempered Edge,"Heavy Guard
+Enduring Guard","Attrition Orbs
+Repulsor Brace
+Chain Reaction",Eager Edge,Movement,Universal,Onslaught
+1,,False Idols,Legendary,Power,,,,Tempered Edge,"Heavy Guard
+Enduring Guard",Eager Edge,"Chain Reaction
+Surrounded","Movement
+Super generation",Universal,Pale Heart
 1,,Gizmo Weft,Legendary,Kinetic,,,,Quick Launch,"High-Velocity Rounds
-Spike Grenades
-Sticky Grenades","Air Trigger
-Slideshot",Bipod,Boosting jump height,Universal,Event drop
-1,,Mint Retrograde,Legendary,Kinetic,,,,Quick Launch,"High-Velocity Rounds
-High-Explosive Ordnance","Rewind Rounds
-Hatchling
-Beacon Rounds","Elemental Honing
-Bait and Switch
-Chain Reaction
-Master of Arms",Everything,Universal,Hawthorne
-1,,Praxic Blade,Exotic,Kinetic,,,,Offensive Form,Blade Ammo,Impact Core,Hyperblade,Hyperlining,Universal,Renegades quest
-1,,Psi Aeterna IV,Legendary,Energy,,,,Quick Launch,"High-Velocity Rounds
-High-Explosive Ordnance","Blast Distributor
-Trickle Charge
-Beacon Rounds","Elemental Honing
-Rolling Storm
-One for All",Everything,Universal,S28 portal
+Spike Grenades","Air Trigger
+Slice",Bipod,Movement,Universal,Tenet of Bravery
+1,,Gjallarhorn,Exotic,Power,,,,Fixed,Fixed,Fixed,Fixed,"Damage buff
+Add clear",Universal,Exotic quest
+1,,Hezen Vengeance,Legendary,Power,,,,Quick Launch,Impact Casing,"Cluster Bomb
+Auto-Loading Holster
+Impulse Amplifier","Aggregate Charge
+Elemental Honing
+Bipod",Burst damage,Universal,Vault of Glass
+1,,Lotus-Eater,Legendary,Energy,,,,Volatile Launch,Tactical Mag,Shoot to Loot,"Destabilizing Rounds
+Withering Gaze",QoL ammo pickups,Universal,N/A
+1,,Nasreddin,Legendary,Power,,,,Tempered Edge,Heavy Guard,"Flash Counter
+Sharp Harvest",Eager Edge,Movement,Universal,EDZ
+1,,Praxic Blade,Exotic,Kinetic,,,,Offensive Form,Blade Ammo,Impact Core,Hyperblade,Movement,Universal,Renegades quest
+1,,Pure Recollection,Legendary,Energy,,,,Fluted Barrel,Ricochet Rounds,Envious Arsenal,"Bait and Switch
+Withering Gaze","Dying
+Debuff extension",Universal,Tenet of Bravery
+1,,Still Hunt,Exotic,Energy,,,,Fixed,Fixed,Fixed,Fixed,Burst damage,Universal,Pale Heart quest
 1,,Sullen Claw,Legendary,Power,,,,Tempered Edge,Heavy Guard,"Eager Edge
 Vorpal Weapon","Assassin's Blade
-Whirlwind Blade",Movement,Universal,Equilibrium
-1,,The Navigator,Exotic,Kinetic,,,,Fixed,Fixed,Fixed,Fixed,Creating grapple points,Universal,Ghosts of the Deep
+Whirlwind Blade","Movement
+Boss damage",Universal,Equilibrium
+1,,Terciopelo-4bl,Legendary,Power,,,,Tempered Edge,Heavy Guard,Eager Edge,"Sharp Harvest
+Chaos Reshaped",Movement,Universal,SRL
 1,,The Slammer,Legendary,Power,,,,Tempered Edge,"Heavy Guard
 Enduring Guard",Eager Edge,"Cold Steel
-Demolitionist","Movement
-Overload stunning",Universal,Nightfalls
-1,,Theodolite,Legendary,Energy,,,,Quick Launch,"High-Velocity Rounds
-Spike Grenades
-Sticky Grenades",Reconstruction,Frenzy,Boosting jump height,Universal,Hawthorne
-1,,Tractor Cannon,Exotic,Power,,,,Fixed,Fixed,Fixed,Fixed,"Swappable 10s 30% debuff
+Chaos Reshaped
+Surrounded",Movement,Universal,Pinnacle Ops
+1,,Tractor Cannon,Exotic,Power,,,,Fixed,Fixed,Fixed,Fixed,"Damage debuff
 Enemy displacement",Universal,New Light quest
-1,,Uncivil Discourse,Legendary,Energy,,,,Fluted Barrel,Ionized Heatsink,Air Trigger,Precision Instrument,Lucky Pants burst damage,Universal,Lawless Frontier
-2,,A Good Shout,Legendary,Power,,,,Ultralight Rail,"Charged Bolts
-Serrated Bolts
-Heavy Bolts",Envious Arsenal,High Ground,Sustained boss damage,Universal,S28 portal
-2,,Aberrant Action,Legendary,Energy,,,,Volatile Launch,High-Explosive Ordnance,"Heal Clip
-Field Prep",Incandescent,"Avoiding primary swaps
-Ammo efficient fast add clear",Universal,S24 pool
-2,,Alethonym,Exotic,Kinetic,,,,Fixed,Fixed,Fixed,Fixed,Primary ammo jump boosting,Universal,S25 pass
-2,,Anarchy,Exotic,Power,,,,Fixed,Fixed,Fixed,Fixed,Trapping spawns,"VoG, DSC",Monument to Lost Lights
-2,,Choir of One,Exotic,Energy,,,,Fluted Barrel,"Alloy Magazine
-Flared Magwell","Onslaught
-Destabilizing Rounds",Fixed,Ranged single target add clear,Universal,Encore
-2,,Chronophage,Legendary,Energy,,,,Fluted Barrel,Light Battery,Shoot to Loot,Destabilizing Rounds,"Avoiding primary swaps
-Special single shot add clear
-Shooting bricks",Universal,S24 pool
-2,,Edge of Action,Exotic,Energy,,,,Lightweight Emitter,Appended Mag,Fixed,Short-Action Stock,Providing 5% stackable buff,Universal,Enclave evidence board
-2,,Gjallarhorn,Exotic,Power,,,,Fixed,Fixed,Fixed,Fixed,"Tracking splash damage
-Granting Wolfpack rounds",Universal,30th Anniversary
-2,,Gunnora's Axe,Legendary,Energy,,,,Fluted Barrel,Ricochet Rounds,Slickdraw,Snapshot Sights,Dying quickly,Universal,Iron Banner
-2,,Hezen Vengeance,Legendary,Power,,,,Quick Launch,Impact Casing,"Envious Arsenal
-Overflow
-Cluster Bomb","Elemental Honing
-Bait and Switch",Burst splash damage,Universal,Vault of Glass
-2,,IKELOS_SG_V1.0.3,Legendary,Energy,,,,Barrel Shroud,Tactical Mag,"Grave Robber
-Pugilist
-Subsistence","Surrounded
-One-Two Punch
-Cascade Point","Burst single target damage
-One-two punch","RoN, Prophecy",Operation: Seraph's Shield
-2,,Izanagi's Burden,Exotic,Kinetic,,,,Fixed,Fixed,Fixed,Fixed,Ranged single target burst,Universal,Monument to Lost Lights
-2,,Lost Signal,Legendary,Kinetic,,,,Quick Launch,High-Velocity Rounds,Auto-Loading Holster,"Vorpal Weapon
+2,,A Good Shout,Legendary,Power,,,,Ultralight Rail,Heavy Bolts,Envious Arsenal,High Ground,Boss damage,Universal,Tenet of Bravery
+2,,Adamantite,Legendary,Kinetic,,,,Fluted Barrel,Accurized Rounds,Slice,Attrition Orbs,Damage buff,Universal,Xur
+2,,Alethonym,Exotic,Kinetic,,,,Fixed,Fixed,Fixed,Fixed,"Movement
+Ammo generation",Universal,Monument to Lost Lights
+2,,Anarchy,Exotic,Power,,,,Fixed,Fixed,Fixed,Fixed,Add clear,"VoG, DSC",Monument to Lost Lights
+2,,Apostate,Legendary,Energy,,,,Fluted Barrel,Tactical Mag,Shoot to Loot,Explosive Payload,QoL ammo pickups,Universal,Altars of Sorrow
+2,,Basso Ostinato,Legendary,Energy,,,,Barrel Shroud,"Tactical Mag
+Light Mag","Grave Robber
+Demolitionist","One-Two Punch
+Trench Barrel",Boss damage,Universal,Neomuna
+2,,Choir of One,Exotic,Energy,,,,Fluted Barrel,Alloy Magazine,Onslaught,Fixed,Add clear,Universal,Encore
+2,,Chronophage,Legendary,Energy,,,,Fluted Barrel,Light Battery,Shoot to Loot,"Destabilizing Rounds
+Desperate Measures",QoL ammo pickups,Universal,Encore
+2,,Conspiracy Honed,Legendary,Kinetic,,,,Fluted Barrel,Ionized Heatsink,Vorpal Weapon,"Firing Line
+Bait and Switch",Burst damage,Universal,Equilibrium
+2,,Cusp Sempiternal,Legendary,Energy,,,,Fluted Barrel,Accurized Rounds,Impulse Amplifier,Withering Gaze,"Damage buff
+Debuff extension",Universal,Desert Perpetual (Epic)
+2,,Festival Flight,Legendary,Kinetic,,,,Quick Launch,High-Velocity Rounds,"Slice
+Demolitionist
+Envious Arsenal","Attrition Orbs
 One for All
-Demolitionist","Trapping doors
-Building Transcendence",Universal,S24 pool
-2,,Lotus-Eater,Legendary,Energy,,,,Volatile Launch,Tactical Mag,"Repulsor Brace
-Shoot to Loot",Destabilizing Rounds,"Avoiding primary swaps
-Ammo efficient fast add clear",Universal,Nightfalls
-2,,Lumina,Exotic,Kinetic,,,,Fixed,Fixed,Fixed,Fixed,"Providing 35% buff
-Long distance grapple travel",Universal,Monument to Lost Lights
-2,,Motif-41,Legendary,Energy,,,,Quick Launch,High-Velocity Rounds,"Auto-Loading Holster
-Impulse Amplifier
-Wellspring","Incandescent
-Vorpal Weapon
-Attrition Orbs",Splash add clear,Universal,S28 portal
-2,,No Hesitation,Legendary,Energy,,,,Fluted Barrel,Accurized Rounds,Physic,"Attrition Orbs
-Incandescent","Healing vulnerable teammates
-Universal damage boost",Universal,Pale Heart 
-2,,Parasite,Exotic,Power,,,,Fixed,Fixed,Fixed,Fixed,Extremely high burst,Universal,Witch Queen quest
-2,,Path of Least Resistance,Legendary,Energy,,,,Fluted Barrel,Light Battery,Shoot to Loot,"Voltshot
-Harmony","Avoiding primary swaps
-Special single shot add clear
-Shooting bricks",Universal,Operation: Seraph's Shield
-2,,Perfect Paradox,Legendary,Kinetic,,,,Barrel Shroud,"Tactical Mag
-Light Mag","Field Prep
-Pugilist","One-Two Punch
-Trench Barrel","Burst single target damage
-One-two punch",Universal,S24 pool
-2,,Psychopomp,Legendary,Energy,,,,Quick Launch,High-Velocity Rounds,"Envious Arsenal
-Ambitious Assassin
-Pugilist","Elemental Honing
-Rolling Storm
-Demolitionist",Trapping doors,Universal,S26 pool
-2,,Pure Recollection,Legendary,Energy,,,,Fluted Barrel,Ricochet Rounds,Envious Arsenal,"Bait and Switch
-Withering Gaze","Dying
-Debuff extension",Universal,Hawthorne
-2,,Refurbished A499,Legendary,Power,,,,Fluted Barrel,Flared Magwell,"Gutshot Straight
-Bewildering Burst
-Snapshot Sights",Aggregate Charge,Sustained boss damage,Universal,Lawless Frontier
-2,,Retraced Path,Legendary,Energy,,,,Fluted Barrel,Light Battery,"Shoot to Loot
-Subsistence
-Adaptive Munitions","Demolitionist
-Incandescent
-Frenzy","Avoiding primary swaps
-Special single shot add clear
-Shooting bricks",Universal,Dares of Eternity
-2,,Returned Memory,Legendary,Energy,,,,Quick Launch,High-Velocity Rounds,"Heal Clip
-Impulse Amplifier
-Lead from Gold","Incandescent
-Redirection
-Desperate Measures",Splash add clear,Universal,Hawthorne
-2,,Salvation's Grip,Exotic,Power,,,,Fixed,Fixed,Fixed,Fixed,"Blocking spawn points
-Creating terrain","VotD, KF, RoN",The Stasis Prototype quest
-2,,Starscape Null,Legendary,Energy,,,,Barrel Shroud,Assault Mag,"Rewind Rounds
-Reconstruction","One-Two Punch
-Trench Barrel",One-two punch,Universal,Desert Perpetual - Epic
-2,,Still Hunt,Exotic,Energy,,,,Fixed,Fixed,Fixed,Fixed,Burst crit damage,Universal,Pale Heart quest
-2,,Synanceia,Legendary,Power,,,,Tempered Edge,"Heavy Guard
-Swordmaster's Guard","Relentless Strikes
-Attrition Orbs
-Sharp Harvest","Eager Edge
+Hatchling
+Elemental Honing",Add clear,Universal,Tenet of Bravery
+2,,Found Verdict,Legendary,Energy,,,,Barrel Shroud,Assault Mag,"Aggregate Charge
+Discord","Trench Barrel
+One-Two Punch
 Elemental Honing
-Surrounded","Movement
-Sustained sword damage",Universal,Event drop
-2,,Tessellation,Exotic,Energy,,,,Fixed,Fixed,Fixed,Fixed,Ranged burst damage,Universal,Monument to Lost Lights
-2,,The Fourth Horseman,Exotic,Energy,,,,Fixed,Fixed,Fixed,Fixed,Imprecise single target burst,Universal,Monument to Lost Lights
-2,,The When and Where,Legendary,Power,,,,Quick Launch,Impact Casing,"Clown Cartridge
-Overflow
-Reconstruction","Reaper's Tithe
-Surrounded
-Bait and Switch
-Bipod",Burst boss damage,Universal,Desert Perpetual
-2,,Tinasha's Mastery,Legendary,Kinetic,,,,Volatile Launch,High-Explosive Ordnance,"Air Trigger
-Reverberation","Chill Clip
-Desperate Measures
-Surrounded","Avoiding primary swaps
-Ammo efficient fast add clear",Universal,Iron Banner
-2,,Trinity Ghoul,Exotic,Energy,,,,Fixed,Fixed,Fixed,Fixed,Low health rapid add clear,Universal,World drop
-2,,Unsworn,Legendary,Kinetic,,,,Fluted Barrel,Light Battery,Shoot to Loot,"Detonator Beam
-Hatchling","Avoiding primary swaps
-Special single shot add clear
-Shooting bricks",Universal,Sundered Doctrine
-2,,VS Velocity Baton,Legendary,Energy,,,,Quick Launch,High-Velocity Rounds,"Demolitionist
-Repulsor Brace","Attrition Orbs
-Destabilizing Rounds","Trapping doors
-Orb generation",Universal,Vesper's Host
-3,,Adamantite,Legendary,Kinetic,,,,Fluted Barrel,Accurized Rounds,"Reciprocity
-Slice",Attrition Orbs,"Healing vulnerable teammates
-Universal damage boost",Universal,S26 pool
-3,,Bad Juju,Exotic,Kinetic,,,,Fixed,Fixed,Fixed,Fixed,Farming super,Universal,Monument to Lost Lights
-3,,Conspiracy Honed,Legendary,Kinetic,,,,Fluted Barrel,Ionized Heatsink,Vorpal Weapon,Bait and Switch,Burst boss damage,Universal,Equilibrium
-3,,Critical Anomaly,Legendary,Kinetic,,,,Fluted Barrel,Tactical Mag,"Chill Clip
-Rewind Rounds",Chaos Reshaped,Artifact-independent Overload,Universal,Salvation's Edge
-3,,Cusp Sempiternal,Legendary,Energy,,,,Fluted Barrel,Accurized Rounds,"Impulse Amplifier
-Repulsor Brace
-Reciprocity","Destabilizing Rounds
-Circle of Life","Healing vulnerable teammates
-Universal damage boost",Universal,
-3,,Divinity,Exotic,Energy,,,,Fixed,Fixed,Fixed,Fixed,"15% debuff with crit bubble
-Intrinsic overload",GMs,Garden of Salvation
-3,,"Edge Transit
-BRAVE version",Legendary,Power,,,,Quick Launch,Sticky Grenades,Cascade Point,Explosive Light,Burst boss damage,Universal,Onslaught
-3,,Eriana's Vow,Exotic,Energy,,,,Fixed,Fixed,Fixed,Fixed,"Rapid piercing damage
-Destroying oracles
-Death Throes stacking
-Long range hitscan Barrier","VoG, Duality, VotD",Monument to Lost Lights
-3,,Ex Diris,Exotic,Energy,,,,Fixed,Fixed,Fixed,Fixed,Dying quickly,Universal,Monument to Lost Lights
-3,,Finality's Auger,Exotic,Power,,,,Fixed,Fixed,Fixed,Fixed,Trapping doors,VoG,Sundered Doctrine
-3,,Ice Breaker,Exotic,Energy,,,,Fixed,Fixed,Fixed,Fixed,Ammo generation,Universal,Vesper's Host
-3,,Imperial Decree,Legendary,Kinetic,,,,Barrel Shroud,Assault Mag,Auto-Loading Holster,"Trench Barrel
-Surrounded","Burst single target damage
-Slow single weapon damage",Universal,S20 focusing
-3,,Martyr's Retribution,Legendary,Energy,,,,Quick Launch,High-Velocity Rounds,"Heal Clip
-Demolitionist
-Auto-Loading Holster","Incandescent
-Kill Clip",Ammo efficient add clear,Universal,S24 pool
-3,,New Malpais,Exotic,Kinetic,,,,Fixed,Fixed,Fixed,Fixed,"Trapping spawns
-Pre-activating objectives","TST, SotW",Monument to Lost Lights
-3,,Praedyth's Revenge,Legendary,Kinetic,,,,Fluted Barrel,Tactical Mag,"Kinetic Tremors
-Fourth Time's the Charm","Elemental Honing
-Bait and Switch","Quick ranged hitscan kills
-Augmenting boss damage",Universal,Vault of Glass
-3,,Tarnation,Legendary,Power,,,,Volatile Launch,High-Explosive Ordnance,Field Prep,Danger Zone,Vault add clear,Last Wish,Throne World pool
-3,,The Call,Legendary,Kinetic,,,,Volatile Launch,High-Explosive Ordnance,"Slice
-Lead from Gold
-Demolitionist","Desperate Measures
-Golden Tricorn
-One for All","Avoiding primary swaps
-Ammo efficient fast add clear",Universal,Pale Heart pool
-3,,The Mountaintop,Legendary,Kinetic,,,,Fixed,Fixed,Fixed,Fixed,Boosting jump height,Universal,Monument to Lost Lights
-3,,"The Mountaintop
-BRAVE version",Legendary,Kinetic,,,,"Hard Launch
-Quick Launch","Implosion Rounds
-Sticky Grenades","Auto-Loading Holster
-Overflow
-Demolitionist
-Lead from Gold","Recombination
-Frenzy","Boosting jump height
-Augmenting boss damage",Universal,Onslaught
-3,,The Other Half,Legendary,Power,,,,"Enduring Blade
-Jagged Edge","Heavy Guard
-Swordmaster's Guard",Eager Edge,"Surrounded
-Frenzy
-Vorpal Weapon",Movement,Universal,Dares of Eternity
-3,,The Wardcliff Coil,Exotic,Power,,,,Fixed,Fixed,Fixed,Fixed,Melting vehicle bosses,"The Scarlet Keep, The Shattered Throne",World drop
-3,,Unfall,Legendary,Energy,,,,Quick Launch,High-Velocity Rounds,"Impulse Amplifier
-Lead from Gold
+Gear Shift",Burst damage,Universal,Vault of Glass
+2,,Heirloom,Exotic,Energy,,,,Fixed,Fixed,Fixed,Fixed,Burst damage,Universal,Equilibrium
+2,,Izanagi's Burden,Exotic,Kinetic,,,,Fixed,Fixed,Fixed,Fixed,Burst damage,Universal,Monument to Lost Lights
+2,,Keraunios,Legendary,Energy,,,,Fluted Barrel,Light Battery,Shoot to Loot,"Chain Reaction
+Detonator Beam",QoL ammo pickups,Universal,Tenet of Bravery
+2,,Lost Signal,Legendary,Kinetic,,,,Quick Launch,High-Velocity Rounds,"Auto-Loading Holster
+Strategist","One for All
+High Ground
+Wellspring
+Demolitionist",Add clear,Universal,Encore
+2,,Mint Retrograde,Legendary,Kinetic,,,,Quick Launch,"High-Velocity Rounds
+High-Explosive Ordnance","Rewind Rounds
+Hatchling
 Beacon Rounds","Master of Arms
+Frenzy
+Chain Reaction
+Slice",Add clear,Universal,Pinnacle Ops
+2,,Motif-41,Legendary,Energy,,,,Quick Launch,High-Velocity Rounds,"Auto-Loading Holster
+Wellspring
+Impulse Amplifier","Incandescent
+Master of Arms
+Attrition Orbs",Add clear,Universal,Tenet of Bravery
+2,,No Hesitation,Legendary,Energy,,,,Fluted Barrel,Accurized Rounds,"Physic
+Burning Ambition","Attrition Orbs
+Chaos Reshaped
+Incandescent","Damage buff
+Super generation",Universal,Pale Heart 
+2,,Ouster Engine,Legendary,Kinetic,,,,Quick Launch,High-Velocity Rounds,"Auto-Loading Holster
+Air Trigger
+Rimestealer","Chain Reaction
+Chaos Reshaped
+Crystalline Corpsebloom
+Aggregate Charge",Add clear,Universal,Pinnacle Ops
+2,,Path of Least Resistance,Legendary,Energy,,,,Fluted Barrel,Light Battery,Shoot to Loot,Voltshot,QoL ammo pickups,Universal,Operation: Seraph's Shield
+2,,Perfect Paradox,Legendary,Kinetic,,,,Barrel Shroud,"Tactical Mag
+Light Mag","Threat Detector
+Threat Remover
+Pugilist","One-Two Punch
+Trench Barrel",Boss damage,Universal,World
+2,,Psi Aeterna IV,Legendary,Energy,,,,Quick Launch,"High-Velocity Rounds
+High-Explosive Ordnance","Beacon Rounds
+Blast Distributor
+Trickle Charge","One for All
+Adrenaline Junkie
+Rolling Storm",Add clear,Universal,Tenet of Bravery
+2,,Psychopomp,Legendary,Energy,,,,Quick Launch,High-Velocity Rounds,"Auto-Loading Holster
 Rolling Storm
-Jolting Feedback",Splash add clear,Universal,Hawthorne
-3,,Unvoiced,Legendary,Energy,,,,Fluted Barrel,Assault Mag,"Redirection
-Fourth Time's the Charm","Elemental Honing
-Bait and Switch",Special burst damage,Universal,Sundered Doctrine
-3,,Verglas Curve,Exotic,Kinetic,,,,Fixed,Fixed,Fixed,Fixed,Making terrain for lining,"KF, RoN",Monument to Lost Lights
-3,,VS Chill Inhibitor,Legendary,Power,,,,Volatile Launch,High-Explosive Ordnance,Demolitionist,Chain Reaction,Vault add clear,LW,Vesper's Host
-3,,Whirling Ovation,Exotic,Power,,,,Fixed,Fixed,Fixed,Fixed,Delayed burst damage,RoN,Desert Perpetual
-3,,Witherhoard,Exotic,Kinetic,,,,Fixed,Fixed,Fixed,Fixed,Trapping spawns,Universal,Monument to Lost Lights
-3,,Worldline Zero,Exotic,Power,,,,Fixed,Fixed,Fixed,Fixed,Blade Focus long lines,LW,Monument to Lost Lights
-3,,Xenophage,Exotic,Power,,,,Fixed,Fixed,Fixed,Fixed,Ranged hitscan bursts,Universal,Pit of Heresy
+Impromptu Ammunition
+Demolitionist","Gear Shift
+Attrition Orbs
+Sword Logic
+Voltshot",Add clear,Universal,Pit of Heresy
+2,,Retraced Path,Legendary,Energy,,,,Fluted Barrel,Light Battery,"Shoot to Loot
+Adaptive Munitions","Demolitionist
+Disruption Break
+Incandescent",QoL ammo pickups,Universal,Dares of Eternity
+2,,Salvation's Grip,Exotic,Power,,,,Fixed,Fixed,Fixed,Fixed,DSM,Universal,Exotic quest
+2,,Tessellation,Exotic,Energy,,,,Fixed,Fixed,Fixed,Fixed,Burst damage,Universal,Monument to Lost Lights
+2,,The Deicide,Legendary,Energy,,,,Barrel Shroud,"Tactical Mag
+Light Mag","Threat Detector
+Auto-Loading Holster
+Lead from Gold","One-Two Punch
+Trench Barrel",Boss damage,Universal,Nessus
+2,,Theodolite,Legendary,Energy,,,,Quick Launch,"High-Velocity Rounds
+Spike Grenades",Reconstruction,Frenzy,Movement,Universal,Tenet of Bravery
+2,,Threat Level,Legendary,Kinetic,,,,Barrel Shroud,Tactical Mag,"Cascade Point
+One-Two Punch
+Grave Robber","Elemental Honing
+Aggregate Charge
+All-Star",Burst damage,Universal,Pantheon
+2,,Unsworn,Legendary,Kinetic,,,,Fluted Barrel,Light Battery,Shoot to Loot,"Detonator Beam
+Chaos Reshaped
+Hatchling",QoL ammo pickups,Universal,Sundered Doctrine
+2,,Veillantif-D,Legendary,Energy,,,,Quick Launch,"High-Velocity Rounds
+High-Explosive Ordnance","Air Trigger
+Heal Clip
+Sleight of Hand","Desperate Measures
+Paracausal Affinity
+Desperado",Add clear,Universal,SRL
+2,,Volta Bracket,Legendary,Kinetic,,,,Fluted Barrel,Tactical Mag,Shoot to Loot,Explosive Payload,QoL ammo pickups,Universal,Neomuna
+2,,VS Velocity Baton,Legendary,Energy,,,,Quick Launch,High-Velocity Rounds,"Demolitionist
+Repulsor Brace
+Envious Arsenal","Chain Reaction
+Destabilizing Rounds
+Attrition Orbs
+Elemental Honing
+",Add clear,Universal,Vesper's Host
+2,,Worldline Zero,Exotic,Power,,,,Fixed,Fixed,Fixed,Fixed,Movement,"LW, KF",Monument to Lost Lights
+3,,A Sudden Death,Legendary,Energy,,,,Barrel Shroud,Assault Mag,"One-Two Punch
+Reconstruction","Trench Barrel
+Elemental Honing",Burst damage,Universal,Prophecy
+3,,Arcane Embrace,Legendary,Energy,,,,Fluted Barrel,Appended Mag,"Fourth Time's the Charm
+Reconstruction
+Grave Robber","Aggregate Charge
+Surrounded",Boss damage,Universal,Tenet of Bravery
+3,,Dead Messenger,Legendary,Energy,,,,Quick Launch,High-Velocity Rounds,Demolitionist,Fixed,Add clear,Universal,Vox Obscura
+3,,Divinity,Exotic,Energy,,,,Fixed,Fixed,Fixed,Fixed,Damage debuff,Universal,Garden of Salvation
+3,,Edge of Action,Exotic,Energy,,,,Lightweight Emitter,Appended Mag,Fixed,Short-Action Stock,Damage buff,Universal,Exotic quest
+3,,"Edge Transit
+BRAVE version",Legendary,Power,,,,Quick Launch,"Sticky Grenades
+Spike Grenades",Cascade Point,"Explosive Light
+Elemental Honing",Burst damage,Universal,Onslaught
+3,,Eriana's Vow,Exotic,Energy,,,,Fixed,Fixed,Fixed,Fixed,"Oracles
+Add clear","VoG, Duality, VotD",Monument to Lost Lights
+3,,Ex Diris,Exotic,Energy,,,,Fixed,Fixed,Fixed,Fixed,Dying,Universal,Monument to Lost Lights
+3,,Fafnir,Exotic,Power,,,,Fixed,Fixed,Fixed,Fixed,Damage debuff,Universal,S29 pass
+3,,Finality's Auger,Exotic,Power,,,,Fixed,Fixed,Fixed,Fixed,Add clear,VoG,Sundered Doctrine
+3,,Gunnora's Axe,Legendary,Energy,,,,Fluted Barrel,Ricochet Rounds,Lone Wolf,"Opening Shot
+Cascade Point",Dying,Universal,Iron Banner
+3,,Heritage,Legendary,Kinetic,,,,Fluted Barrel,Assault Mag,Redirection,"Recombination
+Cascade Point",Burst damage,Universal,Deep Stone Crypt
+3,,Hierarchy of Needs,Exotic,Energy,,,,Fixed,Fixed,Fixed,Fixed,Boss damage,Universal,Spire of the Watcher
+3,,High Albedo,Legendary,Kinetic,,,,Quick Launch,High-Velocity Rounds,"Impulse Amplifier
+Stopping Power","Recombination
+Frenzy","Add clear
+Dying",Universal,Europa
+3,,Ice Breaker,Exotic,Energy,,,,Fixed,Fixed,Fixed,Fixed,Ammo generation,Universal,Vesper's Host
+3,,IKELOS_SG_V1.0.3,Legendary,Energy,,,,Barrel Shroud,Tactical Mag,"Grave Robber
+Pugilist
+Threat Detector","One-Two Punch
+Surrounded
+Cascade Point",Boss damage,Universal,Operation: Seraph's Shield
+3,,Imperial Decree,Legendary,Kinetic,,,,Barrel Shroud,Assault Mag,Auto-Loading Holster,"Trench Barrel
+Surrounded",Burst damage,Universal,Xur
+3,,Indebted Kindness,Legendary,Energy,,,,Quick Launch,High-Velocity Rounds,"Impulse Amplifier
+Air Trigger
+Beacon Rounds","Chain Reaction
+Voltshot
+Surrounded
+Attrition Orbs","Add clear
+Dying",Universal,Warlord's Ruin
+3,,Kindled Orchid,Legendary,Energy,,,,Fluted Barrel,"Steady Rounds
+Extended Mag",Shoot to Loot,Explosive Payload,QoL ammo pickups,Universal,Arena Ops
+3,,Leviathan's Breath,Exotic,Power,,,,Fixed,Fixed,Fixed,Fixed,Boss damage,Universal,Monument to Lost Lights
+3,,Lumina,Exotic,Kinetic,,,,Fixed,Fixed,Fixed,Fixed,"Movement
+Damage buff",Universal,Monument to Lost Lights
+3,,Merciless,Exotic,Energy,,,,Fixed,Fixed,Fixed,Fixed,Burst damage,Universal,Monument to Lost Lights
+3,,New Malpais,Exotic,Kinetic,,,,Fixed,Fixed,Fixed,Fixed,"Add clear
+Sticking objectives","TST, SotW",Monument to Lost Lights
+3,,One Small Step,Legendary,Kinetic,,,,Barrel Shroud,Tactical Mag,"Grave Robber
+Auto-Loading Holster","One-Two Punch
+Trench Barrel",Boss damage,Universal,Moon
+3,,Parasite,Exotic,Power,,,,Fixed,Fixed,Fixed,Fixed,Burst damage,Universal,Exotic quest
+3,,Prometheus Lens,Exotic,Energy,,,,Fixed,Fixed,Fixed,Fixed,Super generation,Universal,Monument to Lost Lights
+3,,Refurbished A499,Legendary,Power,,,,Fluted Barrel,Flared Magwell,"Lone Wolf
+Snapshot Sights
+Gutshot Straight","Aggregate Charge
+Envious Assassin",Burst damage,Universal,Lawless Frontier
+3,,Returned Memory,Legendary,Energy,,,,Quick Launch,High-Velocity Rounds,"Impulse Amplifier
+Beacon Rounds",Redirection,"Add clear
+Dying",Universal,Tenet of Bravery
+3,,Service Revolver,Legendary,Kinetic,,,,Fluted Barrel,"Steady Rounds
+Extended Mag",Shoot to Loot,Explosive Payload,QoL ammo pickups,Universal,Fireteam Ops
+3,,Seventh Seraph Officer Revolver,Legendary,Kinetic,,,,Fluted Barrel,"Steady Rounds
+Extended Mag",Shoot to Loot,Explosive Payload,QoL ammo pickups,Universal,Cosmodrome
+3,,Stryker's Sure-Hand,Legendary,Power,,,,Jagged Edge,Swordmaster's Guard,Rampage,Redirection,Burst damage,CE,Arena Ops
+3,,The Call,Legendary,Kinetic,,,,Quick Launch,High-Velocity Rounds,"Slice
+Impulse Amplifier
+Beacon Rounds","Hatchling
+Chaos Reshaped
+Desperate Measures","Add clear
+Super generation
+Dying",Universal,Pale Heart
+3,,The Fourth Horseman,Exotic,Energy,,,,Fixed,Fixed,Fixed,Fixed,Burst damage,Universal,Monument to Lost Lights
+3,,The Helmsman,Legendary,Energy,,,,Fluted Barrel,Tactical Mag,Snapshot Sights,"Vorpal Weapon
+Box Breathing
+Gear Shift",Burst damage,Universal,Crucible
+3,,"The Mountaintop
+BRAVE version",Legendary,Kinetic,,,,Quick Launch,"High-Velocity Rounds
+Spike Grenades","Impulse Amplifier
+Auto-Loading Holster
+Overflow","Frenzy
+Recombination","Movement
+Burst damage",Universal,Onslaught
+3,,The Navigator,Exotic,Kinetic,,,,Fixed,Fixed,Fixed,Fixed,Movement,Universal,Ghosts of the Deep
+3,,The Wardcliff Coil,Exotic,Power,,,,Fixed,Fixed,Fixed,Fixed,Boss damage,"The Scarlet Keep, TST",World
+3,,Tinasha's Mastery,Legendary,Kinetic,,,,Quick Launch,High-Velocity Rounds,"Impulse Amplifier
+Air Trigger
+Deconstruct","Surrounded
+Chill Clip
+Desperate Measures","Add clear
+Dying",Universal,Iron Banner
+3,,Trinity Ghoul,Exotic,Energy,,,,Fixed,Fixed,Fixed,Fixed,Add clear,Universal,World
+3,,Truth,Exotic,Power,,,,Fixed,Fixed,Fixed,Fixed,Boss damage,Universal,Monument to Lost Lights
+3,,Turncoat,Exotic,Energy,,,,Fixed,Fixed,Fixed,Fixed,Damage buff,Universal,S29 pass
+3,,Uncivil Discourse,Legendary,Energy,,,,Fluted Barrel,Ionized Heatsink,"Quickdraw
+Air Trigger","Frenzy
+Desperate Measures",Add clear,Universal,Lawless Frontier
+3,,Unvoiced,Legendary,Energy,,,,Fluted Barrel,Assault Mag,Redirection,"Elemental Honing
+Bait and Switch
+Vorpal Weapon",Burst damage,Universal,Sundered Doctrine
+3,,Verglas Curve,Exotic,Kinetic,,,,Fixed,Fixed,Fixed,Fixed,Movement,"KF, RoN",Monument to Lost Lights
+3,,VS Chill Inhibitor,Legendary,Power,,,,Quick Launch,Spike Grenades,Cascade Point,"Explosive Light
+Surrounded
+Elemental Honing
+Aggregate Charge",Burst damage,Universal,Vesper's Host
+3,,Vulpecula,Legendary,Kinetic,,,,Fluted Barrel,"Steady Rounds
+Extended Mag",Shoot to Loot,Explosive Payload,QoL ammo pickups,Universal,Shattered Throne
+3,,Whirling Ovation,Exotic,Power,,,,Fixed,Fixed,Fixed,Fixed,Burst damage,RoN,Desert Perpetual
+3,,Wolfsbane,Exotic,Power,,,,Honed Edge,Jagged Edge,Burning Ambition,Fixed,Burst damage,CE,Heliostat
+3,,Xenophage,Exotic,Power,,,,Fixed,Fixed,Fixed,Fixed,Oracles,VoG,Pit of Heresy
 N/A,,Acasia's Dejection,Legendary,Energy,,,,Fluted Barrel,Light Battery,"Reconstruction
 Field Prep","Frenzy
 Paracausal Affinity","Avoiding primary swaps
@@ -233,10 +282,7 @@ Bipod
 Surrounded",Burst splash damage,Universal,Last Wish
 N/A,,Arbalest,Exotic,Kinetic,,,,Fixed,Fixed,Fixed,Fixed,"Single target piercing damage
 Intrinsic Barrier",GMs,Intro exotic quest
-N/A,,Arcane Embrace,Legendary,Energy,,,,Fluted Barrel,Appended Mag,"Fourth Time's the Charm
-Air Trigger
-Grave Robber","Precision Instrument
-Surrounded",Fastest Cascade trigger,Universal,Festival of the Lost
+N/A,,Bad Juju,Exotic,Kinetic,,,,Fixed,Fixed,Fixed,Fixed,Farming super,Universal,Monument to Lost Lights
 N/A,,Bastion,Exotic,Kinetic,,,,Fixed,Fixed,Fixed,Fixed,"Object destruction
 Intrinsic Unstoppable
 Ranged long duration 12P","DSC, Prophecy, Lake of Shadows, etc.",Monument to Lost Lights
@@ -259,6 +305,8 @@ N/A,,Conditional Finality,Exotic,Kinetic,,,,Fixed,Fixed,Fixed,Fixed,"Unstoppable
 Instant freeze or ignite",Universal,Root of Nightmares
 N/A,,Corrective Measure,Legendary,Power,,,,Fluted Barrel,Flared Magwell,"Demolitionist
 Subsistence",Firefly,General add clear,Universal,Vault of Glass
+N/A,,Critical Anomaly,Legendary,Kinetic,,,,Fluted Barrel,Tactical Mag,"Chill Clip
+Rewind Rounds",Chaos Reshaped,Artifact-independent Overload,Universal,Salvation's Edge
 N/A,,Crux Termination IV,Legendary,Power,,,,Quick Launch,Impact Casing,"Slideshot
 Reconstruction
 Clown Cartridge","Surrounded
@@ -324,8 +372,6 @@ Tireless Blade",Eager Edge,Movement,Universal,Dares of Eternity
 N/A,,Harsh Language,Legendary,Energy,,,,Quick Launch,High-Velocity Rounds,"Wellspring
 Field Prep","Repulsor Brace
 Destabilizing Rounds",Ammo efficient add clear,Universal,World drop
-N/A,,Heritage,Legendary,Kinetic,,,,Fluted Barrel,Assault Mag,Reconstruction,Recombination,"Single target burst
-Double slug",Universal,Deep Stone Crypt
 N/A,,Hollow Denial,Legendary,Energy,,,,Fluted Barrel,Light Battery,Lead From Gold,"Repulsor Brace
 Wellspring","Avoiding primary swaps
 Special single shot add clear",Universal,Presage
@@ -369,6 +415,10 @@ Slideways",Chill Clip,"Blinding Overload option
 Filling ranged swap rotation",Universal,S25 pool
 N/A,,Marsilion-C,Legendary,Power,,,,Quick Launch,Spike Grenades,Envious Assassin,"Cascade Point
 Full Court",Non-rocket burst damage,SE,Gunsmith pool
+N/A,,Martyr's Retribution,Legendary,Energy,,,,Quick Launch,High-Velocity Rounds,"Heal Clip
+Demolitionist
+Auto-Loading Holster","Incandescent
+Kill Clip",Ammo efficient add clear,Universal,S24 pool
 N/A,,Mindbender's Ambition,Legendary,Energy,,,,Barrel Shroud,Assault Mag,Threat Detector,Vorpal Weapon,Double pellet,Universal,Vanguard legacy focusing
 N/A,,Nessa's Oblation,Legendary,Energy,,,,Fluted Barrel,Assault Mag,Reconstruction,Vorpal Weapon,Double slug,Universal,Root of Nightmares
 N/A,,New Pacific Epitaph,Legendary,Kinetic,,,,Quick Launch,High-Velocity Rounds,"Demolitionist
@@ -378,13 +428,14 @@ N/A,,No Reprieve,Legendary,Kinetic,,,,Fluted Barrel,Assault Mag,Triple Tap,Surro
 N/A,,Omniscient Eye,Legendary,Energy,,,,Fluted Barrel,Tactical Mag,"Fourth Time's the Charm
 Envious Arsenal","Precision Instrument
 Vorpal Weapon",Augmenting damage,Universal,Garden of Salvation
-N/A,,One Small Step,Legendary,Kinetic,,,,Barrel Shroud,Tactical Mag,"Slideshot
-Lead From Gold
-Surplus",One-Two Punch,One-two punch,Universal,Moon essence
 N/A,,Pardon Our Dust,Legendary,Kinetic,,,,Quick Launch,"Disorienting Grenades
 Spike Grenades",Auto-Loading Holster,"Demolitionist
 Vorpal Weapon","Blinding enemies
 Augmenting boss damage",Universal,Dares of Eternity
+N/A,,Praedyth's Revenge,Legendary,Kinetic,,,,Fluted Barrel,Tactical Mag,"Kinetic Tremors
+Fourth Time's the Charm","Elemental Honing
+Bait and Switch","Quick ranged hitscan kills
+Augmenting boss damage",Universal,Vault of Glass
 N/A,,Qullim's Terminus,Legendary,Power,,,,Fluted Barrel,Flared Magwell,Ensemble,"Killing Tally
 Firefly",General add clear,Universal,King's Fall
 N/A,,Ragnhild-D,Legendary,Kinetic,,,,Barrel Shroud,Assault Mag,"Auto-Loading Holster
@@ -413,6 +464,9 @@ N/A,,Sojourner's Tale,Legendary,Energy,,,,Fluted Barrel,Assault Mag,Auto-Loading
 Surrounded",Double slug,Universal,Dares of Eternity (rotation)
 N/A,,Sovereignty,Legendary,Energy,,,,Fluted Barrel,Tactical Mag,"Demolitionist
 Explosive Payload",Withering Gaze,Artifact-independent weaken,Universal,S25 pool
+N/A,,Starscape Null,Legendary,Energy,,,,Barrel Shroud,Assault Mag,"Rewind Rounds
+Reconstruction","One-Two Punch
+Trench Barrel",One-two punch,Universal,Desert Perpetual (Epic)
 N/A,,Stormchaser,Legendary,Power,,,,Arrowhead Brake,"Accelerated Coils
 Enhanced Battery","Auto-Loading Holster
 Clown Cartridge",Firing Line,Ranged sustained damage,Universal,Duality
@@ -430,8 +484,16 @@ Attrition Orbs
 Deconstruct","Chaos Reshaped
 Whirlwind Blade
 Surrounded",Melee range boss damage,SE,Salvation's Edge
+N/A,,Synanceia,Legendary,Power,,,,Tempered Edge,"Heavy Guard
+Swordmaster's Guard","Relentless Strikes
+Attrition Orbs
+Sharp Harvest","Eager Edge
+Elemental Honing
+Surrounded","Movement
+Sustained sword damage",Universal,Event drop
 N/A,,Taipan-4fr,Legendary,Power,,,,Fluted Barrel,Enhanced Battery,Triple Tap,Firing Line,Ranged sustained damage,Universal,"World drop
 Enclave quest"
+N/A,,Tarnation,Legendary,Power,,,,Volatile Launch,High-Explosive Ordnance,Field Prep,Danger Zone,Vault add clear,Last Wish,Throne World pool
 N/A,,The Comedian,Legendary,Energy,,,,Barrel Shroud,Assault Mag,"Ensemble
 Lead from Gold","Vorpal Weapon
 Trench Barrel","Double pellet
@@ -446,6 +508,12 @@ Intrinsic Barrier","GMs, missions, Last Wish",Reforging the Past
 N/A,,The Militia's Birthright,Legendary,Kinetic,,,,Quick Launch,Disorienting Grenades,"Slideways
 Lead from Gold","Auto-Loading Holster
 Frenzy",Blinding enemies,Universal,Vanguard legacy focusing
+N/A,,The Mountaintop,Legendary,Kinetic,,,,Fixed,Fixed,Fixed,Fixed,Boosting jump height,Universal,Monument to Lost Lights
+N/A,,The Other Half,Legendary,Power,,,,"Enduring Blade
+Jagged Edge","Heavy Guard
+Swordmaster's Guard",Eager Edge,"Surrounded
+Frenzy
+Vorpal Weapon",Movement,Universal,Dares of Eternity
 N/A,,The Supremacy,Legendary,Kinetic,,,,Fluted Barrel,"Appended Mag
 Armor-Piercing Rounds","Rewind Rounds
 Snapshot Sights
@@ -454,6 +522,12 @@ Discord","Kinetic Tremors
 Bait and Switch
 Fourth Time's the Charm","Quick ranged hitscan kills
 Augmenting boss damage",Universal,Last Wish
+N/A,,The When and Where,Legendary,Power,,,,Quick Launch,Impact Casing,"Clown Cartridge
+Overflow
+Reconstruction","Reaper's Tithe
+Surrounded
+Bait and Switch
+Bipod",Burst boss damage,Universal,Desert Perpetual
 N/A,,Thoughtless,Legendary,Kinetic,,,,Fluted Barrel,Extended Mag,Overflow,Firing Line,Augmenting damage,Universal,Vox Obscura
 N/A,,Thunderlord,Exotic,Power,,,,Fixed,Fixed,Fixed,Fixed,Hitscan splash add clear,Universal,World drop
 N/A,,Tomorrow's Answer,Legendary,Power,,,,Quick Launch,Impact Casing,Envious Arsenal,"Bait and Switch
@@ -488,6 +562,7 @@ Demolitionist","Frenzy
 Vorpal Weapon
 Lead From Gold","Blinding enemies
 Filling ranged swap rotation",Universal,Spire of the Watcher
+N/A,,Witherhoard,Exotic,Kinetic,,,,Fixed,Fixed,Fixed,Fixed,Trapping spawns,Universal,Monument to Lost Lights
 N/A,,Without Remorse,Legendary,Energy,,,,Barrel Shroud,Tactical Mag,"Threat Detector
 Field Prep","One-Two Punch
 Vorpal Weapon","One-two punch
