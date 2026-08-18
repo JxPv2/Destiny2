@@ -6,7 +6,7 @@
       "patch": "Pantheon 2.0"
     },
     "link": "https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY",
-    "scrape_date": "2026-08-13 09:05:24"
+    "scrape_date": "2026-08-18 00:43:10"
   },
   "workbooks": {
     "Shopping List": {
@@ -29697,8 +29697,8 @@
       }
     },
     "Traces": {
-      "Chronophage": {
-        "weapon_name": "Chronophage",
+      "Hollow Denial": {
+        "weapon_name": "Hollow Denial",
         "version": "",
         "perks": {
           "column1": [
@@ -29708,20 +29708,19 @@
             "Light Battery"
           ],
           "perk1": [
-            "Repulsor Brace",
-            "Shoot to Loot"
+            "Lead from Gold",
+            "Adaptive Munitions"
           ],
           "perk2": [
-            "Destabilizing Rounds",
-            "Desperate Measures"
+            "Repulsor Brace"
           ],
           "origin_trait": [
-            "Radiolaria Transposer"
+            "Extrovert"
           ]
         },
         "info": {
           "rank": "",
-          "tier": "S",
+          "tier": "A",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -29729,7 +29728,199 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "excellent pairing with artifact, volatile is very good for Harsh Refraction purposes",
+          "notes": "actually pretty decent with Volatile Flow in a trace-focused build for barrier stun, high ammo gen",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Incisor": {
+        "weapon_name": "Incisor",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Light Battery"
+          ],
+          "perk1": [
+            "Slice"
+          ],
+          "perk2": [
+            "Hatchling",
+            "Attrition Orbs"
+          ],
+          "origin_trait": [
+            "One Quiet Moment"
+          ]
+        },
+        "info": {
+          "rank": "",
+          "tier": "B",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "one of the most precise Slice applicators in the game, otherwise basically useless",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Warlord's Spear": {
+        "weapon_name": "Warlord's Spear",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Light Battery"
+          ],
+          "perk1": [
+            "Loose Change",
+            "Envious Assassin",
+            "High-Impact Reserves"
+          ],
+          "perk2": [
+            "Jolting Feedback",
+            "Detonator Beam",
+            "Desperate Measures"
+          ],
+          "origin_trait": [
+            "Skulking Wolf"
+          ]
+        },
+        "info": {
+          "rank": "",
+          "tier": "C",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "basically Keraunios without StL and a better origin",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Acasia's Dejection": {
+        "weapon_name": "Acasia's Dejection",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Light Battery"
+          ],
+          "perk1": [
+            "Burning Ambition",
+            "Reconstruction",
+            "Field Prep"
+          ],
+          "perk2": [
+            "Incandescent",
+            "Chaos Reshaped",
+            "Detonator Beam"
+          ],
+          "origin_trait": [
+            "Harmonic Resonance"
+          ]
+        },
+        "info": {
+          "rank": "",
+          "tier": "A",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "best Burning Ambition weapon for ignition builds",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Ribbontail": {
+        "weapon_name": "Ribbontail",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Fluted Barrel"
+          ],
+          "column2": [
+            "Light Battery"
+          ],
+          "perk1": [
+            "Wellspring",
+            "Envious Arsenal"
+          ],
+          "perk2": [
+            "Tear",
+            "Redirection",
+            "Detonator Beam"
+          ],
+          "origin_trait": [
+            "Tenacity"
+          ]
+        },
+        "info": {
+          "rank": "",
+          "tier": "C",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "the worst 1st column i have ever seen on a weapon released this late",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -29778,52 +29969,6 @@
           "usage": "",
           "source": "",
           "notes": "only kinetic slot StL trace, excellent with Tablet of Ruin, wish it had Slice",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Hollow Denial": {
-        "weapon_name": "Hollow Denial",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel"
-          ],
-          "column2": [
-            "Light Battery"
-          ],
-          "perk1": [
-            "Lead from Gold",
-            "Adaptive Munitions"
-          ],
-          "perk2": [
-            "Repulsor Brace"
-          ],
-          "origin_trait": [
-            "Extrovert"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "A",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "actually pretty decent with Volatile Flow in a trace-focused build for barrier stun, high ammo gen",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -29934,8 +30079,8 @@
           }
         }
       },
-      "Acasia's Dejection": {
-        "weapon_name": "Acasia's Dejection",
+      "Appetence": {
+        "weapon_name": "Appetence",
         "version": "",
         "perks": {
           "column1": [
@@ -29945,22 +30090,18 @@
             "Light Battery"
           ],
           "perk1": [
-            "Burning Ambition",
-            "Reconstruction",
-            "Field Prep"
+            "Demolitionist"
           ],
           "perk2": [
-            "Incandescent",
-            "Chaos Reshaped",
-            "Detonator Beam"
+            "Headstone"
           ],
           "origin_trait": [
-            "Harmonic Resonance"
+            "Dragon's Vengeance"
           ]
         },
         "info": {
           "rank": "",
-          "tier": "A",
+          "tier": "C",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -29968,7 +30109,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "best Burning Ambition weapon for ignition builds",
+          "notes": "almost no relevant perks",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -30015,52 +30156,6 @@
           "usage": "",
           "source": "",
           "notes": "great trace for tapping and using Voltshot, overall not very special though",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Incisor": {
-        "weapon_name": "Incisor",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel"
-          ],
-          "column2": [
-            "Light Battery"
-          ],
-          "perk1": [
-            "Slice"
-          ],
-          "perk2": [
-            "Hatchling",
-            "Attrition Orbs"
-          ],
-          "origin_trait": [
-            "One Quiet Moment"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "B",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "one of the most precise Slice applicators in the game, otherwise basically useless",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -30124,8 +30219,8 @@
           }
         }
       },
-      "Warlord's Spear": {
-        "weapon_name": "Warlord's Spear",
+      "Chronophage": {
+        "weapon_name": "Chronophage",
         "version": "",
         "perks": {
           "column1": [
@@ -30135,22 +30230,20 @@
             "Light Battery"
           ],
           "perk1": [
-            "Loose Change",
-            "Envious Assassin",
-            "High-Impact Reserves"
+            "Repulsor Brace",
+            "Shoot to Loot"
           ],
           "perk2": [
-            "Jolting Feedback",
-            "Detonator Beam",
+            "Destabilizing Rounds",
             "Desperate Measures"
           ],
           "origin_trait": [
-            "Skulking Wolf"
+            "Radiolaria Transposer"
           ]
         },
         "info": {
           "rank": "",
-          "tier": "C",
+          "tier": "S",
           "priority": "",
           "role": "",
           "purpose": "",
@@ -30158,100 +30251,7 @@
           "type": "",
           "usage": "",
           "source": "",
-          "notes": "basically Keraunios without StL and a better origin",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Appetence": {
-        "weapon_name": "Appetence",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel"
-          ],
-          "column2": [
-            "Light Battery"
-          ],
-          "perk1": [
-            "Demolitionist"
-          ],
-          "perk2": [
-            "Headstone"
-          ],
-          "origin_trait": [
-            "Dragon's Vengeance"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "C",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "almost no relevant perks",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
-      "Ribbontail": {
-        "weapon_name": "Ribbontail",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Fluted Barrel"
-          ],
-          "column2": [
-            "Light Battery"
-          ],
-          "perk1": [
-            "Wellspring",
-            "Envious Arsenal"
-          ],
-          "perk2": [
-            "Tear",
-            "Redirection",
-            "Detonator Beam"
-          ],
-          "origin_trait": [
-            "Tenacity"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "C",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "the worst 1st column i have ever seen on a weapon released this late",
+          "notes": "excellent pairing with artifact, volatile is very good for Harsh Refraction purposes",
           "description": "",
           "alternatives": "",
           "analysis": {
