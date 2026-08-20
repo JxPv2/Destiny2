@@ -17392,3 +17392,248 @@
   2026-08-19 16:20:39,148 [INFO] -> Skip Condition Met: File 'aegis_boss-damage_spreadsheet_data_scraped.json' has no update required and wishlist output file already exists. Skipping.
   2026-08-19 16:20:39,148 [INFO] -> Skip Condition Met: File 'aegis_speedrunner_spreadsheet_data_scraped.json' has no update required and wishlist output file already exists. Skipping.
   2026-08-19 16:20:39,148 [INFO] -> Pipeline execution completed. No state changes needed updating.
+2026-08-20 00:43:03,341 [INFO] -> ================================================================================
+2026-08-20 00:43:03,341 [INFO] -> 🚀 Launching Isolated DIM Wishlist Text Generation Pipeline...
+2026-08-20 00:43:03,342 [INFO] -> ================================================================================
+  2026-08-20 00:43:03,342 [INFO] -> Loading processed Bungie manifest database maps into memory...
+  2026-08-20 00:43:03,382 [INFO] -> Skip Condition Met: File 'aegis_endgame_spreadsheet_data_scraped.json' has no update required and wishlist output file already exists. Skipping.
+  2026-08-20 00:43:03,382 [INFO] -> Processing 'aegis_boss-damage_spreadsheet_data_scraped.json' (Reason: wishlist_update_required is set to true)...
+    2026-08-20 00:43:03,383 [INFO] -> Parsing nested ledger tab: 'Equipment (WIP)'
+      2026-08-20 00:43:03,392 [INFO] -> FINAL RESULT: Item 'Celestial Nighthawk' (ID: 1667080810, 1321354573, 3960926756) wrote 3 lines, rejected 0 lines.
+      2026-08-20 00:43:03,392 [INFO] -> FINAL RESULT: Item 'Cuirass of the Falling Star' (ID: 2321120637, 4057875770) wrote 2 lines, rejected 0 lines.
+      2026-08-20 00:43:03,392 [INFO] -> VARIANT MATCH: 'Wave Frame' -> ['Wave Sword Frame'] on 'Ergo Sum'
+      2026-08-20 00:43:03,392 [INFO] -> FINAL RESULT: Item 'Ergo Sum' (ID: 1681583613) wrote 9 lines, rejected 0 lines.
+      2026-08-20 00:43:03,392 [INFO] -> FINAL RESULT: Item 'Gjallarhorn' (ID: 1363886209) wrote 1 lines, rejected 0 lines.
+      2026-08-20 00:43:03,392 [INFO] -> PERK INVALIDATION: Item 'Hezen Vengeance' (ID: 4050645223) rejected for perk combo: (3525010810, 3796465595, 3643424744, 3078487919)
+      2026-08-20 00:43:03,393 [INFO] -> PERK INVALIDATION: Item 'Hezen Vengeance' (ID: 4050645223) rejected for perk combo: (3525010810, 3796465595, 3643424744, 1089671869)
+      2026-08-20 00:43:03,393 [INFO] -> PERK INVALIDATION: Item 'Hezen Vengeance' (ID: 4050645223) rejected for perk combo: (3525010810, 3796465595, 1275731761, 3078487919)
+      2026-08-20 00:43:03,393 [INFO] -> PERK INVALIDATION: Item 'Hezen Vengeance' (ID: 4050645223) rejected for perk combo: (3525010810, 3796465595, 1275731761, 1089671869)
+      2026-08-20 00:43:03,393 [INFO] -> FINAL RESULT: Item 'Hezen Vengeance' (ID: 4050645223, 2265407516) wrote 4 lines, rejected 4 lines.
+      2026-08-20 00:43:03,393 [INFO] -> FINAL RESULT: Item 'Sanguine Alchemy' (ID: 2422973183, 3070555693, 2966741808) wrote 3 lines, rejected 0 lines.
+      2026-08-20 00:43:03,393 [INFO] -> POOL BYPASS: 'Solipsism' using global manifest hashes, ignoring weapon perk pool.
+      2026-08-20 00:43:03,393 [INFO] -> FINAL RESULT: Item 'Solipsism' (ID: 2273643087) wrote 4 lines, rejected 0 lines.
+      2026-08-20 00:43:03,393 [INFO] -> FINAL RESULT: Item 'Tractor Cannon' (ID: 3580904581) wrote 1 lines, rejected 0 lines.
+      2026-08-20 00:43:03,393 [INFO] -> FINAL RESULT: Item 'Bequest' (ID: 3366545721) wrote 1 lines, rejected 0 lines.
+      2026-08-20 00:43:03,393 [INFO] -> VARIANT MATCH: 'Onslaught' -> ['Onslaught Refit'] on 'Choir of One'
+      2026-08-20 00:43:03,393 [INFO] -> FINAL RESULT: Item 'Choir of One' (ID: 3698448090) wrote 2 lines, rejected 0 lines.
+      2026-08-20 00:43:03,393 [INFO] -> PERK INVALIDATION: Item 'Cynosure' (ID: 2827141087) rejected for perk combo: (3525010810, 3796465595, 3643424744, 1089671869)
+      2026-08-20 00:43:03,394 [INFO] -> PERK INVALIDATION: Item 'Cynosure' (ID: 2827141087) rejected for perk combo: (3525010810, 3796465595, 3643424744, 2319119708)
+      2026-08-20 00:43:03,394 [INFO] -> PERK INVALIDATION: Item 'Cynosure' (ID: 2827141087) rejected for perk combo: (3525010810, 3796465595, 1523832109, 1089671869)
+      2026-08-20 00:43:03,394 [INFO] -> PERK INVALIDATION: Item 'Cynosure' (ID: 2827141087) rejected for perk combo: (3525010810, 3796465595, 1523832109, 2319119708)
+      2026-08-20 00:43:03,394 [INFO] -> PERK INVALIDATION: Item 'Cynosure' (ID: 2511482352) rejected for perk combo: (3525010810, 3796465595, 3643424744, 1089671869)
+      2026-08-20 00:43:03,394 [INFO] -> PERK INVALIDATION: Item 'Cynosure' (ID: 2511482352) rejected for perk combo: (3525010810, 3796465595, 3643424744, 2319119708)
+      2026-08-20 00:43:03,394 [INFO] -> PERK INVALIDATION: Item 'Cynosure' (ID: 2511482352) rejected for perk combo: (3525010810, 3796465595, 1523832109, 1089671869)
+      2026-08-20 00:43:03,394 [INFO] -> PERK INVALIDATION: Item 'Cynosure' (ID: 2511482352) rejected for perk combo: (3525010810, 3796465595, 1523832109, 2319119708)
+      2026-08-20 00:43:03,394 [INFO] -> FINAL RESULT: Item 'Cynosure' (ID: 694275488, 2827141087, 2511482352) wrote 4 lines, rejected 8 lines.
+      2026-08-20 00:43:03,394 [INFO] -> FINAL RESULT: Item 'Edge of Action' (ID: 2535142413) wrote 1 lines, rejected 0 lines.
+      2026-08-20 00:43:03,394 [INFO] -> PERK INVALIDATION: Item 'Edge Transit' (ID: 218335759) rejected for perk combo: (3525010810, 3301904089, 3751912585, 3078487919)
+      2026-08-20 00:43:03,394 [INFO] -> PERK INVALIDATION: Item 'Edge Transit' (ID: 218335759) rejected for perk combo: (3525010810, 3301904089, 3751912585, 3194351027)
+      2026-08-20 00:43:03,394 [INFO] -> PERK INVALIDATION: Item 'Edge Transit' (ID: 218335759) rejected for perk combo: (3525010810, 3301904089, 968510818, 3078487919)
+      2026-08-20 00:43:03,394 [INFO] -> PERK INVALIDATION: Item 'Edge Transit' (ID: 218335759) rejected for perk combo: (3525010810, 3301904089, 968510818, 3194351027)
+      2026-08-20 00:43:03,394 [INFO] -> PERK INVALIDATION: Item 'Edge Transit' (ID: 218335759) rejected for perk combo: (3525010810, 3373736292, 3751912585, 3078487919)
+      2026-08-20 00:43:03,394 [INFO] -> PERK INVALIDATION: Item 'Edge Transit' (ID: 218335759) rejected for perk combo: (3525010810, 3373736292, 3751912585, 3194351027)
+      2026-08-20 00:43:03,394 [INFO] -> PERK INVALIDATION: Item 'Edge Transit' (ID: 218335759) rejected for perk combo: (3525010810, 3373736292, 968510818, 3078487919)
+      2026-08-20 00:43:03,394 [INFO] -> PERK INVALIDATION: Item 'Edge Transit' (ID: 218335759) rejected for perk combo: (3525010810, 3373736292, 968510818, 3194351027)
+      2026-08-20 00:43:03,394 [INFO] -> PERK INVALIDATION: Item 'Edge Transit' (ID: 3736001863) rejected for perk combo: (3525010810, 3301904089, 968510818, 3078487919)
+      2026-08-20 00:43:03,394 [INFO] -> PERK INVALIDATION: Item 'Edge Transit' (ID: 3736001863) rejected for perk combo: (3525010810, 3301904089, 968510818, 3194351027)
+      2026-08-20 00:43:03,394 [INFO] -> PERK INVALIDATION: Item 'Edge Transit' (ID: 3736001863) rejected for perk combo: (3525010810, 3373736292, 968510818, 3078487919)
+      2026-08-20 00:43:03,395 [INFO] -> PERK INVALIDATION: Item 'Edge Transit' (ID: 3736001863) rejected for perk combo: (3525010810, 3373736292, 968510818, 3194351027)
+      2026-08-20 00:43:03,395 [INFO] -> FINAL RESULT: Item 'Edge Transit' (ID: 218335759, 568611923, 2228325504, 3736001863) wrote 20 lines, rejected 12 lines.
+      2026-08-20 00:43:03,395 [INFO] -> FINAL RESULT: Item 'IKELOS_SG_V1.0.3' (ID: 1168625549) wrote 3 lines, rejected 0 lines.
+      2026-08-20 00:43:03,395 [INFO] -> FINAL RESULT: Item 'Ill Omen' (ID: 3794274730) wrote 4 lines, rejected 0 lines.
+      2026-08-20 00:43:03,395 [INFO] -> FINAL RESULT: Item 'Izanagi's Burden' (ID: 3211806999) wrote 1 lines, rejected 0 lines.
+      2026-08-20 00:43:03,395 [INFO] -> FINAL RESULT: Item 'Knucklehead Radar' (ID: 1667080811, 1321354572, 3960926757) wrote 3 lines, rejected 0 lines.
+      2026-08-20 00:43:03,395 [INFO] -> FINAL RESULT: Item 'Liturgy' (ID: 2599338624, 3377522331) wrote 2 lines, rejected 0 lines.
+      2026-08-20 00:43:03,395 [INFO] -> FINAL RESULT: Item 'Lord of Wolves' (ID: 3413860063) wrote 1 lines, rejected 0 lines.
+      2026-08-20 00:43:03,395 [INFO] -> FINAL RESULT: Item 'Lost Signal' (ID: 1197771438) wrote 2 lines, rejected 0 lines.
+      2026-08-20 00:43:03,395 [INFO] -> FINAL RESULT: Item 'Lumina' (ID: 3512014804) wrote 1 lines, rejected 0 lines.
+      2026-08-20 00:43:03,395 [INFO] -> FINAL RESULT: Item 'Lunafaction Boots' (ID: 2954558332, 4136768282, 418363297) wrote 3 lines, rejected 0 lines.
+      2026-08-20 00:43:03,395 [INFO] -> FINAL RESULT: Item 'No Hesitation' (ID: 1801007332) wrote 1 lines, rejected 0 lines.
+      2026-08-20 00:43:03,395 [INFO] -> PERK INVALIDATION: Item 'Perfect Paradox' (ID: 2248667690) rejected for perk combo: (1300023272, 106909392, 691659142, 2679249093)
+      2026-08-20 00:43:03,395 [INFO] -> PERK INVALIDATION: Item 'Perfect Paradox' (ID: 2248667690) rejected for perk combo: (1300023272, 106909392, 691659142, 806159697)
+      2026-08-20 00:43:03,395 [INFO] -> PERK INVALIDATION: Item 'Perfect Paradox' (ID: 2248667690) rejected for perk combo: (1300023272, 106909392, 691659142, 2360754333)
+      2026-08-20 00:43:03,395 [INFO] -> PERK INVALIDATION: Item 'Perfect Paradox' (ID: 2248667690) rejected for perk combo: (1300023272, 106909392, 2869569095, 2679249093)
+      2026-08-20 00:43:03,396 [INFO] -> PERK INVALIDATION: Item 'Perfect Paradox' (ID: 2248667690) rejected for perk combo: (1300023272, 106909392, 2869569095, 806159697)
+      2026-08-20 00:43:03,396 [INFO] -> PERK INVALIDATION: Item 'Perfect Paradox' (ID: 2248667690) rejected for perk combo: (1300023272, 106909392, 2869569095, 2360754333)
+      2026-08-20 00:43:03,396 [INFO] -> PERK INVALIDATION: Item 'Perfect Paradox' (ID: 2248667690) rejected for perk combo: (1300023272, 106909392, 777589559, 2679249093)
+      2026-08-20 00:43:03,396 [INFO] -> PERK INVALIDATION: Item 'Perfect Paradox' (ID: 2248667690) rejected for perk combo: (1300023272, 106909392, 777589559, 806159697)
+      2026-08-20 00:43:03,396 [INFO] -> PERK INVALIDATION: Item 'Perfect Paradox' (ID: 2248667690) rejected for perk combo: (1300023272, 106909392, 777589559, 2360754333)
+      2026-08-20 00:43:03,396 [INFO] -> PERK INVALIDATION: Item 'Perfect Paradox' (ID: 3393519051) rejected for perk combo: (1300023272, 106909392, 691659142, 2679249093)
+      2026-08-20 00:43:03,396 [INFO] -> PERK INVALIDATION: Item 'Perfect Paradox' (ID: 3393519051) rejected for perk combo: (1300023272, 106909392, 691659142, 2360754333)
+      2026-08-20 00:43:03,396 [INFO] -> PERK INVALIDATION: Item 'Perfect Paradox' (ID: 4108648762) rejected for perk combo: (1300023272, 106909392, 2869569095, 2679249093)
+      2026-08-20 00:43:03,396 [INFO] -> PERK INVALIDATION: Item 'Perfect Paradox' (ID: 4108648762) rejected for perk combo: (1300023272, 106909392, 2869569095, 2360754333)
+      2026-08-20 00:43:03,396 [INFO] -> PERK INVALIDATION: Item 'Perfect Paradox' (ID: 4108648762) rejected for perk combo: (1300023272, 106909392, 777589559, 2679249093)
+      2026-08-20 00:43:03,396 [INFO] -> PERK INVALIDATION: Item 'Perfect Paradox' (ID: 4108648762) rejected for perk combo: (1300023272, 106909392, 777589559, 2360754333)
+      2026-08-20 00:43:03,396 [INFO] -> FINAL RESULT: Item 'Perfect Paradox' (ID: 2248667690, 3393519051, 1298672084, 4108648762) wrote 8 lines, rejected 15 lines.
+      2026-08-20 00:43:03,396 [INFO] -> PERK INVALIDATION: Item 'Praedyth's Revenge' (ID: 3653573172) rejected for perk combo: (1840239774, 106909392, 1354429876, 1089671869)
+      2026-08-20 00:43:03,396 [INFO] -> PERK INVALIDATION: Item 'Praedyth's Revenge' (ID: 3653573172) rejected for perk combo: (1840239774, 106909392, 1354429876, 3078487919)
+      2026-08-20 00:43:03,396 [INFO] -> PERK INVALIDATION: Item 'Praedyth's Revenge' (ID: 3653573172) rejected for perk combo: (1840239774, 106909392, 3891536761, 1089671869)
+      2026-08-20 00:43:03,396 [INFO] -> PERK INVALIDATION: Item 'Praedyth's Revenge' (ID: 3653573172) rejected for perk combo: (1840239774, 106909392, 3891536761, 3078487919)
+      2026-08-20 00:43:03,396 [INFO] -> PERK INVALIDATION: Item 'Praedyth's Revenge' (ID: 3653573172) rejected for perk combo: (1840239774, 106909392, 3987942396, 1089671869)
+      2026-08-20 00:43:03,396 [INFO] -> PERK INVALIDATION: Item 'Praedyth's Revenge' (ID: 3653573172) rejected for perk combo: (1840239774, 106909392, 3987942396, 3078487919)
+      2026-08-20 00:43:03,396 [INFO] -> FINAL RESULT: Item 'Praedyth's Revenge' (ID: 3653573172, 3844610113) wrote 6 lines, rejected 6 lines.
+      2026-08-20 00:43:03,396 [INFO] -> PERK INVALIDATION: Item 'Psychopomp' (ID: 1835232052) rejected for perk combo: (3525010810, 2822142346, 3987942396, 1089671869)
+      2026-08-20 00:43:03,396 [INFO] -> PERK INVALIDATION: Item 'Psychopomp' (ID: 1835232052) rejected for perk combo: (3525010810, 2822142346, 3987942396, 4104185692)
+      2026-08-20 00:43:03,397 [INFO] -> FINAL RESULT: Item 'Psychopomp' (ID: 4028298892, 3840794631, 1835232052, 2553380021, 704410186) wrote 8 lines, rejected 2 lines.
+      2026-08-20 00:43:03,397 [INFO] -> FINAL RESULT: Item 'Still Hunt' (ID: 2905188646) wrote 1 lines, rejected 0 lines.
+      2026-08-20 00:43:03,397 [INFO] -> POOL BYPASS: 'Stoicism' using global manifest hashes, ignoring weapon perk pool.
+      2026-08-20 00:43:03,397 [INFO] -> FINAL RESULT: Item 'Stoicism' (ID: 266021826) wrote 4 lines, rejected 0 lines.
+      2026-08-20 00:43:03,397 [INFO] -> FINAL RESULT: Item 'Synthoceps' (ID: 1035680666, 241462142, 2002759681) wrote 3 lines, rejected 0 lines.
+      2026-08-20 00:43:03,397 [INFO] -> FINAL RESULT: Item 'The Queenbreaker' (ID: 2044500762) wrote 1 lines, rejected 0 lines.
+      2026-08-20 00:43:03,397 [INFO] -> FINAL RESULT: Item 'Thunderlord' (ID: 3325463374) wrote 1 lines, rejected 0 lines.
+      2026-08-20 00:43:03,397 [INFO] -> PERK INVALIDATION: Item 'Unvoiced' (ID: 2213885190) rejected for perk combo: (1840239774, 791862061, 3201496230, 1089671869)
+      2026-08-20 00:43:03,397 [INFO] -> FINAL RESULT: Item 'Unvoiced' (ID: 3360937899, 2213885190) wrote 3 lines, rejected 1 lines.
+      2026-08-20 00:43:03,397 [INFO] -> FINAL RESULT: Item 'VS Chill Inhibitor' (ID: 1762785662, 2452936817) wrote 12 lines, rejected 0 lines.
+      2026-08-20 00:43:03,397 [INFO] -> FINAL RESULT: Item 'Abyssal Edge' (ID: 547165496, 4221591387, 2599520828, 2712683313, 3054597646) wrote 10 lines, rejected 0 lines.
+      2026-08-20 00:43:03,397 [INFO] -> PERK INVALIDATION: Item 'Adamantite' (ID: 621450049) rejected for perk combo: (1840239774, 3230963543, 692399809, 243981275)
+      2026-08-20 00:43:03,397 [INFO] -> PERK INVALIDATION: Item 'Adamantite' (ID: 621450049) rejected for perk combo: (1840239774, 3230963543, 923806249, 243981275)
+      2026-08-20 00:43:03,397 [INFO] -> FINAL RESULT: Item 'Adamantite' (ID: 3229982889, 2987244302, 621450049, 3485029080, 601574723) wrote 8 lines, rejected 2 lines.
+      2026-08-20 00:43:03,397 [INFO] -> FINAL RESULT: Item 'Anarchy' (ID: 2376481550) wrote 1 lines, rejected 0 lines.
+      2026-08-20 00:43:03,398 [INFO] -> PERK INVALIDATION: Item 'Apex Predator' (ID: 2545083870) rejected for perk combo: (3525010810, 3796465595, 1523832109, 3078487919)
+      2026-08-20 00:43:03,398 [INFO] -> PERK INVALIDATION: Item 'Apex Predator' (ID: 2545083870) rejected for perk combo: (3525010810, 3796465595, 1523832109, 3708227201)
+      2026-08-20 00:43:03,398 [INFO] -> PERK INVALIDATION: Item 'Apex Predator' (ID: 2545083870) rejected for perk combo: (3525010810, 3796465595, 2039302152, 3078487919)
+      2026-08-20 00:43:03,398 [INFO] -> PERK INVALIDATION: Item 'Apex Predator' (ID: 2545083870) rejected for perk combo: (3525010810, 3796465595, 2039302152, 3708227201)
+      2026-08-20 00:43:03,398 [INFO] -> FINAL RESULT: Item 'Apex Predator' (ID: 2545083870, 1851777734) wrote 4 lines, rejected 4 lines.
+      2026-08-20 00:43:03,398 [INFO] -> VARIANT MATCH: 'Target Lock' -> ['Target Lock Refit'] on 'Barrow-Dyad'
+      2026-08-20 00:43:03,398 [INFO] -> FINAL RESULT: Item 'Barrow-Dyad' (ID: 1481594633) wrote 1 lines, rejected 0 lines.
+      2026-08-20 00:43:03,398 [INFO] -> FINAL RESULT: Item 'Bastion' (ID: 2415517654) wrote 1 lines, rejected 0 lines.
+      2026-08-20 00:43:03,398 [INFO] -> FINAL RESULT: Item 'Bitter/Sweet' (ID: 2599338625) wrote 2 lines, rejected 0 lines.
+      2026-08-20 00:43:03,398 [INFO] -> FINAL RESULT: Item 'Briarbinds' (ID: 3234692237, 768145972) wrote 2 lines, rejected 0 lines.
+      2026-08-20 00:43:03,398 [INFO] -> FINAL RESULT: Item 'Cloudstrike' (ID: 2603483885) wrote 1 lines, rejected 0 lines.
+      2026-08-20 00:43:03,398 [INFO] -> FINAL RESULT: Item 'D.A.R.C.I.' (ID: 3141979346) wrote 1 lines, rejected 0 lines.
+      2026-08-20 00:43:03,398 [INFO] -> FINAL RESULT: Item 'Dimensional Hypotrochoid' (ID: 1311684613) wrote 1 lines, rejected 0 lines.
+      2026-08-20 00:43:03,398 [INFO] -> FINAL RESULT: Item 'Divinity' (ID: 4103414242) wrote 1 lines, rejected 0 lines.
+      2026-08-20 00:43:03,398 [INFO] -> FINAL RESULT: Item 'Eriana's Vow' (ID: 3524313097) wrote 1 lines, rejected 0 lines.
+      2026-08-20 00:43:03,398 [INFO] -> FINAL RESULT: Item 'Euphony' (ID: 3284383335) wrote 1 lines, rejected 0 lines.
+      2026-08-20 00:43:03,398 [INFO] -> FINAL RESULT: Item 'Felwinter's Helm' (ID: 2822465023, 728668916) wrote 2 lines, rejected 0 lines.
+      2026-08-20 00:43:03,399 [INFO] -> FINAL RESULT: Item 'Geodetic HSm' (ID: 3637669759) wrote 1 lines, rejected 0 lines.
+      2026-08-20 00:43:03,399 [INFO] -> FINAL RESULT: Item 'Hazardous Propulsion' (ID: 1909305643, 3050442980) wrote 2 lines, rejected 0 lines.
+      2026-08-20 00:43:03,399 [INFO] -> PERK INVALIDATION: Item 'Hullabaloo' (ID: 657927352) rejected for perk combo: (3525010810, 2822142346, 3987942396, 4049631843)
+      2026-08-20 00:43:03,399 [INFO] -> PERK INVALIDATION: Item 'Hullabaloo' (ID: 657927352) rejected for perk combo: (3525010810, 2822142346, 3987942396, 3751912585)
+      2026-08-20 00:43:03,399 [INFO] -> FINAL RESULT: Item 'Hullabaloo' (ID: 657927352, 2666273249, 2449096504) wrote 10 lines, rejected 2 lines.
+      2026-08-20 00:43:03,399 [INFO] -> FINAL RESULT: Item 'Ice Breaker' (ID: 1111334348) wrote 1 lines, rejected 0 lines.
+      2026-08-20 00:43:03,399 [INFO] -> PERK INVALIDATION: Item 'Imperial Decree' (ID: 2919334548) rejected for perk combo: (1300023272, 791862061, 3300816228, 3708227201)
+      2026-08-20 00:43:03,399 [INFO] -> FINAL RESULT: Item 'Imperial Decree' (ID: 318443586, 2919334548) wrote 3 lines, rejected 1 lines.
+      2026-08-20 00:43:03,399 [INFO] -> FINAL RESULT: Item 'Keen Thistle' (ID: 1893967086, 2499834164, 3503560035) wrote 6 lines, rejected 0 lines.
+      2026-08-20 00:43:03,399 [INFO] -> FINAL RESULT: Item 'Merciless' (ID: 4190156464) wrote 1 lines, rejected 0 lines.
+      2026-08-20 00:43:03,399 [INFO] -> PERK INVALIDATION: Item 'Outbreak Perfected' (ID: 400096939) rejected for perk combo: (1840239774, 1087426260, 2578928832, 1067908860)
+      2026-08-20 00:43:03,399 [INFO] -> PERK INVALIDATION: Item 'Outbreak Perfected' (ID: 400096939) rejected for perk combo: (1840239774, 1087426260, 3418782618, 1067908860)
+      2026-08-20 00:43:03,399 [INFO] -> FINAL RESULT: Item 'Outbreak Perfected' (ID: 400096939, 3824673936) wrote 1 lines, rejected 2 lines.
+      2026-08-20 00:43:03,399 [INFO] -> FINAL RESULT: Item 'Parasite' (ID: 2812324400) wrote 1 lines, rejected 0 lines.
+      2026-08-20 00:43:03,399 [INFO] -> FINAL RESULT: Item 'Rain of Fire' (ID: 1624882687, 511709874) wrote 2 lines, rejected 0 lines.
+      2026-08-20 00:43:03,400 [INFO] -> FINAL RESULT: Item 'Scatter Signal' (ID: 2558925366) wrote 1 lines, rejected 0 lines.
+      2026-08-20 00:43:03,400 [INFO] -> FINAL RESULT: Item 'Summum Bonum' (ID: 3569407878, 2001697739) wrote 12 lines, rejected 0 lines.
+      2026-08-20 00:43:03,400 [INFO] -> PERK INVALIDATION: Item 'Temptation's Hook' (ID: 35794111) rejected for perk combo: (3666208348, 269888150, 243981275, 3913600130)
+      2026-08-20 00:43:03,400 [INFO] -> FINAL RESULT: Item 'Temptation's Hook' (ID: 35794111, 1587953057, 3977827673) wrote 5 lines, rejected 1 lines.
+      2026-08-20 00:43:03,400 [INFO] -> FINAL RESULT: Item 'The Fourth Horseman' (ID: 1665952087) wrote 1 lines, rejected 0 lines.
+      2026-08-20 00:43:03,400 [INFO] -> PERK INVALIDATION: Item 'The Mountaintop' (ID: 3993415705) rejected for perk combo: (981914802, 3492396210, 3300816228, 469285294)
+      2026-08-20 00:43:03,400 [INFO] -> PERK INVALIDATION: Item 'The Mountaintop' (ID: 3993415705) rejected for perk combo: (981914802, 3492396210, 3300816228, 1546637391)
+      2026-08-20 00:43:03,400 [INFO] -> PERK INVALIDATION: Item 'The Mountaintop' (ID: 3993415705) rejected for perk combo: (981914802, 3492396210, 3643424744, 469285294)
+      2026-08-20 00:43:03,400 [INFO] -> PERK INVALIDATION: Item 'The Mountaintop' (ID: 3993415705) rejected for perk combo: (981914802, 3492396210, 3643424744, 1546637391)
+      2026-08-20 00:43:03,400 [INFO] -> PERK INVALIDATION: Item 'The Mountaintop' (ID: 3993415705) rejected for perk combo: (981914802, 3492396210, 3523296417, 469285294)
+      2026-08-20 00:43:03,400 [INFO] -> PERK INVALIDATION: Item 'The Mountaintop' (ID: 3993415705) rejected for perk combo: (981914802, 3492396210, 3523296417, 1546637391)
+      2026-08-20 00:43:03,400 [INFO] -> PERK INVALIDATION: Item 'The Mountaintop' (ID: 3993415705) rejected for perk combo: (981914802, 3492396210, 2222960133, 469285294)
+      2026-08-20 00:43:03,400 [INFO] -> PERK INVALIDATION: Item 'The Mountaintop' (ID: 3993415705) rejected for perk combo: (981914802, 3492396210, 2222960133, 1546637391)
+      2026-08-20 00:43:03,400 [INFO] -> PERK INVALIDATION: Item 'The Mountaintop' (ID: 3993415705) rejected for perk combo: (981914802, 3301904089, 3300816228, 469285294)
+      2026-08-20 00:43:03,400 [INFO] -> PERK INVALIDATION: Item 'The Mountaintop' (ID: 3993415705) rejected for perk combo: (981914802, 3301904089, 3300816228, 1546637391)
+      2026-08-20 00:43:03,400 [INFO] -> PERK INVALIDATION: Item 'The Mountaintop' (ID: 3993415705) rejected for perk combo: (981914802, 3301904089, 3643424744, 469285294)
+      2026-08-20 00:43:03,400 [INFO] -> PERK INVALIDATION: Item 'The Mountaintop' (ID: 3993415705) rejected for perk combo: (981914802, 3301904089, 3643424744, 1546637391)
+      2026-08-20 00:43:03,400 [INFO] -> PERK INVALIDATION: Item 'The Mountaintop' (ID: 3993415705) rejected for perk combo: (981914802, 3301904089, 3523296417, 469285294)
+      2026-08-20 00:43:03,400 [INFO] -> PERK INVALIDATION: Item 'The Mountaintop' (ID: 3993415705) rejected for perk combo: (981914802, 3301904089, 3523296417, 1546637391)
+      2026-08-20 00:43:03,401 [INFO] -> PERK INVALIDATION: Item 'The Mountaintop' (ID: 3993415705) rejected for perk combo: (981914802, 3301904089, 2222960133, 469285294)
+      2026-08-20 00:43:03,401 [INFO] -> PERK INVALIDATION: Item 'The Mountaintop' (ID: 3993415705) rejected for perk combo: (981914802, 3301904089, 2222960133, 1546637391)
+      2026-08-20 00:43:03,401 [INFO] -> PERK INVALIDATION: Item 'The Mountaintop' (ID: 3993415705) rejected for perk combo: (3525010810, 3492396210, 3300816228, 469285294)
+      2026-08-20 00:43:03,401 [INFO] -> PERK INVALIDATION: Item 'The Mountaintop' (ID: 3993415705) rejected for perk combo: (3525010810, 3492396210, 3300816228, 1546637391)
+      2026-08-20 00:43:03,401 [INFO] -> PERK INVALIDATION: Item 'The Mountaintop' (ID: 3993415705) rejected for perk combo: (3525010810, 3492396210, 3643424744, 469285294)
+      2026-08-20 00:43:03,401 [INFO] -> PERK INVALIDATION: Item 'The Mountaintop' (ID: 3993415705) rejected for perk combo: (3525010810, 3492396210, 3643424744, 1546637391)
+      2026-08-20 00:43:03,401 [INFO] -> PERK INVALIDATION: Item 'The Mountaintop' (ID: 3993415705) rejected for perk combo: (3525010810, 3492396210, 3523296417, 469285294)
+      2026-08-20 00:43:03,401 [INFO] -> PERK INVALIDATION: Item 'The Mountaintop' (ID: 3993415705) rejected for perk combo: (3525010810, 3492396210, 3523296417, 1546637391)
+      2026-08-20 00:43:03,401 [INFO] -> PERK INVALIDATION: Item 'The Mountaintop' (ID: 3993415705) rejected for perk combo: (3525010810, 3492396210, 2222960133, 469285294)
+      2026-08-20 00:43:03,401 [INFO] -> PERK INVALIDATION: Item 'The Mountaintop' (ID: 3993415705) rejected for perk combo: (3525010810, 3492396210, 2222960133, 1546637391)
+      2026-08-20 00:43:03,401 [INFO] -> PERK INVALIDATION: Item 'The Mountaintop' (ID: 3993415705) rejected for perk combo: (3525010810, 3301904089, 3300816228, 469285294)
+      2026-08-20 00:43:03,401 [INFO] -> PERK INVALIDATION: Item 'The Mountaintop' (ID: 3993415705) rejected for perk combo: (3525010810, 3301904089, 3300816228, 1546637391)
+      2026-08-20 00:43:03,401 [INFO] -> PERK INVALIDATION: Item 'The Mountaintop' (ID: 3993415705) rejected for perk combo: (3525010810, 3301904089, 3643424744, 469285294)
+      2026-08-20 00:43:03,401 [INFO] -> PERK INVALIDATION: Item 'The Mountaintop' (ID: 3993415705) rejected for perk combo: (3525010810, 3301904089, 3643424744, 1546637391)
+      2026-08-20 00:43:03,401 [INFO] -> PERK INVALIDATION: Item 'The Mountaintop' (ID: 3993415705) rejected for perk combo: (3525010810, 3301904089, 3523296417, 469285294)
+      2026-08-20 00:43:03,401 [INFO] -> PERK INVALIDATION: Item 'The Mountaintop' (ID: 3993415705) rejected for perk combo: (3525010810, 3301904089, 3523296417, 1546637391)
+      2026-08-20 00:43:03,401 [INFO] -> PERK INVALIDATION: Item 'The Mountaintop' (ID: 3993415705) rejected for perk combo: (3525010810, 3301904089, 2222960133, 469285294)
+      2026-08-20 00:43:03,401 [INFO] -> PERK INVALIDATION: Item 'The Mountaintop' (ID: 3993415705) rejected for perk combo: (3525010810, 3301904089, 2222960133, 1546637391)
+      2026-08-20 00:43:03,401 [INFO] -> FINAL RESULT: Item 'The Mountaintop' (ID: 3993415705, 568611922, 4043921923, 3736001861) wrote 72 lines, rejected 32 lines.
+      2026-08-20 00:43:03,401 [INFO] -> FINAL RESULT: Item 'The Navigator' (ID: 1441805468) wrote 1 lines, rejected 0 lines.
+      2026-08-20 00:43:03,401 [INFO] -> FINAL RESULT: Item 'The Wardcliff Coil' (ID: 1508896098) wrote 1 lines, rejected 0 lines.
+      2026-08-20 00:43:03,402 [INFO] -> FINAL RESULT: Item 'Verity's Brow' (ID: 2897117448, 2428181146, 2553961985) wrote 3 lines, rejected 0 lines.
+      2026-08-20 00:43:03,402 [INFO] -> PERK INVALIDATION: Item 'VS Velocity Baton' (ID: 2452936816) rejected for perk combo: (3525010810, 2822142346, 3523296417, 2319119708)
+      2026-08-20 00:43:03,402 [INFO] -> FINAL RESULT: Item 'VS Velocity Baton' (ID: 1762785663, 2452936816) wrote 5 lines, rejected 1 lines.
+      2026-08-20 00:43:03,402 [INFO] -> PERK INVALIDATION: Item 'Wicked Sister' (ID: 2168486467) rejected for perk combo: (3525010810, 3301904089, 3987942396, 3078487919)
+      2026-08-20 00:43:03,402 [INFO] -> PERK INVALIDATION: Item 'Wicked Sister' (ID: 2168486467) rejected for perk combo: (3525010810, 3301904089, 3987942396, 3751912585)
+      2026-08-20 00:43:03,402 [INFO] -> PERK INVALIDATION: Item 'Wicked Sister' (ID: 2168486467) rejected for perk combo: (3525010810, 3301904089, 3987942396, 2319119708)
+      2026-08-20 00:43:03,402 [INFO] -> FINAL RESULT: Item 'Wicked Sister' (ID: 2168486467, 2039776723) wrote 3 lines, rejected 3 lines.
+      2026-08-20 00:43:03,402 [INFO] -> FINAL RESULT: Item 'Winterbite' (ID: 3118061004) wrote 1 lines, rejected 0 lines.
+      2026-08-20 00:43:03,402 [INFO] -> FINAL RESULT: Item 'Witherhoard' (ID: 2357297366) wrote 1 lines, rejected 0 lines.
+      2026-08-20 00:43:03,402 [INFO] -> FINAL RESULT: Item 'Wormgod Caress' (ID: 809007411, 1734844651, 1203306856) wrote 3 lines, rejected 0 lines.
+      2026-08-20 00:43:03,402 [INFO] -> FINAL RESULT: Item 'Ager's Scepter' (ID: 1833195496) wrote 1 lines, rejected 0 lines.
+      2026-08-20 00:43:03,402 [INFO] -> FINAL RESULT: Item 'Alethonym' (ID: 2350354266) wrote 1 lines, rejected 0 lines.
+      2026-08-20 00:43:03,402 [INFO] -> FINAL RESULT: Item 'Apotheosis Veil' (ID: 3897389303, 1096253259, 132452792) wrote 3 lines, rejected 0 lines.
+      2026-08-20 00:43:03,402 [INFO] -> FINAL RESULT: Item 'Boots of the Assembler' (ID: 3045642045, 597039524) wrote 2 lines, rejected 0 lines.
+      2026-08-20 00:43:03,402 [INFO] -> PERK INVALIDATION: Item 'Cataphract GL3' (ID: 3805679279) rejected for perk combo: (3525010810, 3301904089, 968510818, 3751912585)
+      2026-08-20 00:43:03,403 [INFO] -> FINAL RESULT: Item 'Cataphract GL3' (ID: 2738601016, 3805679279, 874623537) wrote 5 lines, rejected 1 lines.
+      2026-08-20 00:43:03,403 [INFO] -> PERK INVALIDATION: Item 'Cold Comfort' (ID: 291447487) rejected for perk combo: (3525010810, 3796465595, 968510818, 3078487919)
+      2026-08-20 00:43:03,403 [INFO] -> PERK INVALIDATION: Item 'Cold Comfort' (ID: 291447487) rejected for perk combo: (3525010810, 3796465595, 968510818, 3194351027)
+      2026-08-20 00:43:03,403 [INFO] -> PERK INVALIDATION: Item 'Cold Comfort' (ID: 2760833884) rejected for perk combo: (3525010810, 3796465595, 968510818, 3078487919)
+      2026-08-20 00:43:03,403 [INFO] -> PERK INVALIDATION: Item 'Cold Comfort' (ID: 2760833884) rejected for perk combo: (3525010810, 3796465595, 968510818, 3194351027)
+      2026-08-20 00:43:03,403 [INFO] -> PERK INVALIDATION: Item 'Cold Comfort' (ID: 1817605554) rejected for perk combo: (3525010810, 3796465595, 968510818, 3078487919)
+      2026-08-20 00:43:03,403 [INFO] -> PERK INVALIDATION: Item 'Cold Comfort' (ID: 1817605554) rejected for perk combo: (3525010810, 3796465595, 968510818, 3194351027)
+      2026-08-20 00:43:03,403 [INFO] -> PERK INVALIDATION: Item 'Cold Comfort' (ID: 2126543269) rejected for perk combo: (3525010810, 3796465595, 968510818, 3078487919)
+      2026-08-20 00:43:03,403 [INFO] -> PERK INVALIDATION: Item 'Cold Comfort' (ID: 2126543269) rejected for perk combo: (3525010810, 3796465595, 968510818, 3194351027)
+      2026-08-20 00:43:03,403 [INFO] -> FINAL RESULT: Item 'Cold Comfort' (ID: 839786290, 291447487, 2760833884, 2287287549, 1817605554, 2126543269) wrote 4 lines, rejected 8 lines.
+      2026-08-20 00:43:03,403 [INFO] -> FINAL RESULT: Item 'Conditional Finality' (ID: 3371017761) wrote 1 lines, rejected 0 lines.
+      2026-08-20 00:43:03,403 [INFO] -> FINAL RESULT: Item 'Critical Anomaly' (ID: 445197843, 172461430) wrote 2 lines, rejected 0 lines.
+      2026-08-20 00:43:03,403 [INFO] -> FINAL RESULT: Item 'Crux Termination IV' (ID: 1719687748) wrote 6 lines, rejected 0 lines.
+      2026-08-20 00:43:03,403 [INFO] -> FINAL RESULT: Item 'Dead Weight' (ID: 3738678140) wrote 9 lines, rejected 0 lines.
+      2026-08-20 00:43:03,403 [INFO] -> PERK INVALIDATION: Item 'Falling Guillotine' (ID: 614426548) rejected for perk combo: (3666208348, 269888150, 4104185692, 3913600130)
+      2026-08-20 00:43:03,403 [INFO] -> PERK INVALIDATION: Item 'Falling Guillotine' (ID: 614426548) rejected for perk combo: (3666208348, 269888150, 4104185692, 3708227201)
+      2026-08-20 00:43:03,403 [INFO] -> FINAL RESULT: Item 'Falling Guillotine' (ID: 614426548, 1815105249, 243425374, 2480871539) wrote 6 lines, rejected 2 lines.
+      2026-08-20 00:43:03,404 [INFO] -> FINAL RESULT: Item 'Finality's Auger' (ID: 331231237) wrote 1 lines, rejected 0 lines.
+      2026-08-20 00:43:03,404 [INFO] -> FINAL RESULT: Item 'Foetracer' (ID: 1667080809, 896224899, 671504994) wrote 3 lines, rejected 0 lines.
+      2026-08-20 00:43:03,404 [INFO] -> FINAL RESULT: Item 'Grand Overture' (ID: 1763584999) wrote 1 lines, rejected 0 lines.
+      2026-08-20 00:43:03,404 [INFO] -> FINAL RESULT: Item 'Koraxis's Distress' (ID: 2972949637, 495442100) wrote 2 lines, rejected 0 lines.
+      2026-08-20 00:43:03,404 [INFO] -> FINAL RESULT: Item 'Lucky Pants' (ID: 1245809812, 193869522, 2405271939) wrote 3 lines, rejected 0 lines.
+      2026-08-20 00:43:03,404 [INFO] -> FINAL RESULT: Item 'Malfeasance' (ID: 204878059) wrote 1 lines, rejected 0 lines.
+      2026-08-20 00:43:03,404 [INFO] -> FINAL RESULT: Item 'Mask of Bakris' (ID: 1619425569, 508515818) wrote 2 lines, rejected 0 lines.
+      2026-08-20 00:43:03,404 [INFO] -> FINAL RESULT: Item 'Microcosm' (ID: 4207066264) wrote 1 lines, rejected 0 lines.
+      2026-08-20 00:43:03,404 [INFO] -> FINAL RESULT: Item 'Nessa's Oblation' (ID: 135029084, 522366885) wrote 4 lines, rejected 0 lines.
+      2026-08-20 00:43:03,404 [INFO] -> FINAL RESULT: Item 'One Thousand Voices' (ID: 2069224589) wrote 1 lines, rejected 0 lines.
+      2026-08-20 00:43:03,404 [INFO] -> FINAL RESULT: Item 'Rake Angle' (ID: 2298039571, 2201323795, 3997086838) wrote 3 lines, rejected 0 lines.
+      2026-08-20 00:43:03,404 [INFO] -> FINAL RESULT: Item 'Regnant' (ID: 268260372) wrote 2 lines, rejected 0 lines.
+      2026-08-20 00:43:03,404 [INFO] -> POOL BYPASS: 'Relativism' using global manifest hashes, ignoring weapon perk pool.
+      2026-08-20 00:43:03,404 [INFO] -> FINAL RESULT: Item 'Relativism' (ID: 2809120022) wrote 6 lines, rejected 0 lines.
+      2026-08-20 00:43:03,404 [INFO] -> PERK INVALIDATION: Item 'Riiswalker' (ID: 1764868900) rejected for perk combo: (1300023272, 791862061, 706527188, 1546637391)
+      2026-08-20 00:43:03,405 [INFO] -> PERK INVALIDATION: Item 'Riiswalker' (ID: 557165046) rejected for perk combo: (1300023272, 791862061, 706527188, 1546637391)
+      2026-08-20 00:43:03,405 [INFO] -> PERK INVALIDATION: Item 'Riiswalker' (ID: 1435062001) rejected for perk combo: (1300023272, 791862061, 706527188, 1546637391)
+      2026-08-20 00:43:03,405 [INFO] -> FINAL RESULT: Item 'Riiswalker' (ID: 108221785, 1764868900, 557165046, 1435062001) wrote 1 lines, rejected 3 lines.
+      2026-08-20 00:43:03,405 [INFO] -> PERK INVALIDATION: Item 'Seventh Seraph CQC-12' (ID: 2308010345) rejected for perk combo: (1300023272, 791862061, 3300816228, 1546637391)
+      2026-08-20 00:43:03,405 [INFO] -> FINAL RESULT: Item 'Seventh Seraph CQC-12' (ID: 1821724780, 2308010345) wrote 1 lines, rejected 1 lines.
+      2026-08-20 00:43:03,405 [INFO] -> FINAL RESULT: Item 'Star-Eater Scales' (ID: 1001356380, 1006498763) wrote 2 lines, rejected 0 lines.
+      2026-08-20 00:43:03,405 [INFO] -> FINAL RESULT: Item 'Supercluster' (ID: 92459755) wrote 9 lines, rejected 0 lines.
+      2026-08-20 00:43:03,405 [INFO] -> FINAL RESULT: Item 'The Dragon's Shadow' (ID: 419976108, 2766109874, 368733541) wrote 3 lines, rejected 0 lines.
+      2026-08-20 00:43:03,405 [INFO] -> PERK INVALIDATION: Item 'The Supremacy' (ID: 686951703) rejected for perk combo: (1840239774, 1087426260, 2578928832, 3891536761)
+      2026-08-20 00:43:03,405 [INFO] -> PERK INVALIDATION: Item 'The Supremacy' (ID: 686951703) rejected for perk combo: (1840239774, 1087426260, 2578928832, 3078487919)
+      2026-08-20 00:43:03,405 [INFO] -> PERK INVALIDATION: Item 'The Supremacy' (ID: 686951703) rejected for perk combo: (1840239774, 1087426260, 3418782618, 3891536761)
+      2026-08-20 00:43:03,405 [INFO] -> PERK INVALIDATION: Item 'The Supremacy' (ID: 686951703) rejected for perk combo: (1840239774, 1087426260, 3418782618, 3078487919)
+      2026-08-20 00:43:03,405 [INFO] -> FINAL RESULT: Item 'The Supremacy' (ID: 686951703, 2884596447) wrote 2 lines, rejected 4 lines.
+      2026-08-20 00:43:03,405 [INFO] -> PERK INVALIDATION: Item 'Tomorrow's Answer' (ID: 1366917989) rejected for perk combo: (3525010810, 3796465595, 3987942396, 3078487919)
+      2026-08-20 00:43:03,405 [INFO] -> PERK INVALIDATION: Item 'Tomorrow's Answer' (ID: 958384347) rejected for perk combo: (3525010810, 3796465595, 3987942396, 3078487919)
+      2026-08-20 00:43:03,405 [INFO] -> FINAL RESULT: Item 'Tomorrow's Answer' (ID: 1366917989, 303107619, 958384347, 3009199534, 1940352487) wrote 3 lines, rejected 2 lines.
+      2026-08-20 00:43:03,405 [INFO] -> FINAL RESULT: Item 'Triton Vice' (ID: 3093309525, 1304266146) wrote 2 lines, rejected 0 lines.
+      2026-08-20 00:43:03,405 [INFO] -> FINAL RESULT: Item 'Unloved' (ID: 2485881870, 388390591) wrote 2 lines, rejected 0 lines.
+      2026-08-20 00:43:03,406 [INFO] -> FINAL RESULT: Item 'Until Its Return' (ID: 2883484461) wrote 3 lines, rejected 0 lines.
+      2026-08-20 00:43:03,406 [INFO] -> PERK INVALIDATION: Item 'Whisper of the Worm' (ID: 1891561814) rejected for perk combo: (1840239774, 3177308360, 2869569095, 1067908860)
+      2026-08-20 00:43:03,406 [INFO] -> PERK INVALIDATION: Item 'Whisper of the Worm' (ID: 1891561814) rejected for perk combo: (1840239774, 3177308360, 777589559, 1067908860)
+      2026-08-20 00:43:03,406 [INFO] -> FINAL RESULT: Item 'Whisper of the Worm' (ID: 1891561814, 1983149589) wrote 1 lines, rejected 2 lines.
+      2026-08-20 00:43:03,406 [INFO] -> FINAL RESULT: Item 'Winter's Guile' (ID: 1862800745, 3844826443, 900910756) wrote 3 lines, rejected 0 lines.
+      2026-08-20 00:43:03,406 [INFO] -> FINAL RESULT: Item 'Without Remorse' (ID: 1478986057) wrote 4 lines, rejected 0 lines.
+      2026-08-20 00:43:03,406 [INFO] -> FINAL RESULT: Item 'Yesterday's Question' (ID: 2300143112, 1803480512, 2378785953) wrote 3 lines, rejected 0 lines.
+    2026-08-20 00:43:03,406 [INFO] -> 🎉 Wishlist file isolated and successfully written: 'dim_wishlists/aegis_boss-damage_spreadsheet_dim_wishlist.txt' (406 lines)
+      2026-08-20 00:43:03,406 [INFO] ->   🏷️  Flagged 'aegis_boss-damage' for splitter (wishlist_split_required = True)
+  2026-08-20 00:43:03,406 [INFO] -> Skip Condition Met: File 'aegis_speedrunner_spreadsheet_data_scraped.json' has no update required and wishlist output file already exists. Skipping.
+  2026-08-20 00:43:03,407 [INFO] -> State tracker synchronized. Flags committed to file: 'local_version_state.json'
