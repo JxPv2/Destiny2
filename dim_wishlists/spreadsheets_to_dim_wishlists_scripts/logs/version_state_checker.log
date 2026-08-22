@@ -1182,3 +1182,142 @@
     2026-08-22 08:18:14,955 [INFO] -> 🟩 UP TO DATE [GID 1087089423]: Specifications data lines for sheet component 'Exotic Armor (ignore)' match cache records perfectly.
   2026-08-22 08:18:14,956 [INFO] -> ================================================================================
   2026-08-22 08:18:14,957 [INFO] -> Synchronization check complete. Pipeline gating flags successfully set.
+2026-08-22 16:13:02,559 [INFO] -> ================================================================================
+2026-08-22 16:13:02,559 [INFO] -> 🚀 Starting version check and synchronization loop...
+2026-08-22 16:13:02,559 [INFO] -> ================================================================================
+  2026-08-22 16:13:02,578 [INFO] -> Checking live Destiny 2 Manifest version from Bungie...
+    2026-08-22 16:13:02,578 [INFO] -> Requesting live Bungie Manifest version (Attempt 1/3)...
+    2026-08-22 16:13:02,756 [INFO] -> 🟩 Up to date: Bungie Manifest version matches local cache. No structural compilation changes needed.
+  2026-08-22 16:13:02,756 [INFO] -> Processing spreadsheet engine resource target profile: 'aegis_boss-damage'
+    2026-08-22 16:13:03,186 [INFO] -> 🟩 UP TO DATE [GID 1268483240]: Specifications data lines for sheet component 'Changelog' match cache records perfectly.
+    2026-08-22 16:13:03,253 [INFO] -> 🟩 UP TO DATE [GID 639621230]: Specifications data lines for sheet component 'Equipment (WIP)' match cache records perfectly.
+  2026-08-22 16:13:03,254 [INFO] -> Processing spreadsheet engine resource target profile: 'aegis_speedrunner'
+    2026-08-22 16:13:03,786 [INFO] -> 🟩 UP TO DATE [GID 0]: Specifications data lines for sheet component 'Weapons' match cache records perfectly.
+  2026-08-22 16:13:03,786 [INFO] -> Processing spreadsheet engine resource target profile: 'aegis_endgame'
+    2026-08-22 16:13:03,927 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 1/3
+    2026-08-22 16:13:03,931 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 1/3
+    2026-08-22 16:13:03,944 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 1/3
+    2026-08-22 16:13:03,953 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 1/3
+    2026-08-22 16:13:04,067 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 2/3
+    2026-08-22 16:13:04,082 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 2/3
+    2026-08-22 16:13:04,086 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 2/3
+    2026-08-22 16:13:04,089 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 2/3
+    2026-08-22 16:13:04,204 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 3/3
+    2026-08-22 16:13:04,205 [WARNING] -> ❌ Problem resolving GID '346832350' for 'Status'. Trying fallback name lookup routing pass...
+    2026-08-22 16:13:04,234 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 3/3
+    2026-08-22 16:13:04,235 [WARNING] -> ❌ Problem resolving GID '1890042119' for 'Autos'. Trying fallback name lookup routing pass...
+    2026-08-22 16:13:04,242 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 3/3
+    2026-08-22 16:13:04,243 [WARNING] -> ❌ Problem resolving GID '1439671777' for 'Changelog'. Trying fallback name lookup routing pass...
+    2026-08-22 16:13:04,253 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 3/3
+    2026-08-22 16:13:04,255 [WARNING] -> ❌ Problem resolving GID '1062099834' for 'Shopping List'. Trying fallback name lookup routing pass...
+    2026-08-22 16:13:04,586 [ERROR] -> ❌ CRITICAL CONFIG SPECIFICATION ERROR: Both GID and Name lookup sweeps completely failed for tab target 'Status'. Skipping parsing block.
+    2026-08-22 16:13:04,637 [ERROR] -> ❌ CRITICAL CONFIG SPECIFICATION ERROR: Both GID and Name lookup sweeps completely failed for tab target 'Changelog'. Skipping parsing block.
+    2026-08-22 16:13:04,647 [ERROR] -> ❌ CRITICAL CONFIG SPECIFICATION ERROR: Both GID and Name lookup sweeps completely failed for tab target 'Shopping List'. Skipping parsing block.
+    2026-08-22 16:13:04,687 [ERROR] -> ❌ CRITICAL CONFIG SPECIFICATION ERROR: Both GID and Name lookup sweeps completely failed for tab target 'Autos'. Skipping parsing block.
+    2026-08-22 16:13:04,709 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 1/3
+    2026-08-22 16:13:04,765 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 1/3
+    2026-08-22 16:13:04,784 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 1/3
+    2026-08-22 16:13:04,834 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 1/3
+    2026-08-22 16:13:04,835 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 2/3
+    2026-08-22 16:13:04,885 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 2/3
+    2026-08-22 16:13:04,889 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 2/3
+    2026-08-22 16:13:04,961 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 3/3
+    2026-08-22 16:13:04,962 [WARNING] -> ❌ Problem resolving GID '324500912' for 'Bows'. Trying fallback name lookup routing pass...
+    2026-08-22 16:13:04,964 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 2/3
+    2026-08-22 16:13:05,026 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 3/3
+    2026-08-22 16:13:05,027 [WARNING] -> ❌ Problem resolving GID '1712537582' for 'Pulses'. Trying fallback name lookup routing pass...
+    2026-08-22 16:13:05,097 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 3/3
+    2026-08-22 16:13:05,099 [WARNING] -> ❌ Problem resolving GID '1315046624' for 'HCs'. Trying fallback name lookup routing pass...
+    2026-08-22 16:13:05,101 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 3/3
+    2026-08-22 16:13:05,102 [WARNING] -> ❌ Problem resolving GID '946843299' for 'Scouts'. Trying fallback name lookup routing pass...
+    2026-08-22 16:13:05,371 [ERROR] -> ❌ CRITICAL CONFIG SPECIFICATION ERROR: Both GID and Name lookup sweeps completely failed for tab target 'Bows'. Skipping parsing block.
+    2026-08-22 16:13:05,398 [ERROR] -> ❌ CRITICAL CONFIG SPECIFICATION ERROR: Both GID and Name lookup sweeps completely failed for tab target 'Pulses'. Skipping parsing block.
+    2026-08-22 16:13:05,497 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 1/3
+    2026-08-22 16:13:05,524 [ERROR] -> ❌ CRITICAL CONFIG SPECIFICATION ERROR: Both GID and Name lookup sweeps completely failed for tab target 'Scouts'. Skipping parsing block.
+    2026-08-22 16:13:05,530 [ERROR] -> ❌ CRITICAL CONFIG SPECIFICATION ERROR: Both GID and Name lookup sweeps completely failed for tab target 'HCs'. Skipping parsing block.
+    2026-08-22 16:13:05,535 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 1/3
+    2026-08-22 16:13:05,615 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 2/3
+    2026-08-22 16:13:05,655 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 1/3
+    2026-08-22 16:13:05,660 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 2/3
+    2026-08-22 16:13:05,685 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 1/3
+    2026-08-22 16:13:05,735 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 3/3
+    2026-08-22 16:13:05,736 [WARNING] -> ❌ Problem resolving GID '1594008157' for 'Sidearms'. Trying fallback name lookup routing pass...
+    2026-08-22 16:13:05,813 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 3/3
+    2026-08-22 16:13:05,815 [WARNING] -> ❌ Problem resolving GID '1405969509' for 'SMGs'. Trying fallback name lookup routing pass...
+    2026-08-22 16:13:05,818 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 2/3
+    2026-08-22 16:13:05,826 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 2/3
+    2026-08-22 16:13:05,946 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 3/3
+    2026-08-22 16:13:05,947 [WARNING] -> ❌ Problem resolving GID '657764751' for 'BGLs'. Trying fallback name lookup routing pass...
+    2026-08-22 16:13:05,960 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 3/3
+    2026-08-22 16:13:05,962 [WARNING] -> ❌ Problem resolving GID '1318165198' for 'Fusions'. Trying fallback name lookup routing pass...
+    2026-08-22 16:13:06,095 [ERROR] -> ❌ CRITICAL CONFIG SPECIFICATION ERROR: Both GID and Name lookup sweeps completely failed for tab target 'Sidearms'. Skipping parsing block.
+    2026-08-22 16:13:06,243 [ERROR] -> ❌ CRITICAL CONFIG SPECIFICATION ERROR: Both GID and Name lookup sweeps completely failed for tab target 'SMGs'. Skipping parsing block.
+    2026-08-22 16:13:06,246 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 1/3
+    2026-08-22 16:13:06,364 [ERROR] -> ❌ CRITICAL CONFIG SPECIFICATION ERROR: Both GID and Name lookup sweeps completely failed for tab target 'BGLs'. Skipping parsing block.
+    2026-08-22 16:13:06,366 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 2/3
+    2026-08-22 16:13:06,375 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 1/3
+    2026-08-22 16:13:06,404 [ERROR] -> ❌ CRITICAL CONFIG SPECIFICATION ERROR: Both GID and Name lookup sweeps completely failed for tab target 'Fusions'. Skipping parsing block.
+    2026-08-22 16:13:06,496 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 1/3
+    2026-08-22 16:13:06,509 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 3/3
+    2026-08-22 16:13:06,510 [WARNING] -> ❌ Problem resolving GID '1239299765' for 'Glaives'. Trying fallback name lookup routing pass...
+    2026-08-22 16:13:06,528 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 2/3
+    2026-08-22 16:13:06,536 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 1/3
+    2026-08-22 16:13:06,611 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 2/3
+    2026-08-22 16:13:06,662 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 2/3
+    2026-08-22 16:13:06,664 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 3/3
+    2026-08-22 16:13:06,666 [WARNING] -> ❌ Problem resolving GID '1595979957' for 'Shotguns'. Trying fallback name lookup routing pass...
+    2026-08-22 16:13:06,724 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 3/3
+    2026-08-22 16:13:06,726 [WARNING] -> ❌ Problem resolving GID '1090554564' for 'Snipers'. Trying fallback name lookup routing pass...
+    2026-08-22 16:13:06,812 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 3/3
+    2026-08-22 16:13:06,813 [WARNING] -> ❌ Problem resolving GID '550485113' for 'Rocket Sidearms'. Trying fallback name lookup routing pass...
+    2026-08-22 16:13:06,859 [ERROR] -> ❌ CRITICAL CONFIG SPECIFICATION ERROR: Both GID and Name lookup sweeps completely failed for tab target 'Glaives'. Skipping parsing block.
+    2026-08-22 16:13:06,972 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 1/3
+    2026-08-22 16:13:07,076 [ERROR] -> ❌ CRITICAL CONFIG SPECIFICATION ERROR: Both GID and Name lookup sweeps completely failed for tab target 'Shotguns'. Skipping parsing block.
+    2026-08-22 16:13:07,100 [ERROR] -> ❌ CRITICAL CONFIG SPECIFICATION ERROR: Both GID and Name lookup sweeps completely failed for tab target 'Snipers'. Skipping parsing block.
+    2026-08-22 16:13:07,115 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 2/3
+    2026-08-22 16:13:07,204 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 1/3
+    2026-08-22 16:13:07,207 [ERROR] -> ❌ CRITICAL CONFIG SPECIFICATION ERROR: Both GID and Name lookup sweeps completely failed for tab target 'Rocket Sidearms'. Skipping parsing block.
+    2026-08-22 16:13:07,220 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 1/3
+    2026-08-22 16:13:07,250 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 3/3
+    2026-08-22 16:13:07,252 [WARNING] -> ❌ Problem resolving GID '288998351' for 'Traces'. Trying fallback name lookup routing pass...
+    2026-08-22 16:13:07,339 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 2/3
+    2026-08-22 16:13:07,341 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 1/3
+    2026-08-22 16:13:07,350 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 2/3
+    2026-08-22 16:13:07,473 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 3/3
+    2026-08-22 16:13:07,474 [WARNING] -> ❌ Problem resolving GID '439751986' for 'HGLs'. Trying fallback name lookup routing pass...
+    2026-08-22 16:13:07,492 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 3/3
+    2026-08-22 16:13:07,496 [WARNING] -> ❌ Problem resolving GID '29008106' for 'LFRs'. Trying fallback name lookup routing pass...
+    2026-08-22 16:13:07,507 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 2/3
+    2026-08-22 16:13:07,618 [ERROR] -> ❌ CRITICAL CONFIG SPECIFICATION ERROR: Both GID and Name lookup sweeps completely failed for tab target 'Traces'. Skipping parsing block.
+    2026-08-22 16:13:07,642 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 3/3
+    2026-08-22 16:13:07,644 [WARNING] -> ❌ Problem resolving GID '1919916707' for 'LMGs'. Trying fallback name lookup routing pass...
+    2026-08-22 16:13:07,751 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 1/3
+    2026-08-22 16:13:07,841 [ERROR] -> ❌ CRITICAL CONFIG SPECIFICATION ERROR: Both GID and Name lookup sweeps completely failed for tab target 'HGLs'. Skipping parsing block.
+    2026-08-22 16:13:07,853 [ERROR] -> ❌ CRITICAL CONFIG SPECIFICATION ERROR: Both GID and Name lookup sweeps completely failed for tab target 'LFRs'. Skipping parsing block.
+    2026-08-22 16:13:07,858 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 2/3
+    2026-08-22 16:13:07,958 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 1/3
+    2026-08-22 16:13:07,975 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 1/3
+    2026-08-22 16:13:07,981 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 3/3
+    2026-08-22 16:13:07,983 [WARNING] -> ❌ Problem resolving GID '981030684' for 'Rockets'. Trying fallback name lookup routing pass...
+    2026-08-22 16:13:08,050 [ERROR] -> ❌ CRITICAL CONFIG SPECIFICATION ERROR: Both GID and Name lookup sweeps completely failed for tab target 'LMGs'. Skipping parsing block.
+    2026-08-22 16:13:08,111 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 2/3
+    2026-08-22 16:13:08,154 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 2/3
+    2026-08-22 16:13:08,159 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 1/3
+    2026-08-22 16:13:08,240 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 3/3
+    2026-08-22 16:13:08,241 [WARNING] -> ❌ Problem resolving GID '266663572' for 'Other'. Trying fallback name lookup routing pass...
+    2026-08-22 16:13:08,281 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 2/3
+    2026-08-22 16:13:08,303 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 3/3
+    2026-08-22 16:13:08,304 [WARNING] -> ❌ Problem resolving GID '473850359' for 'Swords'. Trying fallback name lookup routing pass...
+    2026-08-22 16:13:08,358 [ERROR] -> ❌ CRITICAL CONFIG SPECIFICATION ERROR: Both GID and Name lookup sweeps completely failed for tab target 'Rockets'. Skipping parsing block.
+    2026-08-22 16:13:08,417 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 3/3
+    2026-08-22 16:13:08,418 [WARNING] -> ❌ Problem resolving GID '1789798057' for 'Exotic Weapons'. Trying fallback name lookup routing pass...
+    2026-08-22 16:13:08,500 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 1/3
+    2026-08-22 16:13:08,638 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 2/3
+    2026-08-22 16:13:08,648 [ERROR] -> ❌ CRITICAL CONFIG SPECIFICATION ERROR: Both GID and Name lookup sweeps completely failed for tab target 'Other'. Skipping parsing block.
+    2026-08-22 16:13:08,717 [ERROR] -> ❌ CRITICAL CONFIG SPECIFICATION ERROR: Both GID and Name lookup sweeps completely failed for tab target 'Swords'. Skipping parsing block.
+    2026-08-22 16:13:08,790 [WARNING] -> ⚠️ Unexpected HTTP status response code 429 received on attempt 3/3
+    2026-08-22 16:13:08,791 [WARNING] -> ❌ Problem resolving GID '1087089423' for 'Exotic Armor (ignore)'. Trying fallback name lookup routing pass...
+    2026-08-22 16:13:08,799 [ERROR] -> ❌ CRITICAL CONFIG SPECIFICATION ERROR: Both GID and Name lookup sweeps completely failed for tab target 'Exotic Weapons'. Skipping parsing block.
+    2026-08-22 16:13:09,140 [ERROR] -> ❌ CRITICAL CONFIG SPECIFICATION ERROR: Both GID and Name lookup sweeps completely failed for tab target 'Exotic Armor (ignore)'. Skipping parsing block.
+  2026-08-22 16:13:09,141 [INFO] -> ================================================================================
+  2026-08-22 16:13:09,141 [INFO] -> Synchronization check complete. Pipeline gating flags successfully set.
