@@ -2,11 +2,11 @@
   "spreadsheet": {
     "name": "Aegis' Endgame Analysis",
     "changelog": {
-      "date": "2026-04-07",
+      "date": "2026-08-19",
       "patch": "Pantheon 2.0"
     },
     "link": "https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY",
-    "scrape_date": "2026-08-23 00:47:54"
+    "scrape_date": "2026-08-24 00:45:18"
   },
   "workbooks": {
     "Shopping List": {
@@ -165,8 +165,8 @@
           "column1": [],
           "column2": [],
           "perk1": [
+            "Snapshot Sights",
             "Lone Wolf",
-            "Bewildering Burst",
             "Gutshot Straight"
           ],
           "perk2": [
@@ -36410,57 +36410,6 @@
           }
         }
       },
-      "Sola's Scar": {
-        "weapon_name": "Sola's Scar",
-        "version": "",
-        "perks": {
-          "column1": [
-            "Jagged Edge",
-            "Enduring Blade"
-          ],
-          "column2": [
-            "Swordmaster's Guard",
-            "Heavy Guard"
-          ],
-          "perk1": [
-            "Relentless Strikes",
-            "Eager Edge",
-            "Sharp Harvest"
-          ],
-          "perk2": [
-            "Redirection",
-            "Elemental Honing",
-            "Whirlwind Blade"
-          ],
-          "origin_trait": [
-            "Fleet Footed"
-          ]
-        },
-        "info": {
-          "rank": "",
-          "tier": "A",
-          "priority": "",
-          "role": "",
-          "purpose": "",
-          "tags": "",
-          "type": "",
-          "usage": "",
-          "source": "",
-          "notes": "Eager and Redirection on a caster, no AO, standard stuff otherwise",
-          "description": "",
-          "alternatives": "",
-          "analysis": {
-            "roam": "",
-            "dps": "",
-            "day1": "",
-            "chall": "",
-            "speed": "",
-            "effect": "",
-            "flex": "",
-            "power": ""
-          }
-        }
-      },
       "Night Terror": {
         "weapon_name": "Night Terror",
         "version": "",
@@ -36498,6 +36447,57 @@
           "usage": "",
           "source": "",
           "notes": "basically Sola's Scar with slightly different perks and no Redirection",
+          "description": "",
+          "alternatives": "",
+          "analysis": {
+            "roam": "",
+            "dps": "",
+            "day1": "",
+            "chall": "",
+            "speed": "",
+            "effect": "",
+            "flex": "",
+            "power": ""
+          }
+        }
+      },
+      "Sola's Scar": {
+        "weapon_name": "Sola's Scar",
+        "version": "",
+        "perks": {
+          "column1": [
+            "Jagged Edge",
+            "Enduring Blade"
+          ],
+          "column2": [
+            "Swordmaster's Guard",
+            "Heavy Guard"
+          ],
+          "perk1": [
+            "Relentless Strikes",
+            "Eager Edge",
+            "Flash Counter"
+          ],
+          "perk2": [
+            "Elemental Honing",
+            "Whirlwind Blade",
+            "Chain Reaction"
+          ],
+          "origin_trait": [
+            "Fleet Footed"
+          ]
+        },
+        "info": {
+          "rank": "",
+          "tier": "A",
+          "priority": "",
+          "role": "",
+          "purpose": "",
+          "tags": "",
+          "type": "",
+          "usage": "",
+          "source": "",
+          "notes": "also has Redirection but heavy consumes stacks instantly, mostly just a caster roam sword",
           "description": "",
           "alternatives": "",
           "analysis": {
@@ -37785,8 +37785,8 @@
             "Flared Magwell"
           ],
           "perk1": [
+            "Snapshot Sights",
             "Lone Wolf",
-            "Bewildering Burst",
             "Gutshot Straight"
           ],
           "perk2": [

@@ -71,20 +71,20 @@ Heavy Guard",Impact,"Relentless Strikes
 Sharp Harvest","Redirection
 Elemental Honing
 Eager Edge",Advanced Reflexes,"besides Redirection, standard damage perks + adaptive Eager",12,A
-,Sola's Scar,29,Solar,Caster,Trials,,50,60,Yes,"Jagged Edge
-Enduring Blade","Swordmaster's Guard
-Heavy Guard",Impact,"Relentless Strikes
-Eager Edge
-Sharp Harvest","Redirection
-Elemental Honing
-Whirlwind Blade",Fleet Footed,"Eager and Redirection on a caster, no AO, standard stuff otherwise",13,A
 ,Night Terror,29,Arc,Caster,Moon,,20,60,Yes,"Jagged Edge
 Tempered Edge","Swordmaster's Guard
 Heavy Guard",Impact,"Relentless Strikes
 Eager Edge
 Flash Counter","Aggregate Charge
 Elemental Honing
-Gear Shift",Loss,basically Sola's Scar with slightly different perks and no Redirection,14,A
+Gear Shift",Loss,basically Sola's Scar with slightly different perks and no Redirection,13,A
+,Sola's Scar,29,Solar,Caster,Trials,,50,60,Yes,"Jagged Edge
+Enduring Blade","Swordmaster's Guard
+Heavy Guard",Impact,"Relentless Strikes
+Eager Edge
+Flash Counter","Elemental Honing
+Whirlwind Blade
+Chain Reaction",Fleet Footed,"also has Redirection but heavy consumes stacks instantly, mostly just a caster roam sword",14,A
 ,Abyssal Edge,29,Strand,Wave,Xur,,20,60,Yes,"Jagged Edge
 Tempered Edge","Swordmaster's Guard
 Heavy Guard",Impact,"Relentless Strikes
