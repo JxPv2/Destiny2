@@ -6,7 +6,7 @@
       "patch": "Pantheon 2.0"
     },
     "link": "https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY",
-    "scrape_date": "2026-08-24 00:45:18"
+    "scrape_date": "2026-08-25 00:44:40"
   },
   "workbooks": {
     "Shopping List": {
@@ -3401,7 +3401,8 @@
           ],
           "perk2": [
             "Hatchling",
-            "Tear"
+            "Tear",
+            "Attrition Orbs"
           ],
           "origin_trait": [
             "Heretical Behavior"
