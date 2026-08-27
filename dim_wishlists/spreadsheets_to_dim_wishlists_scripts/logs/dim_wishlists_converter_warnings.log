@@ -540,3 +540,6 @@
     2026-08-27 05:57:17,235 [INFO] -> Parsing nested ledger tab: 'Exotic Armor (ignore)'
   2026-08-27 05:57:17,261 [INFO] -> Processing 'aegis_boss-damage_spreadsheet_data_scraped.json' (Reason: wishlist_update_required is set to true)...
     2026-08-27 05:57:17,263 [INFO] -> Parsing nested ledger tab: 'Equipment (WIP)'
+2026-08-27 18:39:27,108 [INFO] -> ================================================================================
+2026-08-27 18:39:27,108 [INFO] -> 🚀 Launching Isolated DIM Wishlist Text Generation Pipeline...
+2026-08-27 18:39:27,108 [INFO] -> ================================================================================
