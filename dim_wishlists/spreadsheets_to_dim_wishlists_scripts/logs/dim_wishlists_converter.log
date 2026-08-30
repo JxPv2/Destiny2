@@ -84862,3 +84862,11 @@
   2026-08-30 02:39:55,856 [INFO] -> Skip Condition Met: File 'aegis_boss-damage_spreadsheet_data_scraped.json' has no update required and wishlist output file already exists. Skipping.
   2026-08-30 02:39:55,856 [INFO] -> Skip Condition Met: File 'aegis_speedrunner_spreadsheet_data_scraped.json' has no update required and wishlist output file already exists. Skipping.
   2026-08-30 02:39:55,856 [INFO] -> Pipeline execution completed. No state changes needed updating.
+2026-08-30 13:26:02,562 [INFO] -> ================================================================================
+2026-08-30 13:26:02,562 [INFO] -> 🚀 Launching Isolated DIM Wishlist Text Generation Pipeline...
+2026-08-30 13:26:02,562 [INFO] -> ================================================================================
+  2026-08-30 13:26:02,562 [INFO] -> Loading processed Bungie manifest database maps into memory...
+  2026-08-30 13:26:02,613 [INFO] -> Skip Condition Met: File 'aegis_endgame_spreadsheet_data_scraped.json' has no update required and wishlist output file already exists. Skipping.
+  2026-08-30 13:26:02,613 [INFO] -> Skip Condition Met: File 'aegis_boss-damage_spreadsheet_data_scraped.json' has no update required and wishlist output file already exists. Skipping.
+  2026-08-30 13:26:02,613 [INFO] -> Skip Condition Met: File 'aegis_speedrunner_spreadsheet_data_scraped.json' has no update required and wishlist output file already exists. Skipping.
+  2026-08-30 13:26:02,614 [INFO] -> Pipeline execution completed. No state changes needed updating.
